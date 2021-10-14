@@ -91,7 +91,21 @@
 
 ### Latest Firebase Devs Youtube videos
 <!-- FIREBASE_YOUTUBE:START -->
-<!-- FIREBASE_YOUTUBE:END -->
+- Thu Oct 14 2021 [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
+- Wed Oct 13 2021 [Introducing Firebase App Check](https://www.youtube.com/watch?v=6nPXQibopYQ)
+- Tue Sep 28 2021 [Firebase Release Notes September ‘21: V9 JS SDK, Apple platforms, Audit Logs for Firestore and more!](https://www.youtube.com/watch?v=FaDPFMTd9MM)
+- Mon Sep 27 2021 [Getting started with Cloud Firestore for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=BjtxPj6jRM8)
+- Wed Sep 15 2021 [Balancing your in-app purchase revenue with ad revenue - Optimize Your App Revenue](https://www.youtube.com/watch?v=ziFk22lSfdA)
+- Thu Sep 09 2021 [Meet an Extension: Shorten URLs](https://www.youtube.com/watch?v=RbEHaiJYueA)
+- Wed Aug 25 2021 [Getting started with Firebase for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=rQvOAnNvcNQ)
+- Tue Aug 24 2021 [Firebase Release Notes August ‘21: Cloud Functions in Asia, FCM delivery metrics on iOS, and more!](https://www.youtube.com/watch?v=2CEdYN9NVnU)
+- Fri Aug 20 2021 [Algolia, Firebase, and Next.js — Let's build a search app | Firebase Semi-Live](https://www.youtube.com/watch?v=ZNVAPpTpKpk)
+- Tue Jul 27 2021 [Firebase Release Notes July ‘21: Cloud Functions clean up, App Check on iOS, and Firestore for games](https://www.youtube.com/watch?v=aHaI0jZ5rwM)
+- Thu Jul 22 2021 [Getting started with analytics on Android #2: User properties and user-scoped custom dimensions](https://www.youtube.com/watch?v=DPWlIhiV2Jw)
+- Mon Jul 19 2021 [The Firebase Realtime Database and Flutter - Firecasts](https://www.youtube.com/watch?v=sXBJZD0fBa4)
+- Thu Jul 15 2021 [To show ads or not to show ads - Optimize Your App Revenue](https://www.youtube.com/watch?v=0VjRPyyLJWw)
+- Mon Jul 12 2021 [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=0CRSMifCSj0)
+- Mon Jul 12 2021 [Personalizing your app in real-time: Powered by Firebase and ML](https://www.youtube.com/watch?v=DKdwHp2coXM)<!-- FIREBASE_YOUTUBE:END -->
 
 ### Latest Material Design Youtube videos
 <!-- MATERIAL_DESIGN_YOUTUBE:START -->
