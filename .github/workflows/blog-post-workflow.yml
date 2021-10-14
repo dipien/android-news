@@ -4,6 +4,9 @@ on:
     # Runs every day
     - cron: '0 15 * * *'
   workflow_dispatch:
+  
+env:
+  TEMPLATE: "$newline- $date - [$title]($url)"
 
 jobs:
   update-readme-with-blog:
@@ -16,7 +19,7 @@ jobs:
           max_post_count: "20"
           comment_tag_name: "ANDROID_DEVS_MEDIUM"
           date_format: "UTC:ddd mmm dd yyyy"
-          template: "$newline- $date [$title]($url)"
+          template: $TEMPLATE
           feed_list: "https://medium.com/feed/androiddevelopers"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
