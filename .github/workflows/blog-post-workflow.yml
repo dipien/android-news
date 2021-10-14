@@ -14,4 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "100"
-          feed_list: "https://medium.com/feed/@androiddevelopers,https://www.youtube.com/feeds/videos.xml?channel_id=AndroidDevelopers,https://android-developers.blogspot.com/atom.xml"
+          date_format: "UTC:ddd mmm dd yyyy"
+          template: "$newline- $date [$title]($url)"
+          feed_list: "https://medium.com/feed/@androiddevelopers,https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg,https://android-developers.blogspot.com/atom.xml"
