@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "100"
+          feed_list: "https://medium.com/feed/@androiddevelopers,https://www.youtube.com/feeds/videos.xml?channel_id=AndroidDevelopers,https://android-developers.blogspot.com/atom.xml"
