@@ -38,7 +38,7 @@
 
 ## Latest Firebase Blog posts
 <!-- FIREBASE_BLOG:START -->
-<!-- FIREBASE_BLOG:END -->
+- Thu Mar 10 2005 [Welcome to FireBase](https://firebase.blogspot.com/2005/03/welcome-to-firebase.html)<!-- FIREBASE_BLOG:END -->
 
 ## Latest Material Design Blog posts
 <!-- MATERIAL_DESIGN_BLOG:START -->
