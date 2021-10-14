@@ -17,7 +17,7 @@ jobs:
           comment_tag_name: "MEDIUM"
           date_format: "UTC:ddd mmm dd yyyy"
           template: "$newline- $date [$title]($url)"
-          feed_list: "https://medium.com/feed/@androiddevelopers"
+          feed_list: "https://medium.com/feed/androiddevelopers"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
