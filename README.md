@@ -128,21 +128,21 @@
 
 ## Latest Material Design Youtube videos
 <!-- MATERIAL_DESIGN_YOUTUBE:START -->
-- Tue Oct 05 2021 [Theater candy and designing for Android | Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A)
-- Thu Sep 30 2021 [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08)
-- Wed Sep 29 2021 [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU)
-- Wed Sep 22 2021 [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU)
-- Mon Sep 20 2021 [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8)
-- Wed Sep 15 2021 [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w)
-- Mon Sep 13 2021 [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk)
-- Fri Sep 10 2021 [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ)
-- Wed Sep 08 2021 [Material Components: Data Tables](https://www.youtube.com/watch?v=t00Ibel1IoI)
-- Wed Sep 01 2021 [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g)
-- Thu Aug 26 2021 [Material Components: Tooltips](https://www.youtube.com/watch?v=o44CcQFfX34)
-- Mon Aug 23 2021 [Material Components: Menu](https://www.youtube.com/watch?v=7s5v-cW9lUY)
-- Thu Aug 19 2021 [Material Components: Sheets: Bottom](https://www.youtube.com/watch?v=v4frprCy5Ho)
-- Wed Aug 18 2021 [App designer? Allow your users to adjust settings with Material’s switches #shorts](https://www.youtube.com/watch?v=sJSlbzKZxKA)
-- Mon Aug 16 2021 [Allow your app’s users to make selections from a range of values with Sliders #shorts](https://www.youtube.com/watch?v=5_v9V8x_Puo)<!-- MATERIAL_DESIGN_YOUTUBE:END -->
+- Oct 05 2021 - [Theater candy and designing for Android | Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A)
+- Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08)
+- Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU)
+- Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU)
+- Sep 20 2021 - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8)
+- Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w)
+- Sep 13 2021 - [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk)
+- Sep 10 2021 - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ)
+- Sep 08 2021 - [Material Components: Data Tables](https://www.youtube.com/watch?v=t00Ibel1IoI)
+- Sep 01 2021 - [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g)
+- Aug 26 2021 - [Material Components: Tooltips](https://www.youtube.com/watch?v=o44CcQFfX34)
+- Aug 23 2021 - [Material Components: Menu](https://www.youtube.com/watch?v=7s5v-cW9lUY)
+- Aug 19 2021 - [Material Components: Sheets: Bottom](https://www.youtube.com/watch?v=v4frprCy5Ho)
+- Aug 18 2021 - [App designer? Allow your users to adjust settings with Material’s switches #shorts](https://www.youtube.com/watch?v=sJSlbzKZxKA)
+- Aug 16 2021 - [Allow your app’s users to make selections from a range of values with Sliders #shorts](https://www.youtube.com/watch?v=5_v9V8x_Puo)<!-- MATERIAL_DESIGN_YOUTUBE:END -->
 
 ## Latest Android Developers Backstage podcasts
 <!-- ANDROID_DEVS_BACKSTAGE:START -->
