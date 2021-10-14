@@ -49,6 +49,13 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
+          comment_tag_name: "MATERIAL_DESIGN_YOUTUBE"
+          date_format: "UTC:ddd mmm dd yyyy"
+          template: "$newline- $date [$title]($url)"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCnSNQb0tLVd8uT7gzI8duA"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "20"
           comment_tag_name: "ANDROID_DEVS_BLOG"
           date_format: "UTC:ddd mmm dd yyyy"
           template: "$newline- $date [$title]($url)"
@@ -67,4 +74,11 @@ jobs:
           date_format: "UTC:ddd mmm dd yyyy"
           template: "$newline- $date [$title]($url)"
           feed_list: "https://material.io/feed.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "20"
+          comment_tag_name: "ANDROID_DEVS_BACKSTAGE"
+          date_format: "UTC:ddd mmm dd yyyy"
+          template: "$newline- $date [$title]($url)"
+          feed_list: "http://adbackstage.googledevelopers.libsynpro.com/rss"
           
