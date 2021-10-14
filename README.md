@@ -1,7 +1,17 @@
 # Android Topics
 
 ## Latest Android Developers Medium posts
-<!-- ANDROID_DEVS_MEDIUM:START -->$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE$TEMPLATE<!-- ANDROID_DEVS_MEDIUM:END -->
+<!-- ANDROID_DEVS_MEDIUM:START -->
+- Wed Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
+- Mon Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
+- Mon Oct 11 2021 - [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1?source=rss----95b274b437c2---4)
+- Thu Oct 07 2021 - [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3?source=rss----95b274b437c2---4)
+- Wed Oct 06 2021 - [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83?source=rss----95b274b437c2---4)
+- Thu Sep 30 2021 - [Mindful architecture: Headspace’s refactor to scale](https://medium.com/androiddevelopers/mindful-architecture-headspaces-refactor-to-scale-7da31df5670e?source=rss----95b274b437c2---4)
+- Fri Sep 24 2021 - [Now in Android #47](https://medium.com/androiddevelopers/now-in-android-47-457f6e7d21?source=rss----95b274b437c2---4)
+- Thu Sep 16 2021 - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
+- Mon Sep 13 2021 - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe?source=rss----95b274b437c2---4)
+- Wed Sep 08 2021 - [MAD Skills series: Hilt under the hood](https://medium.com/androiddevelopers/mad-skills-series-hilt-under-the-hood-9d89ee227059?source=rss----95b274b437c2---4)<!-- ANDROID_DEVS_MEDIUM:END -->
 
 ## Latest Android Developers Blog posts
 <!-- ANDROID_DEVS_BLOG:START -->
