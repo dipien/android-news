@@ -79,16 +79,16 @@
 
 ## Latest Google Play Medium posts
 <!-- GOOGLE_PLAY_MEDIUM:START -->
-- Thu Sep 30 2021 [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4)
-- Wed Sep 22 2021 [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4)
-- Thu Sep 09 2021 [How battle passes can boost engagement and monetization in your game](https://medium.com/googleplaydev/how-battle-passes-can-boost-engagement-and-monetization-in-your-game-d296dee6ddf8?source=rss----1f8baa23933d---4)
-- Sat Jul 24 2021 [Insights into Latin America’s $3.5 Billion Mobile Games Market](https://medium.com/googleplaydev/insights-into-latin-americas-3-5-efda3b6d7917?source=rss----1f8baa23933d---4)
-- Fri Jul 16 2021 [Engaging players and unlocking spend in Spanish speaking Latin America](https://medium.com/googleplaydev/engaging-players-and-unlocking-spend-in-spanish-speaking-latin-america-1cfef4ac08b?source=rss----1f8baa23933d---4)
-- Mon Jun 28 2021 [Increase engagement and distribution using local events and holidays](https://medium.com/googleplaydev/increase-engagement-and-distribution-using-local-events-and-holidays-422d58c0f83e?source=rss----1f8baa23933d---4)
-- Wed Apr 21 2021 [Converting to an in-app purchases led revenue model](https://medium.com/googleplaydev/converting-to-an-in-app-purchases-led-revenue-model-d0ce06f3f839?source=rss----1f8baa23933d---4)
-- Tue Apr 20 2021 [Demystifying Chinese languages in the app world](https://medium.com/googleplaydev/demystifying-chinese-languages-in-the-app-world-b2a4e7dd1276?source=rss----1f8baa23933d---4)
-- Mon Mar 29 2021 [Supercharge your mobile games business with Firebase](https://medium.com/googleplaydev/supercharge-your-mobile-games-business-with-firebase-7ad5d208025d?source=rss----1f8baa23933d---4)
-- Thu Mar 25 2021 [Seamless multi-platform app development with Flutter](https://medium.com/googleplaydev/seamless-multi-platform-app-development-with-flutter-ea0e8003b0f9?source=rss----1f8baa23933d---4)<!-- GOOGLE_PLAY_MEDIUM:END -->
+- Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4)
+- Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4)
+- Sep 09 2021 - [How battle passes can boost engagement and monetization in your game](https://medium.com/googleplaydev/how-battle-passes-can-boost-engagement-and-monetization-in-your-game-d296dee6ddf8?source=rss----1f8baa23933d---4)
+- Jul 24 2021 - [Insights into Latin America’s $3.5 Billion Mobile Games Market](https://medium.com/googleplaydev/insights-into-latin-americas-3-5-efda3b6d7917?source=rss----1f8baa23933d---4)
+- Jul 16 2021 - [Engaging players and unlocking spend in Spanish speaking Latin America](https://medium.com/googleplaydev/engaging-players-and-unlocking-spend-in-spanish-speaking-latin-america-1cfef4ac08b?source=rss----1f8baa23933d---4)
+- Jun 28 2021 - [Increase engagement and distribution using local events and holidays](https://medium.com/googleplaydev/increase-engagement-and-distribution-using-local-events-and-holidays-422d58c0f83e?source=rss----1f8baa23933d---4)
+- Apr 21 2021 - [Converting to an in-app purchases led revenue model](https://medium.com/googleplaydev/converting-to-an-in-app-purchases-led-revenue-model-d0ce06f3f839?source=rss----1f8baa23933d---4)
+- Apr 20 2021 - [Demystifying Chinese languages in the app world](https://medium.com/googleplaydev/demystifying-chinese-languages-in-the-app-world-b2a4e7dd1276?source=rss----1f8baa23933d---4)
+- Mar 29 2021 - [Supercharge your mobile games business with Firebase](https://medium.com/googleplaydev/supercharge-your-mobile-games-business-with-firebase-7ad5d208025d?source=rss----1f8baa23933d---4)
+- Mar 25 2021 - [Seamless multi-platform app development with Flutter](https://medium.com/googleplaydev/seamless-multi-platform-app-development-with-flutter-ea0e8003b0f9?source=rss----1f8baa23933d---4)<!-- GOOGLE_PLAY_MEDIUM:END -->
 
 ## Latest Android Developers Youtube videos
 <!-- ANDROID_YOUTUBE:START -->
