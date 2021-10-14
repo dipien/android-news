@@ -42,26 +42,26 @@
 
 ## Latest Material Design Blog posts
 <!-- MATERIAL_DESIGN_BLOG:START -->
-- Thu Sep 16 2021 [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021)
-- Thu Sep 16 2021 [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement)
-- Thu Sep 16 2021 [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google)
-- Thu Sep 09 2021 [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts)
-- Mon Aug 30 2021 [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques)
-- Wed Jul 07 2021 [Material Design Components for Android 1.4.0](https://material.io/blog/android-stable-release-1-4)
-- Wed May 19 2021 [Start Here: 5 Exercises to Prepare Your App for Large Screens](https://material.io/blog/5-steps-large-screen-apps)
-- Wed May 19 2021 [Introducing the Compose Material Catalog](https://material.io/blog/jetpack-compose-catalog)
-- Tue May 18 2021 [Unveiling Material You](https://material.io/blog/announcing-material-you)
-- Fri May 14 2021 [Introducing Material Design Guidance for Large Screens](https://material.io/blog/material-design-for-large-screens)
-- Thu May 06 2021 [Material Design at Google I/O 2021](https://material.io/blog/material-google-io21)
-- Thu Apr 22 2021 [A Year in the Life of a Material Design Advocate](https://material.io/blog/year-in-the-life-material-design-advocate)
-- Fri Apr 16 2021 [10 Steps to Translate Your iOS Designs for Android](https://material.io/blog/ten-steps-ios-android-design)
-- Thu Mar 11 2021 [Designing Text for the People Who Read It](https://material.io/blog/designing-text-visual-acuity-research)
-- Tue Mar 02 2021 [Google Fonts ❤️ Material Icons](https://material.io/blog/google-fonts-material-icons)
-- Wed Feb 24 2021 [Jetpack Compose: Now in Beta](https://material.io/blog/jetpack-compose-beta)
-- Mon Feb 22 2021 [Building a Dark Theme for Google Fonts](https://material.io/blog/google-fonts-dark-theme)
-- Thu Feb 18 2021 [Material Design Components for Android 1.3.0](https://material.io/blog/android-stable-release-1-3-0)
-- Tue Feb 16 2021 [Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin)
-- Wed Dec 16 2020 [The State of Design Systems: 2020](https://material.io/blog/research-state-of-design-systems-2020)<!-- MATERIAL_DESIGN_BLOG:END -->
+- Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021)
+- Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement)
+- Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google)
+- Sep 09 2021 - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts)
+- Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques)
+- Jul 07 2021 - [Material Design Components for Android 1.4.0](https://material.io/blog/android-stable-release-1-4)
+- May 19 2021 - [Start Here: 5 Exercises to Prepare Your App for Large Screens](https://material.io/blog/5-steps-large-screen-apps)
+- May 19 2021 - [Introducing the Compose Material Catalog](https://material.io/blog/jetpack-compose-catalog)
+- May 18 2021 - [Unveiling Material You](https://material.io/blog/announcing-material-you)
+- May 14 2021 - [Introducing Material Design Guidance for Large Screens](https://material.io/blog/material-design-for-large-screens)
+- May 06 2021 - [Material Design at Google I/O 2021](https://material.io/blog/material-google-io21)
+- Apr 22 2021 - [A Year in the Life of a Material Design Advocate](https://material.io/blog/year-in-the-life-material-design-advocate)
+- Apr 16 2021 - [10 Steps to Translate Your iOS Designs for Android](https://material.io/blog/ten-steps-ios-android-design)
+- Mar 11 2021 - [Designing Text for the People Who Read It](https://material.io/blog/designing-text-visual-acuity-research)
+- Mar 02 2021 - [Google Fonts ❤️ Material Icons](https://material.io/blog/google-fonts-material-icons)
+- Feb 24 2021 - [Jetpack Compose: Now in Beta](https://material.io/blog/jetpack-compose-beta)
+- Feb 22 2021 - [Building a Dark Theme for Google Fonts](https://material.io/blog/google-fonts-dark-theme)
+- Feb 18 2021 - [Material Design Components for Android 1.3.0](https://material.io/blog/android-stable-release-1-3-0)
+- Feb 16 2021 - [Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin)
+- Dec 16 2020 - [The State of Design Systems: 2020](https://material.io/blog/research-state-of-design-systems-2020)<!-- MATERIAL_DESIGN_BLOG:END -->
 
 ## Latest Firebase Devs Medium posts
 <!-- FIREBASE_DEVS_MEDIUM:START -->
