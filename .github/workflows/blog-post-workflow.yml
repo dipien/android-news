@@ -7,7 +7,7 @@ on:
   
 env:
   TEMPLATE: "$newline- $date - [$title]($url)"
-  DATE_FORMAT: "UTC:ddd mmm dd yyyy"
+  DATE_FORMAT: "UTC:mmm dd yyyy"
 
 jobs:
   update-readme-with-blog:
