@@ -55,7 +55,7 @@ jobs:
           comment_tag_name: "MATERIAL_DESIGN_YOUTUBE"
           date_format: "UTC:ddd mmm dd yyyy"
           template: "$newline- $date [$title]($url)"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnSNQb0tLVd8uT7gzI8duA"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
