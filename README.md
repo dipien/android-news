@@ -46,7 +46,16 @@
 
 ### Latest Firebase Devs Medium posts
 <!-- FIREBASE_DEVS_MEDIUM:START -->
-<!-- FIREBASE_DEVS_MEDIUM:END -->
+- Thu Sep 23 2021 [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4)
+- Wed Sep 08 2021 [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4)
+- Fri Aug 20 2021 [Role-Based Access Control in Cloud Firestore](https://medium.com/firebase-developers/role-based-access-in-firebase-firestore-firestore-rules-6d36cded1b15?source=rss----8e8b7dc6774d---4)
+- Wed Aug 11 2021 [Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)
+- Fri Aug 06 2021 [How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)
+- Fri Jul 09 2021 [Control your home using watchOS, Firebase, and SwiftUI](https://medium.com/firebase-developers/building-your-first-iot-apple-watchos-app-using-firebase-and-swiftui-42c202525264?source=rss----8e8b7dc6774d---4)
+- Thu Jun 17 2021 [Remote Config Feature Flagging: A Full Walkthrough](https://medium.com/firebase-developers/remote-config-feature-flagging-a-full-walkthrough-9b2f2188bb47?source=rss----8e8b7dc6774d---4)
+- Mon Jun 07 2021 [Firebase prod/stage/local Setup for iOS Developers](https://medium.com/firebase-developers/firebase-prod-stage-local-setup-for-ios-developers-cbfd230b1446?source=rss----8e8b7dc6774d---4)
+- Mon May 31 2021 [Publish a Production-ready React Native App to Firebase App Distribution Using Fastlane](https://medium.com/firebase-developers/series-publish-a-production-ready-react-native-app-to-firebase-app-distribution-using-fastlane-c68f39eb3d93?source=rss----8e8b7dc6774d---4)
+- Wed May 26 2021 [Getting started with ESP32 and Firebase](https://medium.com/firebase-developers/getting-started-with-esp32-and-firebase-1e7f19f63401?source=rss----8e8b7dc6774d---4)<!-- FIREBASE_DEVS_MEDIUM:END -->
 
 
 ### Latest Google Play Medium posts
