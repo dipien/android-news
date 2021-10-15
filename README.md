@@ -1,4 +1,4 @@
-# Android Developers Blog
+## Android Developers Blog
 <!-- ANDROID_DEVS_BLOG:START -->
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/gYsJxta95NM/compose-for-wear-os-now-in-developer.html)
@@ -22,7 +22,7 @@
 - Aug 11 2021 - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)<!-- ANDROID_DEVS_BLOG:END -->
 - [View more](https://android-developers.googleblog.com/)
 
-# Android Developers - Medium Publication
+## Android Developers - Medium Publication
 <!-- ANDROID_DEVS_MEDIUM:START -->
 - Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
 - Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
@@ -36,7 +36,7 @@
 - Sep 08 2021 - [MAD Skills series: Hilt under the hood](https://medium.com/androiddevelopers/mad-skills-series-hilt-under-the-hood-9d89ee227059?source=rss----95b274b437c2---4)<!-- ANDROID_DEVS_MEDIUM:END -->
 - [View more](https://medium.com/androiddevelopers)
 
-# The Firebase Blog
+## The Firebase Blog
 <!-- FIREBASE_BLOG:START -->
 - Oct 13 2021 - [Protecting your backends with Firebase App Check](http://feedproxy.google.com/~r/FirebaseBlog/~3/Q19ES-PdmvQ/protecting-backends-with-app-check.html)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://feedproxy.google.com/~r/FirebaseBlog/~3/XCJHEipHMHc/FirebaseSummit.html)
@@ -60,7 +60,7 @@
 - Jun 29 2021 - [Building Firebase Quickdraw](http://feedproxy.google.com/~r/FirebaseBlog/~3/s8L-03JJ33U/building-firebase-quickdraw.html)<!-- FIREBASE_BLOG:END -->
 - [View more](https://firebase.googleblog.com/)
 
-# Material Design Blog
+## Material Design Blog
 <!-- MATERIAL_DESIGN_BLOG:START -->
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement)
@@ -84,7 +84,7 @@
 - Dec 16 2020 - [The State of Design Systems: 2020](https://material.io/blog/research-state-of-design-systems-2020)<!-- MATERIAL_DESIGN_BLOG:END -->
 - [View more](https://material.io/blog)
 
-# Firebase Developers - Medium Publication
+## Firebase Developers - Medium Publication
 <!-- FIREBASE_DEVS_MEDIUM:START -->
 - Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4)
 - Sep 08 2021 - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4)
@@ -99,7 +99,7 @@
 - [View more](https://medium.com/firebase-developers)
 
 
-# Google Play - Medium Publication
+## Google Play - Medium Publication
 <!-- GOOGLE_PLAY_MEDIUM:START -->
 - Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4)
 - Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4)
@@ -113,7 +113,7 @@
 - Mar 25 2021 - [Seamless multi-platform app development with Flutter](https://medium.com/googleplaydev/seamless-multi-platform-app-development-with-flutter-ea0e8003b0f9?source=rss----1f8baa23933d---4)<!-- GOOGLE_PLAY_MEDIUM:END -->
 - [View more](https://medium.com/googleplaydev)
 
-# Android Developers - Youtube Channel
+## Android Developers - Youtube Channel
 <!-- ANDROID_YOUTUBE:START -->
 - Oct 11 2021 - [Paging: Fetching data from network - MAD Skills](https://www.youtube.com/watch?v=C0H54K63Lww)
 - Oct 06 2021 - [Now in Android: 48 - Android Dev Summit 2021, Android 12 AOSP launch, MAD Skills Paging, and more!](https://www.youtube.com/watch?v=GSAl8-AkpLU)
@@ -132,7 +132,7 @@
 - Sep 13 2021 - [Hilt extensions - MAD Skills](https://www.youtube.com/watch?v=53higH5LIBs)<!-- ANDROID_YOUTUBE:END -->
 - [View more](https://www.youtube.com/c/AndroidDevelopers/featured)
 
-# Firebase - Youtube Channel
+## Firebase - Youtube Channel
 <!-- FIREBASE_YOUTUBE:START -->
 - Oct 14 2021 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
 - Oct 13 2021 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=6nPXQibopYQ)
@@ -151,7 +151,7 @@
 - Jul 12 2021 - [Personalizing your app in real-time: Powered by Firebase and ML](https://www.youtube.com/watch?v=DKdwHp2coXM)<!-- FIREBASE_YOUTUBE:END -->
 - [View more](https://www.youtube.com/user/Firebase)
 
-# Material Design - Youtube Channel
+## Material Design - Youtube Channel
 <!-- MATERIAL_DESIGN_YOUTUBE:START -->
 - Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08)
@@ -170,7 +170,7 @@
 - Aug 16 2021 - [Allow your app’s users to make selections from a range of values with Sliders #shorts](https://www.youtube.com/watch?v=5_v9V8x_Puo)<!-- MATERIAL_DESIGN_YOUTUBE:END -->
 - [View more](https://www.youtube.com/c/MaterialDesign)
 
-# Android Developers Backstage - Podcasts
+## Android Developers Backstage - Podcasts
 <!-- ANDROID_DEVS_BACKSTAGE:START -->
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui)
 - Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie)
