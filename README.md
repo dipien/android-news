@@ -1,4 +1,4 @@
-# [Android Developers - Medium Publication](https://medium.com/androiddevelopers)
+# Android Developers - Medium Publication
 <!-- ANDROID_DEVS_MEDIUM:START -->
 - Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
 - Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
@@ -10,8 +10,9 @@
 - Sep 16 2021 - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
 - Sep 13 2021 - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe?source=rss----95b274b437c2---4)
 - Sep 08 2021 - [MAD Skills series: Hilt under the hood](https://medium.com/androiddevelopers/mad-skills-series-hilt-under-the-hood-9d89ee227059?source=rss----95b274b437c2---4)<!-- ANDROID_DEVS_MEDIUM:END -->
+- [View more](https://medium.com/androiddevelopers)
 
-## Latest Android Developers Blog posts
+# Android Developers Blog
 <!-- ANDROID_DEVS_BLOG:START -->
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/gYsJxta95NM/compose-for-wear-os-now-in-developer.html)
@@ -33,6 +34,7 @@
 - Aug 16 2021 - [Working Towards Android App Excellence](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IYp8KNoXFfw/working-towards-android-app-excellence.html)
 - Aug 12 2021 - [Join the North America Android Study Jams to learn more about developing quality Android apps](http://feedproxy.google.com/~r/blogspot/hsDu/~3/71EicoXBHMM/join-north-america-android-study-jams-to-learn-more-about-developing-quality-Android-apps.html)
 - Aug 11 2021 - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)<!-- ANDROID_DEVS_BLOG:END -->
+- [View more](https://android-developers.googleblog.com/)
 
 ## Latest Firebase Blog posts
 <!-- FIREBASE_BLOG:START -->
