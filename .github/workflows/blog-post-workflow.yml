@@ -4,13 +4,6 @@ on:
     # Runs every day
     - cron: '0 */1 * * *'
   workflow_dispatch:
-  
-env:
-  TEMPLATE: "$newline- $date - [$title]($url) [$feed]"
-  DATE_FORMAT: "UTC:mmm dd yyyy"
-  COMMITTER_EMAIL: "dipien2020@gmail.com"
-  COMMITTER_USERNAME: "dipien-ci"
-  ITEM_EXEC: "post.title = post.title.replace('|','-');if (post.url.startsWith('https://www.youtube.com')) {  post.feed = 'Youtube' };if (post.url.startsWith('https://medium.com')) {  post.feed = 'Medium' };if (post.url.startsWith('http://feedproxy.google.com')) {  post.feed = 'Blog' };if (post.url.startsWith('http://adbackstage.googledevelopers.libsynpro.com')) {  post.feed = 'Podcast' };if (post.url.startsWith('https://material.io/')) {  post.feed = 'Blog' };"
 
 jobs:
   update-readme-with-blog:
@@ -24,11 +17,17 @@ jobs:
         with:
           max_post_count: "100"
           comment_tag_name: "NEWS"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
+          date_format: "UTC:mmm dd yyyy"
+          template: "$newline- $date - $feed - [$title]($url)"
+          committer_username: ${{ secrets.gitUserName }}
+          committer_email: ${{ secrets.gitUserEmail }}
           feed_list: "https://medium.com/feed/androiddevelopers,https://medium.com/feed/firebase-developers,https://medium.com/feed/googleplaydev,https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg,https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg,https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA,https://android-developers.blogspot.com/atom.xml,https://firebase.googleblog.com/atom.xml,https://material.io/feed.xml,http://adbackstage.googledevelopers.libsynpro.com/rss"
-          item_exec: ${{ env.ITEM_EXEC }}
+          item_exec: |
+                    post.title = post.title.replace('|','-');
+                    if (post.url.startsWith('https://www.youtube.com')) {  post.feed = 'Youtube' };
+                    if (post.url.startsWith('https://medium.com')) {  post.feed = 'Medium' };
+                    if (post.url.startsWith('http://feedproxy.google.com')) {  post.feed = 'Blog' };
+                    if (post.url.startsWith('http://adbackstage.googledevelopers.libsynpro.com')) {  post.feed = 'Podcast' };
+                    if (post.url.startsWith('https://material.io/')) {  post.feed = 'Blog' };"
           custom_tags: "feed/feed/"
           commit_message: "Updated with the latest news"
