@@ -27,6 +27,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://medium.com/feed/androiddevelopers"
+          commit_message: "Updated with the latest Android Developors Medium posts"
       - name: Firebase Developers - Medium Publication
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -37,6 +38,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://medium.com/feed/firebase-developers"
+          commit_message: "Updated with the latest Firebase Developers Medium posts"
       - name: Google Play - Medium Publication
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -47,6 +49,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://medium.com/feed/googleplaydev"
+          commit_message: "Updated with the latest Google Play Medium posts"
       - name: Android Developers - Youtube Channel
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -57,6 +60,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg"
+          commit_message: "Updated with the latest Android Developors Youtube videos"
       - name: Firebase - Youtube Channel
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -67,7 +71,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg"
-          item_exec: post.title = post.title.replace('|','\|');
+          item_exec: "post.title = post.title.replace('|','\\|')"
+          commit_message: "Updated with the latest Firebase Youtube videos"
       - name: Material Design - Youtube Channel
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -78,6 +83,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA"
+          commit_message: "Updated with the latest Material Design Youtube videos"
       - name: Android Developers Blog
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -88,6 +94,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://android-developers.blogspot.com/atom.xml"
+          commit_message: "Updated with the latest Android Developors Blog posts"
       - name: The Firebase Blog
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -98,6 +105,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://firebase.googleblog.com/atom.xml"
+          commit_message: "Updated with the latest Firebase Blog posts"
       - name: Material Design Blog
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -108,6 +116,7 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://material.io/feed.xml"
+          commit_message: "Updated with the latest Material Design Blog posts"
       - name: Android Developers Backstage - Podcasts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -118,4 +127,5 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "http://adbackstage.googledevelopers.libsynpro.com/rss"
+          commit_message: "Updated with the latest Android Developors Backstage podcats"
           
