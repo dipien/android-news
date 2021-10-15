@@ -1,5 +1,6 @@
 # Android News
 <!-- NEWS:START -->
+- Oct 15 2021 - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
 - Oct 14 2021 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
 - Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
@@ -89,7 +90,6 @@
 - Aug 19 2021 - [Material Components: Sheets: Bottom](https://www.youtube.com/watch?v=v4frprCy5Ho)
 - Aug 18 2021 - [App designer? Allow your users to adjust settings with Material’s switches #shorts](https://www.youtube.com/watch?v=sJSlbzKZxKA)
 - Aug 18 2021 - [Meet the Firestore Emulator Requests Monitor](http://feedproxy.google.com/~r/FirebaseBlog/~3/sAyCBD67qRM/firestore-emulator-requests-monitor.html)
-- Aug 16 2021 - [Allow your app’s users to make selections from a range of values with Sliders #shorts](https://www.youtube.com/watch?v=5_v9V8x_Puo)
 - Aug 16 2021 - [Working Towards Android App Excellence](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IYp8KNoXFfw/working-towards-android-app-excellence.html)
 - Aug 13 2021 - [Learn how Vinwap increased revenue by 30% in less than a week](http://feedproxy.google.com/~r/FirebaseBlog/~3/-hGoLx24-Ck/learn-how-vinwap-increased-revenue.html)
 - Aug 12 2021 - [Deep dive into the new Firebase JS SDK design](http://feedproxy.google.com/~r/FirebaseBlog/~3/gfpcldn34og/deep-dive-into-the-new-firebase-js-sdk-design.html)
