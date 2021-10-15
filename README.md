@@ -153,7 +153,7 @@
 
 # Material Design - Youtube Channel
 <!-- MATERIAL_DESIGN_YOUTUBE:START -->
-- Oct 05 2021 - [Theater candy and designing for Android | Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A)
+- Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08)
 - Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU)
 - Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU)
