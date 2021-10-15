@@ -1,17 +1,6 @@
 # Android News
 
-
-| Flag | Code | Region |
-| :-------------: | :-------------: | ------------- |
-| <img src='png/AD@2x.png?raw=true' width='21' height='15'> | AD | Andorra
-| <img src='png/AE@2x.png?raw=true' width='21' height='15'> | AE | United Arab Emirates
-| <img src='png/AF@2x.png?raw=true' width='21' height='15'> | AF | Afghanistan
-| <img src='png/AG@2x.png?raw=true' width='21' height='15'> | AG | Antigua & Barbuda
-| <img src='png/AI@2x.png?raw=true' width='21' height='15'> | AI | Anguilla
-
-| Date | Source | Item |
-| :-------------: | :-------------: | ------------- |
-|Oct 15 2021|Youtube|[Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
+<!-- NEWS:START -->|Oct 15 2021|Youtube|[Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
 |Oct 14 2021|Blog|[Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)|
 |Oct 14 2021|Youtube|[Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)|
 |Oct 13 2021|Medium|[Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)|
@@ -110,7 +99,7 @@
 |Aug 11 2021|Medium|[Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)|
 |Aug 09 2021|Podcast|[Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)|
 |Aug 06 2021|Medium|[How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)|
-|Aug 03 2021|Blog|[New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)|
+|Aug 03 2021|Blog|[New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)|<!-- NEWS:END -->
 
 ## Sources
 
