@@ -1,4 +1,4 @@
-## [Android Developers - Medium Publication](https://medium.com/androiddevelopers)
+# [Android Developers - Medium Publication](https://medium.com/androiddevelopers)
 <!-- ANDROID_DEVS_MEDIUM:START -->
 - Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
 - Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
