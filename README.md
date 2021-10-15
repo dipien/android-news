@@ -1,5 +1,15 @@
 # Android News
-| Date|Source|Item|
+
+
+| Flag | Code | Region |
+| :-------------: | :-------------: | ------------- |
+| <img src='png/AD@2x.png?raw=true' width='21' height='15'> | AD | Andorra
+| <img src='png/AE@2x.png?raw=true' width='21' height='15'> | AE | United Arab Emirates
+| <img src='png/AF@2x.png?raw=true' width='21' height='15'> | AF | Afghanistan
+| <img src='png/AG@2x.png?raw=true' width='21' height='15'> | AG | Antigua & Barbuda
+| <img src='png/AI@2x.png?raw=true' width='21' height='15'> | AI | Anguilla
+
+| Date | Source | Item |
 | :-------------: | :-------------: | ------------- |
 |Oct 15 2021|Youtube|[Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
 |Oct 14 2021|Blog|[Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)|
