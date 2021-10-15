@@ -17,7 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Android Developers - Medium Publication
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "ANDROID_DEVS_MEDIUM"
@@ -26,7 +27,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://medium.com/feed/androiddevelopers"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Firebase Developers - Medium Publication
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "FIREBASE_DEVS_MEDIUM"
@@ -35,7 +37,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://medium.com/feed/firebase-developers"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Google Play - Medium Publication
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "GOOGLE_PLAY_MEDIUM"
@@ -44,7 +47,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://medium.com/feed/googleplaydev"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Android Developers - Youtube Channel
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "ANDROID_YOUTUBE"
@@ -53,7 +57,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Firebase - Youtube Channel
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "FIREBASE_YOUTUBE"
@@ -63,7 +68,8 @@ jobs:
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg"
           item_exec: post.title = post.title.replace('|','\|');
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Material Design - Youtube Channel
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "MATERIAL_DESIGN_YOUTUBE"
@@ -72,7 +78,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Android Developers Blog
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "ANDROID_DEVS_BLOG"
@@ -81,7 +88,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://android-developers.blogspot.com/atom.xml"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: The Firebase Blog
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "FIREBASE_BLOG"
@@ -90,7 +98,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://firebase.googleblog.com/atom.xml"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Material Design Blog
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "MATERIAL_DESIGN_BLOG"
@@ -99,7 +108,8 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://material.io/feed.xml"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Android Developers Backstage - Podcasts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           comment_tag_name: "ANDROID_DEVS_BACKSTAGE"
