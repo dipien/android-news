@@ -1,4 +1,6 @@
 # Android News
+||||
+|-|-|-|
 <!-- NEWS:START -->
 - Oct 15 2021 - Youtube - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
 - Oct 14 2021 - Blog - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
