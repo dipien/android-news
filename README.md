@@ -142,7 +142,7 @@
 - Sep 09 2021 - [Meet an Extension: Shorten URLs](https://www.youtube.com/watch?v=RbEHaiJYueA)
 - Aug 25 2021 - [Getting started with Firebase for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=rQvOAnNvcNQ)
 - Aug 24 2021 - [Firebase Release Notes August ‘21: Cloud Functions in Asia, FCM delivery metrics on iOS, and more!](https://www.youtube.com/watch?v=2CEdYN9NVnU)
-- Aug 20 2021 - [Algolia, Firebase, and Next.js — Let's build a search app   Firebase Semi-Live](https://www.youtube.com/watch?v=ZNVAPpTpKpk)
+- Aug 20 2021 - [Algolia, Firebase, and Next.js — Let's build a search app - Firebase Semi-Live](https://www.youtube.com/watch?v=ZNVAPpTpKpk)
 - Jul 27 2021 - [Firebase Release Notes July ‘21: Cloud Functions clean up, App Check on iOS, and Firestore for games](https://www.youtube.com/watch?v=aHaI0jZ5rwM)
 - Jul 22 2021 - [Getting started with analytics on Android #2: User properties and user-scoped custom dimensions](https://www.youtube.com/watch?v=DPWlIhiV2Jw)
 - Jul 19 2021 - [The Firebase Realtime Database and Flutter - Firecasts](https://www.youtube.com/watch?v=sXBJZD0fBa4)
