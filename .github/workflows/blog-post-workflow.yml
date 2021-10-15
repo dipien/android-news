@@ -70,7 +70,7 @@ jobs:
           comment_tag_name: "FIREBASE_BLOG"
           date_format: ${{ env.DATE_FORMAT }}
           template: ${{ env.TEMPLATE }}
-          feed_list: "https://firebase.blogspot.com/atom.xml"
+          feed_list: "https://firebase.googleblog.com/atom.xml"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
