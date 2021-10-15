@@ -100,3 +100,16 @@
 - Aug 09 2021 - [Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)
 - Aug 06 2021 - [How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)
 - Aug 03 2021 - [New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)<!-- NEWS:END -->
+
+## Sources
+
+* [Android Developers Blog](https://android-developers.googleblog.com/)
+* [Android Developers - Medium Publication](https://medium.com/androiddevelopers)
+* [Android Developers - Youtube Channel](https://www.youtube.com/c/AndroidDevelopers/featured)
+* [Android Developers Backstage - Podcasts](https://adbackstage.libsyn.com/)
+* [The Firebase Blog](https://firebase.googleblog.com/)
+* [Firebase Developers - Medium Publication](https://medium.com/firebase-developers)
+* [Firebase - Youtube Channel](https://www.youtube.com/user/Firebase)
+* [Material Design Blog](https://material.io/blog)
+* [Material Design - Youtube Channel](https://www.youtube.com/c/MaterialDesign)
+* [Google Play - Medium Publication](https://medium.com/googleplaydev)
