@@ -19,7 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Android Developers - Medium Publication
-        uses: gautamkrishnar/blog-post-workflow@master
+        # gautamkrishnar/blog-post-workflow
+        uses: gautamkrishnar/blog-post-workflow@1.5.7
         with:
           max_post_count: "20"
           comment_tag_name: "ANDROID_DEVS_MEDIUM"
