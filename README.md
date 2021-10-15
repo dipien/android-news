@@ -100,7 +100,7 @@
 |Aug 11 2021|Medium|[Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)|
 |Aug 09 2021|Podcast|[Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)|
 |Aug 06 2021|Medium|[How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)|
-|Aug 03 2021|Blog|[New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)|<!-- NEWS:END -->
+|Aug 03 2021|Blog|[New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)|
 
 ## Sources
 
