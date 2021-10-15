@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
   
 env:
-  TEMPLATE: "$newline- $date - $feed - [$title]($url)"
+  TEMPLATE: "$newline- $date - [$title]($url) [$feed]"
   DATE_FORMAT: "UTC:mmm dd yyyy"
   COMMITTER_EMAIL: "dipien2020@gmail.com"
   COMMITTER_USERNAME: "dipien-ci"
-  ITEM_EXEC: "post.title = post.title.replace('|','-');if (post.url.startsWith('https://www.youtube.com')) {  post.feed = 'Youtube' };"
+  ITEM_EXEC: "post.title = post.title.replace('|','-');if (post.url.startsWith('https://www.youtube.com')) {  post.feed = 'Youtube' };if (post.url.startsWith('https://medium.com')) {  post.feed = 'Medium' };if (post.url.startsWith('http://feedproxy.google.com')) {  post.feed = 'Blog' };if (post.url.startsWith('http://adbackstage.googledevelopers.libsynpro.com')) {  post.feed = 'Podcast' };"
 
 jobs:
   update-readme-with-blog:
