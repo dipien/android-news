@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: News
-        # gautamkrishnar/blog-post-workflow
+        # https://github.com/gautamkrishnar/blog-post-workflow
         uses: gautamkrishnar/blog-post-workflow@1.5.7
         with:
           max_post_count: "100"
