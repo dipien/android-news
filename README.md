@@ -38,7 +38,26 @@
 
 # The Firebase Blog
 <!-- FIREBASE_BLOG:START -->
-- Mar 10 2005 - [Welcome to FireBase](https://firebase.blogspot.com/2005/03/welcome-to-firebase.html)<!-- FIREBASE_BLOG:END -->
+- Oct 13 2021 - [Protecting your backends with Firebase App Check](http://feedproxy.google.com/~r/FirebaseBlog/~3/Q19ES-PdmvQ/protecting-backends-with-app-check.html)
+- Oct 05 2021 - [Register now for Firebase Summit 2021](http://feedproxy.google.com/~r/FirebaseBlog/~3/XCJHEipHMHc/FirebaseSummit.html)
+- Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://feedproxy.google.com/~r/FirebaseBlog/~3/xLhaCJzRM0k/analytics-labels-app-messaging-campaigns.html)
+- Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://feedproxy.google.com/~r/FirebaseBlog/~3/hCR1gjtsaNY/uploading-dSYM-files-to-crashlytics-with-fastlane.html)
+- Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://feedproxy.google.com/~r/FirebaseBlog/~3/re0EVo9BEto/converting-firestore-fieldvalue-and-variant.html)
+- Sep 10 2021 - [Improvements to Crashlytics for Game Developers](http://feedproxy.google.com/~r/FirebaseBlog/~3/rd96molau4U/improvements-to-crashlytics-for-game-developers.html)
+- Aug 27 2021 - [Firebase SDK for Apple now fully supports Swift Package Manager](http://feedproxy.google.com/~r/FirebaseBlog/~3/7G83oiAmW3w/firebase-swift-package-manager.html)
+- Aug 25 2021 - [The new Firebase JS SDK is now GA](http://feedproxy.google.com/~r/FirebaseBlog/~3/8gQlvXJvqP0/the-new-firebase-js-sdk-now-ga.html)
+- Aug 18 2021 - [Meet the Firestore Emulator Requests Monitor](http://feedproxy.google.com/~r/FirebaseBlog/~3/sAyCBD67qRM/firestore-emulator-requests-monitor.html)
+- Aug 13 2021 - [Learn how Vinwap increased revenue by 30% in less than a week](http://feedproxy.google.com/~r/FirebaseBlog/~3/-hGoLx24-Ck/learn-how-vinwap-increased-revenue.html)
+- Aug 12 2021 - [Deep dive into the new Firebase JS SDK design](http://feedproxy.google.com/~r/FirebaseBlog/~3/gfpcldn34og/deep-dive-into-the-new-firebase-js-sdk-design.html)
+- Aug 03 2021 - [New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)
+- Aug 02 2021 - [Unlocking your app’s best experience with Firebase Performance Monitoring](http://feedproxy.google.com/~r/FirebaseBlog/~3/bq1Jx4zU18k/unlocking-your-apps-best-experience.html)
+- Jul 28 2021 - [See how CrazyLabs uses Firebase Remote Config to optimize apps at scale](http://feedproxy.google.com/~r/FirebaseBlog/~3/ytzDqVY7S6g/see-how-crazylabs-uses-firebase-remote-config-to-optimize-apps-at-scale.html)
+- Jul 27 2021 - [Introducing the new Firebase JS SDK](http://feedproxy.google.com/~r/FirebaseBlog/~3/gLGrLy8QKCk/introducing-the-new-firebase-js-sdk.html)
+- Jul 26 2021 - [Unlocking the next level of app stability with Firebase Crashlytics](http://feedproxy.google.com/~r/FirebaseBlog/~3/3YadxusXtvE/unlocking-next-level-of-app-stability-with-firebase-crashlytics.html)
+- Jul 22 2021 - [The Firebase guide to building stable, high-performing apps](http://feedproxy.google.com/~r/FirebaseBlog/~3/yzp6eYyvstw/the-firebase-guide-to-building-stable-high-performing-apps.html)
+- Jul 08 2021 - [Optimize your app using the Firebase Android SDK and Android App Bundles](http://feedproxy.google.com/~r/FirebaseBlog/~3/rGQ8iixvkfs/android-sdk-feature-modules.html)
+- Jul 02 2021 - [The Cloud Storage for Firebase Emulator: The Final Piece of the Puzzle](http://feedproxy.google.com/~r/FirebaseBlog/~3/KFCF7X3b0NE/the-cloud-storage-for-firebase-emulator.html)
+- Jun 29 2021 - [Building Firebase Quickdraw](http://feedproxy.google.com/~r/FirebaseBlog/~3/s8L-03JJ33U/building-firebase-quickdraw.html)<!-- FIREBASE_BLOG:END -->
 - [View more](https://firebase.googleblog.com/)
 
 # Material Design Blog
