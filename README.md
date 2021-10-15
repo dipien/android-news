@@ -1,17 +1,3 @@
-# Android Developers - Medium Publication
-<!-- ANDROID_DEVS_MEDIUM:START -->
-- Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
-- Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
-- Oct 11 2021 - [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1?source=rss----95b274b437c2---4)
-- Oct 07 2021 - [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3?source=rss----95b274b437c2---4)
-- Oct 06 2021 - [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83?source=rss----95b274b437c2---4)
-- Sep 30 2021 - [Mindful architecture: Headspace’s refactor to scale](https://medium.com/androiddevelopers/mindful-architecture-headspaces-refactor-to-scale-7da31df5670e?source=rss----95b274b437c2---4)
-- Sep 24 2021 - [Now in Android #47](https://medium.com/androiddevelopers/now-in-android-47-457f6e7d21?source=rss----95b274b437c2---4)
-- Sep 16 2021 - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
-- Sep 13 2021 - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe?source=rss----95b274b437c2---4)
-- Sep 08 2021 - [MAD Skills series: Hilt under the hood](https://medium.com/androiddevelopers/mad-skills-series-hilt-under-the-hood-9d89ee227059?source=rss----95b274b437c2---4)<!-- ANDROID_DEVS_MEDIUM:END -->
-- [View more](https://medium.com/androiddevelopers)
-
 # Android Developers Blog
 <!-- ANDROID_DEVS_BLOG:START -->
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
@@ -36,12 +22,26 @@
 - Aug 11 2021 - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)<!-- ANDROID_DEVS_BLOG:END -->
 - [View more](https://android-developers.googleblog.com/)
 
-## The Firebase Blog
+# Android Developers - Medium Publication
+<!-- ANDROID_DEVS_MEDIUM:START -->
+- Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
+- Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
+- Oct 11 2021 - [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1?source=rss----95b274b437c2---4)
+- Oct 07 2021 - [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3?source=rss----95b274b437c2---4)
+- Oct 06 2021 - [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83?source=rss----95b274b437c2---4)
+- Sep 30 2021 - [Mindful architecture: Headspace’s refactor to scale](https://medium.com/androiddevelopers/mindful-architecture-headspaces-refactor-to-scale-7da31df5670e?source=rss----95b274b437c2---4)
+- Sep 24 2021 - [Now in Android #47](https://medium.com/androiddevelopers/now-in-android-47-457f6e7d21?source=rss----95b274b437c2---4)
+- Sep 16 2021 - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
+- Sep 13 2021 - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe?source=rss----95b274b437c2---4)
+- Sep 08 2021 - [MAD Skills series: Hilt under the hood](https://medium.com/androiddevelopers/mad-skills-series-hilt-under-the-hood-9d89ee227059?source=rss----95b274b437c2---4)<!-- ANDROID_DEVS_MEDIUM:END -->
+- [View more](https://medium.com/androiddevelopers)
+
+# The Firebase Blog
 <!-- FIREBASE_BLOG:START -->
 - Mar 10 2005 - [Welcome to FireBase](https://firebase.blogspot.com/2005/03/welcome-to-firebase.html)<!-- FIREBASE_BLOG:END -->
 - [View more](https://firebase.googleblog.com/)
 
-## Material Design Blog
+# Material Design Blog
 <!-- MATERIAL_DESIGN_BLOG:START -->
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement)
@@ -65,7 +65,7 @@
 - Dec 16 2020 - [The State of Design Systems: 2020](https://material.io/blog/research-state-of-design-systems-2020)<!-- MATERIAL_DESIGN_BLOG:END -->
 - [View more](https://material.io/blog)
 
-## Latest Firebase Devs Medium posts
+# Firebase Developers - Medium Publication
 <!-- FIREBASE_DEVS_MEDIUM:START -->
 - Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4)
 - Sep 08 2021 - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4)
@@ -77,9 +77,10 @@
 - Jun 07 2021 - [Firebase prod/stage/local Setup for iOS Developers](https://medium.com/firebase-developers/firebase-prod-stage-local-setup-for-ios-developers-cbfd230b1446?source=rss----8e8b7dc6774d---4)
 - May 31 2021 - [Publish a Production-ready React Native App to Firebase App Distribution Using Fastlane](https://medium.com/firebase-developers/series-publish-a-production-ready-react-native-app-to-firebase-app-distribution-using-fastlane-c68f39eb3d93?source=rss----8e8b7dc6774d---4)
 - May 26 2021 - [Getting started with ESP32 and Firebase](https://medium.com/firebase-developers/getting-started-with-esp32-and-firebase-1e7f19f63401?source=rss----8e8b7dc6774d---4)<!-- FIREBASE_DEVS_MEDIUM:END -->
+- [View more](https://medium.com/firebase-developers)
 
 
-## Latest Google Play Medium posts
+# Google Play - Medium Publication
 <!-- GOOGLE_PLAY_MEDIUM:START -->
 - Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4)
 - Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4)
@@ -91,8 +92,9 @@
 - Apr 20 2021 - [Demystifying Chinese languages in the app world](https://medium.com/googleplaydev/demystifying-chinese-languages-in-the-app-world-b2a4e7dd1276?source=rss----1f8baa23933d---4)
 - Mar 29 2021 - [Supercharge your mobile games business with Firebase](https://medium.com/googleplaydev/supercharge-your-mobile-games-business-with-firebase-7ad5d208025d?source=rss----1f8baa23933d---4)
 - Mar 25 2021 - [Seamless multi-platform app development with Flutter](https://medium.com/googleplaydev/seamless-multi-platform-app-development-with-flutter-ea0e8003b0f9?source=rss----1f8baa23933d---4)<!-- GOOGLE_PLAY_MEDIUM:END -->
+- [View more](https://medium.com/googleplaydev)
 
-## Latest Android Developers Youtube videos
+# Android Developers - Youtube Channel
 <!-- ANDROID_YOUTUBE:START -->
 - Oct 11 2021 - [Paging: Fetching data from network - MAD Skills](https://www.youtube.com/watch?v=C0H54K63Lww)
 - Oct 06 2021 - [Now in Android: 48 - Android Dev Summit 2021, Android 12 AOSP launch, MAD Skills Paging, and more!](https://www.youtube.com/watch?v=GSAl8-AkpLU)
@@ -109,8 +111,9 @@
 - Sep 20 2021 - [Migrating from Dagger to Hilt - MAD Skills](https://www.youtube.com/watch?v=Xt1_3Nq4lD0)
 - Sep 17 2021 - [EditTexts - Accessibility on Android](https://www.youtube.com/watch?v=Pjzjs3kB0JA)
 - Sep 13 2021 - [Hilt extensions - MAD Skills](https://www.youtube.com/watch?v=53higH5LIBs)<!-- ANDROID_YOUTUBE:END -->
+- [View more](https://www.youtube.com/c/AndroidDevelopers/featured)
 
-## Latest Firebase Devs Youtube videos
+# Firebase - Youtube Channel
 <!-- FIREBASE_YOUTUBE:START -->
 - Oct 14 2021 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
 - Oct 13 2021 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=6nPXQibopYQ)
@@ -127,8 +130,9 @@
 - Jul 15 2021 - [To show ads or not to show ads - Optimize Your App Revenue](https://www.youtube.com/watch?v=0VjRPyyLJWw)
 - Jul 12 2021 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=0CRSMifCSj0)
 - Jul 12 2021 - [Personalizing your app in real-time: Powered by Firebase and ML](https://www.youtube.com/watch?v=DKdwHp2coXM)<!-- FIREBASE_YOUTUBE:END -->
+- [View more](https://www.youtube.com/user/Firebase)
 
-## Latest Material Design Youtube videos
+# Material Design - Youtube Channel
 <!-- MATERIAL_DESIGN_YOUTUBE:START -->
 - Oct 05 2021 - [Theater candy and designing for Android \| Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08)
@@ -145,8 +149,9 @@
 - Aug 19 2021 - [Material Components: Sheets: Bottom](https://www.youtube.com/watch?v=v4frprCy5Ho)
 - Aug 18 2021 - [App designer? Allow your users to adjust settings with Material’s switches #shorts](https://www.youtube.com/watch?v=sJSlbzKZxKA)
 - Aug 16 2021 - [Allow your app’s users to make selections from a range of values with Sliders #shorts](https://www.youtube.com/watch?v=5_v9V8x_Puo)<!-- MATERIAL_DESIGN_YOUTUBE:END -->
+- [View more](https://www.youtube.com/c/MaterialDesign)
 
-## Latest Android Developers Backstage podcasts
+# Android Developers Backstage - Podcasts
 <!-- ANDROID_DEVS_BACKSTAGE:START -->
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui)
 - Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie)
@@ -168,5 +173,5 @@
 - Mar 24 2021 - [Episode 159: Interview with Chris Lacy](http://adbackstage.googledevelopers.libsynpro.com/episode-159-interview-with-chris-lacy)
 - Mar 15 2021 - [Episode 158: Jetpack Compose... C'est bêta !](https://traffic.libsyn.com/secure/adbackstage/ADB2015820Jetpack20Compose20Beta.mp3)
 - Mar 03 2021 - [Episode 157: Audio feedback](https://traffic.libsyn.com/secure/adbackstage/ADB2015720Audio20feedback.mp3)<!-- ANDROID_DEVS_BACKSTAGE:END -->
-
+- [View more](https://adbackstage.libsyn.com/)
 
