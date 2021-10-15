@@ -73,7 +73,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg"
           item_exec: |
                     console.log(post.title);
-                    post.title = post.title.replace('|','\|');
+                    post.title = post.title.replace('|',' ');
                     console.log(post.title);
           
           commit_message: "Updated with the latest Firebase Youtube videos"
