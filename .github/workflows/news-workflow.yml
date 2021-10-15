@@ -28,6 +28,6 @@ jobs:
                     if (post.url.startsWith('https://medium.com')) {  post.feed = 'Medium' };
                     if (post.url.startsWith('http://feedproxy.google.com')) {  post.feed = 'Blog' };
                     if (post.url.startsWith('http://adbackstage.googledevelopers.libsynpro.com')) {  post.feed = 'Podcast' };
-                    if (post.url.startsWith('https://material.io/')) {  post.feed = 'Blog' };"
+                    if (post.url.startsWith('https://material.io/')) {  post.feed = 'Blog' };
           custom_tags: "feed/feed/"
           commit_message: "Updated with the latest news"
