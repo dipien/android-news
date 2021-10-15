@@ -36,11 +36,12 @@
 - Aug 11 2021 - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)<!-- ANDROID_DEVS_BLOG:END -->
 - [View more](https://android-developers.googleblog.com/)
 
-## Latest Firebase Blog posts
+## The Firebase Blog
 <!-- FIREBASE_BLOG:START -->
 - Mar 10 2005 - [Welcome to FireBase](https://firebase.blogspot.com/2005/03/welcome-to-firebase.html)<!-- FIREBASE_BLOG:END -->
+- [View more](https://firebase.googleblog.com/)
 
-## Latest Material Design Blog posts
+## Material Design Blog
 <!-- MATERIAL_DESIGN_BLOG:START -->
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement)
@@ -62,6 +63,7 @@
 - Feb 18 2021 - [Material Design Components for Android 1.3.0](https://material.io/blog/android-stable-release-1-3-0)
 - Feb 16 2021 - [Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin)
 - Dec 16 2020 - [The State of Design Systems: 2020](https://material.io/blog/research-state-of-design-systems-2020)<!-- MATERIAL_DESIGN_BLOG:END -->
+- [View more](https://material.io/blog)
 
 ## Latest Firebase Devs Medium posts
 <!-- FIREBASE_DEVS_MEDIUM:START -->
