@@ -31,3 +31,4 @@ jobs:
           feed_list: "https://medium.com/feed/androiddevelopers,https://medium.com/feed/firebase-developers,https://medium.com/feed/googleplaydev,https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg,https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg,https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA,https://android-developers.blogspot.com/atom.xml,https://firebase.googleblog.com/atom.xml,https://material.io/feed.xml,http://adbackstage.googledevelopers.libsynpro.com/rss"
           item_exec: ${{ env.ITEM_EXEC }}
           commit_message: "Updated with the latest news"
+          output_only: true
