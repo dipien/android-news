@@ -10,7 +10,7 @@ env:
   DATE_FORMAT: "UTC:mmm dd yyyy"
   COMMITTER_EMAIL: "dipien2020@gmail.com"
   COMMITTER_USERNAME: "dipien-ci"
-  ITEM_EXEC: "post.title = post.title.replace('|',' ');"
+  ITEM_EXEC: "post.title = post.title.replace('|','-');"
 
 jobs:
   update-readme-with-blog:
