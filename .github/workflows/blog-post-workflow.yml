@@ -18,125 +18,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Android Developers - Medium Publication
+      - name: News
         # gautamkrishnar/blog-post-workflow
         uses: gautamkrishnar/blog-post-workflow@1.5.7
         with:
-          max_post_count: "20"
-          comment_tag_name: "ANDROID_DEVS_MEDIUM"
+          max_post_count: "100"
+          comment_tag_name: "NEWS"
           date_format: ${{ env.DATE_FORMAT }}
           template: ${{ env.TEMPLATE }}
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://medium.com/feed/androiddevelopers"
+          feed_list: "https://medium.com/feed/androiddevelopers,https://medium.com/feed/firebase-developers,https://medium.com/feed/googleplaydev,https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg,https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg,https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA,https://android-developers.blogspot.com/atom.xml,https://firebase.googleblog.com/atom.xml,https://material.io/feed.xml,http://adbackstage.googledevelopers.libsynpro.com/rss"
           item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Android Developors Medium posts"
-      - name: Firebase Developers - Medium Publication
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "FIREBASE_DEVS_MEDIUM"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://medium.com/feed/firebase-developers"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Firebase Developers Medium posts"
-      - name: Google Play - Medium Publication
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "GOOGLE_PLAY_MEDIUM"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://medium.com/feed/googleplaydev"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Google Play Medium posts"
-      - name: Android Developers - Youtube Channel
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "ANDROID_YOUTUBE"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVHFbqXqoYvEWM1Ddxl0QDg"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Android Developors Youtube videos"
-      - name: Firebase - Youtube Channel
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "FIREBASE_YOUTUBE"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Firebase Youtube videos"
-      - name: Material Design - Youtube Channel
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "MATERIAL_DESIGN_YOUTUBE"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcnSNQb0tLVd8uT7gzI8duA"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Material Design Youtube videos"
-      - name: Android Developers Blog
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "ANDROID_DEVS_BLOG"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://android-developers.blogspot.com/atom.xml"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Android Developors Blog posts"
-      - name: The Firebase Blog
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "FIREBASE_BLOG"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://firebase.googleblog.com/atom.xml"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Firebase Blog posts"
-      - name: Material Design Blog
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "MATERIAL_DESIGN_BLOG"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "https://material.io/feed.xml"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Material Design Blog posts"
-      - name: Android Developers Backstage - Podcasts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "20"
-          comment_tag_name: "ANDROID_DEVS_BACKSTAGE"
-          date_format: ${{ env.DATE_FORMAT }}
-          template: ${{ env.TEMPLATE }}
-          committer_username: ${{ env.COMMITTER_USERNAME }}
-          committer_email: ${{ env.COMMITTER_EMAIL }}
-          feed_list: "http://adbackstage.googledevelopers.libsynpro.com/rss"
-          item_exec: ${{ env.ITEM_EXEC }}
-          commit_message: "Updated with the latest Android Developors Backstage podcats"
-          
+          commit_message: "Updated with the latest news"
