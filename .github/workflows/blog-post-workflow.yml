@@ -71,7 +71,11 @@ jobs:
           committer_username: ${{ env.COMMITTER_USERNAME }}
           committer_email: ${{ env.COMMITTER_EMAIL }}
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4bf6IHJJQehibu6ai__cg"
-          item_exec: "post.title = post.title.replace('|','\\|')"
+          item_exec: |
+                    console.log("post.title");
+                    post.title = post.title.replace('|','\|');
+                    console.log("post.title");
+          
           commit_message: "Updated with the latest Firebase Youtube videos"
       - name: Material Design - Youtube Channel
         uses: gautamkrishnar/blog-post-workflow@master
