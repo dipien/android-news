@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 16 2021 - Youtube - [Touch targets - Accessibility on Android](https://www.youtube.com/watch?v=Dqqbe8IFBA4)
 - Oct 15 2021 - Youtube - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
 - Oct 14 2021 - Blog - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
 - Oct 14 2021 - Youtube - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
@@ -59,7 +60,6 @@
 - Sep 15 2021 - Youtube - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w)
 - Sep 14 2021 - Podcast - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie)
 - Sep 13 2021 - Medium - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe?source=rss----95b274b437c2---4)
-- Sep 13 2021 - Youtube - [Hilt extensions - MAD Skills](https://www.youtube.com/watch?v=53higH5LIBs)
 - Sep 13 2021 - Youtube - [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk)
 - Sep 10 2021 - Blog - [Improvements to Crashlytics for Game Developers](http://feedproxy.google.com/~r/FirebaseBlog/~3/rd96molau4U/improvements-to-crashlytics-for-game-developers.html)
 - Sep 10 2021 - Youtube - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ)
