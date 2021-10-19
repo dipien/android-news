@@ -1,12 +1,16 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 18 2021 - Medium - [Room & Kotlin Symbol Processing](https://medium.com/androiddevelopers/room-kotlin-symbol-processing-24808528a28e?source=rss----95b274b437c2---4)
+- Oct 18 2021 - Youtube - [Paging: Displaying data and its loading state - MAD Skills](https://www.youtube.com/watch?v=OHH_FPbrjtA)
+- Oct 18 2021 - Podcast - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon)
+- Oct 18 2021 - Youtube - [Introducing the new Data safety section in Play Console](https://www.youtube.com/watch?v=pNAS_0IcHtM)
+- Oct 18 2021 - Blog - [Launching Data safety in Play Console: Elevating Privacy and Security for your users](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Tuw5WeSrRWw/launching-data-safety-in-play-console.html)
 - Oct 16 2021 - Youtube - [Touch targets - Accessibility on Android](https://www.youtube.com/watch?v=Dqqbe8IFBA4)
 - Oct 15 2021 - Youtube - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM)
 - Oct 14 2021 - Blog - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html)
 - Oct 14 2021 - Youtube - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
 - Oct 13 2021 - Medium - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4)
-- Oct 13 2021 - Youtube - [Introducing Firebase App Check](https://www.youtube.com/watch?v=6nPXQibopYQ)
 - Oct 13 2021 - Blog - [Protecting your backends with Firebase App Check](http://feedproxy.google.com/~r/FirebaseBlog/~3/Q19ES-PdmvQ/protecting-backends-with-app-check.html)
 - Oct 12 2021 - Blog - [Compose for Wear OS now in Developer Preview!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/gYsJxta95NM/compose-for-wear-os-now-in-developer.html)
 - Oct 11 2021 - Medium - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4)
@@ -47,8 +51,6 @@
 - Sep 21 2021 - Youtube - [Introducing Frame Profiling in AGI - Android Game Dev Show](https://www.youtube.com/watch?v=JPd5gc0mSps)
 - Sep 20 2021 - Youtube - [Answering your top questions on AGDK](https://www.youtube.com/watch?v=pqQby4b35aM)
 - Sep 20 2021 - Youtube - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8)
-- Sep 20 2021 - Youtube - [Migrating from Dagger to Hilt - MAD Skills](https://www.youtube.com/watch?v=Xt1_3Nq4lD0)
-- Sep 17 2021 - Youtube - [EditTexts - Accessibility on Android](https://www.youtube.com/watch?v=Pjzjs3kB0JA)
 - Sep 17 2021 - Blog - [Making permissions auto-reset available to billions more devices](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Ag2YKXjLKIY/making-permissions-auto-reset-available.html)
 - Sep 16 2021 - Medium - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
 - Sep 16 2021 - Blog - [App performance to drive app excellence](http://feedproxy.google.com/~r/blogspot/hsDu/~3/9ZFoVuRx7lc/app-performance-to-drive-app-excellence.html)
@@ -68,7 +70,6 @@
 - Sep 09 2021 - Podcast - [Episode 174: Compose tooling](http://adbackstage.googledevelopers.libsynpro.com/episode-174-compose-tooling)
 - Sep 09 2021 - Blog - [Bringing richer navigation, charging, parking apps to more Android Auto users](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Yo1Rddxq71Y/bringing-richer-navigation-charging.html)
 - Sep 09 2021 - Blog - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts)
-- Sep 08 2021 - Medium - [MAD Skills series: Hilt under the hood](https://medium.com/androiddevelopers/mad-skills-series-hilt-under-the-hood-9d89ee227059?source=rss----95b274b437c2---4)
 - Sep 08 2021 - Blog - [Android 12 Beta 5 update, official release is next!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/6_hBUxx3aTE/android12beta5.html)
 - Sep 08 2021 - Youtube - [Material Components: Data Tables](https://www.youtube.com/watch?v=t00Ibel1IoI)
 - Sep 08 2021 - Medium - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4)
@@ -99,8 +100,7 @@
 - Aug 11 2021 - Blog - [Sharing Tiles with your smartwatch users:](http://feedproxy.google.com/~r/blogspot/hsDu/~3/uxaRsQW4zTI/sharing-tiles-with-your-smartwatch-users.html)
 - Aug 11 2021 - Medium - [Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)
 - Aug 09 2021 - Podcast - [Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)
-- Aug 06 2021 - Medium - [How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)
-- Aug 03 2021 - Blog - [New features in App Check beta](http://feedproxy.google.com/~r/FirebaseBlog/~3/R-JAqO1Yjyc/new-features-in-app-check-beta.html)<!-- NEWS:END -->
+- Aug 06 2021 - Medium - [How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)<!-- NEWS:END -->
 
 ## Sources
 
