@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 20 2021 - Blog - [Pinpointing API performance issues with Custom URL Patterns](http://feedproxy.google.com/~r/FirebaseBlog/~3/4H0S0EJ3fy8/performance-analysis-with-custom-url-patterns.html)
 - Oct 18 2021 - Medium - [Room & Kotlin Symbol Processing](https://medium.com/androiddevelopers/room-kotlin-symbol-processing-24808528a28e?source=rss----95b274b437c2---4)
 - Oct 18 2021 - Youtube - [Paging: Displaying data and its loading state - MAD Skills](https://www.youtube.com/watch?v=OHH_FPbrjtA)
 - Oct 18 2021 - Podcast - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon)
@@ -99,8 +100,7 @@
 - Aug 11 2021 - Blog - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)
 - Aug 11 2021 - Blog - [Sharing Tiles with your smartwatch users:](http://feedproxy.google.com/~r/blogspot/hsDu/~3/uxaRsQW4zTI/sharing-tiles-with-your-smartwatch-users.html)
 - Aug 11 2021 - Medium - [Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)
-- Aug 09 2021 - Podcast - [Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)
-- Aug 06 2021 - Medium - [How to query collections in Firestore under a certain path?](https://medium.com/firebase-developers/how-to-query-collections-in-firestore-under-a-certain-path-6a0d686cebd2?source=rss----8e8b7dc6774d---4)<!-- NEWS:END -->
+- Aug 09 2021 - Podcast - [Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)<!-- NEWS:END -->
 
 ## Sources
 
