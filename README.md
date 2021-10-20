@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 20 2021 - Youtube - [Now in Android: 49 - Android Dev Summit, Android Basics, Compose for Wear OS, and more!](https://www.youtube.com/watch?v=ETwWJy9lEQU)
 - Oct 20 2021 - Blog - [Pinpointing API performance issues with Custom URL Patterns](http://feedproxy.google.com/~r/FirebaseBlog/~3/4H0S0EJ3fy8/performance-analysis-with-custom-url-patterns.html)
 - Oct 18 2021 - Medium - [Room & Kotlin Symbol Processing](https://medium.com/androiddevelopers/room-kotlin-symbol-processing-24808528a28e?source=rss----95b274b437c2---4)
 - Oct 18 2021 - Youtube - [Paging: Displaying data and its loading state - MAD Skills](https://www.youtube.com/watch?v=OHH_FPbrjtA)
@@ -50,7 +51,6 @@
 - Sep 22 2021 - Youtube - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU)
 - Sep 21 2021 - Blog - [Improved Google Play Console user management: access requests, permission groups, and more](http://feedproxy.google.com/~r/blogspot/hsDu/~3/z5wHt1cw-zI/improved-google-play-console-user.html)
 - Sep 21 2021 - Youtube - [Introducing Frame Profiling in AGI - Android Game Dev Show](https://www.youtube.com/watch?v=JPd5gc0mSps)
-- Sep 20 2021 - Youtube - [Answering your top questions on AGDK](https://www.youtube.com/watch?v=pqQby4b35aM)
 - Sep 20 2021 - Youtube - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8)
 - Sep 17 2021 - Blog - [Making permissions auto-reset available to billions more devices](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Ag2YKXjLKIY/making-permissions-auto-reset-available.html)
 - Sep 16 2021 - Medium - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
