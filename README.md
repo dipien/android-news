@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 21 2021 - Blog - [Evolving our business model to address developer needs](http://feedproxy.google.com/~r/blogspot/hsDu/~3/sjgoIFPlXK0/evolving-business-model.html)
 - Oct 21 2021 - Medium - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4)
 - Oct 21 2021 - Medium - [Now in Android #49](https://medium.com/androiddevelopers/now-in-android-49-cf0f9d52bf78?source=rss----95b274b437c2---4)
 - Oct 20 2021 - Blog - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/oce6iVEUjd8/android-devs-assemble.html)
@@ -99,8 +100,7 @@
 - Aug 13 2021 - Blog - [Learn how Vinwap increased revenue by 30% in less than a week](http://feedproxy.google.com/~r/FirebaseBlog/~3/-hGoLx24-Ck/learn-how-vinwap-increased-revenue.html)
 - Aug 12 2021 - Blog - [Deep dive into the new Firebase JS SDK design](http://feedproxy.google.com/~r/FirebaseBlog/~3/gfpcldn34og/deep-dive-into-the-new-firebase-js-sdk-design.html)
 - Aug 12 2021 - Blog - [Join the North America Android Study Jams to learn more about developing quality Android apps](http://feedproxy.google.com/~r/blogspot/hsDu/~3/71EicoXBHMM/join-north-america-android-study-jams-to-learn-more-about-developing-quality-Android-apps.html)
-- Aug 11 2021 - Blog - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)
-- Aug 11 2021 - Blog - [Sharing Tiles with your smartwatch users:](http://feedproxy.google.com/~r/blogspot/hsDu/~3/uxaRsQW4zTI/sharing-tiles-with-your-smartwatch-users.html)<!-- NEWS:END -->
+- Aug 11 2021 - Blog - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)<!-- NEWS:END -->
 
 ## Sources
 
