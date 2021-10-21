@@ -1,7 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 20 2021 - Blog - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/oce6iVEUjd8/android-devs-assemble.html)
 - Oct 20 2021 - Youtube - [Now in Android: 49 - Android Dev Summit, Android Basics, Compose for Wear OS, and more!](https://www.youtube.com/watch?v=ETwWJy9lEQU)
+- Oct 20 2021 - Youtube - [Build your Team Jetpack superhero and help restore order to the universe at #AndroidDevSummit](https://www.youtube.com/watch?v=vyc0ccP55UI)
 - Oct 20 2021 - Blog - [Pinpointing API performance issues with Custom URL Patterns](http://feedproxy.google.com/~r/FirebaseBlog/~3/4H0S0EJ3fy8/performance-analysis-with-custom-url-patterns.html)
 - Oct 18 2021 - Medium - [Room & Kotlin Symbol Processing](https://medium.com/androiddevelopers/room-kotlin-symbol-processing-24808528a28e?source=rss----95b274b437c2---4)
 - Oct 18 2021 - Youtube - [Paging: Displaying data and its loading state - MAD Skills](https://www.youtube.com/watch?v=OHH_FPbrjtA)
@@ -50,7 +52,6 @@
 - Sep 22 2021 - Medium - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4)
 - Sep 22 2021 - Youtube - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU)
 - Sep 21 2021 - Blog - [Improved Google Play Console user management: access requests, permission groups, and more](http://feedproxy.google.com/~r/blogspot/hsDu/~3/z5wHt1cw-zI/improved-google-play-console-user.html)
-- Sep 21 2021 - Youtube - [Introducing Frame Profiling in AGI - Android Game Dev Show](https://www.youtube.com/watch?v=JPd5gc0mSps)
 - Sep 20 2021 - Youtube - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8)
 - Sep 17 2021 - Blog - [Making permissions auto-reset available to billions more devices](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Ag2YKXjLKIY/making-permissions-auto-reset-available.html)
 - Sep 16 2021 - Medium - [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb?source=rss----95b274b437c2---4)
@@ -99,8 +100,7 @@
 - Aug 12 2021 - Blog - [Join the North America Android Study Jams to learn more about developing quality Android apps](http://feedproxy.google.com/~r/blogspot/hsDu/~3/71EicoXBHMM/join-north-america-android-study-jams-to-learn-more-about-developing-quality-Android-apps.html)
 - Aug 11 2021 - Blog - [Android 12 Beta 4 and Platform Stability](http://feedproxy.google.com/~r/blogspot/hsDu/~3/coSgZu1PvMY/android-12-beta-4-and-platform-stability.html)
 - Aug 11 2021 - Blog - [Sharing Tiles with your smartwatch users:](http://feedproxy.google.com/~r/blogspot/hsDu/~3/uxaRsQW4zTI/sharing-tiles-with-your-smartwatch-users.html)
-- Aug 11 2021 - Medium - [Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)
-- Aug 09 2021 - Podcast - [Episode 172: Privacy features in Android 12](http://adbackstage.googledevelopers.libsynpro.com/episode-172-privacy-features-in-android-12)<!-- NEWS:END -->
+- Aug 11 2021 - Medium - [Firebase App Check: A New Dimension in App Security](https://medium.com/firebase-developers/firebase-app-check-a-new-dimension-in-app-security-96c807978ae?source=rss----8e8b7dc6774d---4)<!-- NEWS:END -->
 
 ## Sources
 
