@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 21 2021 - Medium - [Now in Android #49](https://medium.com/androiddevelopers/now-in-android-49-cf0f9d52bf78?source=rss----95b274b437c2---4)
 - Oct 20 2021 - Blog - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/oce6iVEUjd8/android-devs-assemble.html)
 - Oct 20 2021 - Youtube - [Now in Android: 49 - Android Dev Summit, Android Basics, Compose for Wear OS, and more!](https://www.youtube.com/watch?v=ETwWJy9lEQU)
 - Oct 20 2021 - Youtube - [Build your Team Jetpack superhero and help restore order to the universe at #AndroidDevSummit](https://www.youtube.com/watch?v=vyc0ccP55UI)
@@ -63,7 +64,6 @@
 - Sep 15 2021 - Blog - [Wear OS Jetpack libraries now in stable!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/r0d45IKL0sY/wear-os-jetpack-libraries-now-in-stable.html)
 - Sep 15 2021 - Youtube - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w)
 - Sep 14 2021 - Podcast - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie)
-- Sep 13 2021 - Medium - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe?source=rss----95b274b437c2---4)
 - Sep 13 2021 - Youtube - [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk)
 - Sep 10 2021 - Blog - [Improvements to Crashlytics for Game Developers](http://feedproxy.google.com/~r/FirebaseBlog/~3/rd96molau4U/improvements-to-crashlytics-for-game-developers.html)
 - Sep 10 2021 - Youtube - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ)
