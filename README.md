@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Oct 21 2021 - Blog - [Evolving our business model to address developer needs](http://feedproxy.google.com/~r/blogspot/hsDu/~3/sjgoIFPlXK0/evolving-business-model.html)
+- Oct 21 2021 - [Evolving our business model to address developer needs](http://feedproxy.google.com/~r/blogspot/hsDu/~3/sjgoIFPlXK0/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 21 2021 - Medium - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4)
 - Oct 21 2021 - Medium - [Now in Android #49](https://medium.com/androiddevelopers/now-in-android-49-cf0f9d52bf78?source=rss----95b274b437c2---4)
 - Oct 20 2021 - Blog - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/oce6iVEUjd8/android-devs-assemble.html)
@@ -106,7 +106,7 @@
 
 * [Android Developers Blog](https://android-developers.googleblog.com/)
 * [Android Developers - Medium Publication](https://medium.com/androiddevelopers)
-* [Android Developers - Youtube Channel](https://www.youtube.com/c/AndroidDevelopers/featured)
+* [Android Developers - Youtube Channel](https://www.youtube.com/c/AndroidDevelopers)
 * [Android Developers Backstage - Podcasts](https://adbackstage.libsyn.com/)
 * [The Firebase Blog](https://firebase.googleblog.com/)
 * [Firebase Developers - Medium Publication](https://medium.com/firebase-developers)
