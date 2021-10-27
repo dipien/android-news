@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
+- Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
+- Oct 27 2021 - [Introducing Material Theme Builder](https://material.io/blog/material-theme-builder) - [Material Design Blog](https://material.io/blog)
+- Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)
+- Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/rd1xXyC2Zj8/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2021 - [Firebase Release Notes October ‘21: Flutter Realtime Database on Web, FCM, and t-shirt give-away!](https://www.youtube.com/watch?v=-W-xHsbPFuI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -95,12 +100,7 @@
 - Aug 24 2021 - [Firebase Release Notes August ‘21: Cloud Functions in Asia, FCM delivery metrics on iOS, and more!](https://www.youtube.com/watch?v=2CEdYN9NVnU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 23 2021 - [Making Ratings and Reviews better for users and developers](http://feedproxy.google.com/~r/blogspot/hsDu/~3/bShh_iQlbWg/making-ratings-and-reviews-better-for.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2021 - [Material Components: Menu](https://www.youtube.com/watch?v=7s5v-cW9lUY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 20 2021 - [Algolia, Firebase, and Next.js — Let's build a search app - Firebase Semi-Live](https://www.youtube.com/watch?v=ZNVAPpTpKpk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 20 2021 - [Role-Based Access Control in Cloud Firestore](https://medium.com/firebase-developers/role-based-access-in-firebase-firestore-firestore-rules-6d36cded1b15?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 19 2021 - [Material Components: Sheets: Bottom](https://www.youtube.com/watch?v=v4frprCy5Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 18 2021 - [App designer? Allow your users to adjust settings with Material’s switches #shorts](https://www.youtube.com/watch?v=sJSlbzKZxKA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 18 2021 - [Meet the Firestore Emulator Requests Monitor](http://feedproxy.google.com/~r/FirebaseBlog/~3/sAyCBD67qRM/firestore-emulator-requests-monitor.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Aug 16 2021 - [Working Towards Android App Excellence](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IYp8KNoXFfw/working-towards-android-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Aug 20 2021 - [Algolia, Firebase, and Next.js — Let's build a search app - Firebase Semi-Live](https://www.youtube.com/watch?v=ZNVAPpTpKpk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
