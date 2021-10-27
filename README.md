@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 27 2021 - [Android Developer Summit '21 Day 1](https://www.youtube.com/watch?v=RS6By_pE7uo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Keynote Android Dev Summit 2021](https://www.youtube.com/watch?v=WZgR5Yf1iq8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [#AndroidDevSummit '21 recap in 60 seconds!](https://www.youtube.com/watch?v=8VsV7jkLvfA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -22,7 +23,6 @@
 - Oct 27 2021 - [Kotlin Flows in practice](https://www.youtube.com/watch?v=fSB6_KE95bU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Support the latest and greatest: Compatibility changes in Android 12](https://www.youtube.com/watch?v=fCMJmV6nqGo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Implementing Material You using Jetpack Compose](https://www.youtube.com/watch?v=jrfuHyMlehc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Introducing Play Integrity API: Protect your apps and games](https://www.youtube.com/watch?v=TyxL78e5Bag) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IeDiW0FgYRg/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
