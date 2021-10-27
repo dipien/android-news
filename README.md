@@ -4,6 +4,7 @@
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/rd1xXyC2Zj8/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2021 - [Firebase Release Notes October ‘21: Flutter Realtime Database on Web, FCM, and t-shirt give-away!](https://www.youtube.com/watch?v=-W-xHsbPFuI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Evolving our business model to address developer needs](http://feedproxy.google.com/~r/blogspot/hsDu/~3/sjgoIFPlXK0/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 21 2021 - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Now in Android #49](https://medium.com/androiddevelopers/now-in-android-49-cf0f9d52bf78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Aug 19 2021 - [Material Components: Sheets: Bottom](https://www.youtube.com/watch?v=v4frprCy5Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Aug 18 2021 - [App designer? Allow your users to adjust settings with Material’s switches #shorts](https://www.youtube.com/watch?v=sJSlbzKZxKA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Aug 18 2021 - [Meet the Firestore Emulator Requests Monitor](http://feedproxy.google.com/~r/FirebaseBlog/~3/sAyCBD67qRM/firestore-emulator-requests-monitor.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Aug 16 2021 - [Working Towards Android App Excellence](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IYp8KNoXFfw/working-towards-android-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 13 2021 - [Learn how Vinwap increased revenue by 30% in less than a week](http://feedproxy.google.com/~r/FirebaseBlog/~3/-hGoLx24-Ck/learn-how-vinwap-increased-revenue.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Aug 16 2021 - [Working Towards Android App Excellence](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IYp8KNoXFfw/working-towards-android-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
