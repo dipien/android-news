@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 28 2021 - [Modern Android Development #AskAndroid - LIVE](https://www.youtube.com/watch?v=QreLkok3Euk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Android Developer Summit '21 Day 1](https://www.youtube.com/watch?v=RS6By_pE7uo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Keynote Android Dev Summit 2021](https://www.youtube.com/watch?v=WZgR5Yf1iq8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -21,7 +22,6 @@
 - Oct 27 2021 - [What's next for AndroidX Media and ExoPlayer](https://www.youtube.com/watch?v=sTIBDcyCmCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Create engagement and high quality playback on Android TV & Google TV](https://www.youtube.com/watch?v=XvGLD6fLrIU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Kotlin Flows in practice](https://www.youtube.com/watch?v=fSB6_KE95bU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Support the latest and greatest: Compatibility changes in Android 12](https://www.youtube.com/watch?v=fCMJmV6nqGo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IeDiW0FgYRg/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
