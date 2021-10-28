@@ -1,9 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 28 2021 - [Jetpack Compose with Material You #AskAndroid - LIVE](https://www.youtube.com/watch?v=5t40x-5vVl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 28 2021 - [Android Developer Summit '21 Day 2](https://www.youtube.com/watch?v=ljZtX5cNvYU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 28 2021 - [Modern Android Development #AskAndroid - LIVE](https://www.youtube.com/watch?v=QreLkok3Euk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Android Developer Summit '21 Day 1](https://www.youtube.com/watch?v=RS6By_pE7uo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Keynote Android Dev Summit 2021](https://www.youtube.com/watch?v=WZgR5Yf1iq8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 27 2021 - [#AndroidDevSummit '21: The Keynote!](https://www.youtube.com/watch?v=WZgR5Yf1iq8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [#AndroidDevSummit '21 recap in 60 seconds!](https://www.youtube.com/watch?v=8VsV7jkLvfA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Free app store marketer certificate - Google Play Store Listing Certificate](https://www.youtube.com/watch?v=3Vtgm8SNy1o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,7 +23,6 @@
 - Oct 27 2021 - [WorkManager: Back to the foreground](https://www.youtube.com/watch?v=spdNAwsC1GQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's next for AndroidX Media and ExoPlayer](https://www.youtube.com/watch?v=sTIBDcyCmCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Create engagement and high quality playback on Android TV & Google TV](https://www.youtube.com/watch?v=XvGLD6fLrIU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Kotlin Flows in practice](https://www.youtube.com/watch?v=fSB6_KE95bU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IeDiW0FgYRg/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
@@ -48,7 +49,6 @@
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/gYsJxta95NM/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 11 2021 - [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 08 2021 - [Android Developer Summit '21 Day 2](https://www.youtube.com/watch?v=ljZtX5cNvYU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 07 2021 - [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 06 2021 - [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://feedproxy.google.com/~r/FirebaseBlog/~3/XCJHEipHMHc/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
