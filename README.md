@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 29 2021 - [Compose for Wear OS code-along](https://www.youtube.com/watch?v=7U3FwzuqgRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 29 2021 - [Developing for large screens #AskAndroid - LIVE](https://www.youtube.com/watch?v=7wImsEWZTjw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2021 (Portuguese-Brazil)](https://www.youtube.com/watch?v=3vP6Aq8d2bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - 2021 年 10 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=DlGsuD7v4S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - 2021년 10월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=BwcRTQKAf4w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,8 +23,6 @@
 - Oct 27 2021 - [Introducing Jetpack Media3](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Q7c1-W73ygc/jetpack-media3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Watch out for Wear OS at Android Dev Summit 2021](http://feedproxy.google.com/~r/blogspot/hsDu/~3/6fxb8LOUrI8/wearos-at-ads-21.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to retain users with Android backup and restore](https://www.youtube.com/watch?v=bg2drEhz1_s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Best practices for making your app private by design](https://www.youtube.com/watch?v=hBVwr2ErQCw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [A Compose state of mind: Using Jetpack Compose's automatic state observation](https://www.youtube.com/watch?v=rmv2ug-wW4U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IeDiW0FgYRg/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
