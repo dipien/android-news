@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 29 2021 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2021 (Portuguese-Brazil)](https://www.youtube.com/watch?v=3vP6Aq8d2bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 29 2021 - [Google Play PolicyBytes - 2021 年 10 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=DlGsuD7v4S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 29 2021 - [Google Play PolicyBytes - 2021년 10월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=BwcRTQKAf4w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 29 2021 - [Google Play PolicyBytes - 2021年10月のポリシーの更新 (Japanese)](https://www.youtube.com/watch?v=ozc6LPv4tZ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 29 2021 - [Google Play PolicyBytes - October 2021 policy updates](https://www.youtube.com/watch?v=LT5xI835soc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 28 2021 - [Jetpack Compose with Material You #AskAndroid - LIVE](https://www.youtube.com/watch?v=5t40x-5vVl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 28 2021 - [Android Developer Summit '21 Day 2](https://www.youtube.com/watch?v=ljZtX5cNvYU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 28 2021 - [Modern Android Development #AskAndroid - LIVE](https://www.youtube.com/watch?v=QreLkok3Euk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -18,11 +23,6 @@
 - Oct 27 2021 - [How to retain users with Android backup and restore](https://www.youtube.com/watch?v=bg2drEhz1_s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [Best practices for making your app private by design](https://www.youtube.com/watch?v=hBVwr2ErQCw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [A Compose state of mind: Using Jetpack Compose's automatic state observation](https://www.youtube.com/watch?v=rmv2ug-wW4U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Deep dive into Jetpack Compose layouts](https://www.youtube.com/watch?v=zMKMwh9gZuI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [New features in CameraX 1.1, including video and more](https://www.youtube.com/watch?v=n_oIEyiYLLk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [WorkManager: Back to the foreground](https://www.youtube.com/watch?v=spdNAwsC1GQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [What's next for AndroidX Media and ExoPlayer](https://www.youtube.com/watch?v=sTIBDcyCmCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Create engagement and high quality playback on Android TV & Google TV](https://www.youtube.com/watch?v=XvGLD6fLrIU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IeDiW0FgYRg/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
