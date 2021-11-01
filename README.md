@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 01 2021 - [Android Developer Story: Ludo King goes from local to global](https://www.youtube.com/watch?v=gJbaKMy6me4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Compose for Wear OS code-along](https://www.youtube.com/watch?v=7U3FwzuqgRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Developing for large screens #AskAndroid - LIVE](https://www.youtube.com/watch?v=7wImsEWZTjw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2021 (Portuguese-Brazil)](https://www.youtube.com/watch?v=3vP6Aq8d2bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -15,14 +17,12 @@
 - Oct 27 2021 - [#AndroidDevSummit '21: The Keynote!](https://www.youtube.com/watch?v=WZgR5Yf1iq8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [#AndroidDevSummit '21 recap in 60 seconds!](https://www.youtube.com/watch?v=8VsV7jkLvfA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 27 2021 - [Free app store marketer certificate - Google Play Store Listing Certificate](https://www.youtube.com/watch?v=3Vtgm8SNy1o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://feedproxy.google.com/~r/blogspot/hsDu/~3/FvZMyPNI5VA/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://feedproxy.google.com/~r/blogspot/hsDu/~3/e5J-Scng010/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://feedproxy.google.com/~r/blogspot/hsDu/~3/dYi1zS6jXWY/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Increasing User Transparency with Privacy Dashboard](https://medium.com/androiddevelopers/increasing-user-transparency-with-privacy-dashboard-23064f2d7ff6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 27 2021 - [Introducing Jetpack Media3](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Q7c1-W73ygc/jetpack-media3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Watch out for Wear OS at Android Dev Summit 2021](http://feedproxy.google.com/~r/blogspot/hsDu/~3/6fxb8LOUrI8/wearos-at-ads-21.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [How to retain users with Android backup and restore](https://www.youtube.com/watch?v=bg2drEhz1_s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://feedproxy.google.com/~r/blogspot/hsDu/~3/IeDiW0FgYRg/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://feedproxy.google.com/~r/FirebaseBlog/~3/BpM2VbHTe84/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
