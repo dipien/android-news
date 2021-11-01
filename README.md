@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 01 2021 - [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Android Developer Story: Ludo King goes from local to global](https://www.youtube.com/watch?v=gJbaKMy6me4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Compose for Wear OS code-along](https://www.youtube.com/watch?v=7U3FwzuqgRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -16,7 +17,6 @@
 - Oct 27 2021 - [Android Developer Summit '21 Day 1](https://www.youtube.com/watch?v=RS6By_pE7uo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [#AndroidDevSummit '21: The Keynote!](https://www.youtube.com/watch?v=WZgR5Yf1iq8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [#AndroidDevSummit '21 recap in 60 seconds!](https://www.youtube.com/watch?v=8VsV7jkLvfA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://feedproxy.google.com/~r/blogspot/hsDu/~3/FvZMyPNI5VA/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://feedproxy.google.com/~r/blogspot/hsDu/~3/e5J-Scng010/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://feedproxy.google.com/~r/blogspot/hsDu/~3/dYi1zS6jXWY/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
