@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -66,7 +67,6 @@
 - Sep 27 2021 - [Getting started with Cloud Firestore for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=BjtxPj6jRM8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://feedproxy.google.com/~r/FirebaseBlog/~3/hCR1gjtsaNY/uploading-dSYM-files-to-crashlytics-with-fastlane.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 24 2021 - [Now in Android #47](https://medium.com/androiddevelopers/now-in-android-47-457f6e7d21?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://feedproxy.google.com/~r/FirebaseBlog/~3/re0EVo9BEto/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
