@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 03 2021 - [Now in Android #50 — ADS Special](https://medium.com/androiddevelopers/now-in-android-50-ads-special-9934422f8dd1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 02 2021 - [Firebase Summit Leadership Panel](https://www.youtube.com/watch?v=joadAuHOXE8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -58,7 +59,6 @@
 - Oct 04 2021 - [Android 12 is live in AOSP!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/K3bnq_uOlVQ/android-12-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2021 - [Answering your top questions on Android Game Development Kit](http://feedproxy.google.com/~r/blogspot/hsDu/~3/C75fXVqrVl8/answering-your-top-questions-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2021 - [Mindful architecture: Headspace’s refactor to scale](http://feedproxy.google.com/~r/blogspot/hsDu/~3/HnEwXuDiRjw/investing-in-app-excellence-headspaces.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 30 2021 - [Mindful architecture: Headspace’s refactor to scale](https://medium.com/androiddevelopers/mindful-architecture-headspaces-refactor-to-scale-7da31df5670e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://feedproxy.google.com/~r/FirebaseBlog/~3/xLhaCJzRM0k/analytics-labels-app-messaging-campaigns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
