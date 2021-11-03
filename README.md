@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Nov 02 2021 - [Firebase Summit Leadership Panel](https://www.youtube.com/watch?v=joadAuHOXE8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)
 - Aug 27 2021 - [Firebase SDK for Apple now fully supports Swift Package Manager](http://feedproxy.google.com/~r/FirebaseBlog/~3/7G83oiAmW3w/firebase-swift-package-manager.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Aug 26 2021 - [Episode 173: More benchmarking](http://adbackstage.googledevelopers.libsynpro.com/episode-173-more-benchmarking) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Aug 26 2021 - [Material Components: Tooltips](https://www.youtube.com/watch?v=o44CcQFfX34) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 25 2021 - [Getting started with Firebase for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=rQvOAnNvcNQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Aug 26 2021 - [Material Components: Tooltips](https://www.youtube.com/watch?v=o44CcQFfX34) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
