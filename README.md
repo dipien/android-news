@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://feedproxy.google.com/~r/FirebaseBlog/~3/UECYGHLLoMw/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Nov 04 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2021 - [Firebase Summit Leadership Panel](https://www.youtube.com/watch?v=joadAuHOXE8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Sep 04 2021 - [Celebrating some of the best indie games](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Y690gWR3Vgo/celebrating-some-of-best-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2021 - [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)
-- Aug 27 2021 - [Firebase SDK for Apple now fully supports Swift Package Manager](http://feedproxy.google.com/~r/FirebaseBlog/~3/7G83oiAmW3w/firebase-swift-package-manager.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Aug 26 2021 - [Episode 173: More benchmarking](http://adbackstage.googledevelopers.libsynpro.com/episode-173-more-benchmarking) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Aug 27 2021 - [Firebase SDK for Apple now fully supports Swift Package Manager](http://feedproxy.google.com/~r/FirebaseBlog/~3/7G83oiAmW3w/firebase-swift-package-manager.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
