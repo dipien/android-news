@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 05 2021 - [Android App Excellence - What do 5 star apps and restaurants have in common?](https://www.youtube.com/watch?v=aM0-OqsGgjc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://feedproxy.google.com/~r/FirebaseBlog/~3/UECYGHLLoMw/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Nov 04 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,7 +21,6 @@
 - Oct 29 2021 - [Google Play PolicyBytes - 2021年10月のポリシーの更新 (Japanese)](https://www.youtube.com/watch?v=ozc6LPv4tZ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - October 2021 policy updates](https://www.youtube.com/watch?v=LT5xI835soc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 28 2021 - [Jetpack Compose with Material You #AskAndroid - LIVE](https://www.youtube.com/watch?v=5t40x-5vVl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 28 2021 - [Android Developer Summit '21 Day 2](https://www.youtube.com/watch?v=ljZtX5cNvYU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://feedproxy.google.com/~r/blogspot/hsDu/~3/FvZMyPNI5VA/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://feedproxy.google.com/~r/blogspot/hsDu/~3/e5J-Scng010/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
