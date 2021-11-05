@@ -34,7 +34,10 @@
 - Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/rd1xXyC2Zj8/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2021 - [Firebase Release Notes October ‘21: Flutter Realtime Database on Web, FCM, and t-shirt give-away!](https://www.youtube.com/watch?v=-W-xHsbPFuI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Evolving our business model to address developer needs](http://feedproxy.google.com/~r/blogspot/hsDu/~3/sjgoIFPlXK0/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 21 2021 - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Now in Android #49](https://medium.com/androiddevelopers/now-in-android-49-cf0f9d52bf78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 20 2021 - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/oce6iVEUjd8/android-devs-assemble.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 20 2021 - [Pinpointing API performance issues with Custom URL Patterns](http://feedproxy.google.com/~r/FirebaseBlog/~3/4H0S0EJ3fy8/performance-analysis-with-custom-url-patterns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
@@ -66,6 +69,7 @@
 - Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://feedproxy.google.com/~r/FirebaseBlog/~3/hCR1gjtsaNY/uploading-dSYM-files-to-crashlytics-with-fastlane.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://feedproxy.google.com/~r/FirebaseBlog/~3/re0EVo9BEto/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
+- Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 21 2021 - [Improved Google Play Console user management: access requests, permission groups, and more](http://feedproxy.google.com/~r/blogspot/hsDu/~3/z5wHt1cw-zI/improved-google-play-console-user.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -89,18 +93,14 @@
 - Sep 09 2021 - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts) - [Material Design Blog](https://material.io/blog)
 - Sep 08 2021 - [Android 12 Beta 5 update, official release is next!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/6_hBUxx3aTE/android12beta5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 08 2021 - [Material Components: Data Tables](https://www.youtube.com/watch?v=t00Ibel1IoI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Sep 08 2021 - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 07 2021 - [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](http://feedproxy.google.com/~r/blogspot/hsDu/~3/SqxZTba7cmM/accelerated-kotlin-build-times-with.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 04 2021 - [Celebrating some of the best indie games](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Y690gWR3Vgo/celebrating-some-of-best-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2021 - [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)
 - Aug 27 2021 - [Firebase SDK for Apple now fully supports Swift Package Manager](http://feedproxy.google.com/~r/FirebaseBlog/~3/7G83oiAmW3w/firebase-swift-package-manager.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Aug 26 2021 - [Episode 173: More benchmarking](http://adbackstage.googledevelopers.libsynpro.com/episode-173-more-benchmarking) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Aug 26 2021 - [Material Components: Tooltips](https://www.youtube.com/watch?v=o44CcQFfX34) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 25 2021 - [Getting started with Firebase for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=rQvOAnNvcNQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 25 2021 - [The new Firebase JS SDK is now GA](http://feedproxy.google.com/~r/FirebaseBlog/~3/8gQlvXJvqP0/the-new-firebase-js-sdk-now-ga.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Aug 24 2021 - [Firebase Release Notes August ‘21: Cloud Functions in Asia, FCM delivery metrics on iOS, and more!](https://www.youtube.com/watch?v=2CEdYN9NVnU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 23 2021 - [Material Components: Menu](https://www.youtube.com/watch?v=7s5v-cW9lUY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 20 2021 - [Algolia, Firebase, and Next.js — Let's build a search app - Firebase Semi-Live](https://www.youtube.com/watch?v=ZNVAPpTpKpk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Aug 26 2021 - [Material Components: Tooltips](https://www.youtube.com/watch?v=o44CcQFfX34) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
