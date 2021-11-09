@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 09 2021 - [Android Developers has reached 1M subscribers!](https://www.youtube.com/watch?v=-fJ6poHQrjM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 08 2021 - [Paging: Community tip - MAD Skills](https://www.youtube.com/watch?v=r5JgIyS3t3s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 08 2021 - [Automate your pre-release testing with the App Distribution REST API](http://feedproxy.google.com/~r/FirebaseBlog/~3/GJ4fB41VA2U/app-distribution-rest-api.html) - [The Firebase Blog](https://firebase.googleblog.com/)
@@ -99,8 +100,7 @@
 - Sep 08 2021 - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 07 2021 - [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](http://feedproxy.google.com/~r/blogspot/hsDu/~3/SqxZTba7cmM/accelerated-kotlin-build-times-with.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 04 2021 - [Celebrating some of the best indie games](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Y690gWR3Vgo/celebrating-some-of-best-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 01 2021 - [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 01 2021 - [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
