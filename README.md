@@ -38,7 +38,6 @@
 - Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)
 - Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/rd1xXyC2Zj8/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 26 2021 - [Firebase Release Notes October ‘21: Flutter Realtime Database on Web, FCM, and t-shirt give-away!](https://www.youtube.com/watch?v=-W-xHsbPFuI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Evolving our business model to address developer needs](http://feedproxy.google.com/~r/blogspot/hsDu/~3/sjgoIFPlXK0/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -100,7 +99,8 @@
 - Sep 08 2021 - [Material Components: Data Tables](https://www.youtube.com/watch?v=t00Ibel1IoI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 08 2021 - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 07 2021 - [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](http://feedproxy.google.com/~r/blogspot/hsDu/~3/SqxZTba7cmM/accelerated-kotlin-build-times-with.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 04 2021 - [Celebrating some of the best indie games](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Y690gWR3Vgo/celebrating-some-of-best-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Sep 04 2021 - [Celebrating some of the best indie games](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Y690gWR3Vgo/celebrating-some-of-best-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Sep 01 2021 - [Material Components: Sheets: Side](https://www.youtube.com/watch?v=x47LktkpH5g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
