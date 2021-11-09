@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 09 2021 - [Android Developer Story: WPS Office - Building continuity with Android foldables](https://www.youtube.com/watch?v=yq34wQyEDEk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2021 - [Spicy snacks and building design community - Snackbar ft. Rebecca Brooker](https://www.youtube.com/watch?v=gs-bL6AhkBk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 09 2021 - [Android Developers has reached 1M subscribers!](https://www.youtube.com/watch?v=-fJ6poHQrjM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,7 +24,6 @@
 - Oct 29 2021 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2021 (Portuguese-Brazil)](https://www.youtube.com/watch?v=3vP6Aq8d2bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - 2021 年 10 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=DlGsuD7v4S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - 2021년 10월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=BwcRTQKAf4w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 29 2021 - [Google Play PolicyBytes - 2021年10月のポリシーの更新 (Japanese)](https://www.youtube.com/watch?v=ozc6LPv4tZ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://feedproxy.google.com/~r/blogspot/hsDu/~3/FvZMyPNI5VA/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://feedproxy.google.com/~r/blogspot/hsDu/~3/e5J-Scng010/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
