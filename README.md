@@ -1,6 +1,12 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 10 2021 - [Personalization and A/B Testing: How to create better experiences for users](https://www.youtube.com/watch?v=p2jefhDvGn0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 10 2021 - [Build your retail app with Firebase extensions](https://www.youtube.com/watch?v=nhCbAezbiQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 10 2021 - [What's new in Firebase 2021 - Keynote](https://www.youtube.com/watch?v=irHj9k2kFkQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [What’s new at Firebase Summit 2021](http://feedproxy.google.com/~r/FirebaseBlog/~3/EJK47Rf7cQ4/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://feedproxy.google.com/~r/blogspot/hsDu/~3/YX8lDYqy6Tk/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 10 2021 - [#AndroidDevSummit ‘21: Top 3 things in Jetpack Compose & Material You!](https://www.youtube.com/watch?v=4R8-ggukUls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -50,7 +56,6 @@
 - Oct 18 2021 - [Room & Kotlin Symbol Processing](https://medium.com/androiddevelopers/room-kotlin-symbol-processing-24808528a28e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2021 - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 18 2021 - [Launching Data safety in Play Console: Elevating Privacy and Security for your users](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Tuw5WeSrRWw/launching-data-safety-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 15 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 15 2021 - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://feedproxy.google.com/~r/blogspot/hsDu/~3/tm4XhtCw7eI/announcing-android-basics-in-kotlin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 14 2021 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -95,12 +100,7 @@
 - Sep 10 2021 - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 09 2021 - [Meet an Extension: Shorten URLs](https://www.youtube.com/watch?v=RbEHaiJYueA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 09 2021 - [How battle passes can boost engagement and monetization in your game](https://medium.com/googleplaydev/how-battle-passes-can-boost-engagement-and-monetization-in-your-game-d296dee6ddf8?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Sep 09 2021 - [Episode 174: Compose tooling](http://adbackstage.googledevelopers.libsynpro.com/episode-174-compose-tooling) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 09 2021 - [Bringing richer navigation, charging, parking apps to more Android Auto users](http://feedproxy.google.com/~r/blogspot/hsDu/~3/Yo1Rddxq71Y/bringing-richer-navigation-charging.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 09 2021 - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts) - [Material Design Blog](https://material.io/blog)
-- Sep 08 2021 - [Android 12 Beta 5 update, official release is next!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/6_hBUxx3aTE/android12beta5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 08 2021 - [Material Components: Data Tables](https://www.youtube.com/watch?v=t00Ibel1IoI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 08 2021 - [Firestore Full Text Search with Meili](https://medium.com/firebase-developers/firestore-full-text-search-with-meili-b452e41e539c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Sep 09 2021 - [Episode 174: Compose tooling](http://adbackstage.googledevelopers.libsynpro.com/episode-174-compose-tooling) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
