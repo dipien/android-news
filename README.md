@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Now in Android: 51 - Android Developer Summit 2021 recap (part 2)](https://www.youtube.com/watch?v=cR3e_dhy-sQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2021 - [Now in Android #51 — ADS Recap Part 2](https://medium.com/androiddevelopers/now-in-android-51-ads-recap-part-2-188cb7e62e15?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 13 2021 - [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 10 2021 - [Improvements to Crashlytics for Game Developers](http://firebase.googleblog.com/2021/09/improvements-to-crashlytics-for-game-developers.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Sep 10 2021 - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 09 2021 - [Meet an Extension: Shorten URLs](https://www.youtube.com/watch?v=RbEHaiJYueA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Sep 10 2021 - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
