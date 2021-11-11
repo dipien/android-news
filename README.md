@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 11 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Now in Android: 51 - Android Developer Summit 2021 recap (part 2)](https://www.youtube.com/watch?v=cR3e_dhy-sQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,7 +24,6 @@
 - Nov 05 2021 - [Android App Excellence - What do 5 star apps and restaurants have in common?](https://www.youtube.com/watch?v=aM0-OqsGgjc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://firebase.googleblog.com/2021/11/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Nov 04 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2021 - [Firebase Summit Leadership Panel](https://www.youtube.com/watch?v=joadAuHOXE8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 04 2021 - [Now in Android: 50 - Android Developer Summit 2021 recap (part 1)](https://www.youtube.com/watch?v=0puqoQ-9kB4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 03 2021 - [Now in Android #50 — ADS Special](https://medium.com/androiddevelopers/now-in-android-50-ads-special-9934422f8dd1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
