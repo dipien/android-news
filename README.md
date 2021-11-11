@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 11 2021 - [Now in Android: 51 - Android Developer Summit 2021 recap (part 2)](https://www.youtube.com/watch?v=cR3e_dhy-sQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 10 2021 - [Now in Android #51 — ADS Recap Part 2](https://medium.com/androiddevelopers/now-in-android-51-ads-recap-part-2-188cb7e62e15?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -31,7 +33,6 @@
 - Oct 29 2021 - [Compose for Wear OS code-along](https://www.youtube.com/watch?v=7U3FwzuqgRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Developing for large screens #AskAndroid - LIVE](https://www.youtube.com/watch?v=7wImsEWZTjw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2021 (Portuguese-Brazil)](https://www.youtube.com/watch?v=3vP6Aq8d2bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 29 2021 - [Google Play PolicyBytes - 2021 年 10 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=DlGsuD7v4S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://feedproxy.google.com/~r/blogspot/hsDu/~3/-eRf__bgASQ/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://feedproxy.google.com/~r/blogspot/hsDu/~3/FvZMyPNI5VA/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://feedproxy.google.com/~r/blogspot/hsDu/~3/e5J-Scng010/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,7 +66,6 @@
 - Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 11 2021 - [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 07 2021 - [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 06 2021 - [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://feedproxy.google.com/~r/FirebaseBlog/~3/XCJHEipHMHc/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 04 2021 - [Android 12 is live in AOSP!](http://feedproxy.google.com/~r/blogspot/hsDu/~3/K3bnq_uOlVQ/android-12-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
