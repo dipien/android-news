@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Now in Android: 51 - Android Developer Summit 2021 recap (part 2)](https://www.youtube.com/watch?v=cR3e_dhy-sQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2021 - [Now in Android #51 — ADS Recap Part 2](https://medium.com/androiddevelopers/now-in-android-51-ads-recap-part-2-188cb7e62e15?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -47,6 +48,7 @@
 - Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)
 - Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://android-developers.googleblog.com/2021/10/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 26 2021 - [Firebase Release Notes October ‘21: Flutter Realtime Database on Web, FCM, and t-shirt give-away!](https://www.youtube.com/watch?v=-W-xHsbPFuI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Evolving our business model to address developer needs](http://android-developers.googleblog.com/2021/10/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -98,9 +100,7 @@
 - Sep 13 2021 - [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 10 2021 - [Improvements to Crashlytics for Game Developers](http://firebase.googleblog.com/2021/09/improvements-to-crashlytics-for-game-developers.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 10 2021 - [Material Components: Banners](https://www.youtube.com/watch?v=HO-I4TmziKQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 09 2021 - [Meet an Extension: Shorten URLs](https://www.youtube.com/watch?v=RbEHaiJYueA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 09 2021 - [How battle passes can boost engagement and monetization in your game](https://medium.com/googleplaydev/how-battle-passes-can-boost-engagement-and-monetization-in-your-game-d296dee6ddf8?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Sep 09 2021 - [Episode 174: Compose tooling](http://adbackstage.googledevelopers.libsynpro.com/episode-174-compose-tooling) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Sep 09 2021 - [Meet an Extension: Shorten URLs](https://www.youtube.com/watch?v=RbEHaiJYueA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
