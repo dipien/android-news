@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 12 2021 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 12 2021 - [#Ask Firebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -69,7 +70,6 @@
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 11 2021 - [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 07 2021 - [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://firebase.googleblog.com/2021/10/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 04 2021 - [Android 12 is live in AOSP!](http://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
