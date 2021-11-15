@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 15 2021 - [Introduction to Gradle and AGP build APIs - MAD Skills](https://www.youtube.com/watch?v=mk0XBWenod8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 12 2021 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 12 2021 - [#Ask Firebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -98,9 +100,7 @@
 - Sep 15 2021 - [Balancing your in-app purchase revenue with ad revenue - Optimize Your App Revenue](https://www.youtube.com/watch?v=ziFk22lSfdA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 13 2021 - [Material Components: Navigation rail](https://www.youtube.com/watch?v=z1N-xRpEBVk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 10 2021 - [Improvements to Crashlytics for Game Developers](http://firebase.googleblog.com/2021/09/improvements-to-crashlytics-for-game-developers.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
