@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 15 2021 - [Gradle and AGP build APIs: Configure your build - MAD Skills](https://www.youtube.com/watch?v=GjPS4xDMmQY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 15 2021 - [Introduction to Gradle and AGP build APIs - MAD Skills](https://www.youtube.com/watch?v=mk0XBWenod8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -38,7 +40,6 @@
 - Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Android Developer Story: Ludo King goes from local to global](https://www.youtube.com/watch?v=gJbaKMy6me4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 29 2021 - [Compose for Wear OS code-along](https://www.youtube.com/watch?v=7U3FwzuqgRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 29 2021 - [Developing for large screens #AskAndroid - LIVE](https://www.youtube.com/watch?v=7wImsEWZTjw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -97,7 +98,6 @@
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google) - [Material Design Blog](https://material.io/blog)
-- Sep 15 2021 - [Balancing your in-app purchase revenue with ad revenue - Optimize Your App Revenue](https://www.youtube.com/watch?v=ziFk22lSfdA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
