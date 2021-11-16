@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Nov 16 2021 - [#AndroidDevSummit ‘21: Top 3 things in developing for large screens](https://www.youtube.com/watch?v=50mqKT9n15U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2021 - [Gradle and AGP build APIs: Configure your build - MAD Skills](https://www.youtube.com/watch?v=GjPS4xDMmQY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -39,7 +41,6 @@
 - Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google) - [Material Design Blog](https://material.io/blog)
 - Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
