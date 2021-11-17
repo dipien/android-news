@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2021 - [What is Firebase Auth? - Better Safe than Sorry](https://www.youtube.com/watch?v=STMKRVEd964) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2021 - [Custom accessibility actions: Swipe to archive - Accessibility on Android](https://www.youtube.com/watch?v=wWDYIGk0Kdo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2021 - [#AndroidDevSummit ‘21: Top 3 things in developing for large screens](https://www.youtube.com/watch?v=50mqKT9n15U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -85,7 +86,6 @@
 - Sep 29 2021 - [Android Dev Summit returns on October 27-28, 2021!](http://android-developers.googleblog.com/2021/09/android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 28 2021 - [Firebase Release Notes September ‘21: V9 JS SDK, Apple platforms, Audit Logs for Firestore and more!](https://www.youtube.com/watch?v=FaDPFMTd9MM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 27 2021 - [Getting started with Cloud Firestore for the web – Firebase Fundamentals](https://www.youtube.com/watch?v=BjtxPj6jRM8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://firebase.googleblog.com/2021/09/uploading-dSYM-files-to-crashlytics-with-fastlane.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://firebase.googleblog.com/2021/09/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
