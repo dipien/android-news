@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2021 - [Custom accessibility actions: Swipe to archive - Accessibility on Android](https://www.youtube.com/watch?v=wWDYIGk0Kdo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2021 - [#AndroidDevSummit ‘21: Top 3 things in developing for large screens](https://www.youtube.com/watch?v=50mqKT9n15U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -40,7 +41,6 @@
 - Nov 03 2021 - [Now in Android #50 — ADS Special](https://medium.com/androiddevelopers/now-in-android-50-ads-special-9934422f8dd1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 01 2021 - [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
