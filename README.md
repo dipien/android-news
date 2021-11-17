@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2021 - [Policy Webinar #1](https://www.youtube.com/watch?v=8e--mIlovBM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2021 - [What is Firebase Auth? - Better Safe than Sorry](https://www.youtube.com/watch?v=STMKRVEd964) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2021 - [Custom accessibility actions: Swipe to archive - Accessibility on Android](https://www.youtube.com/watch?v=wWDYIGk0Kdo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -10,7 +12,6 @@
 - Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 15 2021 - [Policy Webinar #2](https://www.youtube.com/watch?v=t_5IiYKlN-M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 15 2021 - [Policy Webinar #1](https://www.youtube.com/watch?v=8e--mIlovBM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2021 - [Introduction to Gradle and AGP build APIs - MAD Skills](https://www.youtube.com/watch?v=mk0XBWenod8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 12 2021 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 12 2021 - [#Ask Firebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google) - [Material Design Blog](https://material.io/blog)
-- Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
