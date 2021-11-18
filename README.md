@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 18 2021 - [A Story of Android App Excellence: Duolingo revamped their app and improved developer velocity](https://www.youtube.com/watch?v=8x7Lu3_wK-o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2021 - [Custom accessibility actions: Swipe to archive - Accessibility on Android](https://www.youtube.com/watch?v=wWDYIGk0Kdo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -11,7 +12,7 @@
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 15 2021 - [Introduction to Gradle and AGP build APIs - MAD Skills](https://www.youtube.com/watch?v=mk0XBWenod8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 12 2021 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 12 2021 - [#Ask Firebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -41,7 +42,6 @@
 - Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2021 - [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 01 2021 - [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
