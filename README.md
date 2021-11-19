@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2021 - [Gradle and AGP build APIs: Configure your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 18 2021 - [A Story of Android App Excellence: Duolingo revamped their app and improved developer velocity](https://www.youtube.com/watch?v=8x7Lu3_wK-o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google) - [Material Design Blog](https://material.io/blog)
-- Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 15 2021 - [Material Components: Navigation drawer](https://www.youtube.com/watch?v=oOKJwoAMJ1w) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
