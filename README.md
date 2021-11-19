@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 19 2021 - [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2021 - [Gradle and AGP build APIs: Configure your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -75,7 +76,6 @@
 - Oct 13 2021 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2021 - [Protecting your backends with Firebase App Check](http://firebase.googleblog.com/2021/10/protecting-backends-with-app-check.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 11 2021 - [Introduction to Paging 3.0 in the MAD Skills Series](https://medium.com/androiddevelopers/introduction-to-paging-3-0-in-the-mad-skills-series-648f77231121?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://firebase.googleblog.com/2021/10/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 04 2021 - [Android 12 is live in AOSP!](http://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
