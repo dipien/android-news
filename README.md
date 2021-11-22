@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 22 2021 - [Gradle and Build APIs: How to write a plugin - MAD Skills](https://www.youtube.com/watch?v=LPzBVtwGxlo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 19 2021 - [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -44,7 +45,6 @@
 - Nov 04 2021 - [Now in Android: 50 - Android Developer Summit 2021 recap (part 1)](https://www.youtube.com/watch?v=0puqoQ-9kB4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 03 2021 - [Now in Android #50 — ADS Special](https://medium.com/androiddevelopers/now-in-android-50-ads-special-9934422f8dd1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 01 2021 - [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
