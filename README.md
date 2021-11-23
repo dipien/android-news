@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 23 2021 - [Enhance your adaptive layout with navigation rails #shorts](https://www.youtube.com/watch?v=IZSWNxBs8DA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 22 2021 - [Gradle and Build APIs: How to write a plugin - MAD Skills](https://www.youtube.com/watch?v=LPzBVtwGxlo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 19 2021 - [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Sep 16 2021 - [App performance to drive app excellence](http://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)
 - Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement) - [Material Design Blog](https://material.io/blog)
-- Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google) - [Material Design Blog](https://material.io/blog)
-- Sep 15 2021 - [Wear OS Jetpack libraries now in stable!](http://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Sep 16 2021 - [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
