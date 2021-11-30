@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 30 2021 - [Conveying state for Accessibility - Accessibility on Android](https://www.youtube.com/watch?v=JvWM2PjLJls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2021 - [Gradle and Build APIs: Taking your plugin to the next step - MAD Skills](https://www.youtube.com/watch?v=SB4QlngQQW0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [5 things you need to know about Google Play - LATAM Apps Week](https://www.youtube.com/watch?v=xrykBD9MtD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [5 things you need to know about user acquisition - LATAM Apps Week](https://www.youtube.com/watch?v=VqaQHGsMKs4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -30,7 +31,6 @@
 - Nov 11 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 11 2021 - [Now in Android: 51 - Android Developer Summit 2021 recap (part 2)](https://www.youtube.com/watch?v=cR3e_dhy-sQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2021 - [Now in Android #51 — ADS Recap Part 2](https://medium.com/androiddevelopers/now-in-android-51-ads-recap-part-2-188cb7e62e15?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
