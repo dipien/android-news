@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.googledevelopers.libsynpro.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 30 2021 - [Integrating Material menus into your website or app](https://www.youtube.com/watch?v=wUqr8h0X3Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 30 2021 - [Conveying state for Accessibility - Accessibility on Android](https://www.youtube.com/watch?v=JvWM2PjLJls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2021 - [Gradle and Build APIs: Taking your plugin to the next step - MAD Skills](https://www.youtube.com/watch?v=SB4QlngQQW0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Sep 20 2021 - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 17 2021 - [Making permissions auto-reset available to billions more devices](http://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 16 2021 - [App performance to drive app excellence](http://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)
-- Sep 16 2021 - [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
