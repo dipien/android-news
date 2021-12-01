@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.googledevelopers.libsynpro.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - Sep 21 2021 - [Improved Google Play Console user management: access requests, permission groups, and more](http://android-developers.googleblog.com/2021/09/improved-google-play-console-user.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 20 2021 - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 17 2021 - [Making permissions auto-reset available to billions more devices](http://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 16 2021 - [App performance to drive app excellence](http://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 16 2021 - [2021 Material Design Awards](https://material.io/blog/material-design-awards-2021) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 16 2021 - [App performance to drive app excellence](http://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
