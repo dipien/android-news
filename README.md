@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 02 2021 - [Gradle and Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android: 52 - Android Developers 1 million subscribers, Gradle, Accessibility, and much more!](https://www.youtube.com/watch?v=7lcIkxLe_g8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -72,7 +73,6 @@
 - Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Evolving our business model to address developer needs](http://android-developers.googleblog.com/2021/10/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 21 2021 - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 21 2021 - [Now in Android #49](https://medium.com/androiddevelopers/now-in-android-49-cf0f9d52bf78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 20 2021 - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://android-developers.googleblog.com/2021/10/android-devs-assemble.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 20 2021 - [Pinpointing API performance issues with Custom URL Patterns](http://firebase.googleblog.com/2021/10/performance-analysis-with-custom-url-patterns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 18 2021 - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
