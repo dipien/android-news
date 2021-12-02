@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 02 2021 - [Gradle and Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 02 2021 - [Now in Android: 52 - Android Developers 1 million subscribers, Gradle, Accessibility, and much more!](https://www.youtube.com/watch?v=7lcIkxLe_g8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -30,10 +32,8 @@
 - Nov 15 2021 - [Gradle and Build APIs: Configure your build - MAD Skills](https://www.youtube.com/watch?v=GjPS4xDMmQY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 15 2021 - [Introduction to Gradle and AGP Build APIs - MAD Skills](https://www.youtube.com/watch?v=mk0XBWenod8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 12 2021 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 11 2021 - [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Now in Android #51 — ADS Recap Part 2](https://medium.com/androiddevelopers/now-in-android-51-ads-recap-part-2-188cb7e62e15?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
