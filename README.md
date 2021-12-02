@@ -79,6 +79,7 @@
 - Oct 18 2021 - [Launching Data safety in Play Console: Elevating Privacy and Security for your users](http://android-developers.googleblog.com/2021/10/launching-data-safety-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2021 - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://android-developers.googleblog.com/2021/10/announcing-android-basics-in-kotlin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 14 2021 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 13 2021 - [Protecting your backends with Firebase App Check](http://firebase.googleblog.com/2021/10/protecting-backends-with-app-check.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://firebase.googleblog.com/2021/10/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
@@ -99,8 +100,7 @@
 - Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 21 2021 - [Improved Google Play Console user management: access requests, permission groups, and more](http://android-developers.googleblog.com/2021/09/improved-google-play-console-user.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 20 2021 - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 17 2021 - [Making permissions auto-reset available to billions more devices](http://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 16 2021 - [App performance to drive app excellence](http://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Sep 17 2021 - [Making permissions auto-reset available to billions more devices](http://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
