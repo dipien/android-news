@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 03 2021 - [A story of Android App Excellence: Headspace's reboot increases monthly active users by 15%](https://www.youtube.com/watch?v=t1qHL2KLLuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 21 2021 - [Improved Google Play Console user management: access requests, permission groups, and more](http://android-developers.googleblog.com/2021/09/improved-google-play-console-user.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 20 2021 - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 17 2021 - [Making permissions auto-reset available to billions more devices](http://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Sep 20 2021 - [Material Components: Dialogs - Material Moment](https://www.youtube.com/watch?v=H6SFTWGcHR8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
