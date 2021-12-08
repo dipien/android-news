@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2021 - [Organize your apps images with the image lists component #shorts](https://www.youtube.com/watch?v=DFsnPufyihk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://firebase.googleblog.com/2021/09/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
 
 ## Sources
 
