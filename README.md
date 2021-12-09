@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 09 2021 - [Android Developer Relations is hiring](https://medium.com/androiddevelopers/android-developer-relations-is-hiring-e9d42e8d59cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2021 - [Organize your apps images with the image lists component #shorts](https://www.youtube.com/watch?v=DFsnPufyihk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -63,7 +65,6 @@
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://android-developers.googleblog.com/2021/10/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Increasing User Transparency with Privacy Dashboard](https://medium.com/androiddevelopers/increasing-user-transparency-with-privacy-dashboard-23064f2d7ff6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 27 2021 - [Introducing Jetpack Media3](http://android-developers.googleblog.com/2021/10/jetpack-media3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Watch out for Wear OS at Android Dev Summit 2021](http://android-developers.googleblog.com/2021/10/wearos-at-ads-21.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://android-developers.googleblog.com/2021/10/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://firebase.googleblog.com/2021/09/uploading-dSYM-files-to-crashlytics-with-fastlane.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://firebase.googleblog.com/2021/09/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
+- Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
