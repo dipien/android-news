@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 09 2021 - [Gradle and AGP Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](https://medium.com/androiddevelopers/android-developer-relations-is-hiring-e9d42e8d59cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -11,7 +12,6 @@
 - Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 03 2021 - [A story of Android App Excellence: Headspace's reboot increases monthly active users by 15%](https://www.youtube.com/watch?v=t1qHL2KLLuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Dec 02 2021 - [Gradle and AGP Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android: 52 - Android Developers 1 million subscribers, Gradle, Accessibility, and much more!](https://www.youtube.com/watch?v=7lcIkxLe_g8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
