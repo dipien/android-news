@@ -11,6 +11,7 @@
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 03 2021 - [Building Shrine in Compose: Part 2 - Material Live](https://www.youtube.com/watch?v=T9uMu8nIVM0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 03 2021 - [A story of Android App Excellence: Headspace's reboot increases monthly active users by 15%](https://www.youtube.com/watch?v=t1qHL2KLLuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 02 2021 - [Now in Android: 52 - Android Developers 1 million subscribers, Gradle, Accessibility, and much more!](https://www.youtube.com/watch?v=7lcIkxLe_g8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://firebase.googleblog.com/2021/09/uploading-dSYM-files-to-crashlytics-with-fastlane.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://firebase.googleblog.com/2021/09/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://firebase.googleblog.com/2021/09/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
