@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 14 2021 - [Build your own custom funnel in Firebase/Google Analytics with BigQuery and Data Studio](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 11 2021 - [Accessibility scanner - Accessibility on Android](https://www.youtube.com/watch?v=i1gMzQv0hWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 09 2021 - [Gradle and AGP Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](https://medium.com/androiddevelopers/android-developer-relations-is-hiring-e9d42e8d59cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -18,6 +19,7 @@
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.googledevelopers.libsynpro.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 30 2021 - [Integrating Material menus into your website or app](https://www.youtube.com/watch?v=wUqr8h0X3Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 30 2021 - [Conveying state for Accessibility - Accessibility on Android](https://www.youtube.com/watch?v=JvWM2PjLJls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step - MAD Skills](https://www.youtube.com/watch?v=SB4QlngQQW0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -39,6 +41,7 @@
 - Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 12 2021 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -80,6 +83,7 @@
 - Oct 21 2021 - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 20 2021 - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://android-developers.googleblog.com/2021/10/android-devs-assemble.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 20 2021 - [Pinpointing API performance issues with Custom URL Patterns](http://firebase.googleblog.com/2021/10/performance-analysis-with-custom-url-patterns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
+- Oct 18 2021 - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 18 2021 - [Launching Data safety in Play Console: Elevating Privacy and Security for your users](http://android-developers.googleblog.com/2021/10/launching-data-safety-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2021 - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://android-developers.googleblog.com/2021/10/announcing-android-basics-in-kotlin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -96,11 +100,7 @@
 - Sep 29 2021 - [Android Dev Summit returns on October 27-28, 2021!](http://android-developers.googleblog.com/2021/09/android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 27 2021 - [Simplify the Process of Uploading iOS dSYM Files to Crashlytics with Fastlane](http://firebase.googleblog.com/2021/09/uploading-dSYM-files-to-crashlytics-with-fastlane.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Sep 24 2021 - [Converting between Firestore FieldValue and Variant](http://firebase.googleblog.com/2021/09/converting-firestore-fieldvalue-and-variant.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Sep 23 2021 - [Get Started with AB Testing and Remote Configuration in Firebase](https://medium.com/firebase-developers/get-started-with-ab-testing-and-remote-configuration-in-firebase-3dea904e8ac2?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Sep 22 2021 - [Diversify app revenue with hybrid monetization](https://medium.com/googleplaydev/diversify-app-revenue-with-hybrid-monetization-2fdb3e4dccc4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Sep 22 2021 - [Material Components: Lists](https://www.youtube.com/watch?v=8EnHWzJyHIU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 21 2021 - [Improved Google Play Console user management: access requests, permission groups, and more](http://android-developers.googleblog.com/2021/09/improved-google-play-console-user.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Sep 27 2021 - [Episode 176: Android 12 - S stands for System UI](http://adbackstage.googledevelopers.libsynpro.com/episode-176-android-12-s-stands-for-system-ui) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
