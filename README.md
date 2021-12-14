@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Launching Notes from Google Play](https://www.youtube.com/watch?v=WINMwDqax0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2021 - [Making scannable and actional lists in your app with Material lists #shorts](https://www.youtube.com/watch?v=bxWSC5ihN9Q) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,7 +100,6 @@
 - Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Sep 29 2021 - [Android Dev Summit returns on October 27-28, 2021!](http://android-developers.googleblog.com/2021/09/android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
