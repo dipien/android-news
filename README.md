@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 15 2021 - [Simplifying drag and drop](https://medium.com/androiddevelopers/simplifying-drag-and-drop-3713d6ef526e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Dec 15 2021 - [Building Shrine in Compose: Part 2 - Material Live](https://www.youtube.com/watch?v=T9uMu8nIVM0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Dec 15 2021 - [Gradle and AGP Build APIs: Community tip - MAD Skills](https://www.youtube.com/watch?v=8SFfffaB0CU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2021 - [Announcing Jetpack Glance Alpha for app widgets](http://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Launching Notes from Google Play](https://www.youtube.com/watch?v=WINMwDqax0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -17,7 +20,6 @@
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 03 2021 - [Building Shrine in Compose: Part 2 - Material Live](https://www.youtube.com/watch?v=T9uMu8nIVM0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 03 2021 - [A story of Android App Excellence: Headspace's reboot increases monthly active users by 15%](https://www.youtube.com/watch?v=t1qHL2KLLuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 02 2021 - [Now in Android: 52 - Android Developers 1 million subscribers, Gradle, Accessibility, and much more!](https://www.youtube.com/watch?v=7lcIkxLe_g8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -38,7 +40,6 @@
 - Nov 23 2021 - [Enhance your adaptive layout with navigation rails #shorts](https://www.youtube.com/watch?v=IZSWNxBs8DA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 22 2021 - [Gradle and AGP Build APIs: How to write a plugin - MAD Skills](https://www.youtube.com/watch?v=LPzBVtwGxlo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 19 2021 - [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 19 2021 - [#AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2021 - [Gradle and AGP build APIs: Configure your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -66,7 +67,6 @@
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Nov 04 2021 - [Firebase Summit Leadership Panel](https://www.youtube.com/watch?v=joadAuHOXE8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 03 2021 - [Now in Android #50 — ADS Special](https://medium.com/androiddevelopers/now-in-android-50-ads-special-9934422f8dd1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 02 2021 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
