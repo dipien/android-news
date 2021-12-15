@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 14 2021 - [Launching notes from Google Play](https://www.youtube.com/watch?v=WINMwDqax0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 14 2021 - [Launching Notes from Google Play](https://www.youtube.com/watch?v=WINMwDqax0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2021 - [Making scannable and actional lists in your app with Material lists #shorts](https://www.youtube.com/watch?v=bxWSC5ihN9Q) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Build your own custom funnel in Firebase/Google Analytics with BigQuery and Data Studio](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
