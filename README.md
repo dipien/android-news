@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.googledevelopers.libsynpro.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 15 2021 - [Simplifying drag and drop](https://medium.com/androiddevelopers/simplifying-drag-and-drop-3713d6ef526e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 15 2021 - [Building Shrine in Compose: Part 2 - Material Live](https://www.youtube.com/watch?v=T9uMu8nIVM0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 15 2021 - [Gradle and AGP Build APIs: Community tip - MAD Skills](https://www.youtube.com/watch?v=8SFfffaB0CU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Oct 01 2021 - [Answering your top questions on Android Game Development Kit](http://android-developers.googleblog.com/2021/10/answering-your-top-questions-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Sep 29 2021 - [Material Components: Image lists](https://www.youtube.com/watch?v=VFL8yud3eVU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Sep 30 2021 - [Best practices for launching a sequel to your mobile game](https://medium.com/googleplaydev/best-practices-for-launching-a-sequel-to-your-mobile-game-1e2d9eed4ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
 
 ## Sources
 
