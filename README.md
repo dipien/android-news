@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.googledevelopers.libsynpro.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
 - Dec 15 2021 - [Simplifying drag and drop](https://medium.com/androiddevelopers/simplifying-drag-and-drop-3713d6ef526e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -98,7 +99,6 @@
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://firebase.googleblog.com/2021/10/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 04 2021 - [Android 12 is live in AOSP!](http://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 01 2021 - [Answering your top questions on Android Game Development Kit](http://android-developers.googleblog.com/2021/10/answering-your-top-questions-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
