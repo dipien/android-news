@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 20 2021 - [Use date pickers to quickly build an interface that allows users to select a date in an app #shorts](https://www.youtube.com/watch?v=bBvjv5LeCHw) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2021 - [Now in Android #53](https://medium.com/androiddevelopers/now-in-android-53-2e79f95957c5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 17 2021 - [Now in Android: 53 - Android 12, Compose, MAD Skills, and much more!](https://www.youtube.com/watch?v=rGYN-FHBHZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 05 2021 - [Register now for Firebase Summit 2021](http://firebase.googleblog.com/2021/10/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 05 2021 - [Theater candy and designing for Android - Snackbar ft. Rebecca Franks](https://www.youtube.com/watch?v=Du6AdFUjy1A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Sep 30 2021 - [Material Components: Tabs - Material Moment](https://www.youtube.com/watch?v=kmg5xA1HE08) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Sep 30 2021 - [Analytics Labels for Messaging Campaigns](http://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
