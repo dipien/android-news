@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 21 2021 - [Overlay additional info anchored to the bottom of your user’s app screen with bottom sheets #Shorts](https://www.youtube.com/watch?v=cFjyJ-rR5kA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 20 2021 - [Use date pickers to quickly build an interface that allows users to select a date in an app #shorts](https://www.youtube.com/watch?v=bBvjv5LeCHw) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -86,7 +87,6 @@
 - Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)
 - Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://android-developers.googleblog.com/2021/10/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 26 2021 - [Firebase Release Notes October ‘21: Flutter Realtime Database on Web, FCM, and t-shirt give-away!](https://www.youtube.com/watch?v=-W-xHsbPFuI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 21 2021 - [Evolving our business model to address developer needs](http://android-developers.googleblog.com/2021/10/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
