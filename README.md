@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 28 2021 - [Adding side sheets to your app or website’s UI #shorts](https://www.youtube.com/watch?v=yba_Y6kloqs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 22 2021 - [Accessibility test framework and Espresso - Accessibility on Android](https://www.youtube.com/watch?v=DLN2s16HwcE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Oct 15 2021 - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://android-developers.googleblog.com/2021/10/announcing-android-basics-in-kotlin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 13 2021 - [Protecting your backends with Firebase App Check](http://firebase.googleblog.com/2021/10/protecting-backends-with-app-check.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 05 2021 - [Register now for Firebase Summit 2021](http://firebase.googleblog.com/2021/10/FirebaseSummit.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Oct 12 2021 - [Compose for Wear OS now in Developer Preview!](http://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
