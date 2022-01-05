@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 05 2022 - [Testing the Shrine theme](https://www.youtube.com/watch?v=7DRRWi6iiBE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 05 2022 - [Setting up the Shrine theme](https://www.youtube.com/watch?v=OVWjF3fAeJ4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 05 2022 - [Basics of Jetpack Compose in Android Studio](https://www.youtube.com/watch?v=NKmd-mFnro0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 04 2022 - [How to get the most out of tabs in your app or website #shorts](https://www.youtube.com/watch?v=MHtZryxl7os) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 30 2021 - [Android Developers 21 for ‘21](https://www.youtube.com/watch?v=PpizrcJv8pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 28 2021 - [Adding side sheets to your app or website’s UI #shorts](https://www.youtube.com/watch?v=yba_Y6kloqs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -71,7 +76,6 @@
 - Nov 10 2021 - [What's new in Firebase 2021 - Keynote](https://www.youtube.com/watch?v=irHj9k2kFkQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 09 2021 - [Spicy snacks and building design community - Snackbar ft. Rebecca Brooker](https://www.youtube.com/watch?v=gs-bL6AhkBk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 08 2021 - [Automate your pre-release testing with the App Distribution REST API](http://firebase.googleblog.com/2021/11/app-distribution-rest-api.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://firebase.googleblog.com/2021/11/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
@@ -96,11 +100,7 @@
 - Oct 21 2021 - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 20 2021 - [Android Devs assemble: help Team Jetpack fight the bugs of chaos at #AndroidDevSummit + agenda now live!](http://android-developers.googleblog.com/2021/10/android-devs-assemble.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 20 2021 - [Pinpointing API performance issues with Custom URL Patterns](http://firebase.googleblog.com/2021/10/performance-analysis-with-custom-url-patterns.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Oct 18 2021 - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 18 2021 - [Launching Data safety in Play Console: Elevating Privacy and Security for your users](http://android-developers.googleblog.com/2021/10/launching-data-safety-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 15 2021 - [Communicate app information that needs to be addressed with Material banners #shorts](https://www.youtube.com/watch?v=cXL3zbfPDmM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Oct 14 2021 - [Announcing the Android Basics in Kotlin Course](http://android-developers.googleblog.com/2021/10/announcing-android-basics-in-kotlin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 13 2021 - [Protecting your backends with Firebase App Check](http://firebase.googleblog.com/2021/10/protecting-backends-with-app-check.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Oct 18 2021 - [Episode 177: Honor every photon](http://adbackstage.googledevelopers.libsynpro.com/episode-177-honor-every-photon) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
