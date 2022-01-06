@@ -6,6 +6,7 @@
 - Jan 05 2022 - [Testing the Shrine theme](https://www.youtube.com/watch?v=7DRRWi6iiBE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Setting up the Shrine theme](https://www.youtube.com/watch?v=OVWjF3fAeJ4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Basics of Jetpack Compose in Android Studio](https://www.youtube.com/watch?v=NKmd-mFnro0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 05 2022 - [Using Block Patterns with Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin-030) - [Material Design Blog](https://material.io/blog)
 - Jan 04 2022 - [How to get the most out of tabs in your app or website #shorts](https://www.youtube.com/watch?v=MHtZryxl7os) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 30 2021 - [Android Developers 21 for ‘21](https://www.youtube.com/watch?v=PpizrcJv8pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 28 2021 - [Adding side sheets to your app or website’s UI #shorts](https://www.youtube.com/watch?v=yba_Y6kloqs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Sep 10 2021 - [Improvements to Crashlytics for Game Developers](http://firebase.googleblog.com/2021/09/improvements-to-crashlytics-for-game-developers.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 09 2021 - [Episode 174: Compose tooling](http://adbackstage.googledevelopers.libsynpro.com/episode-174-compose-tooling) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 09 2021 - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts) - [Material Design Blog](https://material.io/blog)
-- Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)
-- Aug 27 2021 - [Firebase SDK for Apple now fully supports Swift Package Manager](http://firebase.googleblog.com/2021/08/firebase-swift-package-manager.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
