@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.googledevelopers.libsynpro.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Testing the Shrine theme](https://www.youtube.com/watch?v=7DRRWi6iiBE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -51,7 +53,6 @@
 - Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 15 2021 - [Disable app functionality until an action has been taken with Material dialogs #shorts](https://www.youtube.com/watch?v=wXOHNJEBCNc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.googledevelopers.libsynpro.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Sep 14 2021 - [Episode 175: Lottie](http://adbackstage.googledevelopers.libsynpro.com/episode-175-lottie) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 10 2021 - [Improvements to Crashlytics for Game Developers](http://firebase.googleblog.com/2021/09/improvements-to-crashlytics-for-game-developers.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Sep 09 2021 - [Episode 174: Compose tooling](http://adbackstage.googledevelopers.libsynpro.com/episode-174-compose-tooling) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 09 2021 - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts) - [Material Design Blog](https://material.io/blog)
-- Aug 30 2021 - [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 09 2021 - [How to Reduce Layout Reflow When Using Web Fonts](https://material.io/blog/reduce-reflow-with-web-fonts) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
