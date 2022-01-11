@@ -41,7 +41,7 @@
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.googledevelopers.libsynpro.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 30 2021 - [Integrating Material menus into your website or app](https://www.youtube.com/watch?v=wUqr8h0X3Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Nov 30 2021 - [Integrating Material menus into your website or app #shorts](https://www.youtube.com/watch?v=wUqr8h0X3Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 30 2021 - [Conveying state for Accessibility - Accessibility on Android](https://www.youtube.com/watch?v=JvWM2PjLJls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step - MAD Skills](https://www.youtube.com/watch?v=SB4QlngQQW0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [5 things you need to know about Google Play - LATAM Apps Week](https://www.youtube.com/watch?v=xrykBD9MtD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
