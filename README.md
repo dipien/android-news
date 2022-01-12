@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.googledevelopers.libsynpro.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -83,7 +84,6 @@
 - Nov 08 2021 - [Automate your pre-release testing with the App Distribution REST API](http://firebase.googleblog.com/2021/11/app-distribution-rest-api.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://firebase.googleblog.com/2021/11/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Nov 04 2021 - [Firebase Summit Leadership Panel](https://www.youtube.com/watch?v=joadAuHOXE8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
