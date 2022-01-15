@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 15 2022 - [On Device Watch Next - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=QFMIP5GOo70) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.googledevelopers.libsynpro.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -56,7 +57,6 @@
 - Nov 29 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step - MAD Skills](https://www.youtube.com/watch?v=SB4QlngQQW0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [5 things you need to know about Google Play - LATAM Apps Week](https://www.youtube.com/watch?v=xrykBD9MtD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [5 things you need to know about user acquisition - LATAM Apps Week](https://www.youtube.com/watch?v=VqaQHGsMKs4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 24 2021 - [Developing for success - LATAM Apps Week](https://www.youtube.com/watch?v=cBMiVJOtL4E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [Gradle and AGP build APIs: How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 23 2021 - [Enhance your adaptive layout with navigation rails #shorts](https://www.youtube.com/watch?v=IZSWNxBs8DA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
