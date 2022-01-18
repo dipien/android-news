@@ -3,6 +3,7 @@
 <!-- NEWS:START -->
 - Jan 18 2022 - [Introduction to DataStore - MAD Skills](https://www.youtube.com/watch?v=mdQjuZbLv9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 18 2022 - [Introduction to Jetpack DataStore](https://medium.com/androiddevelopers/introduction-to-jetpack-datastore-3dc8d74139e7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2022 - [DataStore - MAD Skills](https://www.youtube.com/watch?v=9ws-cJzlJkU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -73,7 +74,6 @@
 - Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [Now in Android #51 — ADS Recap Part 2](https://medium.com/androiddevelopers/now-in-android-51-ads-recap-part-2-188cb7e62e15?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
