@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 18 2022 - [Introduction to DataStore - MAD Skills](https://www.youtube.com/watch?v=mdQjuZbLv9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2022 - [DataStore - MAD Skills](https://www.youtube.com/watch?v=9ws-cJzlJkU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -58,7 +60,6 @@
 - Nov 30 2021 - [Integrating Material menus into your website or app #shorts](https://www.youtube.com/watch?v=wUqr8h0X3Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 30 2021 - [Conveying state for Accessibility - Accessibility on Android](https://www.youtube.com/watch?v=JvWM2PjLJls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step - MAD Skills](https://www.youtube.com/watch?v=SB4QlngQQW0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 24 2021 - [5 things you need to know about Google Play - LATAM Apps Week](https://www.youtube.com/watch?v=xrykBD9MtD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [Gradle and AGP build APIs: How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2021 - [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -78,7 +79,6 @@
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Personalization and A/B Testing: How to create better experiences for users](https://www.youtube.com/watch?v=p2jefhDvGn0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Build your retail app with Firebase extensions](https://www.youtube.com/watch?v=nhCbAezbiQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [What's new in Firebase 2021 - Keynote](https://www.youtube.com/watch?v=irHj9k2kFkQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
