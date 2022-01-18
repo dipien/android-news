@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2022 - [DataStore - MAD Skills](https://www.youtube.com/watch?v=9ws-cJzlJkU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 15 2022 - [On Device Watch Next - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=QFMIP5GOo70) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -59,7 +61,6 @@
 - Nov 24 2021 - [5 things you need to know about Google Play - LATAM Apps Week](https://www.youtube.com/watch?v=xrykBD9MtD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 24 2021 - [Gradle and AGP build APIs: How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 23 2021 - [Enhance your adaptive layout with navigation rails #shorts](https://www.youtube.com/watch?v=IZSWNxBs8DA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 19 2021 - [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2021 - [Gradle and AGP build APIs: Configure your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://android-developers.googleblog.com/2021/10/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2021 - [What is FCM Aggregated Delivery Data?](https://medium.com/firebase-developers/what-is-fcm-aggregated-delivery-data-d6d68396b83b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 21 2021 - [Evolving our business model to address developer needs](http://android-developers.googleblog.com/2021/10/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 21 2021 - [Make sure Firebase is giving you real user data](https://medium.com/firebase-developers/make-sure-firebase-is-giving-you-real-user-data-bdf4b11cc941?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Oct 21 2021 - [Evolving our business model to address developer needs](http://android-developers.googleblog.com/2021/10/evolving-business-model.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
