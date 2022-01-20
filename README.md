@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Jan 20 2022 - [Android Basics and Training Update](http://android-developers.googleblog.com/2022/01/android-basics-and-training-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
 - Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 19 2022 - [Authenticating on Android with the AppAuth Library](https://medium.com/androiddevelopers/authenticating-on-android-with-the-appauth-library-7bea226555d5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 18 2022 - [Jetnews for every screen](https://medium.com/androiddevelopers/jetnews-for-every-screen-4d8e7927752?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Oct 27 2021 - [Introducing Material Theme Builder](https://material.io/blog/material-theme-builder) - [Material Design Blog](https://material.io/blog)
 - Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)
 - Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)
-- Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://android-developers.googleblog.com/2021/10/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 26 2021 - [How to Use Codable in Firebase Realtime Database](https://medium.com/firebase-developers/how-to-use-codable-in-firebase-realtime-database-60d6299369f1?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Oct 26 2021 - [Here’s how to watch the 2021 Android Dev Summit!](http://android-developers.googleblog.com/2021/10/how-to-watch-android-dev-2021.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
