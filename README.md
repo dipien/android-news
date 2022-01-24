@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 24 2022 - [All about Preferences DataStore](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 21 2022 - [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 21 2022 - [Now in Android: 54 - Gradle, DataStore, AndroidX, Glance, and more!](https://www.youtube.com/watch?v=AjVShjnCJW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -69,7 +70,6 @@
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.googledevelopers.libsynpro.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 30 2021 - [Integrating Material menus into your website or app #shorts](https://www.youtube.com/watch?v=wUqr8h0X3Ho) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Nov 24 2021 - [Gradle and AGP build APIs: How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
