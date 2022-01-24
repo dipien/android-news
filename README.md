@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 21 2022 - [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 21 2022 - [Now in Android: 54 - Gradle, DataStore, AndroidX, Glance, and more!](https://www.youtube.com/watch?v=AjVShjnCJW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 21 2022 - [Now in Android #54](https://medium.com/androiddevelopers/now-in-android-54-f9cbc3119514?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
 - Oct 27 2021 - [Introducing Material Theme Builder](https://material.io/blog/material-theme-builder) - [Material Design Blog](https://material.io/blog)
-- Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)
-- Oct 27 2021 - [Start building with Material You](https://material.io/blog/start-building-with-material-you) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
