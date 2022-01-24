@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 24 2022 - [Preferences DataStore - MAD Skills](https://www.youtube.com/watch?v=kp53qL_O5gk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2022 - [All about Preferences DataStore](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 21 2022 - [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -64,7 +65,6 @@
 - Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 03 2021 - [A story of Android App Excellence: Headspace's reboot increases monthly active users by 15%](https://www.youtube.com/watch?v=t1qHL2KLLuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Dec 02 2021 - [Now in Android: 52 - Android Developers 1 million subscribers, Gradle, Accessibility, and much more!](https://www.youtube.com/watch?v=7lcIkxLe_g8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
