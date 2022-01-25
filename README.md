@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 25 2022 - [Android Studio Bumblebee (2021.1.1) Stable](http://android-developers.googleblog.com/2022/01/android-studio-bumblebee-202111-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jan 25 2022 - [What's new in Android Studio Bumblebee](https://www.youtube.com/watch?v=rIt13HjCRiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 24 2022 - [Preferences DataStore - MAD Skills](https://www.youtube.com/watch?v=kp53qL_O5gk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2022 - [All about Preferences DataStore](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -64,7 +67,6 @@
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 03 2021 - [A story of Android App Excellence: Headspace's reboot increases monthly active users by 15%](https://www.youtube.com/watch?v=t1qHL2KLLuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -83,7 +85,6 @@
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Personalization and A/B Testing: How to create better experiences for users](https://www.youtube.com/watch?v=p2jefhDvGn0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [Build your retail app with Firebase extensions](https://www.youtube.com/watch?v=nhCbAezbiQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -99,8 +100,7 @@
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://android-developers.googleblog.com/2021/10/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [How to get better insight into push notification delivery](http://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
-- Oct 27 2021 - [Introducing Material Theme Builder](https://material.io/blog/material-theme-builder) - [Material Design Blog](https://material.io/blog)
-- Oct 27 2021 - [Design to Code: Turning Handoffs Into High-fives](https://material.io/blog/designtocode) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Oct 27 2021 - [Introducing Material Theme Builder](https://material.io/blog/material-theme-builder) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
