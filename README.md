@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 26 2022 - [Announcing Glance: Tiles for Wear OS made simple](http://android-developers.googleblog.com/2022/01/announcing-glance-tiles-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Jan 25 2022 - [Android Studio Bumblebee (2021.1.1) Stable](http://android-developers.googleblog.com/2022/01/android-studio-bumblebee-202111-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 25 2022 - [What's new in Android Studio Bumblebee](https://www.youtube.com/watch?v=rIt13HjCRiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -98,9 +100,7 @@
 - Oct 27 2021 - [Introducing Jetpack Media3](http://android-developers.googleblog.com/2021/10/jetpack-media3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Watch out for Wear OS at Android Dev Summit 2021](http://android-developers.googleblog.com/2021/10/wearos-at-ads-21.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [What's New in Scalable Automated Testing](http://android-developers.googleblog.com/2021/10/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [How to get better insight into push notification delivery](http://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Oct 27 2021 - [Migrating to Material Design 3](https://material.io/blog/migrating-material-3) - [Material Design Blog](https://material.io/blog)
-- Oct 27 2021 - [Introducing Material Theme Builder](https://material.io/blog/material-theme-builder) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Oct 27 2021 - [How to get better insight into push notification delivery](http://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
