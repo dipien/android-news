@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Jan 27 2022 - [Google Play Billing Demystified #1](https://medium.com/googleplaydev/google-play-billing-demystified-1-a0c80aeabfe7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
+- Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
 - Jan 26 2022 - [Announcing Glance: Tiles for Wear OS made simple](http://android-developers.googleblog.com/2022/01/announcing-glance-tiles-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Jan 25 2022 - [Android Studio Bumblebee (2021.1.1) Stable](http://android-developers.googleblog.com/2022/01/android-studio-bumblebee-202111-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://android-developers.googleblog.com/2021/10/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Introducing Jetpack Media3](http://android-developers.googleblog.com/2021/10/jetpack-media3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Watch out for Wear OS at Android Dev Summit 2021](http://android-developers.googleblog.com/2021/10/wearos-at-ads-21.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [What's New in Scalable Automated Testing](http://android-developers.googleblog.com/2021/10/whats-new-in-scalable-automated-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Oct 27 2021 - [Watch out for Wear OS at Android Dev Summit 2021](http://android-developers.googleblog.com/2021/10/wearos-at-ads-21.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
