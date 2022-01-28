@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 28 2022 - [Improving App Performance with Baseline Profiles](http://android-developers.googleblog.com/2022/01/improving-app-performance-with-baseline.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://android-developers.googleblog.com/2021/10/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Introducing Jetpack Media3](http://android-developers.googleblog.com/2021/10/jetpack-media3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://android-developers.googleblog.com/2021/10/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
