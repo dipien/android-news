@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 31 2022 - [All about Proto DataStore](https://medium.com/androiddevelopers/all-about-proto-datastore-1b1af6cd2879?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jan 31 2022 - [Proto DataStore - MAD Skills](https://www.youtube.com/watch?v=aYhgwII6_VM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 28 2022 - [Improving App Performance with Baseline Profiles](http://android-developers.googleblog.com/2022/01/improving-app-performance-with-baseline.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -73,10 +75,8 @@
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 03 2021 - [Handling content that times out - Accessibility on Android](https://www.youtube.com/watch?v=X97P6Y8WHl0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 02 2021 - [Now in Android #52](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 01 2021 - [Gradle and AGP Build APIs: Taking your plugin to the next step!](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-taking-your-plugin-to-the-next-step-95e7bd1cd4c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.libsyn.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
