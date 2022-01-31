@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 28 2022 - [Improving App Performance with Baseline Profiles](http://android-developers.googleblog.com/2022/01/improving-app-performance-with-baseline.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Driving app and career growth with Google Play Academy’s Store Listing Certificate](http://android-developers.googleblog.com/2021/10/driving-app-career-growth-play-academy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
