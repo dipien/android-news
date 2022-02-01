@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 01 2022 - [Grow your game’s revenue with Google Play Console’s new strategic guidance](http://android-developers.googleblog.com/2022/02/grow-your-games-revenue-with-google.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [All about Proto DataStore](https://medium.com/androiddevelopers/all-about-proto-datastore-1b1af6cd2879?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 31 2022 - [Proto DataStore - MAD Skills](https://www.youtube.com/watch?v=aYhgwII6_VM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -98,9 +100,7 @@
 - Nov 08 2021 - [Automate your pre-release testing with the App Distribution REST API](http://firebase.googleblog.com/2021/11/app-distribution-rest-api.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://firebase.googleblog.com/2021/11/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [12L and new Android APIs and tools for large screens](http://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2021 - [Google Play updates from #AndroidDevSummit](http://android-developers.googleblog.com/2021/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
