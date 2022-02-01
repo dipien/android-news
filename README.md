@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 01 2022 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2022 - [Grow your game’s revenue with Google Play Console’s new strategic guidance](http://android-developers.googleblog.com/2022/02/grow-your-games-revenue-with-google.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [All about Proto DataStore](https://medium.com/androiddevelopers/all-about-proto-datastore-1b1af6cd2879?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -93,7 +94,6 @@
 - Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [Personalization and A/B Testing: How to create better experiences for users](https://www.youtube.com/watch?v=p2jefhDvGn0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
