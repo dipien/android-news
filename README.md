@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 02 2022 - [Calling asynchronous Firebase APIs from Swift](https://medium.com/firebase-developers/calling-asynchronous-firebase-apis-from-swift-757e8207df54?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 01 2022 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2022 - [Grow your game’s revenue with Google Play Console’s new strategic guidance](http://android-developers.googleblog.com/2022/02/grow-your-games-revenue-with-google.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - Nov 09 2021 - [How StretchMinder uses Firebase](https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 08 2021 - [Automate your pre-release testing with the App Distribution REST API](http://firebase.googleblog.com/2021/11/app-distribution-rest-api.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Nov 05 2021 - [Improving the Google Analytics dashboard in Firebase](http://firebase.googleblog.com/2021/11/updated-google-analytics-dashboard.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Oct 27 2021 - [What’s new for Android developers at #AndroidDevSummit’21](http://android-developers.googleblog.com/2021/10/ads21-keynote-wrap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Nov 05 2021 - [Experiment with localized items and characters](https://medium.com/googleplaydev/experiment-with-localized-items-and-characters-822cc8f17420?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
 
 ## Sources
 
