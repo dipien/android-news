@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 07 2022 - [DataStore: Best practices - MAD Skills](https://www.youtube.com/watch?v=S10ci36lBJ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 02 2022 - [Smule Adopts Google’s Oboe to Improve Recording Quality & Completion Rates](http://android-developers.googleblog.com/2022/02/smule-adopts-googles-oboe-to-improve.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -75,7 +76,6 @@
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Build your own custom funnels using BigQuery and Data Studio with Google Analytics](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 11 2021 - [Accessibility scanner - Accessibility on Android](https://www.youtube.com/watch?v=i1gMzQv0hWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 09 2021 - [Gradle and AGP Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](https://medium.com/androiddevelopers/android-developer-relations-is-hiring-e9d42e8d59cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
