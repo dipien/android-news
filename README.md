@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 08 2022 - [Premiering tomorrow! Learn how to design beautiful animations in Jetpack Compose  #shorts](https://www.youtube.com/watch?v=PdNBwEoprvw) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 07 2022 - [DataStore: Best practices - MAD Skills](https://www.youtube.com/watch?v=S10ci36lBJ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -56,7 +57,6 @@
 - Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Testing the Shrine theme](https://www.youtube.com/watch?v=7DRRWi6iiBE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Setting up the Shrine theme](https://www.youtube.com/watch?v=OVWjF3fAeJ4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 05 2022 - [Basics of Jetpack Compose in Android Studio](https://www.youtube.com/watch?v=NKmd-mFnro0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Using Block Patterns with Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin-030) - [Material Design Blog](https://material.io/blog)
 - Dec 30 2021 - [Android Developers 21 for ‘21](https://www.youtube.com/watch?v=PpizrcJv8pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2021 - [Accessibility test framework and Espresso - Accessibility on Android](https://www.youtube.com/watch?v=DLN2s16HwcE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
