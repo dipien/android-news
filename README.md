@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 09 2022 - [JankStats Goes Alpha](https://medium.com/androiddevelopers/jankstats-goes-alpha-8aff942255d5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Feb 09 2022 - [DataStore and Kotlin serialization](https://medium.com/androiddevelopers/datastore-and-kotlin-serialization-8b25bf0be66c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Feb 09 2022 - [Jetpack Compose 1.1 is now stable!](http://android-developers.googleblog.com/2022/02/jetpack-compose-11-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 08 2022 - [Chrome’s multitasking usage increases 18x on large screens](http://android-developers.googleblog.com/2022/02/chromes-multitasking-usage-increases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2022 - [DataStore and dependency injection](https://medium.com/androiddevelopers/datastore-and-dependency-injection-ea32b95704e3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -70,7 +73,6 @@
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
-- Dec 15 2021 - [Simplifying drag and drop](https://medium.com/androiddevelopers/simplifying-drag-and-drop-3713d6ef526e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 15 2021 - [Gradle and AGP Build APIs: Community tip - MAD Skills](https://www.youtube.com/watch?v=8SFfffaB0CU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2021 - [Announcing Jetpack Glance Alpha for app widgets](http://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -78,7 +80,6 @@
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Build your own custom funnels using BigQuery and Data Studio with Google Analytics](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 11 2021 - [Accessibility scanner - Accessibility on Android](https://www.youtube.com/watch?v=i1gMzQv0hWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 09 2021 - [Android Developer Relations is hiring](https://medium.com/androiddevelopers/android-developer-relations-is-hiring-e9d42e8d59cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
