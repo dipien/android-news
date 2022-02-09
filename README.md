@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 08 2022 - [Chrome’s multitasking usage increases 18x on large screens](http://android-developers.googleblog.com/2022/02/chromes-multitasking-usage-increases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2022 - [DataStore and dependency injection](https://medium.com/androiddevelopers/datastore-and-dependency-injection-ea32b95704e3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 08 2022 - [Premiering tomorrow! Learn how to design beautiful animations in Jetpack Compose  #shorts](https://www.youtube.com/watch?v=PdNBwEoprvw) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -39,7 +40,6 @@
 - Jan 21 2022 - [Now in Android #54](https://medium.com/androiddevelopers/now-in-android-54-f9cbc3119514?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 21 2022 - [Google Play Games beta launches on PC in Korea, Taiwan, and Hong Kong](http://android-developers.googleblog.com/2022/01/googleplaygames.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 20 2022 - [Android Basics and Training Update](http://android-developers.googleblog.com/2022/01/android-basics-and-training-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 20 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
 - Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 19 2022 - [Authenticating on Android with the AppAuth Library](https://medium.com/androiddevelopers/authenticating-on-android-with-the-appauth-library-7bea226555d5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
