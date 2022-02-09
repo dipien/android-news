@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 08 2022 - [Chrome’s multitasking usage increases 18x on large screens](http://android-developers.googleblog.com/2022/02/chromes-multitasking-usage-increases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2022 - [DataStore and dependency injection](https://medium.com/androiddevelopers/datastore-and-dependency-injection-ea32b95704e3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 08 2022 - [Premiering tomorrow! Learn how to design beautiful animations in Jetpack Compose  #shorts](https://www.youtube.com/watch?v=PdNBwEoprvw) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 07 2022 - [DataStore: Best practices - MAD Skills](https://www.youtube.com/watch?v=S10ci36lBJ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [Crashlytics for game developers](https://www.youtube.com/watch?v=G1PzMgMAdg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 10 2021 - [What’s new at Firebase Summit 2021](http://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 08 2021 - [Automate your pre-release testing with the App Distribution REST API](http://firebase.googleblog.com/2021/11/app-distribution-rest-api.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Nov 10 2021 - [#AndroidDevSummit: Jetpack Compose now with Material You](http://android-developers.googleblog.com/2021/11/ads21-compose-material-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
