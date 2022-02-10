@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 10 2022 - [The first developer preview of Android 13](http://android-developers.googleblog.com/2022/02/first-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Feb 10 2022 - [DataStore and synchronous work](https://medium.com/androiddevelopers/datastore-and-synchronous-work-576f3869ec4c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Feb 10 2022 - [3 easy tips for calling async APIs - Firebase & SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 10 2022 - [Material You: Coming to more Android devices near you](http://android-developers.googleblog.com/2022/02/material-you-coming-to-more-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
 - Feb 09 2022 - [JankStats Goes Alpha](https://medium.com/androiddevelopers/jankstats-goes-alpha-8aff942255d5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -70,7 +73,6 @@
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 17 2021 - [Now in Android #53](https://medium.com/androiddevelopers/now-in-android-53-2e79f95957c5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 17 2021 - [Now in Android: 53 - Android 12, Compose, MAD Skills, and much more!](https://www.youtube.com/watch?v=rGYN-FHBHZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -98,9 +100,7 @@
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.libsyn.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [Firebase Summit 2021 - Livestream](https://www.youtube.com/watch?v=BlMZ0XK8ZOI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 10 2021 - [How to use App Check to protect your custom backend](https://www.youtube.com/watch?v=DEV372Kof0g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
