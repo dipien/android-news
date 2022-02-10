@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 10 2022 - [Now in Android: 55 - Android Studio, DataStore, Glance, and more!](https://www.youtube.com/watch?v=Hc79sDi3f0U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 10 2022 - [The first developer preview of Android 13](http://android-developers.googleblog.com/2022/02/first-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [DataStore and synchronous work](https://medium.com/androiddevelopers/datastore-and-synchronous-work-576f3869ec4c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 10 2022 - [3 easy tips for calling async APIs - Firebase & SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -83,7 +84,6 @@
 - Dec 14 2021 - [Launching notes from Google Play](https://www.youtube.com/watch?v=WINMwDqax0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Build your own custom funnels using BigQuery and Data Studio with Google Analytics](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 11 2021 - [Accessibility scanner - Accessibility on Android](https://www.youtube.com/watch?v=i1gMzQv0hWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
