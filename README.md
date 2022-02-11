@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 11 2022 - [Write better tests with the new testing guidance](http://android-developers.googleblog.com/2022/02/write-better-tests-with-new-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [Now in Android: 55 - Android Studio, DataStore, Glance, and more!](https://www.youtube.com/watch?v=Hc79sDi3f0U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 10 2022 - [The first developer preview of Android 13](http://android-developers.googleblog.com/2022/02/first-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [DataStore and synchronous work](https://medium.com/androiddevelopers/datastore-and-synchronous-work-576f3869ec4c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2021 - [Episode 178: Hosts 3, Guests 0](http://adbackstage.libsyn.com/episode-178-hosts-3-guests-0) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 12 2021 - [#AskFirebase Live - Firebase Summit 2021](https://www.youtube.com/watch?v=dVeH4aSzdE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 11 2021 - [What's new in Firebase 2021 - Recap](https://www.youtube.com/watch?v=_ZMfTQZuP-Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Nov 11 2021 - [Introducing Personalization in Remote Config](https://www.youtube.com/watch?v=-PpE1QhZjPE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
