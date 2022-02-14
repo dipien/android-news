@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 14 2022 - [DataStore: Best practices (part 2) - MAD Skills](https://www.youtube.com/watch?v=ZqlZnSdSqI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 11 2022 - [Now in Android #55](https://medium.com/androiddevelopers/now-in-android-55-ff44f10d7d28?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 11 2022 - [Write better tests with the new testing guidance](http://android-developers.googleblog.com/2022/02/write-better-tests-with-new-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -83,7 +84,6 @@
 - Dec 15 2021 - [Gradle and AGP Build APIs: Community tip - MAD Skills](https://www.youtube.com/watch?v=8SFfffaB0CU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2021 - [Announcing Jetpack Glance Alpha for app widgets](http://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 14 2021 - [Launching notes from Google Play](https://www.youtube.com/watch?v=WINMwDqax0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Build your own custom funnels using BigQuery and Data Studio with Google Analytics](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
