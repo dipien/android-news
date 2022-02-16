@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 16 2022 - [DataStore: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=kzYKdog9S1k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 16 2022 - [DataStore and testing](https://medium.com/androiddevelopers/datastore-and-testing-edf7ae8df3d8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2022 - [DataStore and data migration](https://medium.com/androiddevelopers/datastore-and-data-migration-fdca806eb1aa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
@@ -83,7 +84,6 @@
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
-- Dec 15 2021 - [Gradle and AGP Build APIs: Community tip - MAD Skills](https://www.youtube.com/watch?v=8SFfffaB0CU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2021 - [Announcing Jetpack Glance Alpha for app widgets](http://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
