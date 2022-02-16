@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 16 2022 - [DataStore and testing](https://medium.com/androiddevelopers/datastore-and-testing-edf7ae8df3d8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2022 - [DataStore and data migration](https://medium.com/androiddevelopers/datastore-and-data-migration-fdca806eb1aa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
@@ -56,7 +57,6 @@
 - Jan 20 2022 - [Android Basics and Training Update](http://android-developers.googleblog.com/2022/01/android-basics-and-training-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
 - Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 19 2022 - [Authenticating on Android with the AppAuth Library](https://medium.com/androiddevelopers/authenticating-on-android-with-the-appauth-library-7bea226555d5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 18 2022 - [Introduction to DataStore - MAD Skills](https://www.youtube.com/watch?v=mdQjuZbLv9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
