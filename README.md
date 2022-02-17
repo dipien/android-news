@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 17 2022 - [Say hello to Roboto Serif](https://material.io/blog/roboto-serif) - [Material Design Blog](https://material.io/blog)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 16 2022 - [DataStore: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=kzYKdog9S1k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 16 2022 - [DataStore and testing](https://medium.com/androiddevelopers/datastore-and-testing-edf7ae8df3d8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 15 2021 - [Personalization in Remote Config overview](https://www.youtube.com/watch?v=MTclqADW9rs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
