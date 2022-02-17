@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 17 2022 - [Unbundling the stable WindowManager](https://medium.com/androiddevelopers/unbundling-the-stable-windowmanager-a5471ff2907?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Feb 17 2022 - [Getting started with Firebase Storage on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=-IFRVMEhZDc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2022 - [Say hello to Roboto Serif](https://material.io/blog/roboto-serif) - [Material Design Blog](https://material.io/blog)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 16 2022 - [DataStore: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=kzYKdog9S1k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -55,7 +57,6 @@
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 21 2022 - [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 21 2022 - [Now in Android: 54 - Gradle, DataStore, AndroidX, Glance, and more!](https://www.youtube.com/watch?v=AjVShjnCJW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 21 2022 - [Now in Android #54](https://medium.com/androiddevelopers/now-in-android-54-f9cbc3119514?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 21 2022 - [Google Play Games beta launches on PC in Korea, Taiwan, and Hong Kong](http://android-developers.googleblog.com/2022/01/googleplaygames.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 20 2022 - [Android Basics and Training Update](http://android-developers.googleblog.com/2022/01/android-basics-and-training-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.libsyn.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
