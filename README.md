@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 18 2022 - [Discontinuing Kotlin synthetics for views](http://android-developers.googleblog.com/2022/02/discontinuing-kotlin-synthetics-for-views.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 17 2022 - [Unbundling the stable WindowManager](https://medium.com/androiddevelopers/unbundling-the-stable-windowmanager-a5471ff2907?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 17 2022 - [Getting started with Firebase Storage on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=-IFRVMEhZDc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2022 - [Material Design Components for Android 1.5.0](https://material.io/blog/android-stable-release-1-5) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.libsyn.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.libsyn.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
