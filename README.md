@@ -36,7 +36,6 @@
 - Feb 02 2022 - [Calling asynchronous Firebase APIs from Swift](https://medium.com/firebase-developers/calling-asynchronous-firebase-apis-from-swift-757e8207df54?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 01 2022 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2022 - [Grow your game’s revenue with Google Play Console’s new strategic guidance](http://android-developers.googleblog.com/2022/02/grow-your-games-revenue-with-google.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [All about Proto DataStore](https://medium.com/androiddevelopers/all-about-proto-datastore-1b1af6cd2879?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 31 2022 - [Proto DataStore - MAD Skills](https://www.youtube.com/watch?v=aYhgwII6_VM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -72,7 +71,6 @@
 - Jan 15 2022 - [On Device Watch Next - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=QFMIP5GOo70) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.libsyn.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -87,7 +85,6 @@
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2021 - [Now in Android: 53 - Android 12, Compose, MAD Skills, and much more!](https://www.youtube.com/watch?v=rGYN-FHBHZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
 - Dec 15 2021 - [Announcing Jetpack Glance Alpha for app widgets](http://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -100,7 +97,10 @@
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 30 2021 - [Episode 179: Flibberty Widget](http://adbackstage.libsyn.com/flibberty-widget) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Nov 23 2021 - [Firebase Release Notes November ‘21: Firebase Summit updates, Firestore text search, & more Flutter!](https://www.youtube.com/watch?v=7KaNHpOPYTs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 19 2021 - [#AndroidDevSummit ‘21: 3 things to know for Modern Android Development](http://android-developers.googleblog.com/2021/11/ads21-modern-android-development.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Nov 17 2021 - [#Android Developer Summit: 3 things to know for Large Screens on Android!](http://android-developers.googleblog.com/2021/11/android-developer-summit-21-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Nov 16 2021 - [Improving App Startup: Lessons from the Facebook App](http://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
