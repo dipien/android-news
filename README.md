@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 22 2022 - [Handling exceptions in DataStore - MAD Skills](https://www.youtube.com/watch?v=Q59R8LjR0F8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 22 2022 - [Firebase Release Notes Feb ‘22: More Flutter languages, Firestore performance visualization, & more!](https://www.youtube.com/watch?v=iNNIX129Ew0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2022 - [Google for Games Developer Summit returns March 15](http://android-developers.googleblog.com/2022/02/google-for-games-developer-summit-returns.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 18 2022 - [Discontinuing Kotlin synthetics for views](http://android-developers.googleblog.com/2022/02/discontinuing-kotlin-synthetics-for-views.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 17 2022 - [Unbundling the stable WindowManager](https://medium.com/androiddevelopers/unbundling-the-stable-windowmanager-a5471ff2907?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -86,7 +88,6 @@
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 17 2021 - [Now in Android: 53 - Android 12, Compose, MAD Skills, and much more!](https://www.youtube.com/watch?v=rGYN-FHBHZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
 - Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
