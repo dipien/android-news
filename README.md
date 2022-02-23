@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 23 2022 - [Recording Video with CameraX VideoCapture API](https://medium.com/androiddevelopers/recording-video-with-camerax-videocapture-api-a36cfd8a48c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 22 2022 - [Handling exceptions in DataStore - MAD Skills](https://www.youtube.com/watch?v=Q59R8LjR0F8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 22 2022 - [Firebase Release Notes Feb ‘22: More Flutter languages, Firestore performance visualization, & more!](https://www.youtube.com/watch?v=iNNIX129Ew0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2022 - [Google for Games Developer Summit returns March 15](http://android-developers.googleblog.com/2022/02/google-for-games-developer-summit-returns.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -59,7 +60,6 @@
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 24 2022 - [Preferences DataStore - MAD Skills](https://www.youtube.com/watch?v=kp53qL_O5gk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 24 2022 - [All about Preferences DataStore](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 21 2022 - [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 21 2022 - [Now in Android: 54 - Gradle, DataStore, AndroidX, Glance, and more!](https://www.youtube.com/watch?v=AjVShjnCJW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
