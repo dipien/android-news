@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 24 2022 - [Using Firebase and Email to Send a Custom Diploma to Our Top Performing Users](https://medium.com/firebase-developers/sending-a-diploma-to-our-top-performing-users-fjelltoppjakten-184f87377323?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 24 2022 - [Now in Android: 56 - Jetpack Compose 1.1 stable, DataStore, Android 13 preview, and more!](https://www.youtube.com/watch?v=cFkYjJbjkSo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 23 2022 - [Now in Android #56](https://medium.com/androiddevelopers/now-in-android-56-c567b8a9a005?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2022 - [Recording Video with CameraX VideoCapture API](https://medium.com/androiddevelopers/recording-video-with-camerax-videocapture-api-a36cfd8a48c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -98,7 +99,6 @@
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
-- Dec 07 2021 - [Getting Started with Firebase Dynamic Links for Android](https://medium.com/firebase-developers/beginners-guide-on-creating-a-shareable-link-of-your-apps-specific-data-with-firebase-8c471e1fe22e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2021 - [What is Firebase Authentication? - Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
