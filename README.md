@@ -9,7 +9,6 @@
 - Feb 24 2022 - [Now in Android: 56 - Jetpack Compose 1.1 stable, DataStore, Android 13 preview, and more!](https://www.youtube.com/watch?v=cFkYjJbjkSo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 23 2022 - [Now in Android #56](https://medium.com/androiddevelopers/now-in-android-56-c567b8a9a005?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2022 - [Recording Video with CameraX VideoCapture API](https://medium.com/androiddevelopers/recording-video-with-camerax-videocapture-api-a36cfd8a48c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 22 2022 - [Handling exceptions in DataStore - MAD Skills](https://www.youtube.com/watch?v=Q59R8LjR0F8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 22 2022 - [Firebase Release Notes Feb ‘22: More Flutter languages, Firestore performance visualization, & more!](https://www.youtube.com/watch?v=iNNIX129Ew0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2022 - [Google for Games Developer Summit returns March 15](http://android-developers.googleblog.com/2022/02/google-for-games-developer-summit-returns.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 18 2022 - [Discontinuing Kotlin synthetics for views](http://android-developers.googleblog.com/2022/02/discontinuing-kotlin-synthetics-for-views.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -100,7 +99,8 @@
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
+- Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
