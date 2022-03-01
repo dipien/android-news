@@ -89,6 +89,7 @@
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Dec 17 2021 - [Now in Android: 53 - Android 12, Compose, MAD Skills, and much more!](https://www.youtube.com/watch?v=rGYN-FHBHZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)
-- Dec 01 2021 - [Develop watch faces with the stable Jetpack Watch Face library](http://android-developers.googleblog.com/2021/12/develop-watch-faces-with-stable-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
