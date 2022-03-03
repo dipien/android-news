@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 03 2022 - [Keeping Google Play safe with our key 2022 initiatives](http://android-developers.googleblog.com/2022/03/privacy-and-security-direction.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Dec 14 2021 - [Build your own custom funnels using BigQuery and Data Studio with Google Analytics](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 07 2021 - [Announcing Google Fonts Knowledge](https://material.io/blog/google-fonts-knowledge) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
