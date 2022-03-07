@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 07 2022 - [Tune in on March 9 for #TheAndroidShow: Tablets, Jetpack Compose, and Android 13!](https://www.youtube.com/watch?v=_AK0v6X0g8Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 05 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13](https://www.youtube.com/watch?v=WL9h46CymlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2022 - [Keeping Google Play safe with our key 2022 initiatives](http://android-developers.googleblog.com/2022/03/privacy-and-security-direction.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -86,11 +88,9 @@
 - Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Using Block Patterns with Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin-030) - [Material Design Blog](https://material.io/blog)
 - Dec 30 2021 - [Android Developers 21 for ‘21](https://www.youtube.com/watch?v=PpizrcJv8pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 22 2021 - [Accessibility test framework and Espresso - Accessibility on Android](https://www.youtube.com/watch?v=DLN2s16HwcE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 17 2021 - [Now in Android: 53 - Android 12, Compose, MAD Skills, and much more!](https://www.youtube.com/watch?v=rGYN-FHBHZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
