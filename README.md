@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 07 2022 - [Demystifying Jetpack Glance for app widgets](https://medium.com/androiddevelopers/demystifying-jetpack-glance-for-app-widgets-8fbc7041955c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2022 - [Tune in on March 9 for #TheAndroidShow: Tablets, Jetpack Compose, and Android 13!](https://www.youtube.com/watch?v=_AK0v6X0g8Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13](https://www.youtube.com/watch?v=WL9h46CymlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2022 - [Keeping Google Play safe with our key 2022 initiatives](http://android-developers.googleblog.com/2022/03/privacy-and-security-direction.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -40,7 +41,6 @@
 - Feb 09 2022 - [Jetpack Compose 1.1 is now stable!](http://android-developers.googleblog.com/2022/02/jetpack-compose-11-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 08 2022 - [Chrome’s multitasking usage increases 18x on large screens](http://android-developers.googleblog.com/2022/02/chromes-multitasking-usage-increases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 08 2022 - [DataStore and dependency injection](https://medium.com/androiddevelopers/datastore-and-dependency-injection-ea32b95704e3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 07 2022 - [DataStore: Best practices - MAD Skills](https://www.youtube.com/watch?v=S10ci36lBJ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
