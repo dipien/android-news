@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 08 2022 - [Freeing up 60% of storage for apps](http://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2022 - [Demystifying Jetpack Glance for app widgets](https://medium.com/androiddevelopers/demystifying-jetpack-glance-for-app-widgets-8fbc7041955c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2022 - [Tune in on March 9 for #TheAndroidShow: Tablets, Jetpack Compose, and Android 13!](https://www.youtube.com/watch?v=_AK0v6X0g8Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13](https://www.youtube.com/watch?v=WL9h46CymlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 14 2021 - [Build your own custom funnels using BigQuery and Data Studio with Google Analytics](https://medium.com/firebase-developers/build-your-own-custom-funnel-in-firebase-google-analytics-with-bigquery-and-data-studio-685a551cc0e3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2021 - [Android Developer Relations is hiring](http://android-developers.googleblog.com/2021/12/android-developer-relations-is-hiring.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 07 2021 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Dec 08 2021 - [Beta 1 Update for 12L feature drop!](http://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
