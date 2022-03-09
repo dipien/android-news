@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 09 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13 in 60 seconds!](https://www.youtube.com/watch?v=tlX6bFji3E0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 09 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13](https://www.youtube.com/watch?v=WL9h46CymlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 09 2022 - [Happening now! #TheAndroidShow: Tablets, Jetpack Compose & Android 13](http://android-developers.googleblog.com/2022/03/happening-now-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
@@ -90,8 +92,6 @@
 - Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Using Block Patterns with Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin-030) - [Material Design Blog](https://material.io/blog)
-- Dec 30 2021 - [Android Developers 21 for ‘21](https://www.youtube.com/watch?v=PpizrcJv8pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 22 2021 - [Accessibility test framework and Espresso - Accessibility on Android](https://www.youtube.com/watch?v=DLN2s16HwcE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
