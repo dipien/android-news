@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13 in 60 seconds!](https://www.youtube.com/watch?v=tlX6bFji3E0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13](https://www.youtube.com/watch?v=WL9h46CymlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
@@ -99,8 +100,7 @@
 - Dec 16 2021 - [Episode 180: Kotlin Magic Platform](http://adbackstage.libsyn.com/episode-180-kotlin-magic-platform) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 16 2021 - [Material Design Award Winners 2021](https://material.io/blog/mda-2021-winners) - [Material Design Blog](https://material.io/blog)
 - Dec 15 2021 - [Announcing Jetpack Glance Alpha for app widgets](http://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 14 2021 - [Launching Notes from Google Play - A year of evolution](http://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Dec 14 2021 - [Rebuilding our guide to app architecture](http://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
