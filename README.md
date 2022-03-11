@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 11 2022 - [#TheAndroidShow: Behind the scenes with animations & Jetpack Compose](https://www.youtube.com/watch?v=Ldz42dbUsQ0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 11 2022 - [#TheAndroidShow: Is now the moment to think tablet-first?](https://www.youtube.com/watch?v=CQV95EN0CmY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13 in 60 seconds!](https://www.youtube.com/watch?v=tlX6bFji3E0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -85,8 +87,6 @@
 - Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 18 2022 - [DataStore - MAD Skills](https://www.youtube.com/watch?v=9ws-cJzlJkU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 15 2022 - [On Device Watch Next - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=QFMIP5GOo70) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.libsyn.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
