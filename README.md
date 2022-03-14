@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 14 2022 - [Introduction to Architecture - MAD Skills](https://www.youtube.com/watch?v=TPWmfJq16rA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 11 2022 - [#TheAndroidShow: Behind the scenes with animations & Jetpack Compose](https://www.youtube.com/watch?v=Ldz42dbUsQ0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 11 2022 - [#TheAndroidShow: Is now the moment to think tablet-first?](https://www.youtube.com/watch?v=CQV95EN0CmY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -84,7 +85,6 @@
 - Jan 20 2022 - [Android Basics and Training Update](http://android-developers.googleblog.com/2022/01/android-basics-and-training-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
 - Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 18 2022 - [Introduction to DataStore - MAD Skills](https://www.youtube.com/watch?v=mdQjuZbLv9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
