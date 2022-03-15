@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 15 2022 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=j4hWembf3xY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Improve your game's security with the Play Integrity API](https://www.youtube.com/watch?v=wEsNemtwHyc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Building diversity and inclusion in your game design and publishing](https://www.youtube.com/watch?v=bckFeHwGBtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jan 05 2022 - [Using Block Patterns with Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin-030) - [Material Design Blog](https://material.io/blog)
 - Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 16 2021 - [MAD Skills Gradle and AGP build APIs Wrap Up!](http://android-developers.googleblog.com/2021/12/mad-skills-gradle-and-agp-build-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
+- Dec 20 2021 - [Creating an app to help your community during the pandemic with Gaston Saillen #IamaGDE](http://android-developers.googleblog.com/2021/12/creating-app-to-help-your-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
