@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 15 2022 - [Top 8 Android and Play announcements from the Google for Games Developer Summit](https://www.youtube.com/watch?v=mfEIYPU4kdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=j4hWembf3xY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Improve your game's security with the Play Integrity API](https://www.youtube.com/watch?v=wEsNemtwHyc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -19,7 +20,6 @@
 - Mar 14 2022 - [Introduction to Architecture - MAD Skills](https://www.youtube.com/watch?v=TPWmfJq16rA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 11 2022 - [#TheAndroidShow: Behind the scenes with animations & Jetpack Compose](https://www.youtube.com/watch?v=Ldz42dbUsQ0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 11 2022 - [#TheAndroidShow: Is now the moment to think tablet-first?](https://www.youtube.com/watch?v=CQV95EN0CmY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
