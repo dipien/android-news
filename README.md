@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 16 2022 - [Prep your TV app for Android 12](https://medium.com/androiddevelopers/prep-your-tv-app-for-android-12-9a859d9bb967?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2022 - [Helping Users Discover Quality Apps on Large Screens](http://android-developers.googleblog.com/2022/03/helping-users-discover-quality-apps-on.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 16 2022 - [Architecture: The data layer - MAD Skills](https://www.youtube.com/watch?v=r5AseKQh2ZE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Access Android vitals data through the new Play Developer Reporting API](http://android-developers.googleblog.com/2022/03/play-developer-reporting-API.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -59,7 +60,6 @@
 - Feb 10 2022 - [Material You: Coming to more Android devices near you](http://android-developers.googleblog.com/2022/02/material-you-coming-to-more-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
 - Feb 09 2022 - [JankStats Goes Alpha](https://medium.com/androiddevelopers/jankstats-goes-alpha-8aff942255d5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 09 2022 - [DataStore and Kotlin serialization](https://medium.com/androiddevelopers/datastore-and-kotlin-serialization-8b25bf0be66c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 09 2022 - [Jetpack Compose 1.1 is now stable!](http://android-developers.googleblog.com/2022/02/jetpack-compose-11-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 08 2022 - [Chrome’s multitasking usage increases 18x on large screens](http://android-developers.googleblog.com/2022/02/chromes-multitasking-usage-increases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
