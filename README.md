@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 16 2022 - [Now in Android: 57 - App Excellence Summit 2022, AndroidX, and more](https://www.youtube.com/watch?v=nIgyROllQFM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 16 2022 - [Prep your TV app for Android 12](https://medium.com/androiddevelopers/prep-your-tv-app-for-android-12-9a859d9bb967?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2022 - [Helping Users Discover Quality Apps on Large Screens](http://android-developers.googleblog.com/2022/03/helping-users-discover-quality-apps-on.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 16 2022 - [Architecture: The data layer - MAD Skills](https://www.youtube.com/watch?v=r5AseKQh2ZE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,7 +22,6 @@
 - Mar 15 2022 - [Optimize your game with Android tools (AGDK)](https://www.youtube.com/watch?v=9j25t_6TD48) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [What's new with the Android Game Development Kit (AGDK)](https://www.youtube.com/watch?v=_906xLn2EPo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 14 2022 - [Introduction to Architecture - MAD Skills](https://www.youtube.com/watch?v=TPWmfJq16rA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
