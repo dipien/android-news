@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 16 2022 - [Helping Users Discover Quality Apps on Large Screens](http://android-developers.googleblog.com/2022/03/helping-users-discover-quality-apps-on.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 16 2022 - [Architecture: The data layer - MAD Skills](https://www.youtube.com/watch?v=r5AseKQh2ZE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Access Android vitals data through the new Play Developer Reporting API](http://android-developers.googleblog.com/2022/03/play-developer-reporting-API.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 15 2022 - [Top 8 Android and Play announcements from the Google for Games Developer Summit](https://www.youtube.com/watch?v=mfEIYPU4kdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=j4hWembf3xY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -20,7 +22,6 @@
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Introduction to Architecture - MAD Skills](https://www.youtube.com/watch?v=TPWmfJq16rA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 11 2022 - [#TheAndroidShow: Behind the scenes with animations & Jetpack Compose](https://www.youtube.com/watch?v=Ldz42dbUsQ0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
@@ -99,8 +100,7 @@
 - Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 05 2022 - [Using Block Patterns with Material Design for WordPress](https://material.io/blog/material-design-wordpress-plugin-030) - [Material Design Blog](https://material.io/blog)
-- Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 21 2021 - [Firebase Release Notes December ‘21: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!](https://www.youtube.com/watch?v=VjENUKwjDEE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Dec 22 2021 - [Segment analytics with Firebase AB testing](https://medium.com/firebase-developers/segment-analytics-with-firebase-ab-testing-36bfa6589ea4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
