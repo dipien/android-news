@@ -5,6 +5,7 @@
 - Mar 17 2022 - [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 17 2022 - [Android 13 Developer Preview 2](http://android-developers.googleblog.com/2022/03/second-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 17 2022 - [Now in Android #57](https://medium.com/androiddevelopers/now-in-android-57-ac4a670e361c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)
 - Mar 16 2022 - [Now in Android: 57 - App Excellence Summit 2022, AndroidX, and more](https://www.youtube.com/watch?v=nIgyROllQFM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 16 2022 - [Prep your TV app for Android 12](https://medium.com/androiddevelopers/prep-your-tv-app-for-android-12-9a859d9bb967?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2022 - [Helping Users Discover Quality Apps on Large Screens](http://android-developers.googleblog.com/2022/03/helping-users-discover-quality-apps-on.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.libsyn.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 05 2022 - [Create the Cart list](https://www.youtube.com/watch?v=QrEmap8gDQE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
