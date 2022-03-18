@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 17 2022 - [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 17 2022 - [Android 13 Developer Preview 2](http://android-developers.googleblog.com/2022/03/second-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.libsyn.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 05 2022 - [Build the Cart components](https://www.youtube.com/watch?v=-1pSOeql9WY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
