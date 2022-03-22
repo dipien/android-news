@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 22 2022 - [Architecture: The UI layer - MAD Skills](https://www.youtube.com/watch?v=p9VR8KbmzEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 22 2022 - [Firebase Release Notes March 2022: Faster TTFB in Hosting, faster Android startup, and more Flutter!](https://www.youtube.com/watch?v=LbZO2RX9NY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 22 2022 - [Announcing the 2022 Android App Excellence Summit](https://www.youtube.com/watch?v=6SW8Y_m72ug) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -25,7 +27,6 @@
 - Mar 15 2022 - [Deliver optimized assets for your users with Play Asset Delivery](https://www.youtube.com/watch?v=AZ3xmG5iFDU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Games on foldable devices](https://www.youtube.com/watch?v=tDQrroEi3FY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [How to optimize your GPU usage with Android GPU Inspector (AGDK)](https://www.youtube.com/watch?v=1DGSiepQ5Zc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 15 2022 - [Introducing the Memory Advice API and how to diagnose low memory problems (AGDK)](https://www.youtube.com/watch?v=UjDBk1k5NII) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.libsyn.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jan 11 2022 - [Easily add high quality text fields to your app with Material's text field component #shorts](https://www.youtube.com/watch?v=jF7K78Vxol8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Jan 11 2022 - [Episode 181: Architecture → Fewer bugs at the end](http://adbackstage.libsyn.com/episode-181-architecture-fewer-bugs-at-the-end) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
