@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 22 2022 - [Announcing the 2022 Android App Excellence Summit](https://www.youtube.com/watch?v=6SW8Y_m72ug) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 17 2022 - [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -25,7 +26,6 @@
 - Mar 15 2022 - [Games on foldable devices](https://www.youtube.com/watch?v=tDQrroEi3FY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [How to optimize your GPU usage with Android GPU Inspector (AGDK)](https://www.youtube.com/watch?v=1DGSiepQ5Zc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Introducing the Memory Advice API and how to diagnose low memory problems (AGDK)](https://www.youtube.com/watch?v=UjDBk1k5NII) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 15 2022 - [Optimize your game with Android tools (AGDK)](https://www.youtube.com/watch?v=9j25t_6TD48) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
