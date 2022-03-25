@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 25 2022 - [Upgrading Android Attestation: Remote Provisioning](http://android-developers.googleblog.com/2022/03/upgrading-android-attestation-remote.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 24 2022 - [Android vitals on Google Play Console](https://www.youtube.com/watch?v=C9MZNEW20B4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2022 - [Our FHIR SDK for Android Developers](https://medium.com/androiddevelopers/our-fhir-sdk-for-android-developers-9f8455e0b42f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 24 2022 - [Using performance class to optimize your user experience](http://android-developers.googleblog.com/2022/03/using-performance-class-to-optimize.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -90,7 +92,6 @@
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
 - Jan 26 2022 - [Announcing Glance: Tiles for Wear OS made simple](http://android-developers.googleblog.com/2022/01/announcing-glance-tiles-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Jan 25 2022 - [Android Studio Bumblebee (2021.1.1) Stable](http://android-developers.googleblog.com/2022/01/android-studio-bumblebee-202111-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -99,8 +100,7 @@
 - Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 12 2022 - [How to write Cloud Storage Security Rules Tests](https://medium.com/firebase-developers/how-to-write-firebase-cloud-storage-rules-tests-48559806a268?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
