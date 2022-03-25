@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 25 2022 - [Modern media playback on Android - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=OYy41ceW59s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 25 2022 - [Upgrading Android Attestation: Remote Provisioning](http://android-developers.googleblog.com/2022/03/upgrading-android-attestation-remote.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 24 2022 - [Android vitals on Google Play Console](https://www.youtube.com/watch?v=C9MZNEW20B4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -33,7 +34,6 @@
 - Mar 15 2022 - [Building diversity and inclusion in your game design and publishing](https://www.youtube.com/watch?v=bckFeHwGBtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [What’s new for games in Reach and devices and Android vitals](https://www.youtube.com/watch?v=edo4AwJdgPs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [User sign in, as easy as 1-2-3 with Google Play Games on PC](https://www.youtube.com/watch?v=SNhh47iYm4E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 15 2022 - [Tips from developers using Google Play Games on PC](https://www.youtube.com/watch?v=ZmLLoDmHXmo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
