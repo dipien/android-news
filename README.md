@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 28 2022 - [The exciting aspects of Android Camera](http://android-developers.googleblog.com/2022/03/the-exciting-aspects-of-android-camera.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2022 - [Modern media playback on Android - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=OYy41ceW59s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 25 2022 - [Upgrading Android Attestation: Remote Provisioning](http://android-developers.googleblog.com/2022/03/upgrading-android-attestation-remote.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -90,7 +91,6 @@
 - Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 27 2022 - [Building apps for Android Automotive OS](http://android-developers.googleblog.com/2022/01/building-apps-for-android-automotive-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
-- Jan 26 2022 - [Announcing Glance: Tiles for Wear OS made simple](http://android-developers.googleblog.com/2022/01/announcing-glance-tiles-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
