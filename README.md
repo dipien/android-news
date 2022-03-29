@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 29 2022 - [App Excellence: Android Architecture](https://www.youtube.com/watch?v=fodD6UHjLmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 29 2022 - [How a single Android developer improved Lyft’s Drivers app startup time by 21% in one month](http://android-developers.googleblog.com/2022/03/how-single-android-developer-improved.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 28 2022 - [Architecture: Handling UI events - MAD Skills](https://www.youtube.com/watch?v=lwGtp0Yr0PE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 28 2022 - [The exciting aspects of Android Camera](http://android-developers.googleblog.com/2022/03/the-exciting-aspects-of-android-camera.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -35,7 +36,6 @@
 - Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Improve your game's security with the Play Integrity API](https://www.youtube.com/watch?v=wEsNemtwHyc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Building diversity and inclusion in your game design and publishing](https://www.youtube.com/watch?v=bckFeHwGBtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 15 2022 - [What’s new for games in Reach and devices and Android vitals](https://www.youtube.com/watch?v=edo4AwJdgPs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
