@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 29 2022 - [How a single Android developer improved Lyft’s Drivers app startup time by 21% in one month](http://android-developers.googleblog.com/2022/03/how-single-android-developer-improved.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 28 2022 - [Architecture: Handling UI events - MAD Skills](https://www.youtube.com/watch?v=lwGtp0Yr0PE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 28 2022 - [The exciting aspects of Android Camera](http://android-developers.googleblog.com/2022/03/the-exciting-aspects-of-android-camera.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2022 - [Modern media playback on Android - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=OYy41ceW59s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -89,7 +90,6 @@
 - Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Add selection to the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=RIw-8Da8Cfg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 27 2022 - [Building apps for Android Automotive OS](http://android-developers.googleblog.com/2022/01/building-apps-for-android-automotive-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
 - Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
