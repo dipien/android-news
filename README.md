@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 30 2022 - [Android GDE Maryam Alhuthayfi shares her passion for mobile development with fledgling developers](http://android-developers.googleblog.com/2022/03/android-gde-maryam-alhuthayfi-whm.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 29 2022 - [App Excellence: Android Architecture](https://www.youtube.com/watch?v=fodD6UHjLmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 29 2022 - [How a single Android developer improved Lyft’s Drivers app startup time by 21% in one month](http://android-developers.googleblog.com/2022/03/how-single-android-developer-improved.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 28 2022 - [Architecture: Handling UI events - MAD Skills](https://www.youtube.com/watch?v=lwGtp0Yr0PE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -84,7 +85,6 @@
 - Feb 01 2022 - [Grow your game’s revenue with Google Play Console’s new strategic guidance](http://android-developers.googleblog.com/2022/02/grow-your-games-revenue-with-google.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 28 2022 - [Improving App Performance with Baseline Profiles](http://android-developers.googleblog.com/2022/01/improving-app-performance-with-baseline.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
