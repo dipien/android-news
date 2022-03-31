@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
 - Mar 31 2022 - [Now in Android #58](https://medium.com/androiddevelopers/now-in-android-58-a8919ba01d45?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 31 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 30 2022 - [Now in Android: 58 - Android 13, MAD Skills Architecture, Android TV & Google TV series, and more!](https://www.youtube.com/watch?v=Yt39Ip0CrJw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
 - Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
