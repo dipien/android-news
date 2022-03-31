@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 31 2022 - [Now in Android #58](https://medium.com/androiddevelopers/now-in-android-58-a8919ba01d45?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 30 2022 - [Now in Android: 58 - Android 13, MAD Skills Architecture, Android TV & Google TV series, and more!](https://www.youtube.com/watch?v=Yt39Ip0CrJw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 30 2022 - [Android GDE Maryam Alhuthayfi shares her passion for mobile development with fledgling developers](http://android-developers.googleblog.com/2022/03/android-gde-maryam-alhuthayfi-whm.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 29 2022 - [App Excellence: Android Architecture](https://www.youtube.com/watch?v=fodD6UHjLmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -67,7 +68,6 @@
 - Feb 15 2022 - [DataStore and data migration](https://medium.com/androiddevelopers/datastore-and-data-migration-fdca806eb1aa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
-- Feb 11 2022 - [Now in Android #55](https://medium.com/androiddevelopers/now-in-android-55-ff44f10d7d28?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 11 2022 - [Write better tests with the new testing guidance](http://android-developers.googleblog.com/2022/02/write-better-tests-with-new-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [The first developer preview of Android 13](http://android-developers.googleblog.com/2022/02/first-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
