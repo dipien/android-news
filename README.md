@@ -25,7 +25,7 @@
 - Mar 22 2022 - [Design for All Users - Google Play Academy course trailer](https://www.youtube.com/watch?v=07NUULjEJ5A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 22 2022 - [Architecture: The UI layer - MAD Skills](https://www.youtube.com/watch?v=p9VR8KbmzEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 22 2022 - [Firebase Release Notes March 2022: Faster TTFB in Hosting, faster Android startup, and more Flutter!](https://www.youtube.com/watch?v=LbZO2RX9NY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 22 2022 - [Announcing the 2022 Android App Excellence Summit](https://www.youtube.com/watch?v=6SW8Y_m72ug) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 22 2022 - [The Android App Excellence Summit is coming April 12, 2022!](https://www.youtube.com/watch?v=6SW8Y_m72ug) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 17 2022 - [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
