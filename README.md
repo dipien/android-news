@@ -1,9 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
 - Mar 31 2022 - [Now in Android #58](https://medium.com/androiddevelopers/now-in-android-58-a8919ba01d45?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 31 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 30 2022 - [Now in Android: 58 - Android 13, MAD Skills Architecture, Android TV & Google TV series, and more!](https://www.youtube.com/watch?v=Yt39Ip0CrJw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 30 2022 - [Android GDE Maryam Alhuthayfi shares her passion for mobile development with fledgling developers](http://android-developers.googleblog.com/2022/03/android-gde-maryam-alhuthayfi-whm.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 29 2022 - [App Excellence: Android Architecture](https://www.youtube.com/watch?v=fodD6UHjLmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
