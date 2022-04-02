@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 01 2022 - [Accessibility on TV - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=GyglHvJ6LMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Google Photos: How we used notifications to boost widget installs 10x!](http://android-developers.googleblog.com/2022/04/google-photos-notifs-boot-installs.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
@@ -40,7 +41,6 @@
 - Mar 15 2022 - [Top 8 Android and Play announcements from the Google for Games Developer Summit](https://www.youtube.com/watch?v=mfEIYPU4kdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=j4hWembf3xY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 15 2022 - [Improve your game's security with the Play Integrity API](https://www.youtube.com/watch?v=wEsNemtwHyc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
