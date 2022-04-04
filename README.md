@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 04 2022 - [Architecture: The Domain Layer - MAD Skills](https://www.youtube.com/watch?v=gIhjCh3U88I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2022 - [Accessibility on TV - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=GyglHvJ6LMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Google Photos: How we used notifications to boost widget installs 10x!](http://android-developers.googleblog.com/2022/04/google-photos-notifs-boot-installs.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -38,7 +39,6 @@
 - Mar 16 2022 - [Helping Users Discover Quality Apps on Large Screens](http://android-developers.googleblog.com/2022/03/helping-users-discover-quality-apps-on.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 16 2022 - [Architecture: The data layer - MAD Skills](https://www.youtube.com/watch?v=r5AseKQh2ZE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Access Android vitals data through the new Play Developer Reporting API](http://android-developers.googleblog.com/2022/03/play-developer-reporting-API.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 15 2022 - [Top 8 Android and Play announcements from the Google for Games Developer Summit](https://www.youtube.com/watch?v=mfEIYPU4kdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2022 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=j4hWembf3xY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
