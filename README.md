@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 05 2022 - [Getting started Firebase Hosting - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2022 - [Architecture: The Domain Layer - MAD Skills](https://www.youtube.com/watch?v=gIhjCh3U88I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
-- Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
