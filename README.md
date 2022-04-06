@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 06 2022 - [Expanding Play’s Target Level API Requirements to Strengthen User Security](http://android-developers.googleblog.com/2022/04/expanding-plays-target-level-api-requirements-to-strengthen-user-security.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2022 - [Indie Games Accelerator & Indie Games Festival 2022 from Google Play l Coming soon](https://www.youtube.com/watch?v=m2gTnT2kCRQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2022 - [Getting started Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -85,7 +86,6 @@
 - Feb 08 2022 - [Chrome’s multitasking usage increases 18x on large screens](http://android-developers.googleblog.com/2022/02/chromes-multitasking-usage-increases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 02 2022 - [Smule Adopts Google’s Oboe to Improve Recording Quality & Completion Rates](http://android-developers.googleblog.com/2022/02/smule-adopts-googles-oboe-to-improve.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 02 2022 - [Calling asynchronous Firebase APIs from Swift](https://medium.com/firebase-developers/calling-asynchronous-firebase-apis-from-swift-757e8207df54?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 01 2022 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
