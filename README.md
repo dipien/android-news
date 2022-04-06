@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 06 2022 - [Indie Games Accelerator & Indie Games Festival 2022 from Google Play l Coming soon](https://www.youtube.com/watch?v=m2gTnT2kCRQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2022 - [Getting started Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -38,7 +39,6 @@
 - Mar 17 2022 - [Android 13 Developer Preview 2](http://android-developers.googleblog.com/2022/03/second-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 17 2022 - [Now in Android #57](https://medium.com/androiddevelopers/now-in-android-57-ac4a670e361c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)
-- Mar 16 2022 - [Now in Android: 57 - App Excellence Summit 2022, AndroidX, and more](https://www.youtube.com/watch?v=nIgyROllQFM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 16 2022 - [Prep your TV app for Android 12](https://medium.com/androiddevelopers/prep-your-tv-app-for-android-12-9a859d9bb967?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2022 - [Helping Users Discover Quality Apps on Large Screens](http://android-developers.googleblog.com/2022/03/helping-users-discover-quality-apps-on.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 15 2022 - [Access Android vitals data through the new Play Developer Reporting API](http://android-developers.googleblog.com/2022/03/play-developer-reporting-API.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
