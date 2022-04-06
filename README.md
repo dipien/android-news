@@ -4,7 +4,7 @@
 - Apr 05 2022 - [Getting started Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 04 2022 - [Fireside Chat with Sarah Karam and Casey Winters: Product Excellence and Developer Productivity](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 04 2022 - [Fireside chat with Sarah Karam and Casey Winters: Product excellence and developer productivity](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 04 2022 - [Architecture: The Domain Layer - MAD Skills](https://www.youtube.com/watch?v=gIhjCh3U88I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2022 - [Accessibility on TV - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=GyglHvJ6LMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
