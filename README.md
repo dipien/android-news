@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 07 2022 - [Google Play PolicyBytes - April 2022 Policy updates](https://www.youtube.com/watch?v=O0UwUF2DgQc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2022 - [Expanding Play’s Target Level API Requirements to Strengthen User Security](http://android-developers.googleblog.com/2022/04/expanding-plays-target-level-api-requirements-to-strengthen-user-security.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2022 - [Indie Games Accelerator & Indie Games Festival 2022 from Google Play l Coming soon](https://www.youtube.com/watch?v=m2gTnT2kCRQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2022 - [Getting started with Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -36,7 +37,6 @@
 - Mar 22 2022 - [The Android App Excellence Summit is coming April 12, 2022!](https://www.youtube.com/watch?v=6SW8Y_m72ug) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 17 2022 - [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 17 2022 - [Android 13 Developer Preview 2](http://android-developers.googleblog.com/2022/03/second-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 17 2022 - [Now in Android #57](https://medium.com/androiddevelopers/now-in-android-57-ac4a670e361c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)
