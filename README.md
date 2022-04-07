@@ -34,7 +34,6 @@
 - Mar 22 2022 - [Architecture: The UI layer - MAD Skills](https://www.youtube.com/watch?v=p9VR8KbmzEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 22 2022 - [Firebase Release Notes March 2022: Faster TTFB in Hosting, faster Android startup, and more Flutter!](https://www.youtube.com/watch?v=LbZO2RX9NY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 22 2022 - [The Android App Excellence Summit is coming April 12, 2022!](https://www.youtube.com/watch?v=6SW8Y_m72ug) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 17 2022 - [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 17 2022 - [Android 13 Developer Preview 2](http://android-developers.googleblog.com/2022/03/second-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -51,7 +50,6 @@
 - Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 09 2022 - [Happening now! #TheAndroidShow: Tablets, Jetpack Compose & Android 13](http://android-developers.googleblog.com/2022/03/happening-now-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 08 2022 - [Freeing up 60% of storage for apps](http://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2022 - [Demystifying Jetpack Glance for app widgets](https://medium.com/androiddevelopers/demystifying-jetpack-glance-for-app-widgets-8fbc7041955c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 03 2022 - [Keeping Google Play safe with our key 2022 initiatives](http://android-developers.googleblog.com/2022/03/privacy-and-security-direction.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -73,9 +71,7 @@
 - Feb 16 2022 - [DataStore and testing](https://medium.com/androiddevelopers/datastore-and-testing-edf7ae8df3d8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://material.io/blog/roboto-serif) - [Material Design Blog](https://material.io/blog)
 - Feb 15 2022 - [DataStore and data migration](https://medium.com/androiddevelopers/datastore-and-data-migration-fdca806eb1aa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
-- Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 11 2022 - [Write better tests with the new testing guidance](http://android-developers.googleblog.com/2022/02/write-better-tests-with-new-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [The first developer preview of Android 13](http://android-developers.googleblog.com/2022/02/first-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [3 easy tips for calling async APIs - Firebase & SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -96,11 +92,15 @@
 - Jan 28 2022 - [Add selection to the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=RIw-8Da8Cfg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
-- Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)
+- Jan 19 2022 - [Idea to Game in 24 hours with Firebase](https://medium.com/firebase-developers/pictle-idea-to-game-in-24-hours-with-firebase-a18e0da8475f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Jan 18 2022 - [Getting started with Firebase Remote Config on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=0DBRiMWy28Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 18 2022 - [Use tooltips to display informative text when your users hover over an element #shorts](https://www.youtube.com/watch?v=rUWXOHYE6r0) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 18 2022 - [Firebase Authentication](https://medium.com/firebase-developers/firebase-authentication-f0445ac732cb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Jan 12 2022 - [Security Rules deep dive - Better Safe than Sorry](https://www.youtube.com/watch?v=TglPc74M3DM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
 
 ## Sources
 
