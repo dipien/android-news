@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 07 2022 - [The curious case of FLAG_ACTIVITY_LAUNCH_ADJACENT](https://medium.com/androiddevelopers/the-curious-case-of-flag-activity-launch-adjacent-f1212f37a8e0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 07 2022 - [Google Play PolicyBytes - April 2022 Policy updates](https://www.youtube.com/watch?v=O0UwUF2DgQc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2022 - [Expanding Play’s Target Level API Requirements to Strengthen User Security](http://android-developers.googleblog.com/2022/04/expanding-plays-target-level-api-requirements-to-strengthen-user-security.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2022 - [Indie Games Accelerator & Indie Games Festival 2022 from Google Play l Coming soon](https://www.youtube.com/watch?v=m2gTnT2kCRQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -72,7 +73,6 @@
 - Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 16 2022 - [DataStore and testing](https://medium.com/androiddevelopers/datastore-and-testing-edf7ae8df3d8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://material.io/blog/roboto-serif) - [Material Design Blog](https://material.io/blog)
-- Feb 15 2022 - [DataStore and data migration](https://medium.com/androiddevelopers/datastore-and-data-migration-fdca806eb1aa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
 - Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
