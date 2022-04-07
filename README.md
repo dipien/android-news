@@ -3,7 +3,7 @@
 <!-- NEWS:START -->
 - Apr 06 2022 - [Expanding Play’s Target Level API Requirements to Strengthen User Security](http://android-developers.googleblog.com/2022/04/expanding-plays-target-level-api-requirements-to-strengthen-user-security.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2022 - [Indie Games Accelerator & Indie Games Festival 2022 from Google Play l Coming soon](https://www.youtube.com/watch?v=m2gTnT2kCRQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2022 - [Getting started Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 05 2022 - [Getting started with Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2022 - [Fireside chat with Sarah Karam and Casey Winters: Product excellence and developer productivity](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
