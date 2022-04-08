@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [The curious case of FLAG_ACTIVITY_LAUNCH_ADJACENT](https://medium.com/androiddevelopers/the-curious-case-of-flag-activity-launch-adjacent-f1212f37a8e0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 07 2022 - [Google Play PolicyBytes - April 2022 Policy updates](https://www.youtube.com/watch?v=O0UwUF2DgQc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
 - Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
