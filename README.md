@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 11 2022 - [Go Global: Japan - Google Play Academy](https://www.youtube.com/watch?v=hY1HH-9efkg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2022 - [Architecture: Organizing modules - MAD Skills](https://www.youtube.com/watch?v=HB_r9wn49Gc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 08 2022 - [Optimize your game for Ramadan](https://www.youtube.com/watch?v=L8K46aqeTEo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -37,7 +38,6 @@
 - Mar 23 2022 - [Exploring User Choice Billing With First Innovation Partner Spotify](http://android-developers.googleblog.com/2022/03/user-choice-billing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2022 - [Go Global at Ramadan](https://medium.com/googleplaydev/go-global-at-ramadan-eb181fcedae4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 22 2022 - [Account Linking - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=-Fa99hpUsdk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 22 2022 - [Go Global: Southeast Asia - Google Play Academy course trailer](https://www.youtube.com/watch?v=j9VRzvDhTO0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 22 2022 - [Firebase Release Notes March 2022: Faster TTFB in Hosting, faster Android startup, and more Flutter!](https://www.youtube.com/watch?v=LbZO2RX9NY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
