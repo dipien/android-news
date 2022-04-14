@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 14 2022 - [Now in Android: 59 - Play Target SDK, Android Attestation, Architecture, and more!](https://www.youtube.com/watch?v=qxTnY2ZY1-k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2022 - [Product excellence and developer productivity fireside chat - #AppExcellenceSummit](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -71,7 +72,6 @@
 - Feb 22 2022 - [Firebase Release Notes Feb ‘22: More Flutter languages, Firestore performance visualization, & more!](https://www.youtube.com/watch?v=iNNIX129Ew0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2022 - [Google for Games Developer Summit returns March 15](http://android-developers.googleblog.com/2022/02/google-for-games-developer-summit-returns.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 18 2022 - [Discontinuing Kotlin synthetics for views](http://android-developers.googleblog.com/2022/02/discontinuing-kotlin-synthetics-for-views.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 17 2022 - [Unbundling the stable WindowManager](https://medium.com/androiddevelopers/unbundling-the-stable-windowmanager-a5471ff2907?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 17 2022 - [Getting started with Firebase Storage on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=-IFRVMEhZDc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2022 - [Material Design Components for Android 1.5.0](https://material.io/blog/android-stable-release-1-5) - [Material Design Blog](https://material.io/blog)
 - Feb 17 2022 - [The Science of Color & Design](https://material.io/blog/science-of-color-design) - [Material Design Blog](https://material.io/blog)
