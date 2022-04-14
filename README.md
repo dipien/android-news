@@ -1,8 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 14 2022 - [Now in Android: 59 - Play Target SDK, Android Attestation, Architecture, and more!](https://www.youtube.com/watch?v=qxTnY2ZY1-k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 12 2022 - [Fireside chat with Sarah Karam and Casey Winters: Product excellence and developer productivity](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 12 2022 - [Product excellence and developer productivity fireside chat - #AppExcellenceSummit](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 12 2022 - [Building the business case for quality with Play Console](https://www.youtube.com/watch?v=nQHB1oDAugA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [App Excellence leads to Business Success: Empowering your organization to achieve it](https://www.youtube.com/watch?v=kIPXr7VswWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -25,7 +26,6 @@
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2022 - [Architecture: The Domain Layer - MAD Skills](https://www.youtube.com/watch?v=gIhjCh3U88I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 01 2022 - [Accessibility on TV - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=GyglHvJ6LMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Google Photos: How we used notifications to boost widget installs 10x!](http://android-developers.googleblog.com/2022/04/google-photos-notifs-boot-installs.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
