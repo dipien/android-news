@@ -25,7 +25,6 @@
 - Apr 07 2022 - [The curious case of FLAG_ACTIVITY_LAUNCH_ADJACENT](https://medium.com/androiddevelopers/the-curious-case-of-flag-activity-launch-adjacent-f1212f37a8e0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2022 - [Expanding Play’s Target Level API Requirements to Strengthen User Security](http://android-developers.googleblog.com/2022/04/expanding-plays-target-level-api-requirements-to-strengthen-user-security.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 05 2022 - [Getting started with Firebase Hosting (and GitHub Actions!) - Firebase Fundamentals](https://www.youtube.com/watch?v=P0x0LmiknJc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Google Photos: How we used notifications to boost widget installs 10x!](http://android-developers.googleblog.com/2022/04/google-photos-notifs-boot-installs.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,7 +64,6 @@
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 25 2022 - [Episode 183: Baseline Profiles](http://adbackstage.libsyn.com/episode-183-baseline-profiles) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 24 2022 - [Using Firebase and Email to Send a Custom Diploma to Our Top Performing Users](https://medium.com/firebase-developers/sending-a-diploma-to-our-top-performing-users-fjelltoppjakten-184f87377323?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 23 2022 - [Now in Android #56](https://medium.com/androiddevelopers/now-in-android-56-c567b8a9a005?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2022 - [Recording Video with CameraX VideoCapture API](https://medium.com/androiddevelopers/recording-video-with-camerax-videocapture-api-a36cfd8a48c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -91,7 +89,6 @@
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 02 2022 - [Calling asynchronous Firebase APIs from Swift](https://medium.com/firebase-developers/calling-asynchronous-firebase-apis-from-swift-757e8207df54?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 01 2022 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -100,7 +97,10 @@
 - Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
 - Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 25 2022 - [When to use (and not use) navigation drawers in your app #shorts](https://www.youtube.com/watch?v=JNUTUZbvdeU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 24 2022 - [How to implement a Guild Chat with Firebase Realtime Database](https://medium.com/firebase-developers/how-to-implement-a-guild-chat-with-firebase-realtime-database-64e2825dfd00?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Jan 20 2022 - [Choosing the Right Transitions](https://material.io/blog/motion-research-container-transform) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
