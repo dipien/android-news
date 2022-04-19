@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 19 2022 - [Twitter going all in on Jetpack Compose for feature development: greater productivity, less bugs](http://android-developers.googleblog.com/2022/04/twitter-going-all-in-on-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2022 - [Android Developer Story: Twitter going all in on Jetpack Compose: Greater productivity, less bugs](https://www.youtube.com/watch?v=7N9rKu7l_5U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2022 - [Architecture: Entities - MAD Skills](https://www.youtube.com/watch?v=cfak1jDKM_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -86,7 +87,6 @@
 - Feb 10 2022 - [3 easy tips for calling async APIs - Firebase & SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 10 2022 - [Material You: Coming to more Android devices near you](http://android-developers.googleblog.com/2022/02/material-you-coming-to-more-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
-- Feb 09 2022 - [Jetpack Compose 1.1 is now stable!](http://android-developers.googleblog.com/2022/02/jetpack-compose-11-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
