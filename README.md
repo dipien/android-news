@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 19 2022 - [Android Developer Story: Twitter going all in on Jetpack Compose: Greater productivity, less bugs](https://www.youtube.com/watch?v=7N9rKu7l_5U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2022 - [Architecture: Entities - MAD Skills](https://www.youtube.com/watch?v=cfak1jDKM_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril de 2022 (Spanish)](https://www.youtube.com/watch?v=boLePr2qKB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -19,7 +20,6 @@
 - Apr 12 2022 - [Google Play store listings: Maximize app discoverability with store listing experiments](https://www.youtube.com/watch?v=ubUZrSeRas0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [Keeping Google Play Safe: Key privacy and security initiatives and resources for 2022](https://www.youtube.com/watch?v=6Jv_eyCgVDg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [Learn from developers: Duolingo and Headspace share their new Android architecture stories](https://www.youtube.com/watch?v=m1F_Jl9bDA4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 12 2022 - [Learn from developers: Lyft and Google Maps share their experiences optimizing app performance](https://www.youtube.com/watch?v=DBzs36TF_-A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
