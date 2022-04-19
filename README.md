@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2022 - [Architecture: Entities - MAD Skills](https://www.youtube.com/watch?v=cfak1jDKM_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril de 2022 (Spanish)](https://www.youtube.com/watch?v=boLePr2qKB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3aEM2MHW2eQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jan 28 2022 - [Add selection to the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=RIw-8Da8Cfg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
-- Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Jan 25 2022 - [Firebase Release Notes January ‘22: Flutter initialization, secure file storage & VPC for Firestore](https://www.youtube.com/watch?v=hNXPCcBHAZg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
