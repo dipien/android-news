@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 20 2022 - [Measure and improve performance with Macrobenchmark](https://medium.com/androiddevelopers/measure-and-improve-performance-with-macrobenchmark-560abd0aa5bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 19 2022 - [Twitter going all in on Jetpack Compose for feature development: greater productivity, less bugs](http://android-developers.googleblog.com/2022/04/twitter-going-all-in-on-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2022 - [Android Developer Story: Twitter going all in on Jetpack Compose: Greater productivity, less bugs](https://www.youtube.com/watch?v=7N9rKu7l_5U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Add selection to the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=RIw-8Da8Cfg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)
-- Jan 26 2022 - [Everything you need to know about Remote Config’s latest personalization feature](http://firebase.googleblog.com/2022/01/remote-config-personalization-overview.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Jan 27 2022 - [How Oddfellows Illustrated Material You](https://material.io/blog/interview-oddfellows-m3-art-style) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
