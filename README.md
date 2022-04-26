@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 26 2022 - [Google Play Coffee break with Jimjum Studios](https://www.youtube.com/watch?v=6cKCFYzBuwY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 25 2022 - [CameraX VideoCapture API](https://www.youtube.com/watch?v=FsId_kaYyiE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -24,7 +25,6 @@
 - Apr 12 2022 - [Building the business case for quality with Play Console](https://www.youtube.com/watch?v=nQHB1oDAugA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [App Excellence leads to Business Success: Empowering your organization to achieve it](https://www.youtube.com/watch?v=kIPXr7VswWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [Google Play store listings: Maximize app discoverability with store listing experiments](https://www.youtube.com/watch?v=ubUZrSeRas0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 12 2022 - [Keeping Google Play Safe: Key privacy and security initiatives and resources for 2022](https://www.youtube.com/watch?v=6Jv_eyCgVDg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
