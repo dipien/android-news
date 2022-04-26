@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 26 2022 - [The Beta for Android 13 is out now: Android 13 Beta 1](http://android-developers.googleblog.com/2022/04/android-13-beta-1-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Google Play Coffee break with Jimjum Studios](https://www.youtube.com/watch?v=6cKCFYzBuwY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 25 2022 - [CameraX VideoCapture API](https://www.youtube.com/watch?v=FsId_kaYyiE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -87,7 +89,6 @@
 - Feb 11 2022 - [Write better tests with the new testing guidance](http://android-developers.googleblog.com/2022/02/write-better-tests-with-new-testing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [The first developer preview of Android 13](http://android-developers.googleblog.com/2022/02/first-preview-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [3 easy tips for calling async APIs - Firebase & SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 10 2022 - [Material You: Coming to more Android devices near you](http://android-developers.googleblog.com/2022/02/material-you-coming-to-more-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
 - Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
@@ -99,8 +100,7 @@
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 28 2022 - [Add selection to the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=RIw-8Da8Cfg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 28 2022 - [Basics of managing state in Jetpack Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=YZH5pObJyFA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Jan 28 2022 - [Add selection to the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=RIw-8Da8Cfg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
