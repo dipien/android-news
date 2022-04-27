@@ -5,7 +5,7 @@
 - Apr 26 2022 - [Architecture: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=_2BtE1P6MPE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 26 2022 - [The Beta for Android 13 is out now: Android 13 Beta 1](http://android-developers.googleblog.com/2022/04/android-13-beta-1-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 26 2022 - [Google Play Coffee Break with Jimjum Studios](https://www.youtube.com/watch?v=6cKCFYzBuwY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 26 2022 - [Google Play Coffee break with Jimjum Studios](https://www.youtube.com/watch?v=6cKCFYzBuwY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 25 2022 - [CameraX VideoCapture API](https://www.youtube.com/watch?v=FsId_kaYyiE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
