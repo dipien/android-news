@@ -1,10 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 28 2022 - [Architecture: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=_2BtE1P6MPE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 28 2022 - [The first developer preview of Privacy Sandbox on Android](http://android-developers.googleblog.com/2022/04/first-preview-privacy-sandbox-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 27 2022 - [Welcome to Android Developers](https://www.youtube.com/watch?v=566IYGSXQcc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 26 2022 - [Kicking off Google Play Coffee breaks, with Jimjum Studios](http://android-developers.googleblog.com/2022/04/google-play-coffee-breaks-with-jimjum.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 26 2022 - [Architecture: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=_2BtE1P6MPE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 26 2022 - [The Beta for Android 13 is out now: Android 13 Beta 1](http://android-developers.googleblog.com/2022/04/android-13-beta-1-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Google Play Coffee break with Jimjum Studios](https://www.youtube.com/watch?v=6cKCFYzBuwY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
