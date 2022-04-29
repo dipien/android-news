@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Apr 29 2022 - [Switch Access for developers - Accessibility on Android](https://www.youtube.com/watch?v=tLIUaZyTtX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 28 2022 - [Architecture: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=_2BtE1P6MPE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 28 2022 - [The first developer preview of Privacy Sandbox on Android](http://android-developers.googleblog.com/2022/04/first-preview-privacy-sandbox-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 27 2022 - [Welcome to Android Developers](https://www.youtube.com/watch?v=566IYGSXQcc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -29,7 +30,6 @@
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2022 - [Product excellence and developer productivity fireside chat - #AppExcellenceSummit](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Apr 12 2022 - [Building the business case for quality with Play Console](https://www.youtube.com/watch?v=nQHB1oDAugA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
