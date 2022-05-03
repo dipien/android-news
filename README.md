@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 03 2022 - [Go Western Europe](https://www.youtube.com/watch?v=SpjgWqFZSys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Switch Access for developers - Accessibility on Android](https://www.youtube.com/watch?v=tLIUaZyTtX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -29,7 +30,6 @@
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 14 2022 - [Now in Android: 59 - Play Target SDK, Android Attestation, Architecture, and more!](https://www.youtube.com/watch?v=qxTnY2ZY1-k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 12 2022 - [Product excellence and developer productivity fireside chat - #AppExcellenceSummit](https://www.youtube.com/watch?v=sj8v3axyiCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
