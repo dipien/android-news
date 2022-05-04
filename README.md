@@ -1,9 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 04 2022 - [Go Western Europe](https://www.youtube.com/watch?v=SpjgWqFZSys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [History of Android at #GoogleIO](https://www.youtube.com/watch?v=wcrB7Ho5UaM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 03 2022 - [Go Western Europe](https://www.youtube.com/watch?v=SpjgWqFZSys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Switch Access for developers - Accessibility on Android](https://www.youtube.com/watch?v=tLIUaZyTtX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
