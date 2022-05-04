@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 04 2022 - [Now in Android: 60 - Architecture, Android Basics with Compose, and more!](https://www.youtube.com/watch?v=c1fnUCYJcaU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [History of Android at #GoogleIO](https://www.youtube.com/watch?v=wcrB7Ho5UaM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -27,7 +28,6 @@
 - Apr 15 2022 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=XYaHINvtA2c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=xyfkKlNSUHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play 정책 바이트 - 2022년 4월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=p9c9EpJljWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 15 2022 - [Google Play PolicyBytes- 2022年4月ポリシーアップデート（Japanese）](https://www.youtube.com/watch?v=jKHeVTbtNWY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
