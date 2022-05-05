@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 05 2022 - [Tune in on May 12th for #TheAndroidShow: Fireside at Google I/O](https://www.youtube.com/watch?v=gQilrNriS1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
 - May 04 2022 - [Now in Android: 60 - Architecture, Android Basics with Compose, and more!](https://www.youtube.com/watch?v=c1fnUCYJcaU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 04 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [History of Android at #GoogleIO](https://www.youtube.com/watch?v=wcrB7Ho5UaM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -28,7 +31,6 @@
 - Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3aEM2MHW2eQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=XYaHINvtA2c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=xyfkKlNSUHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 15 2022 - [Google Play 정책 바이트 - 2022년 4월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=p9c9EpJljWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -74,7 +76,6 @@
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 08 2022 - [Freeing up 60% of storage for apps](http://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2022 - [Demystifying Jetpack Glance for app widgets](https://medium.com/androiddevelopers/demystifying-jetpack-glance-for-app-widgets-8fbc7041955c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 03 2022 - [Keeping Google Play safe with our key 2022 initiatives](http://android-developers.googleblog.com/2022/03/privacy-and-security-direction.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
