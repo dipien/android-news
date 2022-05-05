@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Tune in on May 12th for #TheAndroidShow: Fireside at Google I/O](https://www.youtube.com/watch?v=gQilrNriS1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
@@ -75,7 +76,6 @@
 - Mar 09 2022 - [Happening now! #TheAndroidShow: Tablets, Jetpack Compose & Android 13](http://android-developers.googleblog.com/2022/03/happening-now-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 08 2022 - [Freeing up 60% of storage for apps](http://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 07 2022 - [Demystifying Jetpack Glance for app widgets](https://medium.com/androiddevelopers/demystifying-jetpack-glance-for-app-widgets-8fbc7041955c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
