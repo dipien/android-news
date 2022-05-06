@@ -31,7 +31,6 @@
 - Apr 15 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril de 2022 (Spanish)](https://www.youtube.com/watch?v=boLePr2qKB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3aEM2MHW2eQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=XYaHINvtA2c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=xyfkKlNSUHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -100,7 +99,8 @@
 - Feb 01 2022 - [Episode 182: Large screens are a big deal](http://adbackstage.libsyn.com/episode-182-large-screens-are-a-big-deal) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 31 2022 - [Guild Chat Unity Hook-up with Firebase Realtime Database — Benjamin Button Edition, Part 2](https://medium.com/firebase-developers/guild-chat-unity-hook-up-with-firebase-realtime-database-benjamin-button-edition-part-2-6b4a66b906a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 28 2022 - [Using content slots in Compose - Building Shrine in Compose](https://www.youtube.com/watch?v=kytMSf0fwhE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Jan 28 2022 - [Build the Backdrop menu - Building Shrine in Compose](https://www.youtube.com/watch?v=xAgUOv_TxiU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Jan 28 2022 - [Build the Backdrop app bar and front layer - Building Shrine in Compose](https://www.youtube.com/watch?v=caEbwQcKg78) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
