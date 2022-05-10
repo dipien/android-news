@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 10 2022 - [Android Developer Story: eBay gets a 4.7 Google Play rating with tablet optimization](https://www.youtube.com/watch?v=8gGXwOxHQjk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 09 2022 - [Android Studio Chipmunk](http://android-developers.googleblog.com/2022/05/android-studio-chipmunk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -31,7 +32,6 @@
 - Apr 18 2022 - [Architecture: Entities - MAD Skills](https://www.youtube.com/watch?v=cfak1jDKM_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril de 2022 (Spanish)](https://www.youtube.com/watch?v=boLePr2qKB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 15 2022 - [Google Play PolicyBytes - 2022 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3aEM2MHW2eQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 15 2022 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=XYaHINvtA2c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2022 - [These 5 Firebase tools will help you test and run your app with confidence](https://www.youtube.com/watch?v=HzN3bX6Isd8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
