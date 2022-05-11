@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 11 2022 - [What's new in Jetpack Compose](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 11 2022 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=LFz8qdF7xg4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
@@ -78,7 +80,6 @@
 - Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Mar 09 2022 - [Happening now! #TheAndroidShow: Tablets, Jetpack Compose & Android 13](http://android-developers.googleblog.com/2022/03/happening-now-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 07 2022 - [Understanding Games that Retain](https://medium.com/googleplaydev/understanding-games-that-retain-1847b16c86a7?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Feb 07 2022 - [Guild Chat Technical Production using Asana Premium with Firebase Realtime Database — Benjamin…](https://medium.com/firebase-developers/guild-chat-technical-production-using-asana-premium-with-firebase-realtime-database-benjamin-d069beb507b9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 02 2022 - [Calling asynchronous Firebase APIs from Swift](https://medium.com/firebase-developers/calling-asynchronous-firebase-apis-from-swift-757e8207df54?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 01 2022 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)<!-- NEWS:END -->
+- Feb 02 2022 - [Calling asynchronous Firebase APIs from Swift](https://medium.com/firebase-developers/calling-asynchronous-firebase-apis-from-swift-757e8207df54?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
