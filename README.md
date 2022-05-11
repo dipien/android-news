@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 11 2022 - [Second Beta of Android 13](http://android-developers.googleblog.com/2022/05/second-beta-of-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 11 2022 - [New flexible tools to grow your subscription business](http://android-developers.googleblog.com/2022/05/new-ways-to-sell-subscriptions-on-google-play.html.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Jetpack Compose](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=LFz8qdF7xg4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
@@ -77,8 +79,6 @@
 - Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2022 - [Things to know from the 2022 Google for Games Developer Summit](http://android-developers.googleblog.com/2022/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2022 - [Jetpack DataStore - wrap up](http://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 10 2022 - [Play Time with Jetpack Compose](http://android-developers.googleblog.com/2022/03/play-time-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 10 2022 - [App Excellence Summit 2022](http://android-developers.googleblog.com/2022/03/app-excellence-summit-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
