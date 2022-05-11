@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 11 2022 - [Building an adaptive layout with SlidingPaneLayout](https://www.youtube.com/watch?v=2rtLdF9UFqg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 11 2022 - [How to optimize media streaming with ExoPlayer](https://www.youtube.com/watch?v=Hw0Jeq42FNU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 11 2022 - [What's new in Firebase](https://www.youtube.com/watch?v=i0VNBvCqpgI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [How to integrate Android widgets with Google Assistant](https://www.youtube.com/watch?v=6vXZcg9g_Mo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [What's new in Google Play](https://www.youtube.com/watch?v=d8mn0pmgvGw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [Using state in Jetpack Compose](https://www.youtube.com/watch?v=PMMY23F0CFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -36,11 +39,9 @@
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
 - May 04 2022 - [Now in Android: 60 - Architecture, Android Basics with Compose, and more!](https://www.youtube.com/watch?v=c1fnUCYJcaU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 04 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 03 2022 - [History of Android at #GoogleIO](https://www.youtube.com/watch?v=wcrB7Ho5UaM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 29 2022 - [Switch Access for developers - Accessibility on Android](https://www.youtube.com/watch?v=tLIUaZyTtX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 28 2022 - [The first developer preview of Privacy Sandbox on Android](http://android-developers.googleblog.com/2022/04/first-preview-privacy-sandbox-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Kicking off Google Play Coffee breaks, with Jimjum Studios](http://android-developers.googleblog.com/2022/04/google-play-coffee-breaks-with-jimjum.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -91,7 +92,6 @@
 - Feb 25 2022 - [Episode 183: Baseline Profiles](http://adbackstage.libsyn.com/episode-183-baseline-profiles) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 24 2022 - [Using Firebase and Email to Send a Custom Diploma to Our Top Performing Users](https://medium.com/firebase-developers/sending-a-diploma-to-our-top-performing-users-fjelltoppjakten-184f87377323?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 22 2022 - [Firebase Release Notes Feb ‘22: More Flutter languages, Firestore performance visualization, & more!](https://www.youtube.com/watch?v=iNNIX129Ew0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 17 2022 - [Getting started with Firebase Storage on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=-IFRVMEhZDc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2022 - [Material Design Components for Android 1.5.0](https://material.io/blog/android-stable-release-1-5) - [Material Design Blog](https://material.io/blog)
 - Feb 17 2022 - [The Science of Color & Design](https://material.io/blog/science-of-color-design) - [Material Design Blog](https://material.io/blog)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
