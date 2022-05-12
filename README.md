@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Airbnb uses Jetpack Compose to empower devs to do their best work](http://android-developers.googleblog.com/2022/05/airbnb-uses-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [#TheAndroidShow: what's new for Android devs at I/O, in 60 seconds!](https://www.youtube.com/watch?v=l0iBPh7k_HQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -44,7 +45,6 @@
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
-- May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 09 2022 - [Android Studio Chipmunk](http://android-developers.googleblog.com/2022/05/android-studio-chipmunk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
