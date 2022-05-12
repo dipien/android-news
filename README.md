@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 12 2022 - [Create beautiful, power-efficient apps for Wear OS](https://www.youtube.com/watch?v=jpUVamtoKOs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Airbnb uses Jetpack Compose to empower devs to do their best work](http://android-developers.googleblog.com/2022/05/airbnb-uses-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,7 +23,6 @@
 - May 12 2022 - [Developing privacy user-centric apps](https://www.youtube.com/watch?v=opGkUl8C-HM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Best practices for running background work on Android](https://www.youtube.com/watch?v=t1_8WSEguDY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Building the Privacy Sandbox](https://www.youtube.com/watch?v=NKz5oT6kXI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [Integrate Google Assistant into Android for cars](https://www.youtube.com/watch?v=hhdVMLG5Y10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -83,7 +84,6 @@
 - Mar 23 2022 - [Go Global at Ramadan](https://medium.com/googleplaydev/go-global-at-ramadan-eb181fcedae4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 22 2022 - [Firebase Release Notes March 2022: Faster TTFB in Hosting, faster Android startup, and more Flutter!](https://www.youtube.com/watch?v=LbZO2RX9NY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Mar 17 2022 - [Getting Started with the Firebase Realtime Database on the Web - Firebase Fundamentals](https://www.youtube.com/watch?v=pP7quzFmWBY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 17 2022 - [Now in Android #57](https://medium.com/androiddevelopers/now-in-android-57-ac4a670e361c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)
 - Mar 16 2022 - [Prep your TV app for Android 12](https://medium.com/androiddevelopers/prep-your-tv-app-for-android-12-9a859d9bb967?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
