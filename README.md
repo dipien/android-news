@@ -25,7 +25,6 @@
 - May 11 2022 - [What's new in Firebase](https://www.youtube.com/watch?v=i0VNBvCqpgI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Secure your Firebase app from the start](https://www.youtube.com/watch?v=fgS3pyrGWvs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 11 2022 - [What's new in Firebase - American Sign Language](https://www.youtube.com/watch?v=zdizTQtteLo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [13 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2022/05/13-things-to-know-for-android-developers-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Health Connect, a new API for Android app developers to securely access user health data](http://android-developers.googleblog.com/2022/05/introducing-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Android Development Tools](http://android-developers.googleblog.com/2022/05/whats-new-in-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -100,7 +99,8 @@
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
 - Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
+- Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
