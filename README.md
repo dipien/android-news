@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 12 2022 - [Performance best practices for Jetpack Compose](https://www.youtube.com/watch?v=EOQB8PTLkpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Learn how to update your app for the larger screen](https://www.youtube.com/watch?v=1ZOQ_-XPSv8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Implementing Android apps for all screen sizes](https://www.youtube.com/watch?v=MPwf5DklKp0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -16,7 +18,6 @@
 - May 12 2022 - [What's new in Android machine learning](https://www.youtube.com/watch?v=tG6hiQNMLmE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Basics for System Back](https://www.youtube.com/watch?v=Elpqr5xpLxQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [App quality on Google Play](https://www.youtube.com/watch?v=pYo23Pqxnxg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [Updates in Fragments](https://www.youtube.com/watch?v=OE-tDh3d1F4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
 - Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
-- Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
