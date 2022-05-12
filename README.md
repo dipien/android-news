@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 12 2022 - [Success on Google Play with new acquisition, engagement, and monetization tools](https://www.youtube.com/watch?v=7ky2PZl16i4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 12 2022 - [What’s new with Android for Cars](http://android-developers.googleblog.com/2022/05/whats-new-with-android-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Accessibility for developers - American Sign Language](https://www.youtube.com/watch?v=wiRCoSvrVyc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [What's new in Accessibility for developers](https://www.youtube.com/watch?v=6LsaP6oKxMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [Tablet moments, built by you!](https://www.youtube.com/watch?v=IRiEcVfJJko) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -12,7 +17,6 @@
 - May 11 2022 - [Using state in Jetpack Compose](https://www.youtube.com/watch?v=PMMY23F0CFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [What's new in Android](https://www.youtube.com/watch?v=Z6iFhczA3NY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [Basic layouts in Compose](https://www.youtube.com/watch?v=kyH01Lg4G1E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 11 2022 - [How to customize Machine Learning models the simple way](https://www.youtube.com/watch?v=6e94KF1W10E) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Secure your Firebase app from the start](https://www.youtube.com/watch?v=fgS3pyrGWvs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [What's new in Jetpack](https://www.youtube.com/watch?v=jTd82lcuHTU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,10 +24,10 @@
 - May 11 2022 - [What's new in Google Play - American Sign Langague](https://www.youtube.com/watch?v=h9U8RpZmX3k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [What's new in Android - American Sign Language](https://www.youtube.com/watch?v=JhFRpxmWzEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [13 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2022/05/13-things-to-know-for-android-developers-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 11 2022 - [Introducing Health Connect, a new API for Android app developers to securely access user health data](http://android-developers.googleblog.com/2022/05/introducing-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Announcing Compose for Wear OS Beta!](http://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Google Play](http://android-developers.googleblog.com/2022/05/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [New Google Play SDK Index helps you choose the right SDKs for your app](http://android-developers.googleblog.com/2022/05/new-google-play-sdk-index.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [Introducing Health Connect, a new API for Android app developers to securely access user health data](http://android-developers.googleblog.com/2022/05/introducing-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Jetpack](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Android Development Tools](http://android-developers.googleblog.com/2022/05/whats-new-in-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [New flexible tools to grow your subscription business](http://android-developers.googleblog.com/2022/05/new-ways-to-sell-subscriptions-on-google-play.html.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -71,7 +75,6 @@
 - Mar 30 2022 - [Android GDE Maryam Alhuthayfi shares her passion for mobile development with fledgling developers](http://android-developers.googleblog.com/2022/03/android-gde-maryam-alhuthayfi-whm.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 29 2022 - [How a single Android developer improved Lyft’s Drivers app startup time by 21% in one month](http://android-developers.googleblog.com/2022/03/how-single-android-developer-improved.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 28 2022 - [The exciting aspects of Android Camera](http://android-developers.googleblog.com/2022/03/the-exciting-aspects-of-android-camera.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 25 2022 - [Upgrading Android Attestation: Remote Provisioning](http://android-developers.googleblog.com/2022/03/upgrading-android-attestation-remote.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 24 2022 - [Our FHIR SDK for Android Developers](https://medium.com/androiddevelopers/our-fhir-sdk-for-android-developers-9f8455e0b42f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 24 2022 - [From Placeholders to Genuine Avatars](https://material.io/blog/asset-people-2) - [Material Design Blog](https://material.io/blog)
@@ -83,7 +86,6 @@
 - Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)
 - Mar 16 2022 - [Prep your TV app for Android 12](https://medium.com/androiddevelopers/prep-your-tv-app-for-android-12-9a859d9bb967?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 15 2022 - [Everything new from Firebase at the Google for Games Developer Summit](https://www.youtube.com/watch?v=j4hWembf3xY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 15 2022 - [Supercharge your mobile game stability with Crashlytics for Unity](https://www.youtube.com/watch?v=P8XH4b0rOQA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -91,7 +93,6 @@
 - Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 25 2022 - [Episode 183: Baseline Profiles](http://adbackstage.libsyn.com/episode-183-baseline-profiles) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 24 2022 - [Using Firebase and Email to Send a Custom Diploma to Our Top Performing Users](https://medium.com/firebase-developers/sending-a-diploma-to-our-top-performing-users-fjelltoppjakten-184f87377323?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 22 2022 - [Firebase Release Notes Feb ‘22: More Flutter languages, Firestore performance visualization, & more!](https://www.youtube.com/watch?v=iNNIX129Ew0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2022 - [Material Design Components for Android 1.5.0](https://material.io/blog/android-stable-release-1-5) - [Material Design Blog](https://material.io/blog)
 - Feb 17 2022 - [The Science of Color & Design](https://material.io/blog/science-of-color-design) - [Material Design Blog](https://material.io/blog)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
 - Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)
-- Feb 09 2022 - [Animation - Building Shrine in Compose: Part 3](https://www.youtube.com/watch?v=nCPEuWCQlWk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Feb 10 2022 - [Designing Harmony into Dynamic Color](https://material.io/blog/dynamic-color-harmony) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
