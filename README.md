@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 11 2022 - [What's new in Accessibility for developers - American Sign Language](https://www.youtube.com/watch?v=wiRCoSvrVyc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 11 2022 - [What's new in Accessibility for developers](https://www.youtube.com/watch?v=6LsaP6oKxMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 11 2022 - [Tablet moments, built by you!](https://www.youtube.com/watch?v=IRiEcVfJJko) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [Building an adaptive layout with SlidingPaneLayout](https://www.youtube.com/watch?v=2rtLdF9UFqg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [How to optimize media streaming with ExoPlayer](https://www.youtube.com/watch?v=Hw0Jeq42FNU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2022 - [What's new in Firebase](https://www.youtube.com/watch?v=i0VNBvCqpgI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -36,10 +39,7 @@
 - May 09 2022 - [Android Studio Chipmunk](http://android-developers.googleblog.com/2022/05/android-studio-chipmunk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 05 2022 - [Tune in on May 12th for #TheAndroidShow: Fireside at Google I/O](https://www.youtube.com/watch?v=gQilrNriS1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
-- May 04 2022 - [Now in Android: 60 - Architecture, Android Basics with Compose, and more!](https://www.youtube.com/watch?v=c1fnUCYJcaU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 04 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
