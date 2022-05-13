@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 13 2022 - [Android Developer Story: Airbnb uses Jetpack Compose to empower devs to do their best work](https://www.youtube.com/watch?v=23sNq-N06xU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2022 - [Introducing new APIs for health and fitness in Health Connect by Android](https://www.youtube.com/watch?v=d14GVcnbTeo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -23,7 +24,6 @@
 - May 12 2022 - [What's new in Android development tools](https://www.youtube.com/watch?v=RFv8GkLd5OY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Overview of the Privacy Sandbox on Android](https://www.youtube.com/watch?v=pQdzFbmlvOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Developing privacy user-centric apps](https://www.youtube.com/watch?v=opGkUl8C-HM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [Best practices for running background work on Android](https://www.youtube.com/watch?v=t1_8WSEguDY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -33,9 +33,9 @@
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Secure your Firebase app from the start](https://www.youtube.com/watch?v=fgS3pyrGWvs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [13 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2022/05/13-things-to-know-for-android-developers-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 11 2022 - [Announcing Compose for Wear OS Beta!](http://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Health Connect, a new API for Android app developers to securely access user health data](http://android-developers.googleblog.com/2022/05/introducing-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Android Development Tools](http://android-developers.googleblog.com/2022/05/whats-new-in-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [Announcing Compose for Wear OS Beta!](http://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Google Play](http://android-developers.googleblog.com/2022/05/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [New Google Play SDK Index helps you choose the right SDKs for your app](http://android-developers.googleblog.com/2022/05/new-google-play-sdk-index.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Jetpack](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
