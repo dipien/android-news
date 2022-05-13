@@ -47,6 +47,7 @@
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
+- May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 09 2022 - [Android Studio Chipmunk](http://android-developers.googleblog.com/2022/05/android-studio-chipmunk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 16 2022 - [Say hello to Roboto Serif](https://material.io/blog/roboto-serif) - [Material Design Blog](https://material.io/blog)
 - Feb 15 2022 - [Using Machine Learning to optimize mobile game experiences](http://firebase.googleblog.com/2022/02/custom-ondevice-machine-learning.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)
-- Feb 11 2022 - [Accept Payments with Cloud Firestore and Google Pay](http://firebase.googleblog.com/2022/02/accept-payments-with-Cloud-Firestore-and-Google-Pay.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
+- Feb 15 2022 - [Teaming Up to Improve Reading Research](https://material.io/blog/readability-consortium) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
