@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 13 2022 - [Android @ I/O'22: A quick run through of what's new!](https://www.youtube.com/watch?v=xjnFYBw68WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 13 2022 - [Android Developer Story: Airbnb uses Jetpack Compose to empower devs to do their best work](https://www.youtube.com/watch?v=23sNq-N06xU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2022 - [Introducing new APIs for health and fitness in Health Connect by Android](https://www.youtube.com/watch?v=d14GVcnbTeo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,7 +24,6 @@
 - May 12 2022 - [What's new in app performance](https://www.youtube.com/watch?v=DYdHLqLVspY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new in Android development tools](https://www.youtube.com/watch?v=RFv8GkLd5OY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Overview of the Privacy Sandbox on Android](https://www.youtube.com/watch?v=pQdzFbmlvOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [Developing privacy user-centric apps](https://www.youtube.com/watch?v=opGkUl8C-HM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
