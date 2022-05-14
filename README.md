@@ -39,7 +39,7 @@
 - May 11 2022 - [What's new in Google Play](http://android-developers.googleblog.com/2022/05/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [New Google Play SDK Index helps you choose the right SDKs for your app](http://android-developers.googleblog.com/2022/05/new-google-play-sdk-index.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Jetpack](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [New flexible tools to grow your subscription business](http://android-developers.googleblog.com/2022/05/new-ways-to-sell-subscriptions-on-google-play.html.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 11 2022 - [New flexible tools to grow your subscription business](http://android-developers.googleblog.com/2022/05/new-ways-to-sell-subscriptions-on-google-play_0530335598.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Second Beta of Android 13](http://android-developers.googleblog.com/2022/05/second-beta-of-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Jetpack Compose](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=LFz8qdF7xg4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
