@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 17 2022 - [Boost the security of your app with the nonce field of the Play Integrity API](http://android-developers.googleblog.com/2022/05/boost-security-of-your-app-with-nonce.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 16 2022 - [Spot your UI jank using CPU profiler in Android Studio](https://medium.com/androiddevelopers/spot-your-ui-jank-using-cpu-profiler-in-android-studio-9a4c41a54dab?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 13 2022 - [Android @ I/O'22: A quick run through of what's new!](https://www.youtube.com/watch?v=xjnFYBw68WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 13 2022 - [Android Developer Story: Airbnb uses Jetpack Compose to empower devs to do their best work](https://www.youtube.com/watch?v=23sNq-N06xU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -78,7 +79,6 @@
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 01 2022 - [Google Photos: How we used notifications to boost widget installs 10x!](http://android-developers.googleblog.com/2022/04/google-photos-notifs-boot-installs.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
 - Mar 31 2022 - [Now in Android #58](https://medium.com/androiddevelopers/now-in-android-58-a8919ba01d45?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
