@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 18 2022 - [Now in Android: 61 - I/O 2022 highlights, Jetpack, Google Play, and more!](https://www.youtube.com/watch?v=H254X8xas5U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 18 2022 - [7 Lessons from a Product Manager about Mobile A/B tests](https://medium.com/firebase-developers/7-lessons-from-a-product-manager-about-mobile-a-b-tests-dc7b7c65c82?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 18 2022 - [How to authenticate to Firebase using Google One Tap in Jetpack Compose?](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-google-one-tap-in-jetpack-compose-60b30e621d0d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 17 2022 - [Custom Canvas Animations in Jetpack Compose ✨](https://medium.com/androiddevelopers/custom-canvas-animations-in-jetpack-compose-e7767e349339?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -28,7 +29,6 @@
 - May 12 2022 - [What's new with Android TV and Google TV](https://www.youtube.com/watch?v=uZTOaKFnNTw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new in app performance](https://www.youtube.com/watch?v=DYdHLqLVspY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new in Android development tools](https://www.youtube.com/watch?v=RFv8GkLd5OY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [Overview of the Privacy Sandbox on Android](https://www.youtube.com/watch?v=pQdzFbmlvOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
