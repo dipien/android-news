@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 19 2022 - [Google Play 政策更新重點解讀 - 2022 年 4 月 (中文講解)](https://www.youtube.com/watch?v=YnHN4EpBag0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
 - May 18 2022 - [Now in Android #61 — Special Google I/O 2022 Edition](https://medium.com/androiddevelopers/now-in-android-61-special-google-i-o-2022-edition-18b953084650?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -31,7 +32,6 @@
 - May 12 2022 - [What's new with Android for cars](https://www.youtube.com/watch?v=8p0MHU8lEuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new with Android TV and Google TV](https://www.youtube.com/watch?v=uZTOaKFnNTw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new in app performance](https://www.youtube.com/watch?v=DYdHLqLVspY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [What's new in Android development tools](https://www.youtube.com/watch?v=RFv8GkLd5OY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
