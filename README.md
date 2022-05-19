@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 18 2022 - [Now in Android #61 — Special Google I/O 2022 Edition](https://medium.com/androiddevelopers/now-in-android-61-special-google-i-o-2022-edition-18b953084650?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 18 2022 - [Now in Android: 61 - I/O 2022 highlights, Jetpack, Google Play, and more!](https://www.youtube.com/watch?v=H254X8xas5U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 18 2022 - [7 Lessons from a Product Manager about Mobile A/B tests](https://medium.com/firebase-developers/7-lessons-from-a-product-manager-about-mobile-a-b-tests-dc7b7c65c82?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 18 2022 - [How to authenticate to Firebase using Google One Tap in Jetpack Compose?](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-google-one-tap-in-jetpack-compose-60b30e621d0d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -85,7 +86,6 @@
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
 - Mar 31 2022 - [Now in Android #58](https://medium.com/androiddevelopers/now-in-android-58-a8919ba01d45?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Mar 24 2022 - [Our FHIR SDK for Android Developers](https://medium.com/androiddevelopers/our-fhir-sdk-for-android-developers-9f8455e0b42f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 24 2022 - [From Placeholders to Genuine Avatars](https://material.io/blog/asset-people-2) - [Material Design Blog](https://material.io/blog)
 - Mar 23 2022 - [Go Global at Ramadan](https://medium.com/googleplaydev/go-global-at-ramadan-eb181fcedae4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
