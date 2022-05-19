@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
 - May 18 2022 - [Now in Android #61 — Special Google I/O 2022 Edition](https://medium.com/androiddevelopers/now-in-android-61-special-google-i-o-2022-edition-18b953084650?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 18 2022 - [Now in Android: 61 - I/O 2022 highlights, Jetpack, Google Play, and more!](https://www.youtube.com/watch?v=H254X8xas5U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 18 2022 - [7 Lessons from a Product Manager about Mobile A/B tests](https://medium.com/firebase-developers/7-lessons-from-a-product-manager-about-mobile-a-b-tests-dc7b7c65c82?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -99,8 +100,7 @@
 - Feb 24 2022 - [Using Firebase and Email to Send a Custom Diploma to Our Top Performing Users](https://medium.com/firebase-developers/sending-a-diploma-to-our-top-performing-users-fjelltoppjakten-184f87377323?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 17 2022 - [Material Design Components for Android 1.5.0](https://material.io/blog/android-stable-release-1-5) - [Material Design Blog](https://material.io/blog)
 - Feb 17 2022 - [The Science of Color & Design](https://material.io/blog/science-of-color-design) - [Material Design Blog](https://material.io/blog)
-- Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 16 2022 - [Say hello to Roboto Serif](https://material.io/blog/roboto-serif) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
