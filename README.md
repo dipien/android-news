@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 23 2022 - [Modern Android Development at Google I/O ‘22](http://android-developers.googleblog.com/2022/05/io22-spotlights-mad.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 23 2022 - [3 things to know about Modern Android Development at Google I/O '22](https://www.youtube.com/watch?v=L88qDgrhp5M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 19 2022 - [Google Play 政策更新重點解讀 - 2022 年 4 月 (中文講解)](https://www.youtube.com/watch?v=YnHN4EpBag0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
@@ -31,7 +33,6 @@
 - May 12 2022 - [Implementing Android apps for all screen sizes](https://www.youtube.com/watch?v=MPwf5DklKp0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new with Android for cars](https://www.youtube.com/watch?v=8p0MHU8lEuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new with Android TV and Google TV](https://www.youtube.com/watch?v=uZTOaKFnNTw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [What's new in app performance](https://www.youtube.com/watch?v=DYdHLqLVspY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -80,7 +81,6 @@
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [The curious case of FLAG_ACTIVITY_LAUNCH_ADJACENT](https://medium.com/androiddevelopers/the-curious-case-of-flag-activity-launch-adjacent-f1212f37a8e0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 06 2022 - [Expanding Play’s Target Level API Requirements to Strengthen User Security](http://android-developers.googleblog.com/2022/04/expanding-plays-target-level-api-requirements-to-strengthen-user-security.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
