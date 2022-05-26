@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- May 26 2022 - [Build the expanding Cart BottomSheet - Material Live Highlights](https://www.youtube.com/watch?v=5SR6FcqpwqU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- May 26 2022 - [Polishing the Cart transition - Material Live Highlights](https://www.youtube.com/watch?v=6-wiitIFf40) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 24 2022 - [Firebase Release Notes May 2022: Official Flutter support and other updates from Google I/O!](https://www.youtube.com/watch?v=HseGVOM85W4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 23 2022 - [Modern Android Development at Google I/O ‘22](http://android-developers.googleblog.com/2022/05/io22-spotlights-mad.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 23 2022 - [3 things to know about Modern Android Development at Google I/O '22](https://www.youtube.com/watch?v=L88qDgrhp5M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -95,12 +100,7 @@
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 25 2022 - [Episode 183: Baseline Profiles](http://adbackstage.libsyn.com/episode-183-baseline-profiles) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Feb 24 2022 - [Using Firebase and Email to Send a Custom Diploma to Our Top Performing Users](https://medium.com/firebase-developers/sending-a-diploma-to-our-top-performing-users-fjelltoppjakten-184f87377323?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 17 2022 - [Material Design Components for Android 1.5.0](https://material.io/blog/android-stable-release-1-5) - [Material Design Blog](https://material.io/blog)
-- Feb 17 2022 - [The Science of Color & Design](https://material.io/blog/science-of-color-design) - [Material Design Blog](https://material.io/blog)
-- Feb 16 2022 - [Say hello to Roboto Serif](https://www.youtube.com/watch?v=wtBS5wRpaHg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
