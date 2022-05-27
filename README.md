@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 27 2022 - [Implementing Dynamic Color: Lessons from the Chrome team](http://android-developers.googleblog.com/2022/05/implementing-dynamic-color-lessons-from.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -81,7 +82,6 @@
 - Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2022 - [Introducing Material Symbols](https://material.io/blog/introducing-symbols) - [Material Design Blog](https://material.io/blog)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 12 2022 - [Things to know from the 2022 Android App Excellence Summit](http://android-developers.googleblog.com/2022/04/aes22-blog-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
