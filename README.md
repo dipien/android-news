@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 27 2022 - [Implementing Dynamic Color: Lessons from the Chrome team](http://android-developers.googleblog.com/2022/05/implementing-dynamic-color-lessons-from.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 28 2022 - [Animate the TopAppBar icons - Material Live Highlights](https://www.youtube.com/watch?v=hiDaPrcZbco) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Feb 28 2022 - [Animate the TopAppBar text and search field - Material Live Highlights](https://www.youtube.com/watch?v=_8boIo4Bg-8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
