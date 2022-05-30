@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 30 2022 - [3 things to know about Form Factors at Google I/O '22](https://www.youtube.com/watch?v=PQrm-YR3PWw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 27 2022 - [Implementing Dynamic Color: Lessons from the Chrome team](http://android-developers.googleblog.com/2022/05/implementing-dynamic-color-lessons-from.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -40,7 +41,6 @@
 - May 12 2022 - [Learn how to update your app for the larger screen](https://www.youtube.com/watch?v=1ZOQ_-XPSv8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Implementing Android apps for all screen sizes](https://www.youtube.com/watch?v=MPwf5DklKp0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [What's new with Android for cars](https://www.youtube.com/watch?v=8p0MHU8lEuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [What's new with Android TV and Google TV](https://www.youtube.com/watch?v=uZTOaKFnNTw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
