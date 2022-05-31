@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 31 2022 - [3 things to know about Form Factors at Google I/O'22](http://android-developers.googleblog.com/2022/05/form-factors-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2022 - [3 things to know about Form Factors at Google I/O '22](https://www.youtube.com/watch?v=PQrm-YR3PWw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 27 2022 - [Implementing Dynamic Color: Lessons from the Chrome team](http://android-developers.googleblog.com/2022/05/implementing-dynamic-color-lessons-from.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -79,7 +80,6 @@
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 20 2022 - [Measure and improve performance with Macrobenchmark](https://medium.com/androiddevelopers/measure-and-improve-performance-with-macrobenchmark-560abd0aa5bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 19 2022 - [Twitter going all in on Jetpack Compose for feature development: greater productivity, less bugs](http://android-developers.googleblog.com/2022/04/twitter-going-all-in-on-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2022 - [Introducing Material Symbols](https://material.io/blog/introducing-symbols) - [Material Design Blog](https://material.io/blog)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
