@@ -1,6 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 01 2022 - [ViewModel: One-off event antipatterns](https://medium.com/androiddevelopers/viewmodel-one-off-event-antipatterns-16a1da869b95?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jun 01 2022 - [Indie Games Festival: Get featured and win promotions on Google Play](https://www.youtube.com/watch?v=heB3GfHcAxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 01 2022 - [Indie Games Accelerator: Supercharge your growth with help from Google Play](https://www.youtube.com/watch?v=ii0HgRV0_7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 01 2022 - [Get help from Google Play to grow your indie game](https://www.youtube.com/watch?v=7Z0Cz6t9Hpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 31 2022 - [3 things to know about Form Factors at Google I/O'22](http://android-developers.googleblog.com/2022/05/form-factors-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2022 - [3 things to know about Form Factors at Google I/O '22](https://www.youtube.com/watch?v=PQrm-YR3PWw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -39,9 +43,6 @@
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Performance best practices for Jetpack Compose](https://www.youtube.com/watch?v=EOQB8PTLkpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 12 2022 - [Learn how to update your app for the larger screen](https://www.youtube.com/watch?v=1ZOQ_-XPSv8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [Implementing Android apps for all screen sizes](https://www.youtube.com/watch?v=MPwf5DklKp0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [What's new with Android for cars](https://www.youtube.com/watch?v=8p0MHU8lEuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -91,7 +92,6 @@
 - Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
-- Mar 31 2022 - [Now in Android #58](https://medium.com/androiddevelopers/now-in-android-58-a8919ba01d45?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 24 2022 - [From Placeholders to Genuine Avatars](https://material.io/blog/asset-people-2) - [Material Design Blog](https://material.io/blog)
 - Mar 23 2022 - [Go Global at Ramadan](https://medium.com/googleplaydev/go-global-at-ramadan-eb181fcedae4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
