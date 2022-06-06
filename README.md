@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Platform, Privacy, and Security at Google I/O '22](https://www.youtube.com/watch?v=6Fm9inY21Fw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2022 - [Diving Into Compose — Lessons Learned While Building Maps Compose](https://medium.com/androiddevelopers/diving-into-compose-lessons-learned-while-building-maps-compose-d20ef5dfe1bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 02 2022 - [You asked for it—here are some of our favorite font pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
@@ -78,7 +79,6 @@
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 28 2022 - [The first developer preview of Privacy Sandbox on Android](http://android-developers.googleblog.com/2022/04/first-preview-privacy-sandbox-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 26 2022 - [Kicking off Google Play Coffee breaks, with Jimjum Studios](http://android-developers.googleblog.com/2022/04/google-play-coffee-breaks-with-jimjum.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
