@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 06 2022 - [3 things to know about Platform, Privacy, and Security at Google I/O '22](https://www.youtube.com/watch?v=6Fm9inY21Fw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2022 - [Diving Into Compose — Lessons Learned While Building Maps Compose](https://medium.com/androiddevelopers/diving-into-compose-lessons-learned-while-building-maps-compose-d20ef5dfe1bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 02 2022 - [You asked for it—here are some of our favorite font pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
 - Jun 01 2022 - [ViewModel: One-off event antipatterns](https://medium.com/androiddevelopers/viewmodel-one-off-event-antipatterns-16a1da869b95?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -44,7 +45,6 @@
 - May 12 2022 - [Integrate Firebase into your team's development workflow](https://www.youtube.com/watch?v=tLN-A3kBn7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Designing apps for large screens](https://www.youtube.com/watch?v=pvdqeIM6mh0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [Performance best practices for Jetpack Compose](https://www.youtube.com/watch?v=EOQB8PTLkpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
