@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 08 2022 - [Android 13 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2022/06/android-13-beta-3-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jun 08 2022 - [Best practices for bringing PC and console games to mobile](https://medium.com/googleplaydev/best-practices-for-bringing-pc-and-console-games-to-mobile-863cedb9fbc6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
+- Jun 08 2022 - [Why should you always test Compose performance in release?](https://medium.com/androiddevelopers/why-should-you-always-test-compose-performance-in-release-4168dd0f2c71?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2022 - [Progress on initiatives to keeping Google Play safe](http://android-developers.googleblog.com/2022/06/keeping-google-play-safe-progress.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Platform, Privacy, and Security at Google I/O '22](https://www.youtube.com/watch?v=6Fm9inY21Fw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -78,7 +81,6 @@
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 29 2022 - [Architecture MAD Skills series wrap up](http://android-developers.googleblog.com/2022/04/architecture-mad-skills-series-wrap-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -86,7 +88,6 @@
 - Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2022 - [Introducing Material Symbols](https://material.io/blog/introducing-symbols) - [Material Design Blog](https://material.io/blog)
 - Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 11 2022 - [Migrating Architecture Blueprints to Jetpack Compose](https://medium.com/androiddevelopers/migrating-architecture-blueprints-to-jetpack-compose-8ffa6615ede3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
 - Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)
 - Mar 09 2022 - [Insights into working with game publishers](https://medium.com/googleplaydev/insights-into-working-with-game-publishers-e71779286ff4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Feb 28 2022 - [Animate the navigation menu items - Material Live Highlights](https://www.youtube.com/watch?v=pAhQPVdCpVs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Mar 09 2022 - [How Firebase Performance Monitoring optimized app startup time](http://firebase.googleblog.com/2022/03/how-Firebase-Performance-Monitoring-optimized-app-startup-time.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
