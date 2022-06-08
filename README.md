@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 08 2022 - [Now in Android: 62 - Google I/O 2022, Jetpack, Android Studio, and more!](https://www.youtube.com/watch?v=n_qx3stTsqw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 08 2022 - [Android 13 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2022/06/android-13-beta-3-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 08 2022 - [Best practices for bringing PC and console games to mobile](https://medium.com/googleplaydev/best-practices-for-bringing-pc-and-console-games-to-mobile-863cedb9fbc6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
@@ -49,7 +50,6 @@
 - May 12 2022 - [#TheAndroidShow: What's new for Android devs at I/O, in 60 seconds!](https://www.youtube.com/watch?v=l0iBPh7k_HQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Integrate Firebase into your team's development workflow](https://www.youtube.com/watch?v=tLN-A3kBn7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [Designing apps for large screens](https://www.youtube.com/watch?v=pvdqeIM6mh0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
