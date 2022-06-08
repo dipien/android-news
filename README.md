@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 08 2022 - [Now in Android #62](https://medium.com/androiddevelopers/now-in-android-62-db108c6022ab?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2022 - [Now in Android: 62 - Google I/O 2022, Jetpack, Android Studio, and more!](https://www.youtube.com/watch?v=n_qx3stTsqw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 08 2022 - [Android 13 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2022/06/android-13-beta-3-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -88,7 +89,6 @@
 - Apr 20 2022 - [Measure and improve performance with Macrobenchmark](https://medium.com/androiddevelopers/measure-and-improve-performance-with-macrobenchmark-560abd0aa5bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 19 2022 - [JavaScript crash course: Firestore and Auth - JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2022 - [Introducing Material Symbols](https://material.io/blog/introducing-symbols) - [Material Design Blog](https://material.io/blog)
-- Apr 14 2022 - [Now in Android #59](https://medium.com/androiddevelopers/now-in-android-59-f36300ae1e94?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
