@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 09 2022 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=FZPObrAIC6w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 08 2022 - [Now in Android #62](https://medium.com/androiddevelopers/now-in-android-62-db108c6022ab?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2022 - [Now in Android: 62 - Google I/O 2022, Jetpack, Android Studio, and more!](https://www.youtube.com/watch?v=n_qx3stTsqw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -12,7 +14,7 @@
 - Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Platform, Privacy, and Security at Google I/O '22](https://www.youtube.com/watch?v=6Fm9inY21Fw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2022 - [Diving Into Compose — Lessons Learned While Building Maps Compose](https://medium.com/androiddevelopers/diving-into-compose-lessons-learned-while-building-maps-compose-d20ef5dfe1bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 02 2022 - [You asked for it—here are some of our favorite font pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
+- Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
 - Jun 01 2022 - [ViewModel: One-off event antipatterns](https://medium.com/androiddevelopers/viewmodel-one-off-event-antipatterns-16a1da869b95?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2022 - [Indie Games Festival: Get featured and win promotions on Google Play](https://www.youtube.com/watch?v=heB3GfHcAxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2022 - [Indie Games Accelerator: Supercharge your growth with help from Google Play](https://www.youtube.com/watch?v=ii0HgRV0_7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -49,7 +51,6 @@
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Airbnb uses Jetpack Compose to empower devs to do their best work](http://android-developers.googleblog.com/2022/05/airbnb-uses-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 12 2022 - [#TheAndroidShow: What's new for Android devs at I/O, in 60 seconds!](https://www.youtube.com/watch?v=l0iBPh7k_HQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Integrate Firebase into your team's development workflow](https://www.youtube.com/watch?v=tLN-A3kBn7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 24 2022 - [From Placeholders to Genuine Avatars](https://material.io/blog/asset-people-2) - [Material Design Blog](https://material.io/blog)
 - Mar 23 2022 - [Go Global at Ramadan](https://medium.com/googleplaydev/go-global-at-ramadan-eb181fcedae4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)
-- Mar 17 2022 - [Replacing “Users” with People](https://material.io/blog/asset-people-1) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Mar 18 2022 - [#FirebaserFriday: Frank van Puffelen](http://firebase.googleblog.com/2022/02/meet-firebaser-Puf.html) - [The Firebase Blog](https://firebase.googleblog.com/)<!-- NEWS:END -->
 
 ## Sources
 
