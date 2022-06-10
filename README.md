@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 10 2022 - [Accessibility testing - Accessibility on Android](https://www.youtube.com/watch?v=GRV1kucMqIo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Easing in to Easing Curves in Jetpack Compose](https://medium.com/androiddevelopers/easing-in-to-easing-curves-in-jetpack-compose-d72893eeeb4d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 09 2022 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=FZPObrAIC6w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
@@ -51,7 +52,6 @@
 - May 12 2022 - [Create beautiful, power-efficient apps for Wear OS](https://www.youtube.com/watch?v=jpUVamtoKOs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Airbnb uses Jetpack Compose to empower devs to do their best work](http://android-developers.googleblog.com/2022/05/airbnb-uses-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 12 2022 - [#TheAndroidShow: Fireside Q&A at Google I/O](https://www.youtube.com/watch?v=wq3Et-D9P5Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Integrate Firebase into your team's development workflow](https://www.youtube.com/watch?v=tLN-A3kBn7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
