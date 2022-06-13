@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 13 2022 - [3 things to know about Google Play at Google I/O '22](https://www.youtube.com/watch?v=g_nLgvJo_54) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Accessibility testing - Accessibility on Android](https://www.youtube.com/watch?v=GRV1kucMqIo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Easing in to Easing Curves in Jetpack Compose](https://medium.com/androiddevelopers/easing-in-to-easing-curves-in-jetpack-compose-d72893eeeb4d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 09 2022 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=FZPObrAIC6w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -49,7 +50,6 @@
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2022 - [Introducing new APIs for health and fitness in Health Connect by Android](https://www.youtube.com/watch?v=d14GVcnbTeo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [Create beautiful, power-efficient apps for Wear OS](https://www.youtube.com/watch?v=jpUVamtoKOs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Airbnb uses Jetpack Compose to empower devs to do their best work](http://android-developers.googleblog.com/2022/05/airbnb-uses-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
