@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 13 2022 - [Google Play @ Google I/O - 3 updates you need to know](http://android-developers.googleblog.com/2022/06/google-play-google-io-3-updates-you-need-to-know_01537187872.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2022 - [3 things to know about Google Play at Google I/O '22](https://www.youtube.com/watch?v=g_nLgvJo_54) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Accessibility testing - Accessibility on Android](https://www.youtube.com/watch?v=GRV1kucMqIo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Easing in to Easing Curves in Jetpack Compose](https://medium.com/androiddevelopers/easing-in-to-easing-curves-in-jetpack-compose-d72893eeeb4d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -85,7 +86,6 @@
 - May 05 2022 - [eBay gets a 4.7 Google Play rating with tablet optimizations](http://android-developers.googleblog.com/2022/05/ebay-gets-47-google-play-rating.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 02 2022 - [Learn Android with Jetpack Compose (no programming experience needed!)](http://android-developers.googleblog.com/2022/05/new-android-basics-with-compose-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 22 2022 - [Alternatives to Idling Resources in Compose tests](https://medium.com/androiddevelopers/alternatives-to-idling-resources-in-compose-tests-8ae71f9fc473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 21 2022 - [Make your app the best it can be with Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
