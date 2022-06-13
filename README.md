@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Jun 13 2022 - [Google Play PolicyBytes - Data Safety form walkthrough](https://www.youtube.com/watch?v=4rfF3y4xchU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 13 2022 - [Google Play PolicyBytes - Data safety form walkthrough](https://www.youtube.com/watch?v=4rfF3y4xchU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2022 - [Google Play @ Google I/O - 3 updates you need to know](http://android-developers.googleblog.com/2022/06/google-play-google-io-3-updates-you-need-to-know_01537187872.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2022 - [3 things to know about Google Play at Google I/O '22](https://www.youtube.com/watch?v=g_nLgvJo_54) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Accessibility testing - Accessibility on Android](https://www.youtube.com/watch?v=GRV1kucMqIo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
