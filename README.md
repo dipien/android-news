@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 17 2022 - [Android App Excellence Summit in 9 minutes](https://www.youtube.com/watch?v=3s21Ynn4Huw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2022 - [Privacy Sandbox Developer Preview 3: Support for conversion measurement, custom audiences, and ad selection](http://android-developers.googleblog.com/2022/06/privacy-sandbox-developer-preview-3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 15 2022 - [Fixing Font Padding in Compose Text](https://medium.com/androiddevelopers/fixing-font-padding-in-compose-text-768cd232425b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 15 2022 - [#WeArePlay - Discover the people building apps & games businesses](https://www.youtube.com/watch?v=T7ckvawdL-w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -50,7 +51,6 @@
 - May 17 2022 - [Custom Canvas Animations in Jetpack Compose ✨](https://medium.com/androiddevelopers/custom-canvas-animations-in-jetpack-compose-e7767e349339?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2022 - [Boost the security of your app with the nonce field of the Play Integrity API](http://android-developers.googleblog.com/2022/05/boost-security-of-your-app-with-nonce.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 16 2022 - [Spot your UI jank using CPU profiler in Android Studio](https://medium.com/androiddevelopers/spot-your-ui-jank-using-cpu-profiler-in-android-studio-9a4c41a54dab?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 13 2022 - [Android @ I/O '22: A quick run through of what's new!](https://www.youtube.com/watch?v=xjnFYBw68WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
