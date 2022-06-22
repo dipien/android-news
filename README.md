@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 22 2022 - [#WeArePlay - Discover the people building apps & games businesses](http://android-developers.googleblog.com/2022/06/WeArePlay-Discover-the-people-building-apps-games-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [#WeArePlay - Alyssa & Yvonne | Frobelles | UK](https://www.youtube.com/watch?v=KwbUAYtDUO0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 17 2022 - [Android App Excellence Summit in 9 minutes](https://www.youtube.com/watch?v=3s21Ynn4Huw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2022 - [Privacy Sandbox Developer Preview 3: Support for conversion measurement, custom audiences, and ad selection](http://android-developers.googleblog.com/2022/06/privacy-sandbox-developer-preview-3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -83,7 +84,6 @@
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
 - May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 09 2022 - [Android Studio Chipmunk](http://android-developers.googleblog.com/2022/05/android-studio-chipmunk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
