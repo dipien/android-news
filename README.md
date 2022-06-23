@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 23 2022 - [Now in Android: 63 - Android 13 Beta 3, Google Play, Privacy Sandbox DP3, and more!](https://www.youtube.com/watch?v=htXyBsNvx78) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2022 - [Developer-Powered CTS (CTS-D)](http://android-developers.googleblog.com/2022/06/developer-powered-cts-cts-d.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](http://android-developers.googleblog.com/2022/06/notes-from-google-play-making-play-work.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](https://www.youtube.com/watch?v=e1XWgW0uyWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -45,7 +46,6 @@
 - May 26 2022 - [Polishing the Cart transition - Material Live Highlights](https://www.youtube.com/watch?v=6-wiitIFf40) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 24 2022 - [Firebase Release Notes May 2022: Official Flutter support and other updates from Google I/O!](https://www.youtube.com/watch?v=HseGVOM85W4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 23 2022 - [Modern Android Development at Google I/O ‘22](http://android-developers.googleblog.com/2022/05/io22-spotlights-mad.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 23 2022 - [3 things to know about Modern Android Development at Google I/O '22](https://www.youtube.com/watch?v=L88qDgrhp5M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
 - May 18 2022 - [Now in Android #61 — Special Google I/O 2022 Edition](https://medium.com/androiddevelopers/now-in-android-61-special-google-i-o-2022-edition-18b953084650?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
