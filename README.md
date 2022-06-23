@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 23 2022 - [Now in Android #63](https://medium.com/androiddevelopers/now-in-android-63-8a24f79ceacf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 23 2022 - [Now in Android: 63 - Android 13 Beta 3, Google Play, Privacy Sandbox DP3, and more!](https://www.youtube.com/watch?v=htXyBsNvx78) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2022 - [Developer-Powered CTS (CTS-D)](http://android-developers.googleblog.com/2022/06/developer-powered-cts-cts-d.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](http://android-developers.googleblog.com/2022/06/notes-from-google-play-making-play-work.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -84,7 +85,6 @@
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
 - May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 05 2022 - [Now In Android #60](https://medium.com/androiddevelopers/now-in-android-60-c22a4c672795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
 - May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 26 2022 - [Firebase Release Notes April 2022: Firestore performance, new Realtime Database viewer＆Google I/O](https://www.youtube.com/watch?v=wR3VB4OM8pw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
