@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 23 2022 - [Developer-Powered CTS (CTS-D)](http://android-developers.googleblog.com/2022/06/developer-powered-cts-cts-d.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](http://android-developers.googleblog.com/2022/06/notes-from-google-play-making-play-work.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](https://www.youtube.com/watch?v=e1XWgW0uyWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 22 2022 - [#WeArePlay - Discover the people building apps & games businesses](http://android-developers.googleblog.com/2022/06/WeArePlay-Discover-the-people-building-apps-games-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -77,7 +78,6 @@
 - May 11 2022 - [New Google Play SDK Index helps you choose the right SDKs for your app](http://android-developers.googleblog.com/2022/05/new-google-play-sdk-index.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Jetpack](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [New flexible tools to grow your subscription business](http://android-developers.googleblog.com/2022/05/new-ways-to-sell-subscriptions-on-google-play_0530335598.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [Second Beta of Android 13](http://android-developers.googleblog.com/2022/05/second-beta-of-android-13.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=LFz8qdF7xg4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
