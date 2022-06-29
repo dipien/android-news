@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 29 2022 - [Migrating to the new coroutines 1.6 test APIs](https://medium.com/androiddevelopers/migrating-to-the-new-coroutines-1-6-test-apis-b99f7fc47774?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jun 29 2022 - [Independent versioning of Jetpack Compose libraries](http://android-developers.googleblog.com/2022/06/independent-versioning-of-Jetpack-Compose-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2022 - [Firebase Release Notes June '22: Crashlytics drag-and-drop, Robo script docs＆Apple silicon for Unity](https://www.youtube.com/watch?v=JxJ0niQWieU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2022 - [How Firebase projects and apps work](https://www.youtube.com/watch?v=27BUpiAXt9M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 23 2022 - [Now in Android #63](https://medium.com/androiddevelopers/now-in-android-63-8a24f79ceacf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -56,7 +58,6 @@
 - May 18 2022 - [How to authenticate to Firebase using Google One Tap in Jetpack Compose?](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-google-one-tap-in-jetpack-compose-60b30e621d0d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 17 2022 - [Custom Canvas Animations in Jetpack Compose ✨](https://medium.com/androiddevelopers/custom-canvas-animations-in-jetpack-compose-e7767e349339?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2022 - [Boost the security of your app with the nonce field of the Play Integrity API](http://android-developers.googleblog.com/2022/05/boost-security-of-your-app-with-nonce.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 16 2022 - [Spot your UI jank using CPU profiler in Android Studio](https://medium.com/androiddevelopers/spot-your-ui-jank-using-cpu-profiler-in-android-studio-9a4c41a54dab?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -80,7 +81,6 @@
 - May 11 2022 - [Google I/O 2022: What’s new in Android Development Tools](http://android-developers.googleblog.com/2022/05/whats-new-in-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [New Google Play SDK Index helps you choose the right SDKs for your app](http://android-developers.googleblog.com/2022/05/new-google-play-sdk-index.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Jetpack](http://android-developers.googleblog.com/2022/05/whats-new-in-jetpack.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [New flexible tools to grow your subscription business](http://android-developers.googleblog.com/2022/05/new-ways-to-sell-subscriptions-on-google-play_0530335598.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=LFz8qdF7xg4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
