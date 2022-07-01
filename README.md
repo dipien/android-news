@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native.](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 30 2022 - [Jetpack Compose Stability Explained](https://medium.com/androiddevelopers/jetpack-compose-stability-explained-79c10db270c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 29 2022 - [Migrating to the new coroutines 1.6 test APIs](https://medium.com/androiddevelopers/migrating-to-the-new-coroutines-1-6-test-apis-b99f7fc47774?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 31 2022 - [Looking for What’s Missing](https://material.io/blog/asset-people-3) - [Material Design Blog](https://material.io/blog)
 - Mar 25 2022 - [Protecting Your Own Backend Services With Firebase App Check](https://medium.com/firebase-developers/protecting-your-own-backend-services-with-firebase-app-check-1daaef229f32?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Mar 24 2022 - [From Placeholders to Genuine Avatars](https://material.io/blog/asset-people-2) - [Material Design Blog](https://material.io/blog)
-- Mar 23 2022 - [Go Global at Ramadan](https://medium.com/googleplaydev/go-global-at-ramadan-eb181fcedae4?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
+- Mar 24 2022 - [From Placeholders to Genuine Avatars](https://material.io/blog/asset-people-2) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
