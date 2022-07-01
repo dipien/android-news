@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 01 2022 - [Customizing AnimatedContent in Jetpack Compose](https://medium.com/androiddevelopers/customizing-animatedcontent-in-jetpack-compose-629c67b45894?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native.](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 30 2022 - [Jetpack Compose Stability Explained](https://medium.com/androiddevelopers/jetpack-compose-stability-explained-79c10db270c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -56,7 +57,6 @@
 - May 23 2022 - [Modern Android Development at Google I/O ‘22](http://android-developers.googleblog.com/2022/05/io22-spotlights-mad.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
-- May 18 2022 - [Now in Android #61 — Special Google I/O 2022 Edition](https://medium.com/androiddevelopers/now-in-android-61-special-google-i-o-2022-edition-18b953084650?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 18 2022 - [7 Lessons from a Product Manager about Mobile A/B tests](https://medium.com/firebase-developers/7-lessons-from-a-product-manager-about-mobile-a-b-tests-dc7b7c65c82?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 18 2022 - [How to authenticate to Firebase using Google One Tap in Jetpack Compose?](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-google-one-tap-in-jetpack-compose-60b30e621d0d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 17 2022 - [Boost the security of your app with the nonce field of the Play Integrity API](http://android-developers.googleblog.com/2022/05/boost-security-of-your-app-with-nonce.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
