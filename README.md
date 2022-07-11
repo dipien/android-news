@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 11 2022 - [Google Play PolicyBytes - Google Play 数据安全表单填写指南](https://www.youtube.com/watch?v=0Q86ChHPu2A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 07 2022 - [The Avatar Project: Derek Brahney](https://material.io/blog/derek-brahney-interview) - [Material Design Blog](https://material.io/blog)
 - Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
 - Jul 06 2022 - [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -46,7 +47,6 @@
 - Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
 - Jun 01 2022 - [Indie Games Festival: Get featured and win promotions on Google Play](https://www.youtube.com/watch?v=heB3GfHcAxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2022 - [Indie Games Accelerator: Supercharge your growth with help from Google Play](https://www.youtube.com/watch?v=ii0HgRV0_7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 01 2022 - [Get help from Google Play to grow your indie game](https://www.youtube.com/watch?v=7Z0Cz6t9Hpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2022 - [Submissions now open: Indie games programs to help developers grow with Google Play](http://android-developers.googleblog.com/2022/06/submissions-now-open-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 31 2022 - [3 things to know about Form Factors at Google I/O'22](http://android-developers.googleblog.com/2022/05/form-factors-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
