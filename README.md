@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 14 2022 - [Now in Android: 64 - Independent versioning of Jetpack Compose libraries, and more!](https://www.youtube.com/watch?v=Ll0D1eS2ZOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jul 14 2022 - [Now in Android #64](https://medium.com/androiddevelopers/now-in-android-64-f9b2d5d87c82?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jul 13 2022 - [#WeArePlay - Meet Melissa from BringFido in South Carolina. More stories from Japan, India & France.](http://android-developers.googleblog.com/2022/07/weareplay-meet-melissa-from-bringfido.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [Final Android 13 Beta update, official release is next!](http://android-developers.googleblog.com/2022/07/Final-Android-13-Beta-update-official-release-is-next.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [#WeArePlay - Melissa  | BringFido | USA](https://www.youtube.com/watch?v=-a4I9Vg-QLg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2022 - [Building an eco-friendly rideshare business - Firebase Stories](https://www.youtube.com/watch?v=RE_OzodibvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -46,9 +49,7 @@
 - Jun 07 2022 - [Progress on initiatives to keeping Google Play safe](http://android-developers.googleblog.com/2022/06/keeping-google-play-safe-progress.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Platform, Privacy, and Security at Google I/O '22](https://www.youtube.com/watch?v=6Fm9inY21Fw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 03 2022 - [Diving Into Compose — Lessons Learned While Building Maps Compose](https://medium.com/androiddevelopers/diving-into-compose-lessons-learned-while-building-maps-compose-d20ef5dfe1bb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
-- Jun 01 2022 - [Indie Games Festival: Get featured and win promotions on Google Play](https://www.youtube.com/watch?v=heB3GfHcAxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2022 - [Submissions now open: Indie games programs to help developers grow with Google Play](http://android-developers.googleblog.com/2022/06/submissions-now-open-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 31 2022 - [3 things to know about Form Factors at Google I/O'22](http://android-developers.googleblog.com/2022/05/form-factors-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -86,7 +87,6 @@
 - May 11 2022 - [Announcing Compose for Wear OS Beta!](http://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Health Connect, a new API for Android app developers to securely access user health data](http://android-developers.googleblog.com/2022/05/introducing-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Google I/O 2022: What’s new in Android Development Tools](http://android-developers.googleblog.com/2022/05/whats-new-in-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [New Google Play SDK Index helps you choose the right SDKs for your app](http://android-developers.googleblog.com/2022/05/new-google-play-sdk-index.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Introducing Firebase App Check](https://www.youtube.com/watch?v=LFz8qdF7xg4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
