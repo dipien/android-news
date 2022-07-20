@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 14 2022 - [Now in Android: 64 - Independent versioning of Jetpack Compose libraries, and more!](https://www.youtube.com/watch?v=Ll0D1eS2ZOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 14 2022 - [Now in Android #64](https://medium.com/androiddevelopers/now-in-android-64-f9b2d5d87c82?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 13 2022 - [#WeArePlay - Meet Melissa from BringFido in South Carolina. More stories from Japan, India & France.](http://android-developers.googleblog.com/2022/07/weareplay-meet-melissa-from-bringfido.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Apr 08 2022 - [Becoming a Sustainability-Aware App or Game](https://medium.com/googleplaydev/becoming-a-sustainability-aware-app-or-game-b256803dec93?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 07 2022 - [5 ways in which top app developers make the most of Play Billing](https://medium.com/googleplaydev/5-ways-in-which-top-app-developers-make-the-most-of-play-billing-7b8dd8b63f7c?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 05 2022 - [Episode 184: Skia and AGSL - Shaders of Things to Come](http://adbackstage.libsyn.com/episode-184-skia-and-agsl-shaders-of-things-to-come) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 01 2022 - [Animations continued - Building Shrine in Compose: Part 4](https://www.youtube.com/watch?v=sNxRwTVGuOI) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Apr 05 2022 - [Adaptive guidance tips for designing on large screen for Android #AskMaterial](https://www.youtube.com/watch?v=y17GBQOb6e8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
