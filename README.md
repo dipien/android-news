@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 21 2022 - [Get familiar with Wear OS 3 (without a physical device)](https://medium.com/androiddevelopers/get-familiar-with-wear-os-3-without-a-physical-device-e7962c97f02b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 21 2022 - [BigQuery: Integrating and streaming from Firebase](https://www.youtube.com/watch?v=W9t3QupnqPA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2022 - [Make your app large screen ready](https://medium.com/androiddevelopers/make-your-app-large-screen-ready-baf8fe505ae7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -43,7 +44,6 @@
 - Jun 09 2022 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=FZPObrAIC6w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 08 2022 - [Now in Android #62](https://medium.com/androiddevelopers/now-in-android-62-db108c6022ab?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2022 - [Now in Android: 62 - Google I/O 2022, Jetpack, Android Studio, and more!](https://www.youtube.com/watch?v=n_qx3stTsqw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 08 2022 - [Android 13 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2022/06/android-13-beta-3-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
