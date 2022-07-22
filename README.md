@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 22 2022 - [Jetpack Compose Interop: Using Compose in a RecyclerView](https://medium.com/androiddevelopers/jetpack-compose-interop-using-compose-in-a-recyclerview-569c7ec7a583?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 21 2022 - [Get familiar with Wear OS 3 (without a physical device)](https://medium.com/androiddevelopers/get-familiar-with-wear-os-3-without-a-physical-device-e7962c97f02b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 21 2022 - [BigQuery: Integrating and streaming from Firebase](https://www.youtube.com/watch?v=W9t3QupnqPA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2022 - [Make your app large screen ready](https://medium.com/androiddevelopers/make-your-app-large-screen-ready-baf8fe505ae7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -40,7 +41,6 @@
 - Jun 13 2022 - [Google Play @ Google I/O - 3 updates you need to know](http://android-developers.googleblog.com/2022/06/google-play-google-io-3-updates-you-need-to-know_01537187872.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2022 - [3 things to know about Google Play at Google I/O '22](https://www.youtube.com/watch?v=g_nLgvJo_54) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2022 - [Accessibility testing - Accessibility on Android](https://www.youtube.com/watch?v=GRV1kucMqIo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 10 2022 - [Easing in to Easing Curves in Jetpack Compose](https://medium.com/androiddevelopers/easing-in-to-easing-curves-in-jetpack-compose-d72893eeeb4d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 09 2022 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=FZPObrAIC6w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
