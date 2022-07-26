@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 25 2022 - [Brushing up on Compose Text coloring](https://medium.com/androiddevelopers/brushing-up-on-compose-text-coloring-84d7d70dd8fa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 25 2022 - [Celebrating 10 years of Google Play. Together.](http://android-developers.googleblog.com/2022/03/celebrating-10-years-of-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -85,7 +86,6 @@
 - May 12 2022 - [What’s new with Android for Cars](http://android-developers.googleblog.com/2022/05/whats-new-with-android-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Firebase](https://www.youtube.com/watch?v=i0VNBvCqpgI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 11 2022 - [Secure your Firebase app from the start](https://www.youtube.com/watch?v=fgS3pyrGWvs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 11 2022 - [13 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2022/05/13-things-to-know-for-android-developers-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Google Play](http://android-developers.googleblog.com/2022/05/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Announcing Compose for Wear OS Beta!](http://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
