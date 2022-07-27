@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 27 2022 - [Compose for Wear OS is now 1.0: time to build wearable apps with Compose!](http://android-developers.googleblog.com/2022/07/compose-for-wear-os-10-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jul 27 2022 - [Jetpack Compose 1.2 is now stable!](http://android-developers.googleblog.com/2022/07/jetpack-compose-1-2-is-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 27 2022 - [Google Play PolicyBytes - 2022 年 7 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3wY_HfPvgH0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 27 2022 - [Streamlining apparel purchasing in the fashion industry - Firebase Stories](https://www.youtube.com/watch?v=LtaKCVdjQ3Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 27 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=5Xgrb6dT61E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -88,8 +90,6 @@
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [13 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2022/05/13-things-to-know-for-android-developers-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [What's new in Google Play](http://android-developers.googleblog.com/2022/05/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [Announcing Compose for Wear OS Beta!](http://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 11 2022 - [Introducing Health Connect, a new API for Android app developers to securely access user health data](http://android-developers.googleblog.com/2022/05/introducing-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
