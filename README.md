@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 03 2022 - [Now in Android #65](https://medium.com/androiddevelopers/now-in-android-65-5dad5bb2c0cb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 03 2022 - [Now in Android: 65 - Android 13 Beta 4, Jetpack Compose 1.2 stable, Wear OS, and more!](https://www.youtube.com/watch?v=I00YEO1J1bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Android developers at Chicago Roboto #Shorts](https://www.youtube.com/watch?v=EovZ4_LjjAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -43,7 +44,6 @@
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 30 2022 - [Jetpack Compose Stability Explained](https://medium.com/androiddevelopers/jetpack-compose-stability-explained-79c10db270c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 29 2022 - [Migrating to the new coroutines 1.6 test APIs](https://medium.com/androiddevelopers/migrating-to-the-new-coroutines-1-6-test-apis-b99f7fc47774?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 29 2022 - [Independent versioning of Jetpack Compose libraries](http://android-developers.googleblog.com/2022/06/independent-versioning-of-Jetpack-Compose-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2022 - [Firebase Release Notes June '22: Crashlytics drag-and-drop, Robo script docs＆Apple silicon for Unity](https://www.youtube.com/watch?v=JxJ0niQWieU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2022 - [How Firebase projects and apps work](https://www.youtube.com/watch?v=27BUpiAXt9M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
