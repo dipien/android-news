@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 02 2022 - [Google Play Indie Games Festival: Finalists revealed](http://android-developers.googleblog.com/2022/07/google-play-indie-games-festival-finalists-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 01 2022 - [Animating brush Text coloring in Compose ️](https://medium.com/androiddevelopers/animating-brush-text-coloring-in-compose-%EF%B8%8F-26ae99d9b402?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 29 2022 - [Prepare your app to support predictive back gestures](http://android-developers.googleblog.com/2022/07/prepare-your-app-to-support-predictive-back-gestures.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -87,7 +88,6 @@
 - May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [Optimize app health with Firebase Performance Monitoring and Crashlytics](https://www.youtube.com/watch?v=ENaOg5YefjQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [What’s new with Google TV & Android TV OS](http://android-developers.googleblog.com/2022/05/whats-new-with-google-tv-android-tv-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [What’s new with Android for Cars](http://android-developers.googleblog.com/2022/05/whats-new-with-android-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
