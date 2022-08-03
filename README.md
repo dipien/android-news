@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 03 2022 - [Android developers at Chicago Roboto #Shorts](https://www.youtube.com/watch?v=EovZ4_LjjAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 02 2022 - [Google Play Indie Games Festival: Finalists revealed](http://android-developers.googleblog.com/2022/07/google-play-indie-games-festival-finalists-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 01 2022 - [Animating brush Text coloring in Compose ️](https://medium.com/androiddevelopers/animating-brush-text-coloring-in-compose-%EF%B8%8F-26ae99d9b402?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -51,7 +52,6 @@
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](https://www.youtube.com/watch?v=e1XWgW0uyWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 22 2022 - [#WeArePlay - Discover the people building apps & games businesses](http://android-developers.googleblog.com/2022/06/WeArePlay-Discover-the-people-building-apps-games-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [#WeArePlay - Alyssa & Yvonne | Frobelles | UK](https://www.youtube.com/watch?v=KwbUAYtDUO0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 17 2022 - [Android App Excellence Summit in 9 minutes](https://www.youtube.com/watch?v=3s21Ynn4Huw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2022 - [Privacy Sandbox Developer Preview 3: Support for conversion measurement, custom audiences, and ad selection](http://android-developers.googleblog.com/2022/06/privacy-sandbox-developer-preview-3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2022 - [Google Play @ Google I/O - 3 updates you need to know](http://android-developers.googleblog.com/2022/06/google-play-google-io-3-updates-you-need-to-know_01537187872.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
