@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 08 2022 - [Introduction to Performance - MAD Skills](https://www.youtube.com/watch?v=6R0jrJp1Uwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Now in Android #65](https://medium.com/androiddevelopers/now-in-android-65-5dad5bb2c0cb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 03 2022 - [Now in Android: 65 - Android 13 Beta 4, Jetpack Compose 1.2 stable, Wear OS, and more!](https://www.youtube.com/watch?v=I00YEO1J1bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Android developers at Chicago Roboto #Shorts](https://www.youtube.com/watch?v=EovZ4_LjjAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -50,7 +51,6 @@
 - Jun 23 2022 - [Now in Android: 63 - Android 13 Beta 3, Google Play, Privacy Sandbox DP3, and more!](https://www.youtube.com/watch?v=htXyBsNvx78) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2022 - [Developer-Powered CTS (CTS-D)](http://android-developers.googleblog.com/2022/06/developer-powered-cts-cts-d.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](http://android-developers.googleblog.com/2022/06/notes-from-google-play-making-play-work.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 22 2022 - [Notes from Google Play: making Play work for everyone](https://www.youtube.com/watch?v=e1XWgW0uyWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 22 2022 - [#WeArePlay - Discover the people building apps & games businesses](http://android-developers.googleblog.com/2022/06/WeArePlay-Discover-the-people-building-apps-games-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 16 2022 - [Privacy Sandbox Developer Preview 3: Support for conversion measurement, custom audiences, and ad selection](http://android-developers.googleblog.com/2022/06/privacy-sandbox-developer-preview-3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2022 - [Google Play @ Google I/O - 3 updates you need to know](http://android-developers.googleblog.com/2022/06/google-play-google-io-3-updates-you-need-to-know_01537187872.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
