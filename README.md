@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2022 - [Introduction to Performance - MAD Skills](https://www.youtube.com/watch?v=6R0jrJp1Uwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Now in Android #65](https://medium.com/androiddevelopers/now-in-android-65-5dad5bb2c0cb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 03 2022 - [Now in Android: 65 - Android 13 Beta 4, Jetpack Compose 1.2 stable, Wear OS, and more!](https://www.youtube.com/watch?v=I00YEO1J1bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -87,7 +88,6 @@
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Auto alerts for Firebase users with Functions, Logging, and BigQuery](https://www.youtube.com/watch?v=L8_7HCE83-k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [How to ship stable features with Firebase](https://www.youtube.com/watch?v=lAnt5sl3jaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [What’s new with Google TV & Android TV OS](http://android-developers.googleblog.com/2022/05/whats-new-with-google-tv-android-tv-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [What’s new with Android for Cars](http://android-developers.googleblog.com/2022/05/whats-new-with-android-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
