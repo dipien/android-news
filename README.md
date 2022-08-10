@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 10 2022 - [Introducing the MAD Skills series on Performance](https://medium.com/androiddevelopers/introducing-the-mad-skills-series-on-performance-7dbb26e8b17f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 10 2022 - [Consuming flows safely in Jetpack Compose](https://medium.com/androiddevelopers/consuming-flows-safely-in-jetpack-compose-cde014d0d5a3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2022 - [Introduction to Performance - MAD Skills](https://www.youtube.com/watch?v=6R0jrJp1Uwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -43,7 +44,6 @@
 - Jul 06 2022 - [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 06 2022 - [Performance tips to achieve App Excellence](https://www.youtube.com/watch?v=VJItLXb7_V8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Jul 01 2022 - [Customizing AnimatedContent in Jetpack Compose](https://medium.com/androiddevelopers/customizing-animatedcontent-in-jetpack-compose-629c67b45894?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 29 2022 - [Independent versioning of Jetpack Compose libraries](http://android-developers.googleblog.com/2022/06/independent-versioning-of-Jetpack-Compose-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
