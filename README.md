@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 15 2022 - [Inspecting Performance - MAD Skills](https://www.youtube.com/watch?v=-Mgy_nTMCtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Important Performance Metrics](https://medium.com/androiddevelopers/important-performance-metrics-c7dacf018eb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 11 2022 - [Performance: Important metrics - MAD Skills](https://www.youtube.com/watch?v=8ORC7SeYF5E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -44,7 +45,6 @@
 - Jul 11 2022 - [Google Play PolicyBytes - Google Play 数据安全表单填写指南](https://www.youtube.com/watch?v=0Q86ChHPu2A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 07 2022 - [The Avatar Project: Derek Brahney](https://material.io/blog/derek-brahney-interview) - [Material Design Blog](https://material.io/blog)
 - Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
-- Jul 06 2022 - [Performance tips to achieve App Excellence](https://www.youtube.com/watch?v=VJItLXb7_V8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
