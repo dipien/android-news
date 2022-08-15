@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 15 2022 - [Inspecting Performance](https://medium.com/androiddevelopers/inspecting-performance-95b76477a3d7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 15 2022 - [Inspecting Performance - MAD Skills](https://www.youtube.com/watch?v=-Mgy_nTMCtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Important Performance Metrics](https://medium.com/androiddevelopers/important-performance-metrics-c7dacf018eb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -38,7 +39,6 @@
 - Jul 20 2022 - [Make your app large screen ready](https://medium.com/androiddevelopers/make-your-app-large-screen-ready-baf8fe505ae7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 14 2022 - [Now in Android: 64 - Independent versioning of Jetpack Compose libraries, and more!](https://www.youtube.com/watch?v=Ll0D1eS2ZOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 14 2022 - [Now in Android #64](https://medium.com/androiddevelopers/now-in-android-64-f9b2d5d87c82?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 13 2022 - [#WeArePlay - Meet Melissa from BringFido in South Carolina. More stories from Japan, India & France.](http://android-developers.googleblog.com/2022/07/weareplay-meet-melissa-from-bringfido.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [Final Android 13 Beta update, official release is next!](http://android-developers.googleblog.com/2022/07/Final-Android-13-Beta-update-official-release-is-next.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [#WeArePlay - Melissa  | BringFido | USA](https://www.youtube.com/watch?v=-a4I9Vg-QLg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
