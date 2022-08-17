@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [5 years of Kotlin on Android — the extra bits](https://medium.com/androiddevelopers/5-years-of-kotlin-on-android-the-extra-bits-a7dcd17480a9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [#WeArePlay - Anica & Kristijan  | Dub Studio | Croatia](https://www.youtube.com/watch?v=r8Z641JpFpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -86,7 +87,6 @@
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 12 2022 - [Airbnb uses Jetpack Compose to empower devs to do their best work](http://android-developers.googleblog.com/2022/05/airbnb-uses-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Integrate Firebase into your team's development workflow](https://www.youtube.com/watch?v=tLN-A3kBn7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
