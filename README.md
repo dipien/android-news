@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Aug 17 2022 - [5 years of Kotlin on Android — the extra bits](https://medium.com/androiddevelopers/5-years-of-kotlin-on-android-the-extra-bits-a7dcd17480a9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [#WeArePlay - Anica & Kristijan  | Dub Studio | Croatia](https://www.youtube.com/watch?v=r8Z641JpFpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2022 - [Inspecting Performance](https://medium.com/androiddevelopers/inspecting-performance-95b76477a3d7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -89,7 +90,6 @@
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Integrate Firebase into your team's development workflow](https://www.youtube.com/watch?v=tLN-A3kBn7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Build production-ready apps with Extensions, Functions, and Google Cloud](https://www.youtube.com/watch?v=77sMhsLB2qg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [Now in Android - a new, open source, real-world sample app](http://android-developers.googleblog.com/2022/05/now-in-android-sample-app-alpha.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
