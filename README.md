@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 17 2022 - [5 years of Kotlin on Android — the extra bits](https://medium.com/androiddevelopers/5-years-of-kotlin-on-android-the-extra-bits-a7dcd17480a9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Aug 17 2022 - [#WeArePlay - Anica & Kristijan  | Dub Studio | Croatia](https://www.youtube.com/watch?v=r8Z641JpFpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2022 - [Inspecting Performance](https://medium.com/androiddevelopers/inspecting-performance-95b76477a3d7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -37,14 +39,12 @@
 - Jul 22 2022 - [Jetpack Compose Interop: Using Compose in a RecyclerView](https://medium.com/androiddevelopers/jetpack-compose-interop-using-compose-in-a-recyclerview-569c7ec7a583?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 21 2022 - [Get familiar with Wear OS 3 (without a physical device)](https://medium.com/androiddevelopers/get-familiar-with-wear-os-3-without-a-physical-device-e7962c97f02b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 21 2022 - [BigQuery: Integrating and streaming from Firebase](https://www.youtube.com/watch?v=W9t3QupnqPA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 20 2022 - [Make your app large screen ready](https://medium.com/androiddevelopers/make-your-app-large-screen-ready-baf8fe505ae7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 14 2022 - [Now in Android: 64 - Independent versioning of Jetpack Compose libraries, and more!](https://www.youtube.com/watch?v=Ll0D1eS2ZOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2022 - [#WeArePlay - Meet Melissa from BringFido in South Carolina. More stories from Japan, India & France.](http://android-developers.googleblog.com/2022/07/weareplay-meet-melissa-from-bringfido.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [Final Android 13 Beta update, official release is next!](http://android-developers.googleblog.com/2022/07/Final-Android-13-Beta-update-official-release-is-next.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [#WeArePlay - Melissa  | BringFido | USA](https://www.youtube.com/watch?v=-a4I9Vg-QLg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2022 - [Building an eco-friendly rideshare business - Firebase Stories](https://www.youtube.com/watch?v=RE_OzodibvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 11 2022 - [Google Play PolicyBytes - Google Play 数据安全表单填写指南](https://www.youtube.com/watch?v=0Q86ChHPu2A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 07 2022 - [The Avatar Project: Derek Brahney](https://material.io/blog/derek-brahney-interview) - [Material Design Blog](https://material.io/blog)
 - Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
 - Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
