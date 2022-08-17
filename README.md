@@ -1,10 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2022 - [Inspecting Performance](https://medium.com/androiddevelopers/inspecting-performance-95b76477a3d7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 15 2022 - [Inspecting Performance - MAD Skills](https://www.youtube.com/watch?v=-Mgy_nTMCtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 12 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 11 2022 - [Important Performance Metrics](https://medium.com/androiddevelopers/important-performance-metrics-c7dacf018eb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 11 2022 - [Performance: Important metrics - MAD Skills](https://www.youtube.com/watch?v=8ORC7SeYF5E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
