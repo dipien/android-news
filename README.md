@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 18 2022 - [Now in Android: 66 - Android 13, MAD Skills, AndroidX, and more!](https://www.youtube.com/watch?v=A-33_OtzAmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [5 years of Kotlin on Android #Shorts](https://www.youtube.com/watch?v=PhqMvUQURc4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [5 years of Kotlin on Android — the extended interviews](https://medium.com/androiddevelopers/5-years-of-kotlin-on-android-the-extra-bits-a7dcd17480a9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -43,7 +44,6 @@
 - Jul 21 2022 - [Get familiar with Wear OS 3 (without a physical device)](https://medium.com/androiddevelopers/get-familiar-with-wear-os-3-without-a-physical-device-e7962c97f02b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 21 2022 - [BigQuery: Integrating and streaming from Firebase](https://www.youtube.com/watch?v=W9t3QupnqPA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jul 14 2022 - [Now in Android: 64 - Independent versioning of Jetpack Compose libraries, and more!](https://www.youtube.com/watch?v=Ll0D1eS2ZOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2022 - [#WeArePlay - Meet Melissa from BringFido in South Carolina. More stories from Japan, India & France.](http://android-developers.googleblog.com/2022/07/weareplay-meet-melissa-from-bringfido.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [Final Android 13 Beta update, official release is next!](http://android-developers.googleblog.com/2022/07/Final-Android-13-Beta-update-official-release-is-next.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [Building an eco-friendly rideshare business - Firebase Stories](https://www.youtube.com/watch?v=RE_OzodibvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
