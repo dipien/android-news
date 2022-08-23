@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 23 2022 - [Indie Games Festival from Google Play - Finals](https://www.youtube.com/watch?v=jTWHps1TXnI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2022 - [Improving Performance with Baseline Profiles - MAD Skills](https://www.youtube.com/watch?v=WWdDzXgrkmg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Android Developer Story: Bring your creativity from local to global with Google Play](https://www.youtube.com/watch?v=FsEagsWM4Vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -39,7 +40,6 @@
 - Jul 27 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=5Xgrb6dT61E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 27 2022 - [Google Play PolicyBytes - Atualizações de Política de Julho de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=hqO8v_izhLc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 27 2022 - [Google Play PolicyBytes - 2022 年 7 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=r8wEOraaYp0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 27 2022 - [Google Play 정책 바이트 - 2022년 7월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=z8EjDrKOJhQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 25 2022 - [Brushing up on Compose Text coloring](https://medium.com/androiddevelopers/brushing-up-on-compose-text-coloring-84d7d70dd8fa?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
