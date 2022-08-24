@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 24 2022 - [Top Tips for Adopting Android’s Notification Permission](https://medium.com/androiddevelopers/top-tips-for-adopting-androids-notification-permission-bf69afd677b8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Aug 24 2022 - [Wear OS Tiles Material Library: Build Tiles, Fast.](http://android-developers.googleblog.com/2022/08/wear-os-tiles-material-library-build-tiles-fast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Aug 24 2022 - [CameraX 1.2 is now in Beta](http://android-developers.googleblog.com/2022/08/camerax-12-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2022 - [Google Play Coffee break with iMumz](https://www.youtube.com/watch?v=LPJmelyEANo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2022 - [Improving Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-performance-with-baseline-profiles-fdd0db0d8cc6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 23 2022 - [Google Play Coffee break with iMumz  - From start-up to scale-up](http://android-developers.googleblog.com/2022/08/google-play-coffee-break-with-imumz-from-start-up-to-scale-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -36,7 +39,6 @@
 - Aug 03 2022 - [Android developers at Chicago Roboto #Shorts](https://www.youtube.com/watch?v=EovZ4_LjjAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 02 2022 - [Google Play Indie Games Festival: Finalists revealed](http://android-developers.googleblog.com/2022/07/google-play-indie-games-festival-finalists-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 01 2022 - [Animating brush Text coloring in Compose ️](https://medium.com/androiddevelopers/animating-brush-text-coloring-in-compose-%EF%B8%8F-26ae99d9b402?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 29 2022 - [Prepare your app to support predictive back gestures](http://android-developers.googleblog.com/2022/07/prepare-your-app-to-support-predictive-back-gestures.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 28 2022 - [How to map an array of objects from Realtime Database to a List of objects?](https://medium.com/firebase-developers/how-to-map-an-array-of-objects-from-realtime-database-to-a-list-of-objects-53f27b33c8f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 27 2022 - [Compose for Wear OS is now 1.0: time to build wearable apps with Compose!](http://android-developers.googleblog.com/2022/07/compose-for-wear-os-10-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -74,9 +76,7 @@
 - Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
 - Jun 01 2022 - [Submissions now open: Indie games programs to help developers grow with Google Play](http://android-developers.googleblog.com/2022/06/submissions-now-open-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 31 2022 - [3 things to know about Form Factors at Google I/O'22](http://android-developers.googleblog.com/2022/05/form-factors-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- May 27 2022 - [Implementing Dynamic Color: Lessons from the Chrome team](http://android-developers.googleblog.com/2022/05/implementing-dynamic-color-lessons-from.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
