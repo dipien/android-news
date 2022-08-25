@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 24 2022 - [Top Tips for Adopting Android’s Notification Permission](https://medium.com/androiddevelopers/top-tips-for-adopting-androids-notification-permission-bf69afd677b8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2022 - [Wear OS Tiles Material Library: Build Tiles, Fast.](http://android-developers.googleblog.com/2022/08/wear-os-tiles-material-library-build-tiles-fast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 24 2022 - [CameraX 1.2 is now in Beta](http://android-developers.googleblog.com/2022/08/camerax-12-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -86,7 +87,6 @@
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
 - May 18 2022 - [7 Lessons from a Product Manager about Mobile A/B tests](https://medium.com/firebase-developers/7-lessons-from-a-product-manager-about-mobile-a-b-tests-dc7b7c65c82?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- May 18 2022 - [How to authenticate to Firebase using Google One Tap in Jetpack Compose?](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-google-one-tap-in-jetpack-compose-60b30e621d0d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
