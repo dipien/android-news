@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 25 2022 - [A story of Android App Excellence: TikTok optimizes their user experience with Android tools](https://www.youtube.com/watch?v=k9Pdgiugleg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 24 2022 - [Top Tips for Adopting Android’s Notification Permission](https://medium.com/androiddevelopers/top-tips-for-adopting-androids-notification-permission-bf69afd677b8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2022 - [Wear OS Tiles Material Library: Build Tiles, Fast.](http://android-developers.googleblog.com/2022/08/wear-os-tiles-material-library-build-tiles-fast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -46,7 +47,6 @@
 - Jul 27 2022 - [Jetpack Compose 1.2 is now stable!](http://android-developers.googleblog.com/2022/07/jetpack-compose-1-2-is-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 27 2022 - [Google Play PolicyBytes - 2022 年 7 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3wY_HfPvgH0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 27 2022 - [Streamlining apparel purchasing in the fashion industry - Firebase Stories](https://www.youtube.com/watch?v=LtaKCVdjQ3Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 27 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=5Xgrb6dT61E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 25 2022 - [Celebrating 10 years of Google Play. Together.](http://android-developers.googleblog.com/2022/03/celebrating-10-years-of-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
