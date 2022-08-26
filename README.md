@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 26 2022 - [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](http://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 25 2022 - [A story of Android App Excellence: TikTok optimizes their user experience with Android tools](https://www.youtube.com/watch?v=k9Pdgiugleg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -77,7 +78,6 @@
 - Jun 07 2022 - [Progress on initiatives to keeping Google Play safe](http://android-developers.googleblog.com/2022/06/keeping-google-play-safe-progress.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
-- Jun 01 2022 - [Submissions now open: Indie games programs to help developers grow with Google Play](http://android-developers.googleblog.com/2022/06/submissions-now-open-indie-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
