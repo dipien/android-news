@@ -3,6 +3,7 @@
 <!-- NEWS:START -->
 - Aug 26 2022 - [MAD about Media](https://medium.com/androiddevelopers/mad-about-media-f536f7d601c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 26 2022 - [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](http://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Aug 25 2022 - [Performance: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=hsK5kggwIcM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 25 2022 - [A story of Android App Excellence: TikTok optimizes their user experience with Android tools](https://www.youtube.com/watch?v=k9Pdgiugleg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -47,7 +48,6 @@
 - Jul 28 2022 - [How to map an array of objects from Realtime Database to a List of objects?](https://medium.com/firebase-developers/how-to-map-an-array-of-objects-from-realtime-database-to-a-list-of-objects-53f27b33c8f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 27 2022 - [Compose for Wear OS is now 1.0: time to build wearable apps with Compose!](http://android-developers.googleblog.com/2022/07/compose-for-wear-os-10-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 27 2022 - [Jetpack Compose 1.2 is now stable!](http://android-developers.googleblog.com/2022/07/jetpack-compose-1-2-is-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 27 2022 - [Google Play PolicyBytes - 2022 年 7 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=3wY_HfPvgH0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 27 2022 - [Streamlining apparel purchasing in the fashion industry - Firebase Stories](https://www.youtube.com/watch?v=LtaKCVdjQ3Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
