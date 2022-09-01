@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 01 2022 - [Now in Android: 67 - Cross device SDK Developer Preview, CameraX 1.2 Beta, and more!](https://www.youtube.com/watch?v=DOyrGgoNkPY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Performance: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=hsK5kggwIcM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 01 2022 - [Experimenting with Jetpack Glance](https://medium.com/androiddevelopers/experimenting-with-jetpack-glance-35fbffe520f4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -43,7 +44,6 @@
 - Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2022 - [Introduction to Performance - MAD Skills](https://www.youtube.com/watch?v=6R0jrJp1Uwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 03 2022 - [Now in Android: 65 - Android 13 Beta 4, Jetpack Compose 1.2 stable, Wear OS, and more!](https://www.youtube.com/watch?v=I00YEO1J1bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 02 2022 - [Google Play Indie Games Festival: Finalists revealed](http://android-developers.googleblog.com/2022/07/google-play-indie-games-festival-finalists-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 29 2022 - [Prepare your app to support predictive back gestures](http://android-developers.googleblog.com/2022/07/prepare-your-app-to-support-predictive-back-gestures.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
