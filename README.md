@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 02 2022 - [Introduction to deep links: Part 1](https://www.youtube.com/watch?v=1qFIg-lz4Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [The deep links crash course, Part 1: Introduction to deep links](https://medium.com/androiddevelopers/the-deep-links-crash-course-part-1-introduction-to-deep-links-2189e509e269?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Now in Android: 67 - Cross device SDK Developer Preview, CameraX 1.2 Beta, and more!](https://www.youtube.com/watch?v=DOyrGgoNkPY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -44,7 +45,6 @@
 - Aug 11 2022 - [Performance: Important metrics - MAD Skills](https://www.youtube.com/watch?v=8ORC7SeYF5E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 08 2022 - [Introduction to Performance - MAD Skills](https://www.youtube.com/watch?v=6R0jrJp1Uwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 02 2022 - [Google Play Indie Games Festival: Finalists revealed](http://android-developers.googleblog.com/2022/07/google-play-indie-games-festival-finalists-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 29 2022 - [Prepare your app to support predictive back gestures](http://android-developers.googleblog.com/2022/07/prepare-your-app-to-support-predictive-back-gestures.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
