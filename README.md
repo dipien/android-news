@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 02 2022 - [The deep links crash course, Part 1: Introduction to deep links](https://medium.com/androiddevelopers/the-deep-links-crash-course-part-1-introduction-to-deep-links-2189e509e269?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Now in Android: 67 - Cross device SDK Developer Preview, CameraX 1.2 Beta, and more!](https://www.youtube.com/watch?v=DOyrGgoNkPY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Performance: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=hsK5kggwIcM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -37,7 +39,6 @@
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [#WeArePlay - Anica & Kristijan  | Dub Studio | Croatia](https://www.youtube.com/watch?v=r8Z641JpFpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 15 2022 - [Inspecting Performance](https://medium.com/androiddevelopers/inspecting-performance-95b76477a3d7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 15 2022 - [Inspecting Performance - MAD Skills](https://www.youtube.com/watch?v=-Mgy_nTMCtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Performance: Important metrics - MAD Skills](https://www.youtube.com/watch?v=8ORC7SeYF5E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -78,7 +79,6 @@
 - Jun 08 2022 - [Android 13 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2022/06/android-13-beta-3-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 08 2022 - [Best practices for bringing PC and console games to mobile](https://medium.com/googleplaydev/best-practices-for-bringing-pc-and-console-games-to-mobile-863cedb9fbc6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Jun 07 2022 - [Progress on initiatives to keeping Google Play safe](http://android-developers.googleblog.com/2022/06/keeping-google-play-safe-progress.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 06 2022 - [3 things to know about Android Privacy, Platform & Security from Google I/O'22](http://android-developers.googleblog.com/2022/06/privacy-security-google-io-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
