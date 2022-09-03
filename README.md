@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Sep 03 2022 - [Indie Games Festival from Google Play - Awards Ceremony (Europe)](https://www.youtube.com/watch?v=LlFm0V2m5wY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Per-app language preferences](https://www.youtube.com/watch?v=DUKnNWwcNvo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Introduction to deep links: Part 1](https://www.youtube.com/watch?v=1qFIg-lz4Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [The deep links crash course, Part 1: Introduction to deep links](https://medium.com/androiddevelopers/the-deep-links-crash-course-part-1-introduction-to-deep-links-2189e509e269?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -43,7 +44,6 @@
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 15 2022 - [Inspecting Performance - MAD Skills](https://www.youtube.com/watch?v=-Mgy_nTMCtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 11 2022 - [Performance: Important metrics - MAD Skills](https://www.youtube.com/watch?v=8ORC7SeYF5E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
