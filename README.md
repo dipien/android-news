@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 03 2022 - [Indie Games Festival from Google Play - Finals](https://www.youtube.com/watch?v=jTWHps1TXnI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Per-app language preferences](https://www.youtube.com/watch?v=DUKnNWwcNvo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Introduction to deep links: Part 1](https://www.youtube.com/watch?v=1qFIg-lz4Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [The deep links crash course, Part 1: Introduction to deep links](https://medium.com/androiddevelopers/the-deep-links-crash-course-part-1-introduction-to-deep-links-2189e509e269?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -27,7 +28,6 @@
 - Aug 23 2022 - [Design high-quality apps for kids - Google Play Academy course trailer](https://www.youtube.com/watch?v=-FUmVUPThX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 23 2022 - [Firebase Release Notes Aug '22: Zombie nodes on RTDB, multi-factor auth on Flutter ＆Firebase Summit🍎](https://www.youtube.com/watch?v=oP9MHUWrCXU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 23 2022 - [Indie Games Festival from Google Play - Finals](https://www.youtube.com/watch?v=jTWHps1TXnI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2022 - [Improving Performance with Baseline Profiles - MAD Skills](https://www.youtube.com/watch?v=WWdDzXgrkmg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Android Developer Story: Bring your creativity from local to global with Google Play](https://www.youtube.com/watch?v=FsEagsWM4Vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
