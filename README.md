@@ -1,7 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 07 2022 - [Jetpack Compose: Debugging Recomposition](https://medium.com/androiddevelopers/jetpack-compose-debugging-recomposition-bfcf4a6f8d37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Sep 07 2022 - [MAD Skills Performance — Wrap Up](https://medium.com/androiddevelopers/mad-skills-performance-wrap-up-33688abfc51f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [#WeArePlay - Sam | Level Ex | USA](https://www.youtube.com/watch?v=WmST1gOWq1g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 07 2022 - [#WeArePlay - Meet Sam from Chicago. More stories from Peru, Croatia and Estonia.](http://android-developers.googleblog.com/2022/09/weareplay-meet-sam-from-chicago-and-more-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [Jetpack Compose: Debugging recomposition](https://www.youtube.com/watch?v=SWBN0y0lFNY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 06 2022 - [Announcing the new guide to Android app modularization](http://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -37,11 +41,9 @@
 - Aug 19 2022 - [Android Developer Story: Bring your creativity from local to global with Google Play](https://www.youtube.com/watch?v=FsEagsWM4Vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Jetpack Compose Accompanist — An FAQ.](https://medium.com/androiddevelopers/jetpack-compose-accompanist-an-faq-b55117b02712?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 18 2022 - [Now in Android #66](https://medium.com/androiddevelopers/now-in-android-66-9b4ca9dcd532?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 18 2022 - [Now in Android: 66 - Android 13, MAD Skills, AndroidX, and more!](https://www.youtube.com/watch?v=A-33_OtzAmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [5 years of Kotlin on Android #Shorts](https://www.youtube.com/watch?v=PhqMvUQURc4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 17 2022 - [5 years of Kotlin on Android — the extended interviews](https://medium.com/androiddevelopers/5-years-of-kotlin-on-android-the-extra-bits-a7dcd17480a9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -73,8 +75,6 @@
 - Jun 23 2022 - [Developer-Powered CTS (CTS-D)](http://android-developers.googleblog.com/2022/06/developer-powered-cts-cts-d.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [Notes from Google Play: making Play work for everyone](http://android-developers.googleblog.com/2022/06/notes-from-google-play-making-play-work.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 22 2022 - [#WeArePlay - Discover the people building apps & games businesses](http://android-developers.googleblog.com/2022/06/WeArePlay-Discover-the-people-building-apps-games-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 16 2022 - [Privacy Sandbox Developer Preview 3: Support for conversion measurement, custom audiences, and ad selection](http://android-developers.googleblog.com/2022/06/privacy-sandbox-developer-preview-3.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 13 2022 - [Google Play @ Google I/O - 3 updates you need to know](http://android-developers.googleblog.com/2022/06/google-play-google-io-3-updates-you-need-to-know_01537187872.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
