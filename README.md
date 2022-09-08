@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 08 2022 - [The deep links crash course, Part2: Deep links from Zero to Hero](https://medium.com/androiddevelopers/the-deep-links-crash-course-part2-deep-links-from-zero-to-hero-37f94cc8fb88?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Jetpack Compose: Debugging Recomposition](https://medium.com/androiddevelopers/jetpack-compose-debugging-recomposition-bfcf4a6f8d37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [MAD Skills Performance — Wrap Up](https://medium.com/androiddevelopers/mad-skills-performance-wrap-up-33688abfc51f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -39,7 +40,6 @@
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2022 - [Improving Performance with Baseline Profiles - MAD Skills](https://www.youtube.com/watch?v=WWdDzXgrkmg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Android Developer Story: Bring your creativity from local to global with Google Play](https://www.youtube.com/watch?v=FsEagsWM4Vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 19 2022 - [Jetpack Compose Accompanist — An FAQ.](https://medium.com/androiddevelopers/jetpack-compose-accompanist-an-faq-b55117b02712?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 18 2022 - [Now in Android: 66 - Android 13, MAD Skills, AndroidX, and more!](https://www.youtube.com/watch?v=A-33_OtzAmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [5 years of Kotlin on Android #Shorts](https://www.youtube.com/watch?v=PhqMvUQURc4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
