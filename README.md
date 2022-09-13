@@ -1,8 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 13 2022 - [Intuitive: Thinking in Compose - MAD Skills](https://www.youtube.com/watch?v=4zf30a34OOA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2022 - [Introduction to Compose Basics - MAD Skills](https://www.youtube.com/watch?v=4UXJTeb9Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 08 2022 - [The deep links crash course, Part2: Deep links from Zero to Hero](https://medium.com/androiddevelopers/the-deep-links-crash-course-part2-deep-links-from-zero-to-hero-37f94cc8fb88?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Jetpack Compose: Debugging Recomposition](https://medium.com/androiddevelopers/jetpack-compose-debugging-recomposition-bfcf4a6f8d37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -44,7 +46,6 @@
 - Aug 22 2022 - [Improving Performance with Baseline Profiles - MAD Skills](https://www.youtube.com/watch?v=WWdDzXgrkmg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Android Developer Story: Bring your creativity from local to global with Google Play](https://www.youtube.com/watch?v=FsEagsWM4Vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 18 2022 - [Now in Android: 66 - Android 13, MAD Skills, AndroidX, and more!](https://www.youtube.com/watch?v=A-33_OtzAmw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
 - May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)
-- May 03 2022 - [Episode 185: Play Store](http://adbackstage.libsyn.com/episode-185-play-store) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
