@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 14 2022 - [Now in Android #68](https://medium.com/androiddevelopers/now-in-android-68-f695e822863c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Sep 14 2022 - [Now in Android: 68 - Privacy Sandbox, Architecture, Performance, and more!](https://www.youtube.com/watch?v=SHEbEakgr5w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 14 2022 - [Effective state management for TextField in Compose](https://medium.com/androiddevelopers/effective-state-management-for-textfield-in-compose-d6e5b070fbe5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 13 2022 - [Intuitive: Thinking in Compose - MAD Skills](https://www.youtube.com/watch?v=4zf30a34OOA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -35,7 +37,6 @@
 - Aug 25 2022 - [A story of Android App Excellence: TikTok optimizes their user experience with Android tools](https://www.youtube.com/watch?v=k9Pdgiugleg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 24 2022 - [Top Tips for Adopting Android’s Notification Permission](https://medium.com/androiddevelopers/top-tips-for-adopting-androids-notification-permission-bf69afd677b8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2022 - [Wear OS Tiles Material Library: Build Tiles, Fast.](http://android-developers.googleblog.com/2022/08/wear-os-tiles-material-library-build-tiles-fast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 24 2022 - [CameraX 1.2 is now in Beta](http://android-developers.googleblog.com/2022/08/camerax-12-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2022 - [Google Play Coffee break with iMumz](https://www.youtube.com/watch?v=LPJmelyEANo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -45,7 +46,6 @@
 - Aug 23 2022 - [Firebase Release Notes Aug '22: Zombie nodes on RTDB, multi-factor auth on Flutter ＆Firebase Summit🍎](https://www.youtube.com/watch?v=oP9MHUWrCXU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2022 - [Improving Performance with Baseline Profiles - MAD Skills](https://www.youtube.com/watch?v=WWdDzXgrkmg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 19 2022 - [Android Developer Story: Bring your creativity from local to global with Google Play](https://www.youtube.com/watch?v=FsEagsWM4Vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
