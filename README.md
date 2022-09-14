@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 13 2022 - [Intuitive: Thinking in Compose - MAD Skills](https://www.youtube.com/watch?v=4zf30a34OOA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2022 - [Introduction to Compose Basics - MAD Skills](https://www.youtube.com/watch?v=4UXJTeb9Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -91,7 +92,6 @@
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
 - May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 12 2022 - [Monitoring your Flutter app's stability with Firebase Crashlytics](https://www.youtube.com/watch?v=cIFLFpKTy7c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
