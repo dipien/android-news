@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 14 2022 - [Effective state management for TextField in Compose](https://medium.com/androiddevelopers/effective-state-management-for-textfield-in-compose-d6e5b070fbe5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 13 2022 - [Intuitive: Thinking in Compose - MAD Skills](https://www.youtube.com/watch?v=4zf30a34OOA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -38,7 +39,6 @@
 - Aug 24 2022 - [Wear OS Tiles Material Library: Build Tiles, Fast.](http://android-developers.googleblog.com/2022/08/wear-os-tiles-material-library-build-tiles-fast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 24 2022 - [CameraX 1.2 is now in Beta](http://android-developers.googleblog.com/2022/08/camerax-12-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2022 - [Google Play Coffee break with iMumz](https://www.youtube.com/watch?v=LPJmelyEANo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 23 2022 - [Improving Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-performance-with-baseline-profiles-fdd0db0d8cc6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 23 2022 - [Google Play Coffee break with iMumz  - From start-up to scale-up](http://android-developers.googleblog.com/2022/08/google-play-coffee-break-with-imumz-from-start-up-to-scale-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2022 - [Design high-quality apps for kids - Google Play Academy course trailer](https://www.youtube.com/watch?v=-FUmVUPThX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
