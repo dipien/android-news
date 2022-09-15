@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 15 2022 - [What's new in Android Studio - Dolphin](https://www.youtube.com/watch?v=EQ_btxhpRzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 15 2022 - [Thinking in Compose](https://medium.com/androiddevelopers/thinking-in-compose-c4ef150bb7cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Now in Android #68](https://medium.com/androiddevelopers/now-in-android-68-f695e822863c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Now in Android: 68 - Privacy Sandbox, Architecture, Performance, and more!](https://www.youtube.com/watch?v=SHEbEakgr5w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -45,7 +46,6 @@
 - Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 23 2022 - [Firebase Release Notes Aug '22: Zombie nodes on RTDB, multi-factor auth on Flutter ＆Firebase Summit🍎](https://www.youtube.com/watch?v=oP9MHUWrCXU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 22 2022 - [Improving Performance with Baseline Profiles - MAD Skills](https://www.youtube.com/watch?v=WWdDzXgrkmg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
