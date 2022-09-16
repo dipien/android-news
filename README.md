@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 16 2022 - [Part 2: Deep links from zero to hero](https://www.youtube.com/watch?v=SCl_rdp0Wik) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 15 2022 - [What's new in Android Studio - Dolphin](https://www.youtube.com/watch?v=EQ_btxhpRzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 15 2022 - [Android Studio Dolphin](http://android-developers.googleblog.com/2022/09/android-studio-dolphin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 15 2022 - [Thinking in Compose](https://medium.com/androiddevelopers/thinking-in-compose-c4ef150bb7cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -43,7 +44,6 @@
 - Aug 24 2022 - [CameraX 1.2 is now in Beta](http://android-developers.googleblog.com/2022/08/camerax-12-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2022 - [Google Play Coffee break with iMumz](https://www.youtube.com/watch?v=LPJmelyEANo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2022 - [Google Play Coffee break with iMumz  - From start-up to scale-up](http://android-developers.googleblog.com/2022/08/google-play-coffee-break-with-imumz-from-start-up-to-scale-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 23 2022 - [Design high-quality apps for kids - Google Play Academy course trailer](https://www.youtube.com/watch?v=-FUmVUPThX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 23 2022 - [Firebase Release Notes Aug '22: Zombie nodes on RTDB, multi-factor auth on Flutter ＆Firebase Summit🍎](https://www.youtube.com/watch?v=oP9MHUWrCXU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
