@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 16 2022 - [Deep Links Crash Course : Part 3 Troubleshooting Your Deep Links](https://medium.com/androiddevelopers/deep-links-crash-course-part-3-troubleshooting-your-deep-links-61329fecb93?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 16 2022 - [Part 2: Deep links from zero to hero](https://www.youtube.com/watch?v=SCl_rdp0Wik) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 15 2022 - [What's new in Android Studio - Dolphin](https://www.youtube.com/watch?v=EQ_btxhpRzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 15 2022 - [Android Studio Dolphin](http://android-developers.googleblog.com/2022/09/android-studio-dolphin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +35,6 @@
 - Sep 01 2022 - [Experimenting with Jetpack Glance](https://medium.com/androiddevelopers/experimenting-with-jetpack-glance-35fbffe520f4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 01 2022 - [Environments and Emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 01 2022 - [Now in Android #67](https://medium.com/androiddevelopers/now-in-android-67-fdfc7ab8827c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 29 2022 - [Monitoring App Performance](https://medium.com/androiddevelopers/monitoring-app-performance-ebf9af4ebe36?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 29 2022 - [Monitoring Performance - MAD Skills](https://www.youtube.com/watch?v=GiBu21pP9I0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 26 2022 - [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](http://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 25 2022 - [A story of Android App Excellence: TikTok optimizes their user experience with Android tools](https://www.youtube.com/watch?v=k9Pdgiugleg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
