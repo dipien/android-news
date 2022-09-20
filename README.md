@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 20 2022 - [Less code: Composable functions - MAD Skills](https://www.youtube.com/watch?v=fFLBCgoHHys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 20 2022 - [Keeping your app secure with App Check - Better Safe than Sorry](https://www.youtube.com/watch?v=TzLON3oVGE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 16 2022 - [Deep Links Crash Course : Part 3 Troubleshooting Your Deep Links](https://medium.com/androiddevelopers/deep-links-crash-course-part-3-troubleshooting-your-deep-links-61329fecb93?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 16 2022 - [Part 2: Deep links from zero to hero](https://www.youtube.com/watch?v=SCl_rdp0Wik) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 15 2022 - [What's new in Android Studio - Dolphin](https://www.youtube.com/watch?v=EQ_btxhpRzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -42,7 +44,6 @@
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 24 2022 - [Wear OS Tiles Material Library: Build Tiles, Fast.](http://android-developers.googleblog.com/2022/08/wear-os-tiles-material-library-build-tiles-fast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 24 2022 - [CameraX 1.2 is now in Beta](http://android-developers.googleblog.com/2022/08/camerax-12-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 23 2022 - [Google Play Coffee break with iMumz](https://www.youtube.com/watch?v=LPJmelyEANo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2022 - [Google Play Coffee break with iMumz  - From start-up to scale-up](http://android-developers.googleblog.com/2022/08/google-play-coffee-break-with-imumz-from-start-up-to-scale-up.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 23 2022 - [Firebase Release Notes Aug '22: Zombie nodes on RTDB, multi-factor auth on Flutter ＆Firebase Summit🍎](https://www.youtube.com/watch?v=oP9MHUWrCXU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -91,7 +92,6 @@
 - May 24 2022 - [Firebase Release Notes May 2022: Official Flutter support and other updates from Google I/O!](https://www.youtube.com/watch?v=HseGVOM85W4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [What’s new in Firebase (2022) RECAP](https://www.youtube.com/watch?v=8UY02Nf0l6A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
-- May 13 2022 - [Create better user experiences with Remote Config for advanced app personalization](https://www.youtube.com/watch?v=nRQwJV1iMKs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
