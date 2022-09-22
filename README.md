@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2022 - [App Quality Insights window in Android Studio](https://www.youtube.com/watch?v=lYBeOQWKEYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 20 2022 - [Jetpack Compose Composition Tracing](https://medium.com/androiddevelopers/jetpack-compose-composition-tracing-9ec2b3aea535?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 20 2022 - [Less code: Composable functions - MAD Skills](https://www.youtube.com/watch?v=fFLBCgoHHys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -36,7 +37,6 @@
 - Sep 01 2022 - [Now in Android: 67 - Cross device SDK Developer Preview, CameraX 1.2 Beta, and more!](https://www.youtube.com/watch?v=DOyrGgoNkPY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Performance: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=hsK5kggwIcM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 01 2022 - [Experimenting with Jetpack Glance](https://medium.com/androiddevelopers/experimenting-with-jetpack-glance-35fbffe520f4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 01 2022 - [Environments and emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 29 2022 - [Monitoring Performance - MAD Skills](https://www.youtube.com/watch?v=GiBu21pP9I0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 26 2022 - [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](http://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
