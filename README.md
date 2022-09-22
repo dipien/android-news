@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Sep 22 2022 - [Just launched: Apply for support from Google Play’s $2M Indie Games Fund in Latin America](http://android-developers.googleblog.com/2022/09/apply-for-support-from-google-play-2m-indie-games-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 21 2022 - [App Quality Insights window in Android Studio](https://www.youtube.com/watch?v=lYBeOQWKEYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 20 2022 - [Jetpack Compose Composition Tracing](https://medium.com/androiddevelopers/jetpack-compose-composition-tracing-9ec2b3aea535?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 20 2022 - [Less code: Composable functions - MAD Skills](https://www.youtube.com/watch?v=fFLBCgoHHys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -75,7 +76,6 @@
 - Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 29 2022 - [Independent versioning of Jetpack Compose libraries](http://android-developers.googleblog.com/2022/06/independent-versioning-of-Jetpack-Compose-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2022 - [Firebase Release Notes June '22: Crashlytics drag-and-drop, Robo script docs＆Apple silicon for Unity](https://www.youtube.com/watch?v=JxJ0niQWieU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2022 - [How Firebase projects and apps work](https://www.youtube.com/watch?v=27BUpiAXt9M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
