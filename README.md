@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 27 2022 - [Firebase Release Notes Sep 2022: App Check on more Apple devices, and Test Lab on ARM-based hosts](https://www.youtube.com/watch?v=w_vixDqdSrs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Sep 27 2022 - [Helping users discover apps for all their devices from their phone](http://android-developers.googleblog.com/2022/09/helping-users-discover-apps-for-all-their-devices-from-their-phone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2022 - [Migrating the AOSP QuickSearchBox App to Kotlin](https://medium.com/androiddevelopers/migrating-the-aosp-quicksearchbox-app-to-kotlin-1264346619ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -71,7 +72,6 @@
 - Jul 21 2022 - [BigQuery: Integrating and streaming from Firebase](https://www.youtube.com/watch?v=W9t3QupnqPA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 13 2022 - [#WeArePlay - Meet Melissa from BringFido in South Carolina. More stories from Japan, India & France.](http://android-developers.googleblog.com/2022/07/weareplay-meet-melissa-from-bringfido.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 13 2022 - [Final Android 13 Beta update, official release is next!](http://android-developers.googleblog.com/2022/07/Final-Android-13-Beta-update-official-release-is-next.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 13 2022 - [Building an eco-friendly rideshare business - Firebase Stories](https://www.youtube.com/watch?v=RE_OzodibvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 07 2022 - [The Avatar Project: Derek Brahney](https://material.io/blog/derek-brahney-interview) - [Material Design Blog](https://material.io/blog)
 - Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
