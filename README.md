@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 27 2022 - [Android Developer Story: Three Kingdoms Tactics - Achieve victory in various terrain and multiplayer](https://www.youtube.com/watch?v=3y9cxMyruKQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 27 2022 - [Android Developer Story: Ragnarok X: Next Generation - Go beyond RO, but keep the essence touch](https://www.youtube.com/watch?v=REV49nFzIsA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 27 2022 - [Firebase Release Notes Sep 2022: App Check on more Apple devices, and Test Lab on ARM-based hosts](https://www.youtube.com/watch?v=w_vixDqdSrs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 27 2022 - [Helping users discover apps for all their devices from their phone](http://android-developers.googleblog.com/2022/09/helping-users-discover-apps-for-all-their-devices-from-their-phone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2022 - [Migrating the AOSP QuickSearchBox App to Kotlin](https://medium.com/androiddevelopers/migrating-the-aosp-quicksearchbox-app-to-kotlin-1264346619ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -39,10 +41,8 @@
 - Sep 02 2022 - [Part 1: Introduction to deep links](https://www.youtube.com/watch?v=1qFIg-lz4Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Now in Android: 67 - Cross device SDK Developer Preview, CameraX 1.2 Beta, and more!](https://www.youtube.com/watch?v=DOyrGgoNkPY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 01 2022 - [Performance: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=hsK5kggwIcM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 01 2022 - [Environments and emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 29 2022 - [Monitoring Performance - MAD Skills](https://www.youtube.com/watch?v=GiBu21pP9I0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 26 2022 - [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](http://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
