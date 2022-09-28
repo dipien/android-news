@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 28 2022 - [Google Play 政策更新重點解讀 - 2022 年 7 月 (中文講解)](https://www.youtube.com/watch?v=ldltciWrbMk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2022 - [Optimize for Android Go : Lessons from Google apps Part 2](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 27 2022 - [Android Developer Story: Three Kingdoms Tactics - Achieve victory in various terrain and multiplayer](https://www.youtube.com/watch?v=3y9cxMyruKQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 27 2022 - [Android Developer Story: Ragnarok X: Next Generation - Go beyond RO, but keep the essence touch](https://www.youtube.com/watch?v=REV49nFzIsA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -25,7 +26,7 @@
 - Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 13 2022 - [Intuitive: Thinking in Compose - MAD Skills](https://www.youtube.com/watch?v=4zf30a34OOA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 13 2022 - [Introduction to Compose Basics - MAD Skills](https://www.youtube.com/watch?v=4UXJTeb9Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 13 2022 - [Introduction to Compose basics - MAD Skills](https://www.youtube.com/watch?v=4UXJTeb9Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 08 2022 - [The deep links crash course, Part2: Deep links from Zero to Hero](https://medium.com/androiddevelopers/the-deep-links-crash-course-part2-deep-links-from-zero-to-hero-37f94cc8fb88?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -41,7 +42,6 @@
 - Sep 02 2022 - [Per-app language preferences](https://www.youtube.com/watch?v=DUKnNWwcNvo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Part 1: Introduction to deep links](https://www.youtube.com/watch?v=1qFIg-lz4Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 01 2022 - [Now in Android: 67 - Cross device SDK Developer Preview, CameraX 1.2 Beta, and more!](https://www.youtube.com/watch?v=DOyrGgoNkPY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 01 2022 - [Environments and emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 26 2022 - [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](http://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
