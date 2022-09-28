@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 28 2022 - [Now in Android #69](https://medium.com/androiddevelopers/now-in-android-69-f84f27a08e5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 28 2022 - [Now in Android: 69 - Compose Camp, MAD Skills Compose, Android Studio Dolphin, and more!](https://www.youtube.com/watch?v=UvfvwFFsYpM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2022 - [Show & Tell: Classkick - Firebase Stories](https://www.youtube.com/watch?v=VZxTAnFb7dU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 28 2022 - [Listen to our major Text to Speech upgrades for 64 bit devices.](http://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -35,7 +36,6 @@
 - Sep 08 2022 - [The deep links crash course, Part2: Deep links from Zero to Hero](https://medium.com/androiddevelopers/the-deep-links-crash-course-part2-deep-links-from-zero-to-hero-37f94cc8fb88?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Jetpack Compose: Debugging Recomposition](https://medium.com/androiddevelopers/jetpack-compose-debugging-recomposition-bfcf4a6f8d37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 07 2022 - [MAD Skills Performance — Wrap Up](https://medium.com/androiddevelopers/mad-skills-performance-wrap-up-33688abfc51f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [#WeArePlay - Sam | Level Ex | USA](https://www.youtube.com/watch?v=WmST1gOWq1g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2022 - [#WeArePlay - Meet Sam from Chicago. More stories from Peru, Croatia and Estonia.](http://android-developers.googleblog.com/2022/09/weareplay-meet-sam-from-chicago-and-more-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [Jetpack Compose: Debugging recomposition](https://www.youtube.com/watch?v=SWBN0y0lFNY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
