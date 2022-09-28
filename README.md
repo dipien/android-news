@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 28 2022 - [Now in Android: 69 - Compose Camp, MAD Skills Compose, Android Studio Dolphin, and more!](https://www.youtube.com/watch?v=UvfvwFFsYpM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 28 2022 - [Show & Tell: Classkick - Firebase Stories](https://www.youtube.com/watch?v=VZxTAnFb7dU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Sep 28 2022 - [Listen to our major Text to Speech upgrades for 64 bit devices.](http://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Google Play 政策更新重點解讀 - 2022 年 7 月 (中文講解)](https://www.youtube.com/watch?v=ldltciWrbMk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2022 - [Optimize for Android Go : Lessons from Google apps Part 2](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 27 2022 - [Android Developer Story: Three Kingdoms Tactics - Achieve victory in various terrain and multiplayer](https://www.youtube.com/watch?v=3y9cxMyruKQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -40,7 +43,6 @@
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Indie Games Festival from Google Play - Awards Ceremony (Europe)](https://www.youtube.com/watch?v=LlFm0V2m5wY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Per-app language preferences](https://www.youtube.com/watch?v=DUKnNWwcNvo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 02 2022 - [Part 1: Introduction to deep links](https://www.youtube.com/watch?v=1qFIg-lz4Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 01 2022 - [Environments and emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -69,7 +71,6 @@
 - Jul 27 2022 - [Streamlining apparel purchasing in the fashion industry - Firebase Stories](https://www.youtube.com/watch?v=LtaKCVdjQ3Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 25 2022 - [Celebrating 10 years of Google Play. Together.](http://android-developers.googleblog.com/2022/03/celebrating-10-years-of-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 21 2022 - [BigQuery: Integrating and streaming from Firebase](https://www.youtube.com/watch?v=W9t3QupnqPA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 13 2022 - [Building an eco-friendly rideshare business - Firebase Stories](https://www.youtube.com/watch?v=RE_OzodibvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -91,7 +92,6 @@
 - May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Build the expanding Cart BottomSheet - Material Live Highlights](https://www.youtube.com/watch?v=5SR6FcqpwqU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Polishing the Cart transition - Material Live Highlights](https://www.youtube.com/watch?v=6-wiitIFf40) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 24 2022 - [Firebase Release Notes May 2022: Official Flutter support and other updates from Google I/O!](https://www.youtube.com/watch?v=HseGVOM85W4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
