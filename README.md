@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 29 2022 - [Powerful Compose toolkit - MAD Skills](https://www.youtube.com/watch?v=oNOCE-bUhVs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 29 2022 - [Outdooractive boosts user experience on wearable devices with 30% less development time using Compose for Wear OS](http://android-developers.googleblog.com/2022/09/outdooractive-boosts-user-experience-on-wearable-devices-using-compose-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Now in Android #69](https://medium.com/androiddevelopers/now-in-android-69-f84f27a08e5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 28 2022 - [Now in Android: 69 - Compose Camp, MAD Skills Compose, Android Studio Dolphin, and more!](https://www.youtube.com/watch?v=UvfvwFFsYpM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2022 - [Show & Tell: Classkick - Firebase Stories](https://www.youtube.com/watch?v=VZxTAnFb7dU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,7 +44,6 @@
 - Sep 06 2022 - [Announcing the new guide to Android app modularization](http://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Indie Games Festival from Google Play - Awards Ceremony (Europe)](https://www.youtube.com/watch?v=LlFm0V2m5wY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 02 2022 - [Per-app language preferences](https://www.youtube.com/watch?v=DUKnNWwcNvo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 01 2022 - [Environments and emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -67,7 +68,6 @@
 - Jul 29 2022 - [Prepare your app to support predictive back gestures](http://android-developers.googleblog.com/2022/07/prepare-your-app-to-support-predictive-back-gestures.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 28 2022 - [How to map an array of objects from Realtime Database to a List of objects?](https://medium.com/firebase-developers/how-to-map-an-array-of-objects-from-realtime-database-to-a-list-of-objects-53f27b33c8f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 27 2022 - [Compose for Wear OS is now 1.0: time to build wearable apps with Compose!](http://android-developers.googleblog.com/2022/07/compose-for-wear-os-10-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 27 2022 - [Jetpack Compose 1.2 is now stable!](http://android-developers.googleblog.com/2022/07/jetpack-compose-1-2-is-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 27 2022 - [Streamlining apparel purchasing in the fashion industry - Firebase Stories](https://www.youtube.com/watch?v=LtaKCVdjQ3Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
