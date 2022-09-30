@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 29 2022 - [Part 3: Troubleshooting your deep links](https://www.youtube.com/watch?v=OAxJ2kWG4ZI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 29 2022 - [Powerful Compose toolkit - MAD Skills](https://www.youtube.com/watch?v=oNOCE-bUhVs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 29 2022 - [Powerful: Compose toolkit - MAD Skills](https://www.youtube.com/watch?v=oNOCE-bUhVs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 29 2022 - [Outdooractive boosts user experience on wearable devices with 30% less development time using Compose for Wear OS](http://android-developers.googleblog.com/2022/09/outdooractive-boosts-user-experience-on-wearable-devices-using-compose-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Now in Android #69](https://medium.com/androiddevelopers/now-in-android-69-f84f27a08e5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 28 2022 - [Now in Android: 69 - Compose Camp, MAD Skills Compose, Android Studio Dolphin, and more!](https://www.youtube.com/watch?v=UvfvwFFsYpM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
