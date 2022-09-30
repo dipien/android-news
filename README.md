@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 30 2022 - [Compose Toolkit](https://medium.com/androiddevelopers/compose-toolkit-8d3651228764?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 29 2022 - [Part 3: Troubleshooting your deep links](https://www.youtube.com/watch?v=OAxJ2kWG4ZI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 29 2022 - [Powerful: Compose toolkit - MAD Skills](https://www.youtube.com/watch?v=oNOCE-bUhVs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 29 2022 - [Outdooractive boosts user experience on wearable devices with 30% less development time using Compose for Wear OS](http://android-developers.googleblog.com/2022/09/outdooractive-boosts-user-experience-on-wearable-devices-using-compose-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -37,7 +38,6 @@
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 08 2022 - [The deep links crash course, Part2: Deep links from Zero to Hero](https://medium.com/androiddevelopers/the-deep-links-crash-course-part2-deep-links-from-zero-to-hero-37f94cc8fb88?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 07 2022 - [Jetpack Compose: Debugging Recomposition](https://medium.com/androiddevelopers/jetpack-compose-debugging-recomposition-bfcf4a6f8d37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [#WeArePlay - Sam | Level Ex | USA](https://www.youtube.com/watch?v=WmST1gOWq1g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2022 - [#WeArePlay - Meet Sam from Chicago. More stories from Peru, Croatia and Estonia.](http://android-developers.googleblog.com/2022/09/weareplay-meet-sam-from-chicago-and-more-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
