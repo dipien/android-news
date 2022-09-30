@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 29 2022 - [Part 3: Troubleshooting your deep links](https://www.youtube.com/watch?v=OAxJ2kWG4ZI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 29 2022 - [Powerful Compose toolkit - MAD Skills](https://www.youtube.com/watch?v=oNOCE-bUhVs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 29 2022 - [Outdooractive boosts user experience on wearable devices with 30% less development time using Compose for Wear OS](http://android-developers.googleblog.com/2022/09/outdooractive-boosts-user-experience-on-wearable-devices-using-compose-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Now in Android #69](https://medium.com/androiddevelopers/now-in-android-69-f84f27a08e5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -43,7 +44,6 @@
 - Sep 07 2022 - [Jetpack Compose: Debugging recomposition](https://www.youtube.com/watch?v=SWBN0y0lFNY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 06 2022 - [Announcing the new guide to Android app modularization](http://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 03 2022 - [Indie Games Festival from Google Play - Awards Ceremony (Europe)](https://www.youtube.com/watch?v=LlFm0V2m5wY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 01 2022 - [Environments and emulators](https://www.youtube.com/watch?v=xyvxvnIlgBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
