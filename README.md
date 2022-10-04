@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 04 2022 - [Accelerate development: Compose tooling - MAD Skills](https://www.youtube.com/watch?v=8XJfLaAOxD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2022 - [Compose Toolkit](https://medium.com/androiddevelopers/compose-toolkit-8d3651228764?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 29 2022 - [Part 3: Troubleshooting your deep links](https://www.youtube.com/watch?v=OAxJ2kWG4ZI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 29 2022 - [Powerful: Compose toolkit - MAD Skills](https://www.youtube.com/watch?v=oNOCE-bUhVs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -41,7 +42,6 @@
 - Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [#WeArePlay - Sam | Level Ex | USA](https://www.youtube.com/watch?v=WmST1gOWq1g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2022 - [#WeArePlay - Meet Sam from Chicago. More stories from Peru, Croatia and Estonia.](http://android-developers.googleblog.com/2022/09/weareplay-meet-sam-from-chicago-and-more-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 07 2022 - [Jetpack Compose: Debugging recomposition](https://www.youtube.com/watch?v=SWBN0y0lFNY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 06 2022 - [Announcing the new guide to Android app modularization](http://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
