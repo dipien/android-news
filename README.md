@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 06 2022 - [Todoist adopted Compose for Wear OS and increased its growth rate by 50%](http://android-developers.googleblog.com/2022/10/todoist-adopted-compose-for-wear-os-and.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 06 2022 - [Compose: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Prepare your Android Project for Android Gradle plugin 8.0 API changes](http://android-developers.googleblog.com/2022/10/prepare-your-Android-project-for-AGP8-changes.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 06 2022 - [Part 4: Deep links for your business](https://www.youtube.com/watch?v=UvMIswgsJF8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -66,7 +67,6 @@
 - Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 02 2022 - [Google Play Indie Games Festival: Finalists revealed](http://android-developers.googleblog.com/2022/07/google-play-indie-games-festival-finalists-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 28 2022 - [How to map an array of objects from Realtime Database to a List of objects?](https://medium.com/firebase-developers/how-to-map-an-array-of-objects-from-realtime-database-to-a-list-of-objects-53f27b33c8f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 27 2022 - [Streamlining apparel purchasing in the fashion industry - Firebase Stories](https://www.youtube.com/watch?v=LtaKCVdjQ3Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 26 2022 - [Firebase Release Notes July 2022: Multi-factor authentication, auto-delete expired docs in Firestore](https://www.youtube.com/watch?v=gD8iF0Jildk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
