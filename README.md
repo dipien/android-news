@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 06 2022 - [Part 4: Deep links for your business](https://www.youtube.com/watch?v=UvMIswgsJF8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 04 2022 - [Accelerate development: Compose tooling - MAD Skills](https://www.youtube.com/watch?v=8XJfLaAOxD0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2022 - [Compose Toolkit](https://medium.com/androiddevelopers/compose-toolkit-8d3651228764?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 29 2022 - [Part 3: Troubleshooting your deep links](https://www.youtube.com/watch?v=OAxJ2kWG4ZI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -40,7 +41,6 @@
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 08 2022 - [The deep links crash course, Part2: Deep links from Zero to Hero](https://medium.com/androiddevelopers/the-deep-links-crash-course-part2-deep-links-from-zero-to-hero-37f94cc8fb88?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 07 2022 - [#WeArePlay - Sam | Level Ex | USA](https://www.youtube.com/watch?v=WmST1gOWq1g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2022 - [#WeArePlay - Meet Sam from Chicago. More stories from Peru, Croatia and Estonia.](http://android-developers.googleblog.com/2022/09/weareplay-meet-sam-from-chicago-and-more-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 06 2022 - [Announcing the new guide to Android app modularization](http://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
