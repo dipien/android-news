@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 07 2022 - [The new Google Pixel Watch is here - start building for Wear OS!](http://android-developers.googleblog.com/2022/10/the-new-google-pixel-watch-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 07 2022 - [30 ways to deep link into an app #Shorts](https://www.youtube.com/watch?v=sSF_3CIXdbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Todoist adopted Compose for Wear OS and increased its growth rate by 50%](http://android-developers.googleblog.com/2022/10/todoist-adopted-compose-for-wear-os-and.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 06 2022 - [Compose: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -64,7 +65,6 @@
 - Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2022 - [Android 13 is in AOSP!](http://android-developers.googleblog.com/2022/08/android-13-is-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 11 2022 - [Build apps for the new Samsung devices](http://android-developers.googleblog.com/2022/08/build-apps-for-the-new-Samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 28 2022 - [How to map an array of objects from Realtime Database to a List of objects?](https://medium.com/firebase-developers/how-to-map-an-array-of-objects-from-realtime-database-to-a-list-of-objects-53f27b33c8f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
