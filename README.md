@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 07 2022 - [30 ways to deep link into an app #Shorts](https://www.youtube.com/watch?v=sSF_3CIXdbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Todoist adopted Compose for Wear OS and increased its growth rate by 50%](http://android-developers.googleblog.com/2022/10/todoist-adopted-compose-for-wear-os-and.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 06 2022 - [Compose: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Prepare your Android Project for Android Gradle plugin 8.0 API changes](http://android-developers.googleblog.com/2022/10/prepare-your-Android-project-for-AGP8-changes.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -38,7 +39,6 @@
 - Sep 14 2022 - [Now in Android: 68 - Privacy Sandbox, Architecture, Performance, and more!](https://www.youtube.com/watch?v=SHEbEakgr5w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 14 2022 - [Effective state management for TextField in Compose](https://medium.com/androiddevelopers/effective-state-management-for-textfield-in-compose-d6e5b070fbe5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 13 2022 - [Intuitive: Thinking in Compose - MAD Skills](https://www.youtube.com/watch?v=4zf30a34OOA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
