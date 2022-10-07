@@ -4,7 +4,7 @@
 - Oct 07 2022 - [The new Google Pixel Watch is here - start building for Wear OS!](http://android-developers.googleblog.com/2022/10/the-new-google-pixel-watch-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 07 2022 - [30 ways to deep link into an app #Shorts](https://www.youtube.com/watch?v=sSF_3CIXdbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Todoist adopted Compose for Wear OS and increased its growth rate by 50%](http://android-developers.googleblog.com/2022/10/todoist-adopted-compose-for-wear-os-and.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 06 2022 - [Compose: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 06 2022 - [Compose Basics: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Prepare your Android Project for Android Gradle plugin 8.0 API changes](http://android-developers.googleblog.com/2022/10/prepare-your-Android-project-for-AGP8-changes.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 06 2022 - [Part 4: Deep links for your business](https://www.youtube.com/watch?v=UvMIswgsJF8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 05 2022 - [Android Dev Summit ‘22: Coming to you, online and around the world!](http://android-developers.googleblog.com/2022/10/android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
