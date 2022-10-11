@@ -39,7 +39,6 @@
 - Sep 15 2022 - [Android Studio Dolphin](http://android-developers.googleblog.com/2022/09/android-studio-dolphin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 15 2022 - [Thinking in Compose](https://medium.com/androiddevelopers/thinking-in-compose-c4ef150bb7cf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Now in Android #68](https://medium.com/androiddevelopers/now-in-android-68-f695e822863c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 14 2022 - [Now in Android: 68 - Privacy Sandbox, Architecture, Performance, and more!](https://www.youtube.com/watch?v=SHEbEakgr5w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 14 2022 - [Effective state management for TextField in Compose](https://medium.com/androiddevelopers/effective-state-management-for-textfield-in-compose-d6e5b070fbe5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -100,7 +99,8 @@
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
-- May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- May 05 2022 - [Roboto … But Make It Flex](https://material.io/blog/roboto-flex) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
