@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 12 2022 - [Bringing passkeys to Android & Chrome](http://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2022 - [Compose Basics: Community tip - MAD Skills](https://www.youtube.com/watch?v=QssnHu2NcCQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2022 - [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](http://android-developers.googleblog.com/2022/10/announcing-experimental-preview-of-jetpack-multiplatform-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 07 2022 - [Compose Tooling](https://medium.com/androiddevelopers/compose-tooling-42621bd8719b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -63,7 +64,6 @@
 - Aug 22 2022 - [Monitor all your deep links in one place on this new Play Console page](http://android-developers.googleblog.com/2022/08/monitor-your-deep-links-in-one-place.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 17 2022 - [#WeArePlay - Meet George from the UK. More stories from Croatia, USA and Kenya.](http://android-developers.googleblog.com/2022/08/weareplay-meet-george-from-the-UK-more-stories-from-croatia-usa-and-kenya.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 17 2022 - [Celebrating 5 years of Kotlin on Android](http://android-developers.googleblog.com/2022/08/celebrating-5-years-of-kotlin-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2022 - [Show & Tell: MOIA, FAVES - Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2022 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 03 2022 - [Analyzing Firebase data with BigQuery](https://www.youtube.com/watch?v=jlfREntil-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
