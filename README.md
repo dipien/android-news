@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 13 2022 - [Compose Basics: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 13 2022 - [Firebase 2022](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 12 2022 - [Bringing passkeys to Android & Chrome](http://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2022 - [Compose Basics: Community tip - MAD Skills](https://www.youtube.com/watch?v=QssnHu2NcCQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2022 - [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](http://android-developers.googleblog.com/2022/10/announcing-experimental-preview-of-jetpack-multiplatform-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -8,7 +10,6 @@
 - Oct 07 2022 - [The new Google Pixel Watch is here - start building for Wear OS!](http://android-developers.googleblog.com/2022/10/the-new-google-pixel-watch-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 07 2022 - [30 ways to deep link into an app #Shorts](https://www.youtube.com/watch?v=sSF_3CIXdbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Todoist adopted Compose for Wear OS and increased its growth rate by 50 percent](http://android-developers.googleblog.com/2022/10/todoist-adopted-compose-for-wear-os-and.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 06 2022 - [Compose Basics: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 06 2022 - [Prepare your Android Project for Android Gradle plugin 8.0 API changes](http://android-developers.googleblog.com/2022/10/prepare-your-android-project-for-agp8-changes.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 06 2022 - [Part 4: Deep links for your business](https://www.youtube.com/watch?v=UvMIswgsJF8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 05 2022 - [Android Dev Summit ‘22: Coming to you, online and around the world!](http://android-developers.googleblog.com/2022/10/android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -80,7 +81,6 @@
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 28 2022 - [Firebase Release Notes June '22: Crashlytics drag-and-drop, Robo script docs＆Apple silicon for Unity](https://www.youtube.com/watch?v=JxJ0niQWieU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 24 2022 - [How Firebase projects and apps work](https://www.youtube.com/watch?v=27BUpiAXt9M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
