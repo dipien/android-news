@@ -4,7 +4,7 @@
 - Oct 13 2022 - [Permissionless is the future of Storage on Android](https://medium.com/androiddevelopers/permissionless-is-the-future-of-storage-on-android-3fbceeb3d70a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2022 - [Compose Basics: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=KEt2VA-11co) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 13 2022 - [New features and tools to help you showcase your Play Store listing](http://android-developers.googleblog.com/2022/10/optimize-your-play-store-listing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 13 2022 - [Firebase 2022](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 13 2022 - [Firebase Summit 2022 - Livestream](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 12 2022 - [Bringing passkeys to Android & Chrome](http://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2022 - [Compose Basics: Community tip - MAD Skills](https://www.youtube.com/watch?v=QssnHu2NcCQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2022 - [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](http://android-developers.googleblog.com/2022/10/announcing-experimental-preview-of-jetpack-multiplatform-libraries.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
