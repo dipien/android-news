@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 18 2022 - [Firebase Summit 2022 - Livestream](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 17 2022 - [Compose Basics: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-basics-mad-skills-wrap-up-1a191fa842b9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2022 - [Now in Android #70](https://medium.com/androiddevelopers/now-in-android-70-f0889aadde9e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2022 - [Now in Android: 70 - Android Dev Summit, Google Pixel Watch, Compose Basics, and more!](https://www.youtube.com/watch?v=pINj884YzSk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -80,7 +81,6 @@
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 28 2022 - [Firebase Release Notes June '22: Crashlytics drag-and-drop, Robo script docs＆Apple silicon for Unity](https://www.youtube.com/watch?v=JxJ0niQWieU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 24 2022 - [How Firebase projects and apps work](https://www.youtube.com/watch?v=27BUpiAXt9M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
