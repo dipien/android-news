@@ -2,6 +2,8 @@
 
 <!-- NEWS:START -->
 - Oct 18 2022 - [Firebase Summit 2022 - Livestream](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
+- Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
 - Oct 17 2022 - [Compose Basics: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-basics-mad-skills-wrap-up-1a191fa842b9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2022 - [Now in Android #70](https://medium.com/androiddevelopers/now-in-android-70-f0889aadde9e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2022 - [Now in Android: 70 - Android Dev Summit, Google Pixel Watch, Compose Basics, and more!](https://www.youtube.com/watch?v=pINj884YzSk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -98,9 +100,7 @@
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
 - May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)
-- May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)
-- May 11 2022 - [Join Material Design at I/O ‘22](https://material.io/blog/material-google-io22) - [Material Design Blog](https://material.io/blog)
-- May 10 2022 - [Roboto... But make it flex #VariableFonts](https://www.youtube.com/watch?v=f3IQSmKFokU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 11 2022 - [Design for everyone](https://material.io/blog/m3-a11y) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
