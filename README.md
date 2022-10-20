@@ -12,6 +12,7 @@
 - Oct 20 2022 - [How to monitor errors and performance in Cloud Functions with Open Telemetry](https://www.youtube.com/watch?v=61WC7urgvQ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [#AskFirebase Live - Firebase Summit 2022](https://www.youtube.com/watch?v=m_YZoCjZtTI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [What's new in Firebase 2022 - Keynote](https://www.youtube.com/watch?v=D4e_TTY2dfI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Firebase Summit 2022 - Livestream](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 12 2022 - [Design accessibility for individuals with Material Design](https://www.youtube.com/watch?v=b6FTDYrJWRA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 11 2022 - [Best practices for migrating to variable fonts](https://www.youtube.com/watch?v=-pXShVaNPGs) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)
-- May 11 2022 - [Adjusting Grade for Mode](https://material.io/blog/readability-research) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 11 2022 - [Material Icons: Sehee Lee](https://material.io/blog/material-icons-sehee-lee-interview) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
