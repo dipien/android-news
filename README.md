@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 21 2022 - [Build an expense tracker web app with Firebase and React](https://www.youtube.com/watch?v=q2RZOiUD5E0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Succeed with US Hispanic gamers](https://medium.com/googleplaydev/succeed-with-us-hispanic-gamers-e2a970524967?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Oct 20 2022 - [Remote Config personalization: Everything you need to know](https://www.youtube.com/watch?v=MJlQurMiLN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Building a SwiftUI app with Firebase](https://www.youtube.com/watch?v=iNtBFip1LD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -58,7 +59,6 @@
 - Sep 20 2022 - [Keeping your app secure with App Check - Better Safe than Sorry](https://www.youtube.com/watch?v=TzLON3oVGE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 16 2022 - [Deep Links Crash Course : Part 3 Troubleshooting Your Deep Links](https://medium.com/androiddevelopers/deep-links-crash-course-part-3-troubleshooting-your-deep-links-61329fecb93?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 15 2022 - [Android Studio Dolphin](http://android-developers.googleblog.com/2022/09/android-studio-dolphin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 14 2022 - [Eliminating barriers in learning - Firebase Stories](https://www.youtube.com/watch?v=nZj6C86mGck) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
