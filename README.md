@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 24 2022 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 24 2022 - [Lyft reduced their code for UI components by as much as 60% using Jetpack Compose](http://android-developers.googleblog.com/2022/10/lyft-reduced-their-code-for-ui-components-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Android Developer Story: ZEPETO plans to migrate 80% of the app’s UI to Jetpack Compose](https://www.youtube.com/watch?v=fUvct-zUfeI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Address Firebase Crashlytics reports faster from Android Studio](https://www.youtube.com/watch?v=i66ZTIMcqrc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Styling text in Compose](https://www.youtube.com/watch?v=_qls2CEAbxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -15,6 +17,7 @@
 - Oct 24 2022 - [5 quick animations to make your Compose app stand out](https://www.youtube.com/watch?v=0mfCbXrYBPE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [By layer or feature? Why not both? Guide to Android app modularization](https://www.youtube.com/watch?v=16SwTvzDO0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [More performance tips for Jetpack Compose](https://www.youtube.com/watch?v=ahXLwg2JYpc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 24 2022 - [ZEPETO plans to migrate at least 80% of the app’s UI to Jetpack Compose](http://android-developers.googleblog.com/2022/10/zepeto-plans-to-migrate-80-percent-of-apps-ui-to-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
@@ -72,9 +75,6 @@
 - Sep 08 2022 - [Optimize for Android (Go edition): Lessons from Google apps - Part 1](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [Privacy Sandbox: Developer Preview 5 is here!](http://android-developers.googleblog.com/2022/09/privacy-sandbox-developer-preview-5-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2022 - [#WeArePlay - Meet Sam from Chicago. More stories from Peru, Croatia and Estonia.](http://android-developers.googleblog.com/2022/09/weareplay-meet-sam-from-chicago-and-more-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 06 2022 - [Announcing the new guide to Android app modularization](http://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 03 2022 - [Google Play announces the winners of the Indie Games Festival and the Accelerator class of 2022](http://android-developers.googleblog.com/2022/09/google-play-2022-winning-indie-titles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 02 2022 - [Precise Improvements: How TikTok Enhanced its Video Social Experience on Android](http://android-developers.googleblog.com/2022/08/precise-improvements-how-tiktok-enhanced-its-social-experience-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
