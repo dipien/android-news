@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 24 2022 - [Android Dev Summit '22: Keynote & Modern Android Development Track Livestream](https://www.youtube.com/watch?v=Awi4J5-tbW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Material Design 3 for Compose hits stable](http://android-developers.googleblog.com/2022/10/material-design-3-compose-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [What’s new from Android, at Android Dev Summit ‘22](http://android-developers.googleblog.com/2022/10/new-from-android-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Android Dev Summit ‘22: What’s new in Jetpack](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -43,7 +44,6 @@
 - Oct 19 2022 - [#WeArePlay -  Meet app founders helping people around the world](http://android-developers.googleblog.com/2022/10/weareplay-meet-app-founders-helping-people-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 18 2022 - [Firebase Summit 2022 - Livestream](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 18 2022 - [Latest updates on Android’s custom ML stack](http://android-developers.googleblog.com/2022/10/latest-updates-on-androids-custom-ml.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 18 2022 - [Android Dev Summit '22: Keynote & Modern Android Development Track Livestream](https://www.youtube.com/watch?v=Awi4J5-tbW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
 - Oct 17 2022 - [Compose Basics: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-basics-mad-skills-wrap-up-1a191fa842b9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
