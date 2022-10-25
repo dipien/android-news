@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 24 2022 - [Top 3 picks from Modern Android Development at ADS ‘22](https://www.youtube.com/watch?v=UFO8uAfcBV8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 24 2022 - [Modern Android Development at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/modern-android-development-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Android Dev Summit '22: Keynote & Modern Android Development Track Livestream](https://www.youtube.com/watch?v=Awi4J5-tbW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Material Design 3 for Compose hits stable](http://android-developers.googleblog.com/2022/10/material-design-3-compose-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [What’s new from Android, at Android Dev Summit ‘22](http://android-developers.googleblog.com/2022/10/new-from-android-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -20,7 +22,6 @@
 - Oct 24 2022 - [Collecting flows in a lifecycle-aware manner](https://www.youtube.com/watch?v=6hNXFs1fYaY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [5 quick animations to make your Compose app stand out](https://www.youtube.com/watch?v=0mfCbXrYBPE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [By layer or feature? Why not both? Guide to Android app modularization](https://www.youtube.com/watch?v=16SwTvzDO0A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 24 2022 - [More performance tips for Jetpack Compose](https://www.youtube.com/watch?v=ahXLwg2JYpc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [ZEPETO plans to migrate at least 80% of the app’s UI to Jetpack Compose](http://android-developers.googleblog.com/2022/10/zepeto-plans-to-migrate-80-percent-of-apps-ui-to-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
@@ -73,7 +74,6 @@
 - Sep 20 2022 - [Keeping your app secure with App Check - Better Safe than Sorry](https://www.youtube.com/watch?v=TzLON3oVGE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 16 2022 - [Deep Links Crash Course : Part 3 Troubleshooting Your Deep Links](https://medium.com/androiddevelopers/deep-links-crash-course-part-3-troubleshooting-your-deep-links-61329fecb93?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 15 2022 - [Android Studio Dolphin](http://android-developers.googleblog.com/2022/09/android-studio-dolphin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 13 2022 - [Learn Jetpack Compose at a Compose Camp near you!](http://android-developers.googleblog.com/2022/09/learn-jetpack-compose-at-compose-camp-near-you.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
