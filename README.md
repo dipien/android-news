@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 25 2022 - [Now in Android: a Material 3 case study](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Oct 25 2022 - [Firebase Release Notes October 2022: Top 5 takeaways from Firebase Summit](https://www.youtube.com/watch?v=ss9S3M_emWY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 25 2022 - [Making apps blazing fast with Baseline Profiles](https://www.youtube.com/watch?v=yJm5On5Gp4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Android Dev Summit ‘22: The Keynote!](https://www.youtube.com/watch?v=Og2p9LczE3A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [State holders and state production in the UI Layer](https://www.youtube.com/watch?v=pCX9wvu-Bq0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -71,8 +73,6 @@
 - Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Just launched: Apply for support from Google Play’s $2M Indie Games Fund in Latin America](http://android-developers.googleblog.com/2022/09/apply-for-support-from-google-play-2m-indie-games-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 20 2022 - [Jetpack Compose Composition Tracing](https://medium.com/androiddevelopers/jetpack-compose-composition-tracing-9ec2b3aea535?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 20 2022 - [Keeping your app secure with App Check - Better Safe than Sorry](https://www.youtube.com/watch?v=TzLON3oVGE0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 16 2022 - [Deep Links Crash Course : Part 3 Troubleshooting Your Deep Links](https://medium.com/androiddevelopers/deep-links-crash-course-part-3-troubleshooting-your-deep-links-61329fecb93?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 15 2022 - [Android Studio Dolphin](http://android-developers.googleblog.com/2022/09/android-studio-dolphin.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
