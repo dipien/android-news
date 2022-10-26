@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 26 2022 - [Better Device Compatibility with CameraX](http://android-developers.googleblog.com/2022/10/better-device-compatibility-with-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2022 - [5 Play Console updates to help you understand your app's delivery performance](http://android-developers.googleblog.com/2022/10/5-play-console-updates-to-help-you-understand-app-delivery-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2022 - [Custom layouts and graphics in Compose](https://www.youtube.com/watch?v=xcfEQO0k_gU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Compose Modifiers deep dive](https://www.youtube.com/watch?v=BjGX2RftXsU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -72,7 +73,6 @@
 - Sep 23 2022 - [Migrating the AOSP QuickSearchBox App to Kotlin](https://medium.com/androiddevelopers/migrating-the-aosp-quicksearchbox-app-to-kotlin-1264346619ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 22 2022 - [Just launched: Apply for support from Google Play’s $2M Indie Games Fund in Latin America](http://android-developers.googleblog.com/2022/09/apply-for-support-from-google-play-2m-indie-games-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 20 2022 - [Jetpack Compose Composition Tracing](https://medium.com/androiddevelopers/jetpack-compose-composition-tracing-9ec2b3aea535?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
