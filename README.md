@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 27 2022 - [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2022 - [HDR video on Android](https://www.youtube.com/watch?v=QYECzR0w9Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 26 2022 - [Better Device Compatibility with CameraX](http://android-developers.googleblog.com/2022/10/better-device-compatibility-with-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -69,7 +70,6 @@
 - Sep 28 2022 - [Show & Tell: Classkick - Firebase Stories](https://www.youtube.com/watch?v=VZxTAnFb7dU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 28 2022 - [Listen to our major Text to Speech upgrades for 64 bit devices.](http://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Optimize for Android (Go edition) : Lessons from Google apps Part 2](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 27 2022 - [Firebase Release Notes Sep 2022: App Check on more Apple devices, and Test Lab on ARM-based hosts](https://www.youtube.com/watch?v=w_vixDqdSrs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 23 2022 - [Migrating the AOSP QuickSearchBox App to Kotlin](https://medium.com/androiddevelopers/migrating-the-aosp-quicksearchbox-app-to-kotlin-1264346619ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
