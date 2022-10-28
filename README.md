@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 27 2022 - [What’s new in Android Games - Android Game Dev Show](https://www.youtube.com/watch?v=zBTl5F8lCFQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2022 - [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2022 - [HDR video on Android](https://www.youtube.com/watch?v=QYECzR0w9Ys) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,7 +22,6 @@
 - Oct 25 2022 - [From Views to Compose: Where can I start?](https://www.youtube.com/watch?v=y10I6Suhvtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Type safe, multi-module best practices with Navigation Compose](https://www.youtube.com/watch?v=goFpG25uoc8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Test at scale with Gradle managed devices](https://www.youtube.com/watch?v=LQFataWfTXI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2022 - [Material You in Compose apps](https://www.youtube.com/watch?v=xS4GpdIQUEo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Modern Android Development at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/modern-android-development-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design 3 for Compose hits stable](http://android-developers.googleblog.com/2022/10/material-design-3-compose-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [What’s new from Android, at Android Dev Summit ‘22](http://android-developers.googleblog.com/2022/10/new-from-android-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
