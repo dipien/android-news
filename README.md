@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 28 2022 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Firebase Stories highlights reel](https://www.youtube.com/watch?v=ViKHm2OXpGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Pixel 7, the first 64-bit-only Android phone](http://android-developers.googleblog.com/2022/10/64-bit-only-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2022 - [What’s new in Android Games - Android Game Dev Show](https://www.youtube.com/watch?v=zBTl5F8lCFQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -51,7 +52,6 @@
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 19 2022 - [Get ready for Android Dev Summit ‘22: Check out the Technical Talks, Livestream Agenda, and Speakers!](http://android-developers.googleblog.com/2022/10/get-ready-for-android-dev-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2022 - [#WeArePlay -  Meet app founders helping people around the world](http://android-developers.googleblog.com/2022/10/weareplay-meet-app-founders-helping-people-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 18 2022 - [Firebase Summit 2022 - Livestream](https://www.youtube.com/watch?v=LR7JIsxKpBU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 18 2022 - [Latest updates on Android’s custom ML stack](http://android-developers.googleblog.com/2022/10/latest-updates-on-androids-custom-ml.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
