@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 28 2022 - [Firebase Stories highlights reel](https://www.youtube.com/watch?v=ViKHm2OXpGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [What’s new in Android Games - Android Game Dev Show](https://www.youtube.com/watch?v=zBTl5F8lCFQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 27 2022 - [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -67,7 +68,6 @@
 - Sep 30 2022 - [Compose Toolkit](https://medium.com/androiddevelopers/compose-toolkit-8d3651228764?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 29 2022 - [Outdooractive boosts user experience on wearable devices with 30% less development time using Compose for Wear OS](http://android-developers.googleblog.com/2022/09/outdooractive-boosts-user-experience-on-wearable-devices-using-compose-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Now in Android #69](https://medium.com/androiddevelopers/now-in-android-69-f84f27a08e5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 28 2022 - [Show & Tell: Classkick - Firebase Stories](https://www.youtube.com/watch?v=VZxTAnFb7dU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 28 2022 - [Listen to our major Text to Speech upgrades for 64 bit devices.](http://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2022 - [Optimize for Android (Go edition) : Lessons from Google apps Part 2](http://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2022 - [Migrating the AOSP QuickSearchBox App to Kotlin](https://medium.com/androiddevelopers/migrating-the-aosp-quicksearchbox-app-to-kotlin-1264346619ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
