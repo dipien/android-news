@@ -26,6 +26,7 @@
 - Oct 25 2022 - [Type safe, multi-module best practices with Navigation Compose](https://www.youtube.com/watch?v=goFpG25uoc8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Test at scale with Gradle managed devices](https://www.youtube.com/watch?v=LQFataWfTXI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Modern Android Development at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/modern-android-development-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 24 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 24 2022 - [Material Design 3 for Compose hits stable](http://android-developers.googleblog.com/2022/10/material-design-3-compose-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [What’s new from Android, at Android Dev Summit ‘22](http://android-developers.googleblog.com/2022/10/new-from-android-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Android Dev Summit ‘22: What’s new in Jetpack](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Build the expanding Cart BottomSheet - Material Live Highlights](https://www.youtube.com/watch?v=5SR6FcqpwqU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Polishing the Cart transition - Material Live Highlights](https://www.youtube.com/watch?v=6-wiitIFf40) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)
-- May 12 2022 - [Create expressive and readable typography with variable fonts](https://www.youtube.com/watch?v=bNiPLUjh6LQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
