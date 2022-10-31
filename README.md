@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 31 2022 - [Learn Jetpack Compose at Compose Camp](https://www.youtube.com/watch?v=mF70xDewzX0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 28 2022 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Firebase Stories highlights reel](https://www.youtube.com/watch?v=ViKHm2OXpGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Pixel 7, the first 64-bit-only Android phone](http://android-developers.googleblog.com/2022/10/64-bit-only-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -24,7 +25,6 @@
 - Oct 25 2022 - [What's new in Android Build](https://www.youtube.com/watch?v=WZ1A7aoEHSw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [From Views to Compose: Where can I start?](https://www.youtube.com/watch?v=y10I6Suhvtc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Type safe, multi-module best practices with Navigation Compose](https://www.youtube.com/watch?v=goFpG25uoc8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2022 - [Test at scale with Gradle managed devices](https://www.youtube.com/watch?v=LQFataWfTXI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2022 - [Modern Android Development at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/modern-android-development-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 24 2022 - [Material Design 3 for Compose hits stable](http://android-developers.googleblog.com/2022/10/material-design-3-compose-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
