@@ -19,7 +19,7 @@
 - Oct 25 2022 - [Android Dev Summit ‘22: The Keynote!](https://www.youtube.com/watch?v=Og2p9LczE3A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [State holders and state production in the UI Layer](https://www.youtube.com/watch?v=pCX9wvu-Bq0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [State of the art of Compose tooling](https://www.youtube.com/watch?v=yKfuq3luNVM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2022 - [5 ways Compose makes UI testing better](https://www.youtube.com/watch?v=svYgbT2nQw8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 25 2022 - [5 ways Compose improves UI testing](https://www.youtube.com/watch?v=svYgbT2nQw8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [5 Android Studio features you don't want to miss](https://www.youtube.com/watch?v=nDX6T1KYC8Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [Modern Android Development #AskAndroid](https://www.youtube.com/watch?v=-aZWLB4ZFjk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2022 - [What's new in Android Build](https://www.youtube.com/watch?v=WZ1A7aoEHSw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
