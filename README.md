@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 04 2022 - [Now in Android #71](https://medium.com/androiddevelopers/now-in-android-71-248cd926bf7c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 04 2022 - [Now in Android: 71 - #AndroidDevSummit, Modern Android Development, Now in Android app, and more!](https://www.youtube.com/watch?v=WgxwzyMuKkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -76,7 +77,6 @@
 - Sep 23 2022 - [Migrating the AOSP QuickSearchBox App to Kotlin](https://medium.com/androiddevelopers/migrating-the-aosp-quicksearchbox-app-to-kotlin-1264346619ec?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 22 2022 - [Composable Functions](https://medium.com/androiddevelopers/composable-functions-a505ab20b523?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 20 2022 - [Jetpack Compose Composition Tracing](https://medium.com/androiddevelopers/jetpack-compose-composition-tracing-9ec2b3aea535?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
