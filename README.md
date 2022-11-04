@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 03 2022 - [Privacy sandbox on Android](https://www.youtube.com/watch?v=ebHmgjarpaQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 03 2022 - [Play Integrity API for Android developers](https://www.youtube.com/watch?v=dqUTX6hR9Mk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Build the expanding Cart BottomSheet - Material Live Highlights](https://www.youtube.com/watch?v=5SR6FcqpwqU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 26 2022 - [Polishing the Cart transition - Material Live Highlights](https://www.youtube.com/watch?v=6-wiitIFf40) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 19 2022 - [Celebrating Global Accessibility Awareness Day](https://material.io/blog/accessibility-awareness-day-2022) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 26 2022 - [Polishing the Cart transition - Material Live Highlights](https://www.youtube.com/watch?v=6-wiitIFf40) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
