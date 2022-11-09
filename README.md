@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 04 2022 - [Now in Android #71](https://medium.com/androiddevelopers/now-in-android-71-248cd926bf7c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 04 2022 - [Now in Android: 71 - #AndroidDevSummit, Modern Android Development, Now in Android app, and more!](https://www.youtube.com/watch?v=WgxwzyMuKkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - May 30 2022 - [Planning Poker for remote teams — the story of an open-source project](https://medium.com/firebase-developers/planning-poker-for-remote-teams-the-story-of-an-open-source-project-3ffd3e6e81a5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 26 2022 - [Integrating the Cart with the Backdrop - Material Live Highlights](https://www.youtube.com/watch?v=s3hk_bjsNVE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 26 2022 - [Transition setup between the collapsed and expanded Cart - Material Live Highlights](https://www.youtube.com/watch?v=Wyn8I4dj-eA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 26 2022 - [Build the expanding Cart BottomSheet - Material Live Highlights](https://www.youtube.com/watch?v=5SR6FcqpwqU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 26 2022 - [Build the collapsed Cart - Material Live Highlights](https://www.youtube.com/watch?v=hEAtKv_Kmes) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
