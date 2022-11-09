@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 09 2022 - [Transforming home buying in Latin America - Firebase Stories](https://www.youtube.com/watch?v=bwkEXBuoniw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 09 2022 - [Android Dev Summit '22: Platform Track Livestream](https://www.youtube.com/watch?v=i6MsNAf6pRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Android Dev Summit '22: Form Factors Track Livestream](https://www.youtube.com/watch?v=TqbzXC1xtko) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Strava sees an activity increase of 30% from users on Wear OS](https://www.youtube.com/watch?v=3vaaxPAVeAU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -53,7 +54,6 @@
 - Oct 20 2022 - [Advanced offline caching techniques in Cloud Firestore](https://www.youtube.com/watch?v=iQOTjUko9WM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [How to monitor errors and performance in Cloud Functions with Open Telemetry](https://www.youtube.com/watch?v=61WC7urgvQ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [#AskFirebase Live - Firebase Summit 2022](https://www.youtube.com/watch?v=m_YZoCjZtTI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [What's new in Firebase 2022 - Keynote](https://www.youtube.com/watch?v=D4e_TTY2dfI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 19 2022 - [Get ready for Android Dev Summit ‘22: Check out the Technical Talks, Livestream Agenda, and Speakers!](http://android-developers.googleblog.com/2022/10/get-ready-for-android-dev-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2022 - [#WeArePlay -  Meet app founders helping people around the world](http://android-developers.googleblog.com/2022/10/weareplay-meet-app-founders-helping-people-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
