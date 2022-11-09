@@ -1,9 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
-- Nov 09 2022 - [Android Dev Summit '22: Platform](https://www.youtube.com/watch?v=i6MsNAf6pRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 09 2022 - [Android Dev Summit '22: Platform Track Livestream](https://www.youtube.com/watch?v=i6MsNAf6pRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Android Dev Summit '22: Form Factors Track Livestream](https://www.youtube.com/watch?v=TqbzXC1xtko) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 09 2022 - [Day of test (Android Dev Summit '22: Platform)](https://www.youtube.com/watch?v=StH8O72nyDI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Strava sees an activity increase of 30% from users on Wear OS](https://www.youtube.com/watch?v=3vaaxPAVeAU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Make your app shine for all devices on Google Play](https://www.youtube.com/watch?v=xLecR6zYiFY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Why and how to optimize your app for ChromeOS](https://www.youtube.com/watch?v=C0IuT0O2wlM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -19,6 +18,7 @@
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 04 2022 - [Now in Android #71](https://medium.com/androiddevelopers/now-in-android-71-248cd926bf7c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Nov 04 2022 - [Now in Android: 71 - #AndroidDevSummit, Modern Android Development, Now in Android app, and more!](https://www.youtube.com/watch?v=WgxwzyMuKkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 28 2022 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
