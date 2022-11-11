@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 11 2022 - [Reading and writing in Health Connect](https://www.youtube.com/watch?v=NAx7Gv_Hk7E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 11 2022 - [Managing permissions in Health Connect](https://www.youtube.com/watch?v=C2I4OymO3S4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 11 2022 - [Introduction to Health Connect](https://www.youtube.com/watch?v=k4kX3wQ0U6Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2022 - [Top 3 picks from the Form Factors track at ADS ‘22](https://www.youtube.com/watch?v=RNprUxOGUUw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2022 - [Form Factors #AskAndroid](https://www.youtube.com/watch?v=_iwowlEg_A4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2022 - [Your Camera app on different form factors](https://www.youtube.com/watch?v=XcJIrTedfus) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -13,10 +16,7 @@
 - Nov 10 2022 - [Canonical layouts and visual hierarchy: Designing for larger screens](https://www.youtube.com/watch?v=FrkIa9vZjCI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2022 - [Do’s and don’ts: Mindset for optimizing apps for larger screens](https://www.youtube.com/watch?v=m7OL-mVh1E8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2022 - [Compose: Implementing responsive UI for larger screens](https://www.youtube.com/watch?v=fQjDtCtri4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 10 2022 - [Build better UIs across form factors with Android Studio](https://www.youtube.com/watch?v=Z4h9cvlE66E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2022 - [Transforming home buying in Latin America - Firebase Stories](https://www.youtube.com/watch?v=bwkEXBuoniw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 09 2022 - [Android Dev Summit '22: Platform Track Livestream](https://www.youtube.com/watch?v=i6MsNAf6pRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 09 2022 - [Android Dev Summit '22: Form Factors Track Livestream](https://www.youtube.com/watch?v=TqbzXC1xtko) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 04 2022 - [Now in Android #71](https://medium.com/androiddevelopers/now-in-android-71-248cd926bf7c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
