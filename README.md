@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Everything about storage on Android](https://www.youtube.com/watch?v=jcO6p5TlcGs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Syncing data with Health Connect](https://www.youtube.com/watch?v=Dgo3eXpWN1Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Foster user trust by adopting privacy-respecting permission workflows](https://www.youtube.com/watch?v=rtdRQ1QT1pU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -53,7 +54,6 @@
 - Oct 24 2022 - [Android Dev Summit ‘22: What’s new in Jetpack](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Lyft reduced their code for UI components by as much as 60% using Jetpack Compose](http://android-developers.googleblog.com/2022/10/lyft-reduced-their-code-for-ui-components-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 24 2022 - [ZEPETO plans to migrate at least 80% of the app’s UI to Jetpack Compose](http://android-developers.googleblog.com/2022/10/zepeto-plans-to-migrate-80-percent-of-apps-ui-to-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
