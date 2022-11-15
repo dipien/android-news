@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 15 2022 - [Top 3 picks from the Platform track at ADS ‘22](https://www.youtube.com/watch?v=iOc6-AzF5-I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Android Dev Summit '22: Platform Track Livestream](https://www.youtube.com/watch?v=i6MsNAf6pRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Everything about storage on Android](https://www.youtube.com/watch?v=jcO6p5TlcGs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,7 +21,6 @@
 - Nov 11 2022 - [Introduction to Health Connect](https://www.youtube.com/watch?v=k4kX3wQ0U6Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 11 2022 - [Coming up next for Android Dev Summit ‘22: The Platform track, on November 14!](http://android-developers.googleblog.com/2022/11/coming-up-next-for-android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 10 2022 - [Top 3 picks from the Form Factors track at ADS ‘22](https://www.youtube.com/watch?v=RNprUxOGUUw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 10 2022 - [Form Factors #AskAndroid](https://www.youtube.com/watch?v=_iwowlEg_A4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 10 2022 - [Continuing our Commitment to User Choice Billing](http://android-developers.googleblog.com/2022/11/continuing-our-commitment-to-user-choice-billing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2022 - [Transforming home buying in Latin America - Firebase Stories](https://www.youtube.com/watch?v=bwkEXBuoniw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 09 2022 - [Form Factors at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/form-factors-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
