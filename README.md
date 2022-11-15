@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2022 - [Demystifying attestation](https://www.youtube.com/watch?v=Bc4ZLmTp4m0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2022 - [Supporting BLE Audio in your voice communication applications](https://www.youtube.com/watch?v=cXl9fUyW6FM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2022 - [Hardware acceleration for on-device Machine Learning](https://www.youtube.com/watch?v=iSt3fT1YsKE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -53,7 +55,6 @@
 - Oct 24 2022 - [What’s new from Android, at Android Dev Summit ‘22](http://android-developers.googleblog.com/2022/10/new-from-android-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Android Dev Summit ‘22: What’s new in Jetpack](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2022/10/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 24 2022 - [Lyft reduced their code for UI components by as much as 60% using Jetpack Compose](http://android-developers.googleblog.com/2022/10/lyft-reduced-their-code-for-ui-components-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
@@ -67,7 +68,6 @@
 - Oct 20 2022 - [Your guide to server side authentication with Firebase](https://www.youtube.com/watch?v=kRszxpeTnW0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Advanced offline caching techniques in Cloud Firestore](https://www.youtube.com/watch?v=iQOTjUko9WM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [How to monitor errors and performance in Cloud Functions with Open Telemetry](https://www.youtube.com/watch?v=61WC7urgvQ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [#AskFirebase Live - Firebase Summit 2022](https://www.youtube.com/watch?v=m_YZoCjZtTI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
