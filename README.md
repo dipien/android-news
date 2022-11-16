@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2022 - [Demystifying attestation](https://www.youtube.com/watch?v=Bc4ZLmTp4m0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -67,7 +68,6 @@
 - Oct 20 2022 - [Your quickstart to the Firebase Emulator Suite](https://www.youtube.com/watch?v=pyTUvccfCpc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Your guide to server side authentication with Firebase](https://www.youtube.com/watch?v=kRszxpeTnW0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Advanced offline caching techniques in Cloud Firestore](https://www.youtube.com/watch?v=iQOTjUko9WM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [How to monitor errors and performance in Cloud Functions with Open Telemetry](https://www.youtube.com/watch?v=61WC7urgvQ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
