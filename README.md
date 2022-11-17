@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2022 - [#WeArePlay - Filipe | Aoca Game Lab | Brazil](https://www.youtube.com/watch?v=jUU62x5Czcw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [What can make or break someone’s user experience?](https://www.youtube.com/watch?v=XFgRy3kNXsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [Firebase Summit intro #Shorts](https://www.youtube.com/watch?v=W4cGf1ppnLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2022 - [Now in Android: 73 - Android Dev Summit: Platform, Now in Android on Google Play, and more!](https://www.youtube.com/watch?v=kMmkG5MUREY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -22,7 +23,6 @@
 - Nov 15 2022 - [Demystifying attestation](https://www.youtube.com/watch?v=Bc4ZLmTp4m0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2022 - [Supporting BLE Audio in your voice communication applications](https://www.youtube.com/watch?v=cXl9fUyW6FM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2022 - [Hardware acceleration for on-device Machine Learning](https://www.youtube.com/watch?v=iSt3fT1YsKE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 15 2022 - [Presenting a high-quality media experience for all users](https://www.youtube.com/watch?v=CLslyXs0i4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Leading Health and Fitness Apps Roll Out Health Connect Integrations](http://android-developers.googleblog.com/2022/11/leading-health-and-fitness-apps-roll-out-health-connect-integrations.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2022 - [Now in Android #72](https://medium.com/androiddevelopers/now-in-android-72-1dba1cd404a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
