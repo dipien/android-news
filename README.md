@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2022 - [Firebase Summit intro #Shorts](https://www.youtube.com/watch?v=W4cGf1ppnLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2022 - [Now in Android: 73 - Android Dev Summit: Platform, Now in Android on Google Play, and more!](https://www.youtube.com/watch?v=kMmkG5MUREY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Now in Android #73](https://medium.com/androiddevelopers/now-in-android-73-f0effa197dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Helping Families Find High-Quality Apps for Kids](http://android-developers.googleblog.com/2022/11/helping-kids-and-families-find-high-quality-apps-for-kids.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -69,7 +70,6 @@
 - Oct 20 2022 - [Advanced alerting for Firebase Release and Monitoring products](https://www.youtube.com/watch?v=FrORBGrZpdM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Your quickstart to the Firebase Emulator Suite](https://www.youtube.com/watch?v=pyTUvccfCpc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Your guide to server side authentication with Firebase](https://www.youtube.com/watch?v=kRszxpeTnW0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [Advanced offline caching techniques in Cloud Firestore](https://www.youtube.com/watch?v=iQOTjUko9WM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
