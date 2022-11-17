@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 16 2022 - [Now in Android: 73 - Android Dev Summit: Platform, Now in Android on Google Play, and more!](https://www.youtube.com/watch?v=kMmkG5MUREY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 16 2022 - [Now in Android #73](https://medium.com/androiddevelopers/now-in-android-73-f0effa197dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Helping Families Find High-Quality Apps for Kids](http://android-developers.googleblog.com/2022/11/helping-kids-and-families-find-high-quality-apps-for-kids.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2022 - [Google Play PolicyBytes - Pembaruan kebijakan November 2022](https://www.youtube.com/watch?v=MNLKuGj34Ho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Richtlinienaktualisierung vom November 2022 (German)](https://www.youtube.com/watch?v=JeifFWvkBTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,7 +22,6 @@
 - Nov 15 2022 - [Hardware acceleration for on-device Machine Learning](https://www.youtube.com/watch?v=iSt3fT1YsKE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2022 - [Presenting a high-quality media experience for all users](https://www.youtube.com/watch?v=CLslyXs0i4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2022 - [Building for a multilingual world](https://www.youtube.com/watch?v=Tq7TSUzAGm8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 15 2022 - [Designing a high quality app with the latest Android features](https://www.youtube.com/watch?v=922ADxreYDY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Leading Health and Fitness Apps Roll Out Health Connect Integrations](http://android-developers.googleblog.com/2022/11/leading-health-and-fitness-apps-roll-out-health-connect-integrations.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2022 - [Now in Android #72](https://medium.com/androiddevelopers/now-in-android-72-1dba1cd404a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -77,7 +78,6 @@
 - Oct 13 2022 - [Permissionless is the future of Storage on Android](https://medium.com/androiddevelopers/permissionless-is-the-future-of-storage-on-android-3fbceeb3d70a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 07 2022 - [Compose Tooling](https://medium.com/androiddevelopers/compose-tooling-42621bd8719b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 30 2022 - [Compose Toolkit](https://medium.com/androiddevelopers/compose-toolkit-8d3651228764?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 28 2022 - [Now in Android #69](https://medium.com/androiddevelopers/now-in-android-69-f84f27a08e5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
