@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2022 - [Cloud Firestore updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=ffoa3AOYQGw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2022 - [Just your type: Variable fonts in Compose](https://medium.com/androiddevelopers/just-your-type-variable-fonts-in-compose-5bf63b357994?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 17 2022 - [#WeArePlay - Discover what inspired 4 game creators around the world](http://android-developers.googleblog.com/2022/11/weareplay-discover-what-inspired-4-game-creators-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2022 - [#WeArePlay - Filipe | Aoca Game Lab | Brazil](https://www.youtube.com/watch?v=jUU62x5Czcw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -70,7 +71,6 @@
 - Oct 20 2022 - [Best practices for Firebase Messaging](https://www.youtube.com/watch?v=pP044hR6zNQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Advanced alerting for Firebase Release and Monitoring products](https://www.youtube.com/watch?v=FrORBGrZpdM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Your quickstart to the Firebase Emulator Suite](https://www.youtube.com/watch?v=pyTUvccfCpc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [Your guide to server side authentication with Firebase](https://www.youtube.com/watch?v=kRszxpeTnW0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
