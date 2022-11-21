@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 21 2022 - [Migrate your apps to Android 13](https://www.youtube.com/watch?v=wBx3-ZObxY8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Introducing Camera Viewfinder](http://android-developers.googleblog.com/2022/11/introducing-camera-viewfinder.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2022 - [AGSL: Made in the Shade(r)](https://medium.com/androiddevelopers/agsl-made-in-the-shade-r-7d06d14fe02a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -29,7 +31,6 @@
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2022 - [Demystifying attestation](https://www.youtube.com/watch?v=Bc4ZLmTp4m0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 15 2022 - [Supporting BLE Audio in your voice communication applications](https://www.youtube.com/watch?v=cXl9fUyW6FM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Leading Health and Fitness Apps Roll Out Health Connect Integrations](http://android-developers.googleblog.com/2022/11/leading-health-and-fitness-apps-roll-out-health-connect-integrations.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2022 - [Now in Android #72](https://medium.com/androiddevelopers/now-in-android-72-1dba1cd404a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -63,7 +64,6 @@
 - Oct 25 2022 - [Now in Android: a Material 3 case study](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 25 2022 - [Firebase Release Notes October 2022: Top 5 takeaways from Firebase Summit](https://www.youtube.com/watch?v=ss9S3M_emWY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 24 2022 - [Modern Android Development at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/modern-android-development-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 24 2022 - [Material Design 3 for Compose hits stable](http://android-developers.googleblog.com/2022/10/material-design-3-compose-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
