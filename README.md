@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 21 2022 - [AGSL: Made in the Shade(r)](https://medium.com/androiddevelopers/agsl-made-in-the-shade-r-7d06d14fe02a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 18 2022 - [Tips for a great Health Connect integration](https://www.youtube.com/watch?v=yGAlBTTX9R4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 18 2022 - [Faster Jetpack Compose <-> View interop with App Startup and baseline profile](https://medium.com/androiddevelopers/faster-jetpack-compose-view-interop-with-app-startup-and-baseline-profile-8a615e061d14?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 17 2022 - [Cloud Firestore updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=ffoa3AOYQGw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -77,7 +78,6 @@
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
 - Oct 17 2022 - [Compose Basics: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-basics-mad-skills-wrap-up-1a191fa842b9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 13 2022 - [Now in Android #70](https://medium.com/androiddevelopers/now-in-android-70-f0889aadde9e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 13 2022 - [Permissionless is the future of Storage on Android](https://medium.com/androiddevelopers/permissionless-is-the-future-of-storage-on-android-3fbceeb3d70a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
