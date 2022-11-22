@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 22 2022 - [Firebase Release Notes Nov 2022: Next.js 13, Firestore query speed, and Flutter auto-update](https://www.youtube.com/watch?v=J0soR73Jbio) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2022 - [Migrate your apps to Android 13](https://www.youtube.com/watch?v=wBx3-ZObxY8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Introducing Camera Viewfinder](http://android-developers.googleblog.com/2022/11/introducing-camera-viewfinder.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -73,7 +74,6 @@
 - Oct 20 2022 - [Building a SwiftUI app with Firebase](https://www.youtube.com/watch?v=iNtBFip1LD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Best practices for Firebase Messaging](https://www.youtube.com/watch?v=pP044hR6zNQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Advanced alerting for Firebase Release and Monitoring products](https://www.youtube.com/watch?v=FrORBGrZpdM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [Your quickstart to the Firebase Emulator Suite](https://www.youtube.com/watch?v=pyTUvccfCpc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
