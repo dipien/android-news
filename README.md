@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Nov 22 2022 - [Making Jellyfish move in Compose: Animating ImageVectors and applying AGSL RenderEffects](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 22 2022 - [Firebase Release Notes Nov 2022: Next.js 13, Firestore query speed, and Flutter auto-update](https://www.youtube.com/watch?v=J0soR73Jbio) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2022 - [Migrate your apps to Android 13](https://www.youtube.com/watch?v=wBx3-ZObxY8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,7 +66,6 @@
 - Oct 26 2022 - [5 Play Console updates to help you understand your app's delivery performance](http://android-developers.googleblog.com/2022/10/5-play-console-updates-to-help-you-understand-app-delivery-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2022 - [Now in Android: a Material 3 case study](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 25 2022 - [Firebase Release Notes October 2022: Top 5 takeaways from Firebase Summit](https://www.youtube.com/watch?v=ss9S3M_emWY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 24 2022 - [Modern Android Development at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/modern-android-development-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
