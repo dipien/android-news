@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 22 2022 - [Making Jellyfish move in Compose: Animating ImageVectors and applying AGSL RenderEffects](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Firebase Release Notes Nov 2022: Next.js 13, Firestore query speed, and Flutter auto-update](https://www.youtube.com/watch?v=J0soR73Jbio) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2022 - [Migrate your apps to Android 13](https://www.youtube.com/watch?v=wBx3-ZObxY8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -78,7 +79,6 @@
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
 - Oct 17 2022 - [Compose Basics: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-basics-mad-skills-wrap-up-1a191fa842b9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 13 2022 - [Now in Android #70](https://medium.com/androiddevelopers/now-in-android-70-f0889aadde9e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
