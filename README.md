@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 28 2022 - [Firebase Summit 2022 event highlights](https://www.youtube.com/watch?v=9GZaEzBwds0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 23 2022 - [RenderNode for Bigger, Better Blurs](https://medium.com/androiddevelopers/rendernode-for-bigger-better-blurs-ced9f108c7e2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Google Play Games for PC - Android Game Dev Show](https://www.youtube.com/watch?v=UIGpF36EnZQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 22 2022 - [Making Jellyfish move in Compose: Animating ImageVectors and applying AGSL RenderEffects](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -75,7 +76,6 @@
 - Oct 20 2022 - [Remote Config personalization: Everything you need to know](https://www.youtube.com/watch?v=MJlQurMiLN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Building a SwiftUI app with Firebase](https://www.youtube.com/watch?v=iNtBFip1LD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Best practices for Firebase Messaging](https://www.youtube.com/watch?v=pP044hR6zNQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [Advanced alerting for Firebase Release and Monitoring products](https://www.youtube.com/watch?v=FrORBGrZpdM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
