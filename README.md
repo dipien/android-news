@@ -1,10 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 28 2022 - [Google Play coffee break with Creatrip](https://www.youtube.com/watch?v=0j4eCGLlAj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 28 2022 - [Firebase Summit 2022 event highlights](https://www.youtube.com/watch?v=9GZaEzBwds0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 23 2022 - [RenderNode for Bigger, Better Blurs](https://medium.com/androiddevelopers/rendernode-for-bigger-better-blurs-ced9f108c7e2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 22 2022 - [Google Play Games for PC - Android Game Dev Show](https://www.youtube.com/watch?v=UIGpF36EnZQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 22 2022 - [Google Play games for PC - Android Game Dev Show](https://www.youtube.com/watch?v=UIGpF36EnZQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 22 2022 - [Making Jellyfish move in Compose: Animating ImageVectors and applying AGSL RenderEffects](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 22 2022 - [Firebase Release Notes Nov 2022: Next.js 13, Firestore query speed, and Flutter auto-update](https://www.youtube.com/watch?v=J0soR73Jbio) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -65,7 +66,6 @@
 - Oct 27 2022 - [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2022 - [Better Device Compatibility with CameraX](http://android-developers.googleblog.com/2022/10/better-device-compatibility-with-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 26 2022 - [5 Play Console updates to help you understand your app's delivery performance](http://android-developers.googleblog.com/2022/10/5-play-console-updates-to-help-you-understand-app-delivery-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2022 - [Now in Android: a Material 3 case study](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 25 2022 - [Firebase Release Notes October 2022: Top 5 takeaways from Firebase Summit](https://www.youtube.com/watch?v=ss9S3M_emWY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
