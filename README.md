@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 28 2022 - [Google Play coffee break with Creatrip](https://www.youtube.com/watch?v=0j4eCGLlAj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 28 2022 - [Firebase Summit 2022 event highlights](https://www.youtube.com/watch?v=9GZaEzBwds0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 23 2022 - [RenderNode for Bigger, Better Blurs](https://medium.com/androiddevelopers/rendernode-for-bigger-better-blurs-ced9f108c7e2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Google Play Games for PC - Android Game Dev Show](https://www.youtube.com/watch?v=UIGpF36EnZQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=URgieyG6CZk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play 정책 바이트 - 2022년 11월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=rNPXPq5iLlc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月ポリシー アップデート（Japanese）](https://www.youtube.com/watch?v=U-ff3LhlCn0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Google Play PolicyBytes - November 2022 policy updates](https://www.youtube.com/watch?v=PGU1xTUXcGE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Improving App Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-app-performance-with-baseline-profiles-aefb909a6184?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
