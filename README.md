@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 29 2022 - [Improve user onboarding for Google Play](https://www.youtube.com/watch?v=fK5OLEP0DdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 28 2022 - [Google Play coffee break with Creatrip](https://www.youtube.com/watch?v=0j4eCGLlAj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -33,7 +34,6 @@
 - Nov 16 2022 - [Google Play PolicyBytes - Atualizações de Política de Novembro de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=SUtoGP0to9o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=URgieyG6CZk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play 정책 바이트 - 2022년 11월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=rNPXPq5iLlc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月ポリシー アップデート（Japanese）](https://www.youtube.com/watch?v=U-ff3LhlCn0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Improving App Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-app-performance-with-baseline-profiles-aefb909a6184?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
