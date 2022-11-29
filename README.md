@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 28 2022 - [Google Play coffee break with Creatrip](https://www.youtube.com/watch?v=0j4eCGLlAj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 28 2022 - [Firebase Summit 2022 event highlights](https://www.youtube.com/watch?v=9GZaEzBwds0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -66,7 +67,6 @@
 - Oct 27 2022 - [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2022 - [Better Device Compatibility with CameraX](http://android-developers.googleblog.com/2022/10/better-device-compatibility-with-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 25 2022 - [Now in Android: a Material 3 case study](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 25 2022 - [Firebase Release Notes October 2022: Top 5 takeaways from Firebase Summit](https://www.youtube.com/watch?v=ss9S3M_emWY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
