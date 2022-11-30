@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Nov 30 2022 - [Show & Tell: La Haus - Firebase Stories](https://www.youtube.com/watch?v=SlLiCnQTDi8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2022 - [Improve user onboarding for Google Play](https://www.youtube.com/watch?v=fK5OLEP0DdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -51,7 +53,6 @@
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 07 2022 - [Coming up next for Android Dev Summit ‘22: The Form Factors track, on November 9!](http://android-developers.googleblog.com/2022/11/android-dev-summit-22-the-form-factors-track-november-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 04 2022 - [Now in Android #71](https://medium.com/androiddevelopers/now-in-android-71-248cd926bf7c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 03 2022 - [Accurately Measure Android App Performance with Profileable Builds](http://android-developers.googleblog.com/2022/10/accurately-measure-android-app-performance-with-profileable-builds.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -75,7 +76,6 @@
 - Oct 20 2022 - [Succeed with US Hispanic gamers](https://medium.com/googleplaydev/succeed-with-us-hispanic-gamers-e2a970524967?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Oct 20 2022 - [Remote Config personalization: Everything you need to know](https://www.youtube.com/watch?v=MJlQurMiLN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Building a SwiftUI app with Firebase](https://www.youtube.com/watch?v=iNtBFip1LD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [Best practices for Firebase Messaging](https://www.youtube.com/watch?v=pP044hR6zNQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
