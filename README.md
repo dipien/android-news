@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Dec 01 2022 - [Cloud Storage Security Rules updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=pNtQ0-DxwCw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Dec 01 2022 - [Cloud Storage Security Rules update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=pNtQ0-DxwCw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 30 2022 - [Show & Tell: La Haus - Firebase Stories](https://www.youtube.com/watch?v=SlLiCnQTDi8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2022 - [Improve user onboarding for Google Play](https://www.youtube.com/watch?v=fK5OLEP0DdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
