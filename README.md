@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 01 2022 - [Cloud Storage Security Rules updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=pNtQ0-DxwCw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 30 2022 - [Show & Tell: La Haus - Firebase Stories](https://www.youtube.com/watch?v=SlLiCnQTDi8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2022 - [Improve user onboarding for Google Play](https://www.youtube.com/watch?v=fK5OLEP0DdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -75,7 +76,6 @@
 - Oct 21 2022 - [Build an expense tracker web app with Firebase and React](https://www.youtube.com/watch?v=q2RZOiUD5E0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Succeed with US Hispanic gamers](https://medium.com/googleplaydev/succeed-with-us-hispanic-gamers-e2a970524967?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Oct 20 2022 - [Remote Config personalization: Everything you need to know](https://www.youtube.com/watch?v=MJlQurMiLN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 20 2022 - [Building a SwiftUI app with Firebase](https://www.youtube.com/watch?v=iNtBFip1LD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
