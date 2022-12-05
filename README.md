@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2022 - [Boost user activation and commitment - App Growth](https://www.youtube.com/watch?v=Xvjxr0lkcjE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 01 2022 - [Feature flagging with Remote Config and Google Analytics](https://www.youtube.com/watch?v=23T9SGLcDsM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2022 - [Cloud Storage Security Rules update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=pNtQ0-DxwCw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -45,7 +46,6 @@
 - Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Leading Health and Fitness Apps Roll Out Health Connect Integrations](http://android-developers.googleblog.com/2022/11/leading-health-and-fitness-apps-roll-out-health-connect-integrations.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 11 2022 - [Now in Android #72](https://medium.com/androiddevelopers/now-in-android-72-1dba1cd404a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 11 2022 - [Coming up next for Android Dev Summit ‘22: The Platform track, on November 14!](http://android-developers.googleblog.com/2022/11/coming-up-next-for-android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 10 2022 - [Continuing our Commitment to User Choice Billing](http://android-developers.googleblog.com/2022/11/continuing-our-commitment-to-user-choice-billing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
