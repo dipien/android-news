@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 06 2022 - [Build your first Android app #Shorts](https://www.youtube.com/watch?v=uCMDPvMpYUY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 06 2022 - [We need to talk about email and password auth - Better Safe than Sorry](https://www.youtube.com/watch?v=9_qInRTrYs0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 01 2022 - [Boost user activation and commitment - App Growth](https://www.youtube.com/watch?v=Xvjxr0lkcjE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -40,7 +42,6 @@
 - Nov 16 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Noviembre de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=8rskzBTNpa8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=OFdS8yClrKQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Atualizações de Política de Novembro de 2022 (Portuguese-Brazil)](https://www.youtube.com/watch?v=SUtoGP0to9o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=URgieyG6CZk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Improving App Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-app-performance-with-baseline-profiles-aefb909a6184?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -76,7 +77,6 @@
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
-- Oct 21 2022 - [Build an expense tracker web app with Firebase and React](https://www.youtube.com/watch?v=q2RZOiUD5E0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2022 - [Succeed with US Hispanic gamers](https://medium.com/googleplaydev/succeed-with-us-hispanic-gamers-e2a970524967?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
