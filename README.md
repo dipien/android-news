@@ -5,7 +5,7 @@
 - Dec 06 2022 - [We need to talk about email and password auth - Better Safe than Sorry](https://www.youtube.com/watch?v=9_qInRTrYs0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Dec 01 2022 - [Boost user activation and commitment - App Growth](https://www.youtube.com/watch?v=Xvjxr0lkcjE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 01 2022 - [Boost user activation and commitment - App growth](https://www.youtube.com/watch?v=Xvjxr0lkcjE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 01 2022 - [Feature flagging with Remote Config and Google Analytics](https://www.youtube.com/watch?v=23T9SGLcDsM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2022 - [Cloud Storage Security Rules update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=pNtQ0-DxwCw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
