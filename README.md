@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Show & Tell: Rowy - Firebase Stories](https://www.youtube.com/watch?v=xXZzobTPojs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 06 2022 - [Build your first Android app #Shorts](https://www.youtube.com/watch?v=uCMDPvMpYUY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2022 - [We need to talk about email and password auth - Better Safe than Sorry](https://www.youtube.com/watch?v=9_qInRTrYs0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 08 2022 - [Best practices for bringing PC and console games to mobile](https://medium.com/googleplaydev/best-practices-for-bringing-pc-and-console-games-to-mobile-863cedb9fbc6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Jun 02 2022 - [You Asked for it—Here Are Some of Our Favorite Font Pairings](https://material.io/blog/google-fonts-pairing-figma) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Jun 08 2022 - [Best practices for bringing PC and console games to mobile](https://medium.com/googleplaydev/best-practices-for-bringing-pc-and-console-games-to-mobile-863cedb9fbc6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
 
 ## Sources
 
