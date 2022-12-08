@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 08 2022 - [New Extensions and new Extension Marketplace #Shorts](https://www.youtube.com/watch?v=DRn5kGQV3Bo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2022 - [Embrace hybrid monetization - App growth](https://www.youtube.com/watch?v=BgQLwjWTpi8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [Make the switch to Jetpack Compose #Shorts](https://www.youtube.com/watch?v=PyRidnFmKuE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [What are Firebase Release Notes?](https://www.youtube.com/watch?v=jn18xDdRCHM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -71,7 +72,6 @@
 - Nov 02 2022 - [Keeping Google Play Safe with New Features and Programs](http://android-developers.googleblog.com/2022/11/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2022 - [Google Play Games beta on PC continues global expansion](http://android-developers.googleblog.com/2022/10/google-play-games-beta-on-pc-continues-global-expansion.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 28 2022 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 28 2022 - [Firebase Stories highlights reel](https://www.youtube.com/watch?v=ViKHm2OXpGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Pixel 7, the first 64-bit-only Android phone](http://android-developers.googleblog.com/2022/10/64-bit-only-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2022 - [Better Device Compatibility with CameraX](http://android-developers.googleblog.com/2022/10/better-device-compatibility-with-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
