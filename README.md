@@ -1,7 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 08 2022 - [Embrace hybrid monetization - App growth](https://www.youtube.com/watch?v=BgQLwjWTpi8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [Make the switch to Jetpack Compose #Shorts](https://www.youtube.com/watch?v=PyRidnFmKuE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 08 2022 - [What are Firebase Release Notes?](https://www.youtube.com/watch?v=jn18xDdRCHM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Show & Tell: Rowy - Firebase Stories](https://www.youtube.com/watch?v=xXZzobTPojs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 06 2022 - [Build your first Android app #Shorts](https://www.youtube.com/watch?v=uCMDPvMpYUY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -43,7 +45,6 @@
 - Nov 16 2022 - [Google Play PolicyBytes - Pembaruan kebijakan November 2022](https://www.youtube.com/watch?v=MNLKuGj34Ho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Richtlinienaktualisierung vom November 2022 (German)](https://www.youtube.com/watch?v=JeifFWvkBTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Noviembre de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=8rskzBTNpa8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Google Play PolicyBytes - 2022 年 11 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=OFdS8yClrKQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Improving App Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-app-performance-with-baseline-profiles-aefb909a6184?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -72,7 +73,6 @@
 - Oct 28 2022 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Firebase Stories highlights reel](https://www.youtube.com/watch?v=ViKHm2OXpGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 28 2022 - [Pixel 7, the first 64-bit-only Android phone](http://android-developers.googleblog.com/2022/10/64-bit-only-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 27 2022 - [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2022 - [Optimize for Android (Go edition): Lessons from Google apps Part 3](http://android-developers.googleblog.com/2022/10/optimize-for-android-go-edition-lessons.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2022 - [Better Device Compatibility with CameraX](http://android-developers.googleblog.com/2022/10/better-device-compatibility-with-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
