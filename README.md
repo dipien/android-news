@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 08 2022 - [New Extensions and new Extension Marketplace #Shorts](https://www.youtube.com/watch?v=DRn5kGQV3Bo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2022 - [Embrace hybrid monetization - App growth](https://www.youtube.com/watch?v=BgQLwjWTpi8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [Make the switch to Jetpack Compose #Shorts](https://www.youtube.com/watch?v=PyRidnFmKuE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)
 - Jun 09 2022 - [Protect Your App with Firebase App Check to Keep Your Money Safe](https://medium.com/firebase-developers/protect-your-app-with-firebase-app-check-to-keep-your-money-safe-dc0a615b4b3e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 08 2022 - [Best practices for bringing PC and console games to mobile](https://medium.com/googleplaydev/best-practices-for-bringing-pc-and-console-games-to-mobile-863cedb9fbc6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
+- Jun 08 2022 - [Episode 186: Live Edit](http://adbackstage.libsyn.com/episode-186-live-edit) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
