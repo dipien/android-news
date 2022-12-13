@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 13 2022 - [Firebase Crashlytics updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=MKeNGHCraKI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [How to build a URL shortener for free with Firebase](https://medium.com/firebase-developers/firebase-url-shortener-7754377478e0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -78,7 +79,6 @@
 - Nov 02 2022 - [Raising the bar on technical quality on Google Play](http://android-developers.googleblog.com/2022/10/raising-bar-on-technical-quality-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2022 - [Supporting and rewarding great Apps and Games on Google Play](http://android-developers.googleblog.com/2022/11/supporting-and-rewarding-great-apps-and-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2022 - [Keeping Google Play Safe with New Features and Programs](http://android-developers.googleblog.com/2022/11/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 28 2022 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
