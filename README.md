@@ -1,7 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
-- Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Event](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [How to build a URL shortener for free with Firebase](https://medium.com/firebase-developers/firebase-url-shortener-7754377478e0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 09 2022 - [Tips from Android Dev Summit 2022: How to scale made-for-mobile apps to ChromeOS](http://android-developers.googleblog.com/2022/12/tips-from-android-dev-summit-2022-how-to-scale-made-for-moble-apps-chromeos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,7 +100,6 @@
 - Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
 - Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jul 01 2022 - [Receiving push notification from Firebase in React Native](https://medium.com/firebase-developers/receiving-push-notification-from-firebase-in-react-native-b774681d700d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
