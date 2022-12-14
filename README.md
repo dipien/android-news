@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 14 2022 - [How to use Kotlin coroutines with Firebase APIs #Shorts](https://www.youtube.com/watch?v=9GvJ0OAOmo4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2022 - [Pew pew! Making a Game with Compose Canvas on Wear OS](https://medium.com/androiddevelopers/pew-pew-making-a-game-with-compose-canvas-on-wear-os-9a37fa498d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 13 2022 - [Firebase Crashlytics updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=MKeNGHCraKI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -64,7 +65,6 @@
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 11 2022 - [Coming up next for Android Dev Summit ‘22: The Platform track, on November 14!](http://android-developers.googleblog.com/2022/11/coming-up-next-for-android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 10 2022 - [Continuing our Commitment to User Choice Billing](http://android-developers.googleblog.com/2022/11/continuing-our-commitment-to-user-choice-billing.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 09 2022 - [Transforming home buying in Latin America - Firebase Stories](https://www.youtube.com/watch?v=bwkEXBuoniw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 09 2022 - [Form Factors at Android Developer Summit ‘22](http://android-developers.googleblog.com/2022/10/form-factors-at-ads-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2022 - [“Reach” Your Users on Large Screens](http://android-developers.googleblog.com/2022/11/reach-your-users-on-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2022 - [Power your Wear OS fitness app with the latest version of Health Services](http://android-developers.googleblog.com/2022/11/power-your-wear-os-fitness-app-with-health-services-latest-version.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
