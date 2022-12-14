@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 14 2022 - [Pew pew! Making a Game with Compose Canvas on Wear OS](https://medium.com/androiddevelopers/pew-pew-making-a-game-with-compose-canvas-on-wear-os-9a37fa498d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 13 2022 - [Firebase Crashlytics updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=MKeNGHCraKI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -55,7 +56,6 @@
 - Nov 16 2022 - [Google Play PolicyBytes - Pembaruan kebijakan November 2022](https://www.youtube.com/watch?v=MNLKuGj34Ho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Richtlinienaktualisierung vom November 2022 (German)](https://www.youtube.com/watch?v=JeifFWvkBTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Noviembre de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=8rskzBTNpa8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Improving App Performance with Baseline Profiles](https://medium.com/androiddevelopers/improving-app-performance-with-baseline-profiles-aefb909a6184?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Getting started with Remote Config (Android) - Firebase Fundamentals](https://www.youtube.com/watch?v=pcnnbjAAIkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
