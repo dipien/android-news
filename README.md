@@ -1,8 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 15 2022 - [Ease the development of media apps for Wear OS with the media toolkit](https://medium.com/androiddevelopers/ease-the-development-of-media-apps-for-wear-os-with-the-media-toolkit-1b7ea06e07e5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 15 2022 - [#WeArePlay - Anshul, Meet and Harsh | Stamurai | India](https://www.youtube.com/watch?v=J7KUIFKKSrc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
 - Dec 14 2022 - [How to use Kotlin coroutines with Firebase APIs #Shorts](https://www.youtube.com/watch?v=9GvJ0OAOmo4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2022 - [Pew pew! Making a Game with Compose Canvas on Wear OS](https://medium.com/androiddevelopers/pew-pew-making-a-game-with-compose-canvas-on-wear-os-9a37fa498d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 13 2022 - [Firebase Crashlytics updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=MKeNGHCraKI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -54,7 +56,6 @@
 - Nov 17 2022 - [What can make or break someone’s user experience?](https://www.youtube.com/watch?v=XFgRy3kNXsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [Firebase Summit intro #Shorts](https://www.youtube.com/watch?v=W4cGf1ppnLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2022 - [Now in Android: 73 - Android Dev Summit: Platform, Now in Android on Google Play, and more!](https://www.youtube.com/watch?v=kMmkG5MUREY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Now in Android #73](https://medium.com/androiddevelopers/now-in-android-73-f0effa197dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2022 - [Helping Families Find High-Quality Apps for Kids](http://android-developers.googleblog.com/2022/11/helping-kids-and-families-find-high-quality-apps-for-kids.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2022 - [Google Play PolicyBytes - Pembaruan kebijakan November 2022](https://www.youtube.com/watch?v=MNLKuGj34Ho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Richtlinienaktualisierung vom November 2022 (German)](https://www.youtube.com/watch?v=JeifFWvkBTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Jul 07 2022 - [The Avatar Project: Derek Brahney](https://material.io/blog/derek-brahney-interview) - [Material Design Blog](https://material.io/blog)
 - Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
 - Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 09 2022 - [From Rebranding to Readability with Atkinson Hyperlegible](https://material.io/blog/atkinson-hyperlegible-design) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Jul 01 2022 - [Firestore Development with TDD: Unit Testing Security Rules](https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
