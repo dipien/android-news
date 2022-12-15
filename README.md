@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 15 2022 - [#WeArePlay - Anshul, Meet and Harsh | Stamurai | India](https://www.youtube.com/watch?v=J7KUIFKKSrc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2022 - [How to use Kotlin coroutines with Firebase APIs #Shorts](https://www.youtube.com/watch?v=9GvJ0OAOmo4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2022 - [Pew pew! Making a Game with Compose Canvas on Wear OS](https://medium.com/androiddevelopers/pew-pew-making-a-game-with-compose-canvas-on-wear-os-9a37fa498d3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -57,7 +58,6 @@
 - Nov 16 2022 - [Helping Families Find High-Quality Apps for Kids](http://android-developers.googleblog.com/2022/11/helping-kids-and-families-find-high-quality-apps-for-kids.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2022 - [Google Play PolicyBytes - Pembaruan kebijakan November 2022](https://www.youtube.com/watch?v=MNLKuGj34Ho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Google Play PolicyBytes - Richtlinienaktualisierung vom November 2022 (German)](https://www.youtube.com/watch?v=JeifFWvkBTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 16 2022 - [Google Play PolicyBytes - Actualizaciones de la Política de Noviembre de 2022 (Spanish Latam)](https://www.youtube.com/watch?v=8rskzBTNpa8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Implement OCR with Firebase Cloud Functions and Google Cloud Vision](https://www.youtube.com/watch?v=bTEU10c3gds) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
