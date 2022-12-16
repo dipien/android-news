@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 16 2022 - [Android HDR - Migrating from TextureView to SurfaceView (Part #1) — How to Migrate](https://medium.com/androiddevelopers/android-hdr-migrating-from-textureview-to-surfaceview-part-1-how-to-migrate-6bfd7f4b970e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 16 2022 - [Android developers: a big thank you for a great ‘22!](https://www.youtube.com/watch?v=uRfMcO7pwfk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2022 - [Ease the development of media apps for Wear OS with the media toolkit](https://medium.com/androiddevelopers/ease-the-development-of-media-apps-for-wear-os-with-the-media-toolkit-1b7ea06e07e5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 15 2022 - [#WeArePlay - Anshul, Meet and Harsh | Stamurai | India](https://www.youtube.com/watch?v=J7KUIFKKSrc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -51,7 +52,6 @@
 - Nov 18 2022 - [Tips for a great Health Connect integration](https://www.youtube.com/watch?v=yGAlBTTX9R4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 18 2022 - [Faster Jetpack Compose <-> View interop with App Startup and baseline profile](https://medium.com/androiddevelopers/faster-jetpack-compose-view-interop-with-app-startup-and-baseline-profile-8a615e061d14?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 17 2022 - [Cloud Firestore updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=ffoa3AOYQGw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 17 2022 - [Just your type: Variable fonts in Compose](https://medium.com/androiddevelopers/just-your-type-variable-fonts-in-compose-5bf63b357994?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 17 2022 - [#WeArePlay - Discover what inspired 4 game creators around the world](http://android-developers.googleblog.com/2022/11/weareplay-discover-what-inspired-4-game-creators-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2022 - [#WeArePlay - Filipe | Aoca Game Lab | Brazil](https://www.youtube.com/watch?v=jUU62x5Czcw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [What can make or break someone’s user experience?](https://www.youtube.com/watch?v=XFgRy3kNXsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
