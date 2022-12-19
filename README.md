@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 19 2022 - [Stylus Low Latency](https://medium.com/androiddevelopers/stylus-low-latency-d4a140a9c982?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 16 2022 - [Android HDR - Migrating from TextureView to SurfaceView (Part #1) — How to Migrate](https://medium.com/androiddevelopers/android-hdr-migrating-from-textureview-to-surfaceview-part-1-how-to-migrate-6bfd7f4b970e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 16 2022 - [Android developers: a big thank you for a great ‘22!](https://www.youtube.com/watch?v=uRfMcO7pwfk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 15 2022 - [Ease the development of media apps for Wear OS with the media toolkit](https://medium.com/androiddevelopers/ease-the-development-of-media-apps-for-wear-os-with-the-media-toolkit-1b7ea06e07e5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -50,7 +51,6 @@
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2022 - [AGSL: Made in the Shade(r)](https://medium.com/androiddevelopers/agsl-made-in-the-shade-r-7d06d14fe02a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 18 2022 - [Tips for a great Health Connect integration](https://www.youtube.com/watch?v=yGAlBTTX9R4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 18 2022 - [Faster Jetpack Compose <-> View interop with App Startup and baseline profile](https://medium.com/androiddevelopers/faster-jetpack-compose-view-interop-with-app-startup-and-baseline-profile-8a615e061d14?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 17 2022 - [Cloud Firestore updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=ffoa3AOYQGw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2022 - [#WeArePlay - Discover what inspired 4 game creators around the world](http://android-developers.googleblog.com/2022/11/weareplay-discover-what-inspired-4-game-creators-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2022 - [#WeArePlay - Filipe | Aoca Game Lab | Brazil](https://www.youtube.com/watch?v=jUU62x5Czcw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
