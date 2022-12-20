@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 20 2022 - [How to use async/await to call Firebase in Swift #Shorts](https://www.youtube.com/watch?v=dqXPwsof64o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [Manage your Compose dependency easily with Compose BOM #Shorts](https://www.youtube.com/watch?v=whXGU0KEGiE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 20 2022 - [Firebase Release Notes Dec 2022: Vue ＆Nuxt, Firestore index limits, and build your own Extensions](https://www.youtube.com/watch?v=mRaPNoOBfGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2022 - [Stylus Low Latency](https://medium.com/androiddevelopers/stylus-low-latency-d4a140a9c982?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -57,7 +58,6 @@
 - Nov 17 2022 - [#WeArePlay - Discover what inspired 4 game creators around the world](http://android-developers.googleblog.com/2022/11/weareplay-discover-what-inspired-4-game-creators-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2022 - [#WeArePlay - Filipe | Aoca Game Lab | Brazil](https://www.youtube.com/watch?v=jUU62x5Czcw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [What can make or break someone’s user experience?](https://www.youtube.com/watch?v=XFgRy3kNXsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 17 2022 - [Firebase Summit intro #Shorts](https://www.youtube.com/watch?v=W4cGf1ppnLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2022 - [Now in Android: 73 - Android Dev Summit: Platform, Now in Android on Google Play, and more!](https://www.youtube.com/watch?v=kMmkG5MUREY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2022 - [Helping Families Find High-Quality Apps for Kids](http://android-developers.googleblog.com/2022/11/helping-kids-and-families-find-high-quality-apps-for-kids.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2022 - [Preparing for the Android Privacy Sandbox Beta](http://android-developers.googleblog.com/2022/11/preparing-for-android-privacy-sandbox-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
