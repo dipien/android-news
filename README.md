@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 21 2022 - [Introduction to the Attribution Reporting API](https://www.youtube.com/watch?v=7DfLO5ez5bo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 20 2022 - [How to use async/await to call Firebase in Swift #Shorts](https://www.youtube.com/watch?v=dqXPwsof64o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [Manage your Compose dependency easily with Compose BOM #Shorts](https://www.youtube.com/watch?v=whXGU0KEGiE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -55,7 +56,6 @@
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2022 - [AGSL: Made in the Shade(r)](https://medium.com/androiddevelopers/agsl-made-in-the-shade-r-7d06d14fe02a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 18 2022 - [Tips for a great Health Connect integration](https://www.youtube.com/watch?v=yGAlBTTX9R4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 17 2022 - [Cloud Firestore updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=ffoa3AOYQGw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2022 - [#WeArePlay - Discover what inspired 4 game creators around the world](http://android-developers.googleblog.com/2022/11/weareplay-discover-what-inspired-4-game-creators-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 17 2022 - [#WeArePlay - Filipe | Aoca Game Lab | Brazil](https://www.youtube.com/watch?v=jUU62x5Czcw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [What can make or break someone’s user experience?](https://www.youtube.com/watch?v=XFgRy3kNXsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
