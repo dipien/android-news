@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 22 2022 - [4 ways to debug your composable using Layout Inspector #Shorts](https://www.youtube.com/watch?v=chM_yKfYSDw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Introduction to FLEDGE](https://www.youtube.com/watch?v=NoNxJidJSnk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Now in Android #74](https://medium.com/androiddevelopers/now-in-android-74-886a95404e8b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -54,7 +55,6 @@
 - Nov 22 2022 - [Google Play games for PC - Android Game Dev Show](https://www.youtube.com/watch?v=UIGpF36EnZQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 22 2022 - [Making Jellyfish move in Compose: Animating ImageVectors and applying AGSL RenderEffects](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 21 2022 - [Migrate your apps to Android 13](https://www.youtube.com/watch?v=wBx3-ZObxY8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Introducing Camera Viewfinder](http://android-developers.googleblog.com/2022/11/introducing-camera-viewfinder.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
