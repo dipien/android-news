@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 22 2022 - [Now in Android #74](https://medium.com/androiddevelopers/now-in-android-74-886a95404e8b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 21 2022 - [Bring in your Views in Compose with AndroidView #Shorts](https://www.youtube.com/watch?v=pHezKPdjG1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2022 - [Engage with push notifications - App growth](https://www.youtube.com/watch?v=rtX3DujJPZk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -56,7 +57,6 @@
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Introducing Camera Viewfinder](http://android-developers.googleblog.com/2022/11/introducing-camera-viewfinder.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 21 2022 - [AGSL: Made in the Shade(r)](https://medium.com/androiddevelopers/agsl-made-in-the-shade-r-7d06d14fe02a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 18 2022 - [Tips for a great Health Connect integration](https://www.youtube.com/watch?v=yGAlBTTX9R4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 17 2022 - [#WeArePlay - Discover what inspired 4 game creators around the world](http://android-developers.googleblog.com/2022/11/weareplay-discover-what-inspired-4-game-creators-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2022 - [Helping Families Find High-Quality Apps for Kids](http://android-developers.googleblog.com/2022/11/helping-kids-and-families-find-high-quality-apps-for-kids.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
