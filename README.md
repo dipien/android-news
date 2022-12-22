@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 22 2022 - [Now in Android: 74 - Android 13 for TV, Compose for Wear OS 1.1, Privacy Sandbox Beta, and more!](https://www.youtube.com/watch?v=o3UAj4qaoCY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [4 ways to debug your composable using Layout Inspector #Shorts](https://www.youtube.com/watch?v=chM_yKfYSDw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -53,7 +54,6 @@
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 28 2022 - [Google Play coffee break with Creatrip](https://www.youtube.com/watch?v=0j4eCGLlAj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 23 2022 - [RenderNode for Bigger, Better Blurs](https://medium.com/androiddevelopers/rendernode-for-bigger-better-blurs-ced9f108c7e2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 22 2022 - [Google Play games for PC - Android Game Dev Show](https://www.youtube.com/watch?v=UIGpF36EnZQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 22 2022 - [Making Jellyfish move in Compose: Animating ImageVectors and applying AGSL RenderEffects](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
