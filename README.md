@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 28 2022 - [2022 Android recap #Shorts](https://www.youtube.com/watch?v=TudMKsOH-9Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 23 2022 - [Animating your Android apps has never been easier than this! #Shorts](https://www.youtube.com/watch?v=V2XWgIgPMuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Now in Android: 74 - Android 13 for TV, Compose for Wear OS 1.1, Privacy Sandbox Beta, and more!](https://www.youtube.com/watch?v=o3UAj4qaoCY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -54,7 +55,6 @@
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
 - Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 30 2022 - [Show & Tell: La Haus - Firebase Stories](https://www.youtube.com/watch?v=SlLiCnQTDi8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 29 2022 - [Improve user onboarding for Google Play](https://www.youtube.com/watch?v=fK5OLEP0DdE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 23 2022 - [RenderNode for Bigger, Better Blurs](https://medium.com/androiddevelopers/rendernode-for-bigger-better-blurs-ced9f108c7e2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
