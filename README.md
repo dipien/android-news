@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 06 2023 - [CameraX concepts](https://www.youtube.com/watch?v=I4rDx90Nlus) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 06 2023 - [Adding a domain layer](https://medium.com/androiddevelopers/adding-a-domain-layer-bc5a708a96da?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 29 2022 - [Optimize paywall conversion - App growth](https://www.youtube.com/watch?v=4OrzjJ4dTMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -47,7 +48,6 @@
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2022 - [Show & Tell: Rowy - Firebase Stories](https://www.youtube.com/watch?v=xXZzobTPojs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 06 2022 - [Build your first Android app #Shorts](https://www.youtube.com/watch?v=uCMDPvMpYUY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2022 - [We need to talk about email and password auth - Better Safe than Sorry](https://www.youtube.com/watch?v=9_qInRTrYs0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
