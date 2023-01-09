@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 06 2023 - [CameraX concepts](https://www.youtube.com/watch?v=I4rDx90Nlus) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 06 2023 - [Adding a domain layer](https://medium.com/androiddevelopers/adding-a-domain-layer-bc5a708a96da?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -79,7 +80,6 @@
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 07 2022 - [Coming up next for Android Dev Summit ‘22: The Form Factors track, on November 9!](http://android-developers.googleblog.com/2022/11/android-dev-summit-22-the-form-factors-track-november-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 03 2022 - [Accurately Measure Android App Performance with Profileable Builds](http://android-developers.googleblog.com/2022/10/accurately-measure-android-app-performance-with-profileable-builds.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
