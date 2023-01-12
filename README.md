@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 06 2023 - [CameraX concepts](https://www.youtube.com/watch?v=I4rDx90Nlus) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -55,7 +56,6 @@
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 02 2022 - [Android 13 for TV is now available](http://android-developers.googleblog.com/2022/12/android-13-for-android-tv-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 01 2022 - [Feature flagging with Remote Config and Google Analytics](https://www.youtube.com/watch?v=23T9SGLcDsM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
 - Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
