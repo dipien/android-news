@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 12 2023 - [What's new in Android Studio - Electric Eel](https://www.youtube.com/watch?v=bVt14IBv4NA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -47,7 +48,6 @@
 - Dec 08 2022 - [New Extensions and new Extension Marketplace #Shorts](https://www.youtube.com/watch?v=DRn5kGQV3Bo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2022 - [Embrace hybrid monetization - App growth](https://www.youtube.com/watch?v=BgQLwjWTpi8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [Per-App Language Preferences - Part 2](http://android-developers.googleblog.com/2022/12/per-app-language-preferences-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 08 2022 - [Make the switch to Jetpack Compose #Shorts](https://www.youtube.com/watch?v=PyRidnFmKuE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [What are Firebase Release Notes?](https://www.youtube.com/watch?v=jn18xDdRCHM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
