@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Jan 12 2023 - [What's new in Android Studio - Electric Eel](https://www.youtube.com/watch?v=bVt14IBv4NA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jan 12 2023 - [Android Studio Electric Eel](http://android-developers.googleblog.com/2023/01/android-studio-electric-eel.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -78,7 +79,6 @@
 - Nov 09 2022 - [Power your Wear OS fitness app with the latest version of Health Services](http://android-developers.googleblog.com/2022/11/power-your-wear-os-fitness-app-with-health-services-latest-version.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
-- Nov 07 2022 - [Coming up next for Android Dev Summit ‘22: The Form Factors track, on November 9!](http://android-developers.googleblog.com/2022/11/android-dev-summit-22-the-form-factors-track-november-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
