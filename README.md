@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jan 17 2023 - [Is your app providing a backward compatible edge-to-edge experience?](https://medium.com/androiddevelopers/is-your-app-providing-a-backward-compatible-edge-to-edge-experience-2479267073a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 12 2023 - [What's new in Android Studio - Electric Eel](https://www.youtube.com/watch?v=bVt14IBv4NA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2023 - [Android Studio Electric Eel](http://android-developers.googleblog.com/2023/01/android-studio-electric-eel.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -61,7 +63,6 @@
 - Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 23 2022 - [RenderNode for Bigger, Better Blurs](https://medium.com/androiddevelopers/rendernode-for-bigger-better-blurs-ced9f108c7e2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Introducing Camera Viewfinder](http://android-developers.googleblog.com/2022/11/introducing-camera-viewfinder.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Jul 25 2022 - [Episode 187: System UI: A Retrospective](http://adbackstage.libsyn.com/episode-187-system-ui-a-retrospective) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 20 2022 - [Firebase with Unity (even in WebGL Build!)](https://medium.com/firebase-developers/firebase-with-unity-even-in-webgl-build-8891e6f9b33c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 07 2022 - [The Avatar Project: Derek Brahney](https://material.io/blog/derek-brahney-interview) - [Material Design Blog](https://material.io/blog)
-- Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)
-- Jul 01 2022 - [Data and Insights Into Mobile Gamers in Western Europe](https://medium.com/googleplaydev/data-and-insights-into-mobile-gamers-in-western-europe-e9e7099dc8b6?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
+- Jul 07 2022 - [Material Design Components for Android 1.6.1](https://material.io/blog/android-stable-release-1-6-1) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
