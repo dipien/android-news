@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 18 2023 - [Now in Android #75](https://medium.com/androiddevelopers/now-in-android-75-e4bbe977d33f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jan 18 2023 - [Now in Android: 75 - Android Studio Electric Eel, Architecture, Kotlin Multiplatform, and more!](https://www.youtube.com/watch?v=o6OQh1_PFsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 18 2023 - [Firestore COUNT(*): Everything you need to know - Firebase Fundamentals](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -51,7 +53,6 @@
 - Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 09 2022 - [Tips from Android Dev Summit 2022: How to scale made-for-mobile apps to ChromeOS](http://android-developers.googleblog.com/2022/12/tips-from-android-dev-summit-2022-how-to-scale-made-for-moble-apps-chromeos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2022 - [New Extensions and new Extension Marketplace #Shorts](https://www.youtube.com/watch?v=DRn5kGQV3Bo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 08 2022 - [Embrace hybrid monetization - App growth](https://www.youtube.com/watch?v=BgQLwjWTpi8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2022 - [Per-App Language Preferences - Part 2](http://android-developers.googleblog.com/2022/12/per-app-language-preferences-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2022 - [What are Firebase Release Notes?](https://www.youtube.com/watch?v=jn18xDdRCHM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -62,7 +63,6 @@
 - Dec 02 2022 - [Android 13 for TV is now available](http://android-developers.googleblog.com/2022/12/android-13-for-android-tv-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
 - Nov 30 2022 - [Blurring the Lines](https://medium.com/androiddevelopers/blurring-the-lines-4fd33821b83c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 29 2022 - [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
