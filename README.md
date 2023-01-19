@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [Now in Android #75](https://medium.com/androiddevelopers/now-in-android-75-e4bbe977d33f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 18 2023 - [Now in Android: 75 - Android Studio Electric Eel, Architecture, Kotlin Multiplatform, and more!](https://www.youtube.com/watch?v=o6OQh1_PFsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 18 2023 - [Firestore COUNT(*): Everything you need to know - Firebase Fundamentals](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -57,7 +58,6 @@
 - Dec 08 2022 - [What are Firebase Release Notes?](https://www.youtube.com/watch?v=jn18xDdRCHM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 07 2022 - [Show & Tell: Rowy - Firebase Stories](https://www.youtube.com/watch?v=xXZzobTPojs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 02 2022 - [Android 13 for TV is now available](http://android-developers.googleblog.com/2022/12/android-13-for-android-tv-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
