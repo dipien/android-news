@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 24 2023 - [Firebase Release Notes Jan '23: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 20 2023 - [Android Developer Story: Empowering the world to design with Canva on Google Play](https://www.youtube.com/watch?v=L4uiEDb1nrg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [Now in Android #75](https://medium.com/androiddevelopers/now-in-android-75-e4bbe977d33f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -55,7 +56,6 @@
 - Dec 09 2022 - [Tips from Android Dev Summit 2022: How to scale made-for-mobile apps to ChromeOS](http://android-developers.googleblog.com/2022/12/tips-from-android-dev-summit-2022-how-to-scale-made-for-moble-apps-chromeos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2022 - [New Extensions and new Extension Marketplace #Shorts](https://www.youtube.com/watch?v=DRn5kGQV3Bo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2022 - [Per-App Language Preferences - Part 2](http://android-developers.googleblog.com/2022/12/per-app-language-preferences-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 08 2022 - [What are Firebase Release Notes?](https://www.youtube.com/watch?v=jn18xDdRCHM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
