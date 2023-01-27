@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 27 2023 - [See Crashlytics issue reports directly in Android Studio with App Quality Insights](https://medium.com/androiddevelopers/see-crashlytics-issue-reports-directly-in-android-studio-with-app-quality-insights-db0ff27454f0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 26 2023 - [Density, Devices and Flaky Tests](https://medium.com/androiddevelopers/density-devices-and-flaky-tests-ce41ac1e6299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Firebase Release Notes Jan '23: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -61,7 +62,6 @@
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Dec 05 2022 - [Introducing the Architecture Templates](https://medium.com/androiddevelopers/introducing-the-architecture-templates-3151323e4e34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 02 2022 - [Android 13 for TV is now available](http://android-developers.googleblog.com/2022/12/android-13-for-android-tv-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
