@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 31 2023 - [Fundamentals of Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=xc8nAcVvpxY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 30 2023 - [Introduction to Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=LjeHsvPIdpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 27 2023 - [See Crashlytics issue reports directly in Android Studio with App Quality Insights](https://medium.com/androiddevelopers/see-crashlytics-issue-reports-directly-in-android-studio-with-app-quality-insights-db0ff27454f0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -57,7 +58,6 @@
 - Dec 12 2022 - [How to build a URL shortener for free with Firebase](https://medium.com/firebase-developers/firebase-url-shortener-7754377478e0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 09 2022 - [Tips from Android Dev Summit 2022: How to scale made-for-mobile apps to ChromeOS](http://android-developers.googleblog.com/2022/12/tips-from-android-dev-summit-2022-how-to-scale-made-for-moble-apps-chromeos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 08 2022 - [New Extensions and new Extension Marketplace #Shorts](https://www.youtube.com/watch?v=DRn5kGQV3Bo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2022 - [Per-App Language Preferences - Part 2](http://android-developers.googleblog.com/2022/12/per-app-language-preferences-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
