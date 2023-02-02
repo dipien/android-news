@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 02 2023 - [Onboarding experience with Firebase Anonymous Auth - iOS/Swift #Shorts](https://www.youtube.com/watch?v=XUTJ_YAqIyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 02 2023 - [Fundamentals of Compose layouts and modifiers](https://medium.com/androiddevelopers/fundamentals-of-compose-layouts-and-modifiers-64d794664b66?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
@@ -54,7 +55,6 @@
 - Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
 - Dec 14 2022 - [How to use Kotlin coroutines with Firebase APIs #Shorts](https://www.youtube.com/watch?v=9GvJ0OAOmo4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 13 2022 - [Firebase Crashlytics updates from Firebase Summit #Shorts](https://www.youtube.com/watch?v=MKeNGHCraKI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [Notes from Google Play: growing for the next decade](http://android-developers.googleblog.com/2022/12/notes-from-google-play-growing-for-next-decade.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
