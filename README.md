@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 02 2023 - [Fundamentals of Compose layouts and modifiers](https://medium.com/androiddevelopers/fundamentals-of-compose-layouts-and-modifiers-64d794664b66?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
 - Feb 01 2023 - [Now in Android #76](https://medium.com/androiddevelopers/now-in-android-76-d2f182c4003c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -48,7 +49,6 @@
 - Dec 20 2022 - [How to use async/await to call Firebase in Swift #Shorts](https://www.youtube.com/watch?v=dqXPwsof64o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [Firebase Release Notes Dec 2022: Vue ＆Nuxt, Firestore index limits, and build your own Extensions](https://www.youtube.com/watch?v=mRaPNoOBfGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2022 - [Stylus Low Latency](https://medium.com/androiddevelopers/stylus-low-latency-d4a140a9c982?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Dec 16 2022 - [Android HDR - Migrating from TextureView to SurfaceView (Part #1) — How to Migrate](https://medium.com/androiddevelopers/android-hdr-migrating-from-textureview-to-surfaceview-part-1-how-to-migrate-6bfd7f4b970e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 16 2022 - [Android developers: a big thank you for a great 2022!](http://android-developers.googleblog.com/2022/12/android-2022-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [#WeArePlay - The app co-founders helping people with speech disorders](http://android-developers.googleblog.com/2022/12/weareplay-app-co-founders-helping-people-with-speech-disorders.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
