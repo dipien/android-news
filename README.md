@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 06 2023 - [From data to UI: Compose phases - MAD Skills](https://www.youtube.com/watch?v=0yK7KoruhSM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 02 2023 - [Onboarding experience with Firebase Anonymous Auth - iOS/Swift #Shorts](https://www.youtube.com/watch?v=XUTJ_YAqIyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 02 2023 - [Fundamentals of Compose layouts and modifiers](https://medium.com/androiddevelopers/fundamentals-of-compose-layouts-and-modifiers-64d794664b66?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
@@ -45,7 +46,6 @@
 - Dec 22 2022 - [Now in Android #74](https://medium.com/androiddevelopers/now-in-android-74-886a95404e8b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 21 2022 - [Bring in your Views in Compose with AndroidView #Shorts](https://www.youtube.com/watch?v=pHezKPdjG1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 21 2022 - [Engage with push notifications - App growth](https://www.youtube.com/watch?v=rtX3DujJPZk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [How to use async/await to call Firebase in Swift #Shorts](https://www.youtube.com/watch?v=dqXPwsof64o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [Firebase Release Notes Dec 2022: Vue ＆Nuxt, Firestore index limits, and build your own Extensions](https://www.youtube.com/watch?v=mRaPNoOBfGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
