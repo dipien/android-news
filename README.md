@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 07 2023 - [Permanent, temporary, and situational disabilities - Accessibility on Google Play](https://www.youtube.com/watch?v=QcJhQnRyysM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2023 - [#WeArePlay - Meet Valentin from Austria. More stories from Spain, Argentina and Azerbaijan](http://android-developers.googleblog.com/2023/02/weareplay-meet-valentin-from-austria-more-stores-from-spain-argentina-azerbaijan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [#WeArePlay - Valentin | Gronda | Austria](https://www.youtube.com/watch?v=cQ-8zxORYHo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2023 - [Audit logs for Realtime Database #Shorts](https://www.youtube.com/watch?v=A1hOJsZ1ybE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -47,7 +48,6 @@
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [4 ways to debug your composable using Layout Inspector #Shorts](https://www.youtube.com/watch?v=chM_yKfYSDw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 22 2022 - [Introduction to FLEDGE](https://www.youtube.com/watch?v=NoNxJidJSnk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Now in Android #74](https://medium.com/androiddevelopers/now-in-android-74-886a95404e8b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
