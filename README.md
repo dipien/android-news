@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 07 2023 - [Audit logs for Realtime Database #Shorts](https://www.youtube.com/watch?v=A1hOJsZ1ybE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 06 2023 - [Bringing together sign-in solutions and passkeys with Android's new Credential Manager](http://android-developers.googleblog.com/2023/02/bringing-together-sign-in-solutions-and-passkeys-android-new-credential-manager.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 06 2023 - [From data to UI: Compose phases - MAD Skills](https://www.youtube.com/watch?v=0yK7KoruhSM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 02 2023 - [Onboarding experience with Firebase Anonymous Auth - iOS/Swift #Shorts](https://www.youtube.com/watch?v=XUTJ_YAqIyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -55,7 +56,6 @@
 - Dec 15 2022 - [#WeArePlay - The app co-founders helping people with speech disorders](http://android-developers.googleblog.com/2022/12/weareplay-app-co-founders-helping-people-with-speech-disorders.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
-- Dec 14 2022 - [How to use Kotlin coroutines with Firebase APIs #Shorts](https://www.youtube.com/watch?v=9GvJ0OAOmo4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [Notes from Google Play: growing for the next decade](http://android-developers.googleblog.com/2022/12/notes-from-google-play-growing-for-next-decade.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
