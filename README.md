@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [Permanent, temporary, and situational disabilities - Accessibility on Google Play](https://www.youtube.com/watch?v=QcJhQnRyysM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2023 - [#WeArePlay - Meet Valentin from Austria. More stories from Spain, Argentina and Azerbaijan](http://android-developers.googleblog.com/2023/02/weareplay-meet-valentin-from-austria-more-stores-from-spain-argentina-azerbaijan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [#WeArePlay - Valentin | Gronda | Austria](https://www.youtube.com/watch?v=cQ-8zxORYHo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -81,7 +82,6 @@
 - Nov 14 2022 - [Platform Track at Android Developer Summit '22](http://android-developers.googleblog.com/2022/11/platform-track-at-android-developer-summit-22.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2022 - [Leading Health and Fitness Apps Roll Out Health Connect Integrations](http://android-developers.googleblog.com/2022/11/leading-health-and-fitness-apps-roll-out-health-connect-integrations.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 11 2022 - [Coming up next for Android Dev Summit ‘22: The Platform track, on November 14!](http://android-developers.googleblog.com/2022/11/coming-up-next-for-android-dev-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
