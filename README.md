@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 08 2023 - [Compose phases](https://medium.com/androiddevelopers/compose-phases-7fe6630ea037?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [Permanent, temporary, and situational disabilities - Accessibility on Google Play](https://www.youtube.com/watch?v=QcJhQnRyysM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 07 2023 - [#WeArePlay - Meet Valentin from Austria. More stories from Spain, Argentina and Azerbaijan](http://android-developers.googleblog.com/2023/02/weareplay-meet-valentin-from-austria-more-stores-from-spain-argentina-azerbaijan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -54,7 +55,6 @@
 - Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [How to use async/await to call Firebase in Swift #Shorts](https://www.youtube.com/watch?v=dqXPwsof64o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [Firebase Release Notes Dec 2022: Vue ＆Nuxt, Firestore index limits, and build your own Extensions](https://www.youtube.com/watch?v=mRaPNoOBfGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 19 2022 - [Stylus Low Latency](https://medium.com/androiddevelopers/stylus-low-latency-d4a140a9c982?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 16 2022 - [Android developers: a big thank you for a great 2022!](http://android-developers.googleblog.com/2022/12/android-2022-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [#WeArePlay - The app co-founders helping people with speech disorders](http://android-developers.googleblog.com/2022/12/weareplay-app-co-founders-helping-people-with-speech-disorders.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
