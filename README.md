@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 09 2023 - [Custom store listings in Google Play](https://www.youtube.com/watch?v=cdMwZF5b1kg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 08 2023 - [Compose phases](https://medium.com/androiddevelopers/compose-phases-7fe6630ea037?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 08 2023 - [The first developer preview of Android 14](http://android-developers.googleblog.com/2023/02/first-developer-preview-android14.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -49,7 +51,6 @@
 - Dec 22 2022 - [Now in Android: 74 - Android 13 for TV, Compose for Wear OS 1.1, Privacy Sandbox Beta, and more!](https://www.youtube.com/watch?v=o3UAj4qaoCY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 22 2022 - [4 ways to debug your composable using Layout Inspector #Shorts](https://www.youtube.com/watch?v=chM_yKfYSDw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Now in Android #74](https://medium.com/androiddevelopers/now-in-android-74-886a95404e8b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -58,7 +59,6 @@
 - Dec 20 2022 - [Firebase Release Notes Dec 2022: Vue ＆Nuxt, Firestore index limits, and build your own Extensions](https://www.youtube.com/watch?v=mRaPNoOBfGA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 16 2022 - [Android developers: a big thank you for a great 2022!](http://android-developers.googleblog.com/2022/12/android-2022-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [#WeArePlay - The app co-founders helping people with speech disorders](http://android-developers.googleblog.com/2022/12/weareplay-app-co-founders-helping-people-with-speech-disorders.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 15 2022 - [Remote Config update from Firebase Summit #Shorts](https://www.youtube.com/watch?v=isgwFoED-Dw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [Notes from Google Play: growing for the next decade](http://android-developers.googleblog.com/2022/12/notes-from-google-play-growing-for-next-decade.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
