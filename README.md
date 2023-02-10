@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 10 2023 - [Share Android App Links with the Sharesheet](https://medium.com/androiddevelopers/share-android-app-links-with-the-sharesheet-d04605df3f3a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 09 2023 - [Custom store listings in Google Play](https://www.youtube.com/watch?v=cdMwZF5b1kg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 08 2023 - [Compose phases](https://medium.com/androiddevelopers/compose-phases-7fe6630ea037?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -52,7 +53,6 @@
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 22 2022 - [Now in Android #74](https://medium.com/androiddevelopers/now-in-android-74-886a95404e8b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2022 - [How to use async/await to call Firebase in Swift #Shorts](https://www.youtube.com/watch?v=dqXPwsof64o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
