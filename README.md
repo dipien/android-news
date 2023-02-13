@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 13 2023 - [Migrating Sunflower to Jetpack Compose](https://medium.com/androiddevelopers/migrating-sunflower-to-jetpack-compose-f840fa3b9985?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Feb 13 2023 - [Constraints and modifier order - MAD Skills](https://www.youtube.com/watch?v=OeC5jMV342A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 10 2023 - [Share Android App Links with the Sharesheet](https://medium.com/androiddevelopers/share-android-app-links-with-the-sharesheet-d04605df3f3a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 09 2023 - [Custom store listings in Google Play](https://www.youtube.com/watch?v=cdMwZF5b1kg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -43,13 +45,11 @@
 - Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 06 2023 - [CameraX concepts](https://www.youtube.com/watch?v=I4rDx90Nlus) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 06 2023 - [Adding a domain layer](https://medium.com/androiddevelopers/adding-a-domain-layer-bc5a708a96da?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 29 2022 - [Optimize paywall conversion - App growth](https://www.youtube.com/watch?v=4OrzjJ4dTMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 28 2022 - [2022 Android recap #Shorts](https://www.youtube.com/watch?v=TudMKsOH-9Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 23 2022 - [Animating your Android apps has never been easier than this! #Shorts](https://www.youtube.com/watch?v=V2XWgIgPMuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 22 2022 - [Now in Android: 74 - Android 13 for TV, Compose for Wear OS 1.1, Privacy Sandbox Beta, and more!](https://www.youtube.com/watch?v=o3UAj4qaoCY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
