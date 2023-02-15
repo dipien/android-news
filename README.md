@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 15 2023 - [Now in Android #77](https://medium.com/androiddevelopers/now-in-android-77-638bbca98f79?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Feb 15 2023 - [Now in Android: 77 - Android 14 Developer Preview, MAD Skills Compose Layouts and Modifiers, & more!](https://www.youtube.com/watch?v=x24WNSuWSAU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 15 2023 - [Introduction to drawing in Compose](https://www.youtube.com/watch?v=1yiuxWK74vI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 15 2023 - [Constraints and modifier order](https://medium.com/androiddevelopers/constraints-and-modifier-order-a3912461ecd6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -39,7 +41,6 @@
 - Jan 24 2023 - [Firebase Release Notes Jan '23: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 20 2023 - [Android Developer Story: Empowering the world to design with Canva on Google Play](https://www.youtube.com/watch?v=L4uiEDb1nrg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 18 2023 - [Now in Android #75](https://medium.com/androiddevelopers/now-in-android-75-e4bbe977d33f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 18 2023 - [Now in Android: 75 - Android Studio Electric Eel, Architecture, Kotlin Multiplatform, and more!](https://www.youtube.com/watch?v=o6OQh1_PFsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 18 2023 - [Firestore COUNT(*): Everything you need to know - Firebase Fundamentals](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -53,7 +54,6 @@
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 29 2022 - [Optimize paywall conversion - App growth](https://www.youtube.com/watch?v=4OrzjJ4dTMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 28 2022 - [2022 Android recap #Shorts](https://www.youtube.com/watch?v=TudMKsOH-9Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
