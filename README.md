@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 15 2023 - [Introduction to drawing in Compose](https://www.youtube.com/watch?v=1yiuxWK74vI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 15 2023 - [Constraints and modifier order](https://medium.com/androiddevelopers/constraints-and-modifier-order-a3912461ecd6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 14 2023 - [Bringing the best of Chrome to Android developers and users](http://android-developers.googleblog.com/2023/02/bringing-best-of-chrome-to-android-developers-and-users.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 14 2023 - [Firestore index definitions show document name #Shorts](https://www.youtube.com/watch?v=AeRcm59F_i8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -41,7 +43,6 @@
 - Jan 18 2023 - [Firestore COUNT(*): Everything you need to know - Firebase Fundamentals](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jan 17 2023 - [Is your app providing a backward compatible edge-to-edge experience?](https://medium.com/androiddevelopers/is-your-app-providing-a-backward-compatible-edge-to-edge-experience-2479267073a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 12 2023 - [What's new in Android Studio - Electric Eel](https://www.youtube.com/watch?v=bVt14IBv4NA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 12 2023 - [Android Studio Electric Eel](http://android-developers.googleblog.com/2023/01/android-studio-electric-eel.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -52,7 +53,6 @@
 - Dec 29 2022 - [Optimize paywall conversion - App growth](https://www.youtube.com/watch?v=4OrzjJ4dTMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 28 2022 - [2022 Android recap #Shorts](https://www.youtube.com/watch?v=TudMKsOH-9Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 23 2022 - [Animating your Android apps has never been easier than this! #Shorts](https://www.youtube.com/watch?v=V2XWgIgPMuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
