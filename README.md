@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Now in Android #77](https://medium.com/androiddevelopers/now-in-android-77-638bbca98f79?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2023 - [Now in Android: 77 - Android 14 Developer Preview, MAD Skills Compose Layouts and Modifiers, & more!](https://www.youtube.com/watch?v=x24WNSuWSAU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
 - Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 19 2022 - [Firebase Firestore CRUD for Flutter](https://medium.com/firebase-developers/firebase-firestore-crud-realtime-database-b476ca5f857c?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Aug 23 2022 - [Email Automation made easy with Firebase Trigger Mail Extension and SendGrid](https://medium.com/firebase-developers/email-automation-made-easy-with-firebase-trigger-mail-extension-and-sendgrid-d91288b3c19d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
