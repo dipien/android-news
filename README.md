@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Feb 21 2023 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Advanced layout concepts - MAD Skills](https://www.youtube.com/watch?v=l6rAoph5UgI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 17 2023 - [Android Developer Story: Stay innovative and stylish with Google Play](https://www.youtube.com/watch?v=Ni6peHUQ0Es) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 17 2023 - [Feature Engineering in the Google Play Store](http://android-developers.googleblog.com/2023/02/feature-engineering-in-google-play-store.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -60,9 +62,7 @@
 - Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 22 2022 - [Create your Firebase project from Android Studio #Shorts](https://www.youtube.com/watch?v=FRey-VP9_Gw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 21 2022 - [Engage users with Firebase Cloud Messaging](https://www.youtube.com/watch?v=P51dI2y7QHA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 16 2022 - [Android developers: a big thank you for a great 2022!](http://android-developers.googleblog.com/2022/12/android-2022-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [#WeArePlay - The app co-founders helping people with speech disorders](http://android-developers.googleblog.com/2022/12/weareplay-app-co-founders-helping-people-with-speech-disorders.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
