@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 21 2023 - [Advanced layout concepts - MAD Skills](https://www.youtube.com/watch?v=l6rAoph5UgI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 17 2023 - [Android Developer Story: Stay innovative and stylish with Google Play](https://www.youtube.com/watch?v=Ni6peHUQ0Es) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 17 2023 - [Feature Engineering in the Google Play Store](http://android-developers.googleblog.com/2023/02/feature-engineering-in-google-play-store.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2023 - [API desugaring supporting Android 13 and java.nio](http://android-developers.googleblog.com/2023/02/api-desugaring-supporting-android-13-and-java-nio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -55,7 +56,6 @@
 - Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 06 2023 - [CameraX concepts](https://www.youtube.com/watch?v=I4rDx90Nlus) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Authentication and onboarding  - Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
