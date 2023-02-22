@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 22 2023 - [Advanced Layout concepts](https://medium.com/androiddevelopers/advanced-layout-concepts-eb08cf2a3c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -45,7 +46,6 @@
 - Jan 31 2023 - [Fundamentals of Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=xc8nAcVvpxY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 30 2023 - [Introduction to Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=LjeHsvPIdpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 27 2023 - [See Crashlytics issue reports directly in Android Studio with App Quality Insights](https://medium.com/androiddevelopers/see-crashlytics-issue-reports-directly-in-android-studio-with-app-quality-insights-db0ff27454f0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jan 26 2023 - [Density, Devices and Flaky Tests](https://medium.com/androiddevelopers/density-devices-and-flaky-tests-ce41ac1e6299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Firebase Release Notes Jan '23: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 20 2023 - [Android Developer Story: Empowering the world to design with Canva on Google Play](https://www.youtube.com/watch?v=L4uiEDb1nrg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
