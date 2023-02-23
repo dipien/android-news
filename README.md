@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 23 2023 - [Getting started with Google sign-in on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2023 - [Advanced Layout concepts](https://medium.com/androiddevelopers/advanced-layout-concepts-eb08cf2a3c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -60,7 +61,6 @@
 - Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 28 2022 - [Behind the scenes with Firebase!](https://www.youtube.com/watch?v=tTzpIfGbYe8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 16 2022 - [Android developers: a big thank you for a great 2022!](http://android-developers.googleblog.com/2022/12/android-2022-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
