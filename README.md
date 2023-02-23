@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 23 2023 - [Accessing Composables from UiAutomator](https://medium.com/androiddevelopers/accessing-composables-from-uiautomator-cf316515edc2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2023 - [Advanced Layout concepts](https://medium.com/androiddevelopers/advanced-layout-concepts-eb08cf2a3c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -46,13 +47,12 @@
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 31 2023 - [Fundamentals of Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=xc8nAcVvpxY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 30 2023 - [Introduction to Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=LjeHsvPIdpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 27 2023 - [See Crashlytics issue reports directly in Android Studio with App Quality Insights](https://medium.com/androiddevelopers/see-crashlytics-issue-reports-directly-in-android-studio-with-app-quality-insights-db0ff27454f0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Firebase Release Notes Jan '23: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 20 2023 - [Android Developer Story: Empowering the world to design with Canva on Google Play](https://www.youtube.com/watch?v=L4uiEDb1nrg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [Now in Android: 75 - Android Studio Electric Eel, Architecture, Kotlin Multiplatform, and more!](https://www.youtube.com/watch?v=o6OQh1_PFsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 18 2023 - [Firestore COUNT(*): Everything you need to know - Firebase Fundamentals](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 18 2023 - [Firestore COUNT(*): Everything you need to know](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 12 2023 - [What's new in Android Studio - Electric Eel](https://www.youtube.com/watch?v=bVt14IBv4NA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
