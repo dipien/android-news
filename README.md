@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 24 2023 - [How Stripe leveraged Google Play to build an SDK for Tap to Pay on Android](http://android-developers.googleblog.com/2023/02/how-stripe-leveraged-google-play-to-build-an-sdk-for-tap-to-pay-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 24 2023 - [Announcing TensorFlow Lite in Android](https://www.youtube.com/watch?v=idVcWJAK3MA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 23 2023 - [Accessing Composables from UiAutomator](https://medium.com/androiddevelopers/accessing-composables-from-uiautomator-cf316515edc2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -81,7 +82,6 @@
 - Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 22 2022 - [Per-App Language Preferences - Part 1](http://android-developers.googleblog.com/2022/11/per-app-language-preferences-part-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [App Bundles for Google TV and Android TV](http://android-developers.googleblog.com/2022/11/app-bundles-for-google-tv-and-android-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 21 2022 - [Introducing Camera Viewfinder](http://android-developers.googleblog.com/2022/11/introducing-camera-viewfinder.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
