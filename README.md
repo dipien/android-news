@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Feb 24 2023 - [How Stripe leveraged Google Play to build an SDK for Tap to Pay on Android](http://android-developers.googleblog.com/2023/02/how-stripe-leveraged-google-play-to-build-an-sdk-for-tap-to-pay-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 24 2023 - [Announcing TensorFlow Lite in Android](https://www.youtube.com/watch?v=idVcWJAK3MA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 24 2023 - [Announcing TensorFlow Lite with Google Play services](https://www.youtube.com/watch?v=idVcWJAK3MA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 23 2023 - [Accessing Composables from UiAutomator](https://medium.com/androiddevelopers/accessing-composables-from-uiautomator-cf316515edc2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2023 - [Advanced Layout concepts](https://medium.com/androiddevelopers/advanced-layout-concepts-eb08cf2a3c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
