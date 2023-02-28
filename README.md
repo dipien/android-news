@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 27 2023 - [Now's the time to learn Android development with Jetpack Compose!](http://android-developers.googleblog.com/2023/02/nows-time-to-learn-android-development-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 24 2023 - [How Stripe leveraged Google Play to build an SDK for Tap to Pay on Android](http://android-developers.googleblog.com/2023/02/how-stripe-leveraged-google-play-to-build-an-sdk-for-tap-to-pay-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 24 2023 - [Announcing TensorFlow Lite with Google Play services](https://www.youtube.com/watch?v=idVcWJAK3MA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -61,7 +62,6 @@
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 12 2023 - [Android Studio Electric Eel](http://android-developers.googleblog.com/2023/01/android-studio-electric-eel.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 12 2023 - [Map Firestore documents in one line of code #Shorts](https://www.youtube.com/watch?v=5slAtb-0T0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 11 2023 - [Billing in Firebase](https://www.youtube.com/watch?v=FiDUqzWAfh8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
