@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 01 2023 - [Leverage Multi-Window and Activity Embedding](https://medium.com/androiddevelopers/leverage-multi-window-and-activity-embedding-4951f44a8992?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 28 2023 - [Policy Updates: New Wear OS App Quality Requirements](http://android-developers.googleblog.com/2023/02/policy-updates-new-wear-os-app-quality-requirements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -48,7 +49,6 @@
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
 - Feb 01 2023 - [Now in Android #76](https://medium.com/androiddevelopers/now-in-android-76-d2f182c4003c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 01 2023 - [Now in Android: 76 - Webkit, Compose Compiler, Play Console update, and more!](https://www.youtube.com/watch?v=jTl7f0OCoAo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 31 2023 - [Android HDR - Migrating from TextureView to SurfaceView (Part #2) — Dealing with color washout](https://medium.com/androiddevelopers/android-hdr-migrating-from-textureview-to-surfaceview-part-2-dealing-with-color-washout-60d57d0ab129?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 31 2023 - [Fundamentals of Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=xc8nAcVvpxY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
