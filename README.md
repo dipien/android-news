@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2023 - [Tune in on March 9 for #TheAndroidShow: large screens, foldables, Jetpack Compose & more!](https://www.youtube.com/watch?v=y8OWpQoEa8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Store & retrieve data securely with Block Store](https://www.youtube.com/watch?v=WcU7r53xObg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -82,7 +83,6 @@
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 02 2022 - [Android 13 for TV is now available](http://android-developers.googleblog.com/2022/12/android-13-for-android-tv-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
-- Nov 28 2022 - [Google Play Coffee break with Creatrip - Setting up your business for global reach](http://android-developers.googleblog.com/2022/11/google-play-coffee-break-with-creatrip-setting-up-your-business-for-global-reach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
