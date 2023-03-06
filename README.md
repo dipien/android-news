@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 06 2023 - [Tune in on March 9 for #TheAndroidShow: large screens, foldables, Jetpack Compose & more!](https://www.youtube.com/watch?v=y8OWpQoEa8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Store & retrieve data securely with Block Store](https://www.youtube.com/watch?v=WcU7r53xObg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 01 2023 - [Leverage Multi-Window and Activity Embedding](https://medium.com/androiddevelopers/leverage-multi-window-and-activity-embedding-4951f44a8992?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -55,7 +56,6 @@
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 31 2023 - [Fundamentals of Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=xc8nAcVvpxY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 30 2023 - [Introduction to Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=LjeHsvPIdpY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Jan 2023: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
