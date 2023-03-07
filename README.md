@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 06 2023 - [Tune in on March 9 for #TheAndroidShow: large screens, foldables, Jetpack Compose & more!](https://www.youtube.com/watch?v=y8OWpQoEa8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 06 2023 - [Tune in on March 9 for #TheAndroidShow: Large screens, foldables, Jetpack Compose & more!](https://www.youtube.com/watch?v=y8OWpQoEa8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Store & retrieve data securely with Block Store](https://www.youtube.com/watch?v=WcU7r53xObg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 01 2023 - [Leverage Multi-Window and Activity Embedding](https://medium.com/androiddevelopers/leverage-multi-window-and-activity-embedding-4951f44a8992?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
