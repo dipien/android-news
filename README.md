@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 07 2023 - [Tune in on Thursday to watch #TheAndroidShow](http://android-developers.googleblog.com/2023/03/tune-in-on-thursday-to-watch-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2023 - [Tune in on March 9 for #TheAndroidShow: Large screens, foldables, Jetpack Compose & more!](https://www.youtube.com/watch?v=y8OWpQoEa8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -82,7 +83,6 @@
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 07 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](http://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Dec 02 2022 - [Android 13 for TV is now available](http://android-developers.googleblog.com/2022/12/android-13-for-android-tv-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
