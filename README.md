@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2023 - [Tune in on March 9 for #TheAndroidShow: Large screens, foldables, Jetpack Compose & more!](https://www.youtube.com/watch?v=y8OWpQoEa8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 02 2023 - [Store & retrieve data securely with Block Store](https://www.youtube.com/watch?v=WcU7r53xObg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)
 - Sep 01 2022 - [Episode 188: Android 13](http://adbackstage.libsyn.com/episode-188-android-13) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)
-- Aug 25 2022 - [Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Aug 25 2022 - [Jamie Chung’s Artful, Abstract Photographs for Material Design](https://material.io/blog/jamie-chung-photography-interview) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
