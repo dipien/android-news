@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Mar 08 2023 - [#WeArePlay - Ania | Rootd | Canada](https://www.youtube.com/watch?v=HT9DpbtnAYw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 08 2023 - [Android 14 Developer Preview 2](http://android-developers.googleblog.com/2023/03/android-14-developer-preview-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [Let’s go. It’s Google I/O 2023](http://android-developers.googleblog.com/2023/03/lets-go-its-google-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [Tune in on Thursday to watch #TheAndroidShow](http://android-developers.googleblog.com/2023/03/tune-in-on-thursday-to-watch-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -81,7 +82,6 @@
 - Dec 12 2022 - [How to build a URL shortener for free with Firebase](https://medium.com/firebase-developers/firebase-url-shortener-7754377478e0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 09 2022 - [Tips from Android Dev Summit 2022: How to scale made-for-mobile apps to ChromeOS](http://android-developers.googleblog.com/2022/12/tips-from-android-dev-summit-2022-how-to-scale-made-for-moble-apps-chromeos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 08 2022 - [Per-App Language Preferences - Part 2](http://android-developers.googleblog.com/2022/12/per-app-language-preferences-part-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
