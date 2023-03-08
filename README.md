@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 08 2023 - [#WeArePlay - Ania | Rootd | Canada](https://www.youtube.com/watch?v=HT9DpbtnAYw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2023 - [Let’s go. It’s Google I/O 2023](http://android-developers.googleblog.com/2023/03/lets-go-its-google-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [Tune in on Thursday to watch #TheAndroidShow](http://android-developers.googleblog.com/2023/03/tune-in-on-thursday-to-watch-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -11,7 +12,7 @@
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 01 2023 - [Leverage Multi-Window and Activity Embedding](https://medium.com/androiddevelopers/leverage-multi-window-and-activity-embedding-4951f44a8992?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 28 2023 - [Policy Updates: New Wear OS App Quality Requirements](http://android-developers.googleblog.com/2023/02/policy-updates-new-wear-os-app-quality-requirements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 28 2023 - [#TheAndroidShow: Large Screens, Jetpack Compose and more!](https://www.youtube.com/watch?v=nc8r32Tpa7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 28 2023 - [#TheAndroidShow: Large screens, Jetpack Compose and more!](https://www.youtube.com/watch?v=nc8r32Tpa7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 27 2023 - [Now's the time to learn Android development with Jetpack Compose!](http://android-developers.googleblog.com/2023/02/nows-time-to-learn-android-development-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -60,7 +61,6 @@
 - Feb 01 2023 - [Now in Android: 76 - Webkit, Compose Compiler, Play Console update, and more!](https://www.youtube.com/watch?v=jTl7f0OCoAo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 31 2023 - [Fundamentals of Compose Layouts and Modifiers - MAD Skills](https://www.youtube.com/watch?v=xc8nAcVvpxY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Jan 2023: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
