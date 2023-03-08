@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 08 2023 - [Now in Android #78](https://medium.com/androiddevelopers/now-in-android-78-7f0ec48779f2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 08 2023 - [Now in Android: 78 - Android 14 Developer Preview 2, Wear OS update, Learning Compose, and more!](https://www.youtube.com/watch?v=RGNG18eUVFs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 08 2023 - [#WeArePlay - Meet Ania from Canada. More stories from USA, Australia and Montenegro](http://android-developers.googleblog.com/2023/03/weareplay-meet-ania-from-canada-more-stories-from-usa-australia-and-montenegro.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 08 2023 - [#WeArePlay - Ania | Rootd | Canada](https://www.youtube.com/watch?v=HT9DpbtnAYw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 08 2023 - [Android 14 Developer Preview 2](http://android-developers.googleblog.com/2023/03/android-14-developer-preview-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [Let’s go. It’s Google I/O 2023](http://android-developers.googleblog.com/2023/03/lets-go-its-google-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -58,8 +61,6 @@
 - Feb 02 2023 - [Fundamentals of Compose layouts and modifiers](https://medium.com/androiddevelopers/fundamentals-of-compose-layouts-and-modifiers-64d794664b66?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
-- Feb 01 2023 - [Now in Android #76](https://medium.com/androiddevelopers/now-in-android-76-d2f182c4003c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 01 2023 - [Now in Android: 76 - Webkit, Compose Compiler, Play Console update, and more!](https://www.youtube.com/watch?v=jTl7f0OCoAo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -81,7 +82,6 @@
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [How to build a URL shortener for free with Firebase](https://medium.com/firebase-developers/firebase-url-shortener-7754377478e0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Dec 09 2022 - [Tips from Android Dev Summit 2022: How to scale made-for-mobile apps to ChromeOS](http://android-developers.googleblog.com/2022/12/tips-from-android-dev-summit-2022-how-to-scale-made-for-moble-apps-chromeos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
