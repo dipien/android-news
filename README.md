@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 08 2023 - [Firebase Test Lab #Shorts](https://www.youtube.com/watch?v=rwEm-xf0H-4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 08 2023 - [Now in Android #78](https://medium.com/androiddevelopers/now-in-android-78-7f0ec48779f2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 08 2023 - [Now in Android: 78 - Android 14 Developer Preview 2, Wear OS update, Learning Compose, and more!](https://www.youtube.com/watch?v=RGNG18eUVFs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 08 2023 - [#WeArePlay - Meet Ania from Canada. More stories from USA, Australia and Montenegro](http://android-developers.googleblog.com/2023/03/weareplay-meet-ania-from-canada-more-stories-from-usa-australia-and-montenegro.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -66,7 +67,6 @@
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Jan 2023: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 18 2023 - [Firestore COUNT(*): Everything you need to know](https://www.youtube.com/watch?v=JiDdBIqhWKc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 12 2023 - [Android Studio Electric Eel](http://android-developers.googleblog.com/2023/01/android-studio-electric-eel.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
