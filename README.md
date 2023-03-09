@@ -7,7 +7,7 @@
 - Mar 09 2023 - [Android Developer Story: Clue's developer speed increased 3X with Jetpack Compose](https://www.youtube.com/watch?v=5XJ_uTGxmBg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [Meet the Android Developer community](https://www.youtube.com/watch?v=9lqFzyPbHDo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [#TheAndroidShow: Behind the scenes with Android Studio's App Quality Insights](https://www.youtube.com/watch?v=qEbLIz6OTUU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 09 2023 - [#TheAndroidShow: Is now the moment to think tablet-first?](https://www.youtube.com/watch?v=5XilhUqYsu4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 09 2023 - [#TheAndroidShow: the latest in foldables from MWC, get started building!](https://www.youtube.com/watch?v=5XilhUqYsu4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [Happening now! Unpacking the latest in large screens and foldables + MAD Skills on #TheAndroidShow](http://android-developers.googleblog.com/2023/03/the-android-show-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [What it means to be an Android Google Developer Expert](http://android-developers.googleblog.com/2023/03/android-google-developer-experts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
