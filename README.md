@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 10 2023 - [Withings reduces 50% of its data sync code by streamlining health and fitness API integrations with Health Connect](http://android-developers.googleblog.com/2023/03/withings-reduces-data-sync-code-with--health-and-fitness-api-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [Here's the latest in Android Developers this month!](https://www.youtube.com/watch?v=mQFmqEJ-miQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [#TheAndroidShow: Large screens, Jetpack Compose and more!](https://www.youtube.com/watch?v=nc8r32Tpa7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [Android Developer Story: Concepts sees 70% more time spent in app on tablets versus phones](https://www.youtube.com/watch?v=WSnfe3KiXbg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -77,7 +78,6 @@
 - Jan 04 2023 - [Signos streamlines integrations with other health and fitness apps through a single Health Connect API](http://android-developers.googleblog.com/2023/01/signos-streamlines-integrations-with-health-fitness-apps-through-health-connect-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Meet Android Developers from India keen to learn and inspire](http://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 16 2022 - [Android developers: a big thank you for a great 2022!](http://android-developers.googleblog.com/2022/12/android-2022-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
