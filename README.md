@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 12 2023 - [WorkManager in multi-module apps](https://medium.com/androiddevelopers/workmanager-in-multi-module-apps-cb082b86068?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 10 2023 - [Automating dependency updates in a Compose project](https://medium.com/androiddevelopers/automating-dependency-updates-in-a-compose-project-168ef5e89ac5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 10 2023 - [Withings reduces 50% of its data sync code by streamlining health and fitness API integrations with Health Connect](http://android-developers.googleblog.com/2023/03/withings-reduces-data-sync-code-with--health-and-fitness-api-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [Here's the latest in Android Developers this month!](https://www.youtube.com/watch?v=mQFmqEJ-miQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -56,7 +57,6 @@
 - Feb 13 2023 - [Migrating Sunflower to Jetpack Compose](https://medium.com/androiddevelopers/migrating-sunflower-to-jetpack-compose-f840fa3b9985?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 10 2023 - [Share Android App Links with the Sharesheet](https://medium.com/androiddevelopers/share-android-app-links-with-the-sharesheet-d04605df3f3a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 08 2023 - [Compose phases](https://medium.com/androiddevelopers/compose-phases-7fe6630ea037?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 08 2023 - [The first developer preview of Android 14](http://android-developers.googleblog.com/2023/02/first-developer-preview-android14.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [#WeArePlay - Meet Valentin from Austria. More stories from Spain, Argentina and Azerbaijan](http://android-developers.googleblog.com/2023/02/weareplay-meet-valentin-from-austria-more-stores-from-spain-argentina-azerbaijan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
