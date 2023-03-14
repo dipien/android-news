@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 14 2023 - [Reduce cheating with Firebase App Check](https://www.youtube.com/watch?v=K1XU2y0YVtU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Top tips for designing “private by design” apps #Shorts](https://www.youtube.com/watch?v=cJSGXqpDHho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 13 2023 - [Kakaonavi increased foldable adoption by 24.5% after optimizing its app for large screens](http://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -73,11 +76,8 @@
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2023 - [Jan 2023: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 19 2023 - [Count the number of documents in Firestore using COUNT #Shorts](https://www.youtube.com/watch?v=Nu16RLa2-7Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jan 12 2023 - [Android Studio Electric Eel](http://android-developers.googleblog.com/2023/01/android-studio-electric-eel.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 09 2023 - [Extending the Android SDK](http://android-developers.googleblog.com/2023/01/extending-android-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
 - Dec 13 2022 - [Loading 3D Models from Firebase](https://medium.com/firebase-developers/swift-load-3d-model-from-firebase-473bbc89860b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
