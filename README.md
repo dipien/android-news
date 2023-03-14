@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 13 2023 - [Kakaonavi increased foldable adoption by 24.5% after optimizing its app for large screens](http://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2023 - [Privacy Week for Android Developers](http://android-developers.googleblog.com/2023/03/privacy-week-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2023 - [WorkManager in multi-module apps](https://medium.com/androiddevelopers/workmanager-in-multi-module-apps-cb082b86068?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
 - Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)
-- Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 13 2022 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 22 2022 - [Episode 189: Video Conference](http://adbackstage.libsyn.com/episode-189-video-conference) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
