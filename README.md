@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 14 2023 - [Top tips for designing “private by design” apps #Shorts](https://www.youtube.com/watch?v=cJSGXqpDHho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 13 2023 - [Kakaonavi increased foldable adoption by 24.5% after optimizing its app for large screens](http://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2023 - [Privacy Week for Android Developers](http://android-developers.googleblog.com/2023/03/privacy-week-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -51,7 +52,6 @@
 - Feb 16 2023 - [Enable next generation IDs for better Play Games Services support for all Google accounts](http://android-developers.googleblog.com/2023/02/enable-next-generation-ids-for-better-play-games-services-support-for-all-google-accounts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Now in Android #77](https://medium.com/androiddevelopers/now-in-android-77-638bbca98f79?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 15 2023 - [Now in Android: 77 - Android 14 Developer Preview, MAD Skills Compose Layouts and Modifiers, & more!](https://www.youtube.com/watch?v=x24WNSuWSAU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 15 2023 - [Constraints and modifier order](https://medium.com/androiddevelopers/constraints-and-modifier-order-a3912461ecd6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
