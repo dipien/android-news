@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 15 2023 - [Modern Android storage #Shorts](https://www.youtube.com/watch?v=UB1M8KqRpvc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 15 2023 - [Bring Your Video App to Cars](https://medium.com/androiddevelopers/bring-your-video-app-to-cars-d84366a1f5e9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 15 2023 - [Privacy Sandbox for Android](https://www.youtube.com/watch?v=NYu0cD8WAm4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Top Google Play and Android highlights from the 2023 Google for Games Developer Summit](https://www.youtube.com/watch?v=pu-RZZsUNIg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [What's new in Android Vitals and ANR: A deep dive into Play's technical quality bar](https://www.youtube.com/watch?v=HvHYXTO-_-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -24,7 +26,6 @@
 - Mar 10 2023 - [Automating dependency updates in a Compose project](https://medium.com/androiddevelopers/automating-dependency-updates-in-a-compose-project-168ef5e89ac5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 10 2023 - [Withings reduces 50% of its data sync code by streamlining health and fitness API integrations with Health Connect](http://android-developers.googleblog.com/2023/03/withings-reduces-data-sync-code-with--health-and-fitness-api-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [Here's the latest in Android Developers this month!](https://www.youtube.com/watch?v=mQFmqEJ-miQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 09 2023 - [#TheAndroidShow: Large screens, Jetpack Compose and more!](https://www.youtube.com/watch?v=nc8r32Tpa7k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [Happening now! Unpacking the latest in large screens and foldables + MAD Skills on #TheAndroidShow](http://android-developers.googleblog.com/2023/03/the-android-show-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [What it means to be an Android Google Developer Expert](http://android-developers.googleblog.com/2023/03/android-google-developer-experts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
@@ -61,7 +62,6 @@
 - Feb 14 2023 - [Bringing the best of Chrome to Android developers and users](http://android-developers.googleblog.com/2023/02/bringing-best-of-chrome-to-android-developers-and-users.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 14 2023 - [Firestore index definitions show document name #Shorts](https://www.youtube.com/watch?v=AeRcm59F_i8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 13 2023 - [Migrating Sunflower to Jetpack Compose](https://medium.com/androiddevelopers/migrating-sunflower-to-jetpack-compose-f840fa3b9985?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 10 2023 - [Share Android App Links with the Sharesheet](https://medium.com/androiddevelopers/share-android-app-links-with-the-sharesheet-d04605df3f3a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 08 2023 - [The first developer preview of Android 14](http://android-developers.googleblog.com/2023/02/first-developer-preview-android14.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
