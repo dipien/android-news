@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 15 2023 - [Android Studio's AQI window #Shorts](https://www.youtube.com/watch?v=fR5Xvj5zwNM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Modern Android storage #Shorts](https://www.youtube.com/watch?v=UB1M8KqRpvc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Bring Your Video App to Cars](https://medium.com/androiddevelopers/bring-your-video-app-to-cars-d84366a1f5e9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 15 2023 - [Privacy Sandbox for Android](https://www.youtube.com/watch?v=NYu0cD8WAm4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -25,7 +26,6 @@
 - Mar 12 2023 - [WorkManager in multi-module apps](https://medium.com/androiddevelopers/workmanager-in-multi-module-apps-cb082b86068?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 10 2023 - [Automating dependency updates in a Compose project](https://medium.com/androiddevelopers/automating-dependency-updates-in-a-compose-project-168ef5e89ac5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 10 2023 - [Withings reduces 50% of its data sync code by streamlining health and fitness API integrations with Health Connect](http://android-developers.googleblog.com/2023/03/withings-reduces-data-sync-code-with--health-and-fitness-api-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 09 2023 - [Here's the latest in Android Developers this month!](https://www.youtube.com/watch?v=mQFmqEJ-miQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 09 2023 - [Happening now! Unpacking the latest in large screens and foldables + MAD Skills on #TheAndroidShow](http://android-developers.googleblog.com/2023/03/the-android-show-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [What it means to be an Android Google Developer Expert](http://android-developers.googleblog.com/2023/03/android-google-developer-experts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
