@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 16 2023 - [How to leverage recent Android privacy changes to increase user trust](https://medium.com/androiddevelopers/how-to-leverage-recent-android-privacy-changes-to-increase-user-trust-b3a9648b53bd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2023 - [Clue and Jetpack Compose #Shorts](https://www.youtube.com/watch?v=_Bc4gYlFfV8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Android Studio's AQI window #Shorts](https://www.youtube.com/watch?v=fR5Xvj5zwNM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Modern Android storage #Shorts](https://www.youtube.com/watch?v=UB1M8KqRpvc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -61,7 +62,6 @@
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 14 2023 - [Bringing the best of Chrome to Android developers and users](http://android-developers.googleblog.com/2023/02/bringing-best-of-chrome-to-android-developers-and-users.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 14 2023 - [Firestore index definitions show document name #Shorts](https://www.youtube.com/watch?v=AeRcm59F_i8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 13 2023 - [Migrating Sunflower to Jetpack Compose](https://medium.com/androiddevelopers/migrating-sunflower-to-jetpack-compose-f840fa3b9985?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 08 2023 - [The first developer preview of Android 14](http://android-developers.googleblog.com/2023/02/first-developer-preview-android14.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
