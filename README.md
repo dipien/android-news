@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 16 2023 - [Clue and Jetpack Compose #Shorts](https://www.youtube.com/watch?v=_Bc4gYlFfV8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Android Studio's AQI window #Shorts](https://www.youtube.com/watch?v=fR5Xvj5zwNM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Modern Android storage #Shorts](https://www.youtube.com/watch?v=UB1M8KqRpvc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Bring Your Video App to Cars](https://medium.com/androiddevelopers/bring-your-video-app-to-cars-d84366a1f5e9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -19,7 +20,6 @@
 - Mar 14 2023 - [Intro to the large screen cross-platform gaming opportunity](https://www.youtube.com/watch?v=WSFremHFmrQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 14 2023 - [Top tips for designing “private by design” apps #Shorts](https://www.youtube.com/watch?v=cJSGXqpDHho) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 13 2023 - [Kakaonavi increased foldable adoption by 24.5% after optimizing its app for large screens](http://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2023 - [Privacy Week for Android Developers](http://android-developers.googleblog.com/2023/03/privacy-week-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
