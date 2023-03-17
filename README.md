@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 17 2023 - [Privacy week in 60 seconds #Shorts](https://www.youtube.com/watch?v=CYbLgpOKBM4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 17 2023 - [Map Cloud Firestore data with Swift Codable #Shorts](https://www.youtube.com/watch?v=brHWxhlC7Ec) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 16 2023 - [Compose Layouts and Modifiers: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=zGP7-VvjmTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 16 2023 - [How to leverage recent Android privacy changes to increase user trust](https://medium.com/androiddevelopers/how-to-leverage-recent-android-privacy-changes-to-increase-user-trust-b3a9648b53bd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2023 - [Clue and Jetpack Compose #Shorts](https://www.youtube.com/watch?v=_Bc4gYlFfV8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -18,7 +20,6 @@
 - Mar 14 2023 - [Boost your game quality with Android Game Development Kit (AGDK) and GameActivity](https://www.youtube.com/watch?v=nOeyQfUwkKA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Android Game Development Kit (AGDK) update: Adaptability and performance features](https://www.youtube.com/watch?v=_-FwUrQAsVg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Google Play Games on PC: Unlock seamless gameplay across mobile and PC](https://www.youtube.com/watch?v=qfqh9soEKNg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2023 - [How to differentiate your mobile game using Google Play Games on PC](https://www.youtube.com/watch?v=f95PO0BqDYg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -75,7 +76,6 @@
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 24 2023 - [Jan 2023: Firestore queries, Functions cold starts, Realtime Database auditing](https://www.youtube.com/watch?v=9nkAGR5Qe2A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
