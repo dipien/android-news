@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 16 2023 - [Compose Layouts and Modifiers: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=zGP7-VvjmTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 16 2023 - [How to leverage recent Android privacy changes to increase user trust](https://medium.com/androiddevelopers/how-to-leverage-recent-android-privacy-changes-to-increase-user-trust-b3a9648b53bd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 16 2023 - [Clue and Jetpack Compose #Shorts](https://www.youtube.com/watch?v=_Bc4gYlFfV8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Android Studio's AQI window #Shorts](https://www.youtube.com/watch?v=fR5Xvj5zwNM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -18,7 +19,6 @@
 - Mar 14 2023 - [Android Game Development Kit (AGDK) update: Adaptability and performance features](https://www.youtube.com/watch?v=_-FwUrQAsVg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Google Play Games on PC: Unlock seamless gameplay across mobile and PC](https://www.youtube.com/watch?v=qfqh9soEKNg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [How to differentiate your mobile game using Google Play Games on PC](https://www.youtube.com/watch?v=f95PO0BqDYg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2023 - [Intro to the large screen cross-platform gaming opportunity](https://www.youtube.com/watch?v=WSFremHFmrQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
