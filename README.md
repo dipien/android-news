@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 20 2023 - [Mitigating soft verification issues in R8 and D8](https://medium.com/androiddevelopers/mitigating-soft-verification-issues-in-r8-and-d8-7e9e06827dfd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2023 - [Privacy week in 60 seconds #Shorts](https://www.youtube.com/watch?v=CYbLgpOKBM4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 17 2023 - [Map Cloud Firestore data with Swift Codable #Shorts](https://www.youtube.com/watch?v=brHWxhlC7Ec) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 16 2023 - [Compose Layouts and Modifiers: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=zGP7-VvjmTQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -59,7 +60,6 @@
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Now in Android #77](https://medium.com/androiddevelopers/now-in-android-77-638bbca98f79?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Feb 15 2023 - [Constraints and modifier order](https://medium.com/androiddevelopers/constraints-and-modifier-order-a3912461ecd6?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 14 2023 - [Bringing the best of Chrome to Android developers and users](http://android-developers.googleblog.com/2023/02/bringing-best-of-chrome-to-android-developers-and-users.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 14 2023 - [Firestore index definitions show document name #Shorts](https://www.youtube.com/watch?v=AeRcm59F_i8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
