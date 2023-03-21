@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 20 2023 - [Evolution of Crash Management: Behind the Scenes with App Quality Insights](http://android-developers.googleblog.com/2023/03/evolution-of-crash-management-behind-the-scenes-app-quality-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 20 2023 - [Mitigating soft verification issues in R8 and D8](https://medium.com/androiddevelopers/mitigating-soft-verification-issues-in-r8-and-d8-7e9e06827dfd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2023 - [Privacy week in 60 seconds #Shorts](https://www.youtube.com/watch?v=CYbLgpOKBM4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 17 2023 - [Map Cloud Firestore data with Swift Codable #Shorts](https://www.youtube.com/watch?v=brHWxhlC7Ec) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -75,7 +76,6 @@
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Jan 31 2023 - [Faster cold starts by using REST API for Firestore #Shorts](https://www.youtube.com/watch?v=Dmx9enoUvbY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 24 2023 - [Control when changes to your app are sent for review with new Play Console features](http://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
