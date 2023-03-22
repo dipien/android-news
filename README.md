@@ -1,10 +1,13 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [Compose Layouts and Modifiers: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-layouts-and-modifiers-mad-skills-wrap-up-1fe4621c64?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 22 2023 - [What’s new in the Jetpack Compose March ’23 release](http://android-developers.googleblog.com/2023/03/whats-new-in-jetpack-compose-march-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
 - Mar 22 2023 - [Android Developer Story: Rocket Game Studio grows with Google Play Academy](https://www.youtube.com/watch?v=x5ImszGI0OI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Concepts users spend more time on tablets #Shorts](https://www.youtube.com/watch?v=4IjV7Uh989Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 21 2023 - [Fun design with Compose - MAD Skills](https://www.youtube.com/watch?v=s0CRRJbpHl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 21 2023 - [Fun design with Lazy layouts: Community tip - MAD Skills](https://www.youtube.com/watch?v=s0CRRJbpHl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 21 2023 - [Protect against email enumeration attacks #Shorts](https://www.youtube.com/watch?v=EGbZ3Kx9R0w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 20 2023 - [Evolution of Crash Management: Behind the Scenes with App Quality Insights](http://android-developers.googleblog.com/2023/03/evolution-of-crash-management-behind-the-scenes-app-quality-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -72,7 +75,6 @@
 - Feb 07 2023 - [#WeArePlay - Meet Valentin from Austria. More stories from Spain, Argentina and Azerbaijan](http://android-developers.googleblog.com/2023/02/weareplay-meet-valentin-from-austria-more-stores-from-spain-argentina-azerbaijan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [Audit logs for Realtime Database #Shorts](https://www.youtube.com/watch?v=A1hOJsZ1ybE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 07 2023 - [Hundreds of thousands of developers are learning Jetpack Compose](http://android-developers.googleblog.com/2023/02/hundreds-of-thousands-of-developers-are-learning-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 06 2023 - [Bringing together sign-in solutions and passkeys with Android's new Credential Manager](http://android-developers.googleblog.com/2023/02/bringing-together-sign-in-solutions-and-passkeys-android-new-credential-manager.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 02 2023 - [Onboarding experience with Firebase Anonymous Auth - iOS/Swift #Shorts](https://www.youtube.com/watch?v=XUTJ_YAqIyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
@@ -98,9 +100,7 @@
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
 - Oct 20 2022 - [Succeed with US Hispanic gamers](https://medium.com/googleplaydev/succeed-with-us-hispanic-gamers-e2a970524967?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
-- Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)
-- Oct 18 2022 - [Magic, utility, and redesigning Material.io](https://material.io/blog/material-io-redesign) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
