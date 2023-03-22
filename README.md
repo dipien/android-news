@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 22 2023 - [Now in Android #79](https://medium.com/androiddevelopers/now-in-android-79-4b309fda7cfc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 22 2023 - [Now in Android: 79 - Privacy week, #TheAndroidShow, Google for Games Developer Summit, and more!](https://www.youtube.com/watch?v=u7BRp9fLgbI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 22 2023 - [Launching new #WeArePlay stories from India](http://android-developers.googleblog.com/2023/03/launching-new-weareplay-stories-from-india.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [Compose Layouts and Modifiers: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-layouts-and-modifiers-mad-skills-wrap-up-1fe4621c64?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 22 2023 - [What’s new in the Jetpack Compose March ’23 release](http://android-developers.googleblog.com/2023/03/whats-new-in-jetpack-compose-march-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -27,7 +30,6 @@
 - Mar 14 2023 - [Deep dive on new frame rate metrics in Android Vitals](https://www.youtube.com/watch?v=kTdgDItDVlE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Optimizing Vulkan games performance](https://www.youtube.com/watch?v=QXZ0_gkeltU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Give your players seamless continuity across Play surfaces with Google Play Game Services (PGS)](https://www.youtube.com/watch?v=WN2EBDE0V0g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2023 - [Introducing the new Google Play Games on PC emulator](https://www.youtube.com/watch?v=2KEaPQpfzkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -57,7 +59,6 @@
 - Feb 24 2023 - [How Stripe leveraged Google Play to build an SDK for Tap to Pay on Android](http://android-developers.googleblog.com/2023/02/how-stripe-leveraged-google-play-to-build-an-sdk-for-tap-to-pay-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 23 2023 - [Accessing Composables from UiAutomator](https://medium.com/androiddevelopers/accessing-composables-from-uiautomator-cf316515edc2?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 22 2023 - [Advanced Layout concepts](https://medium.com/androiddevelopers/advanced-layout-concepts-eb08cf2a3c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -74,7 +75,6 @@
 - Feb 08 2023 - [Improving user privacy by requiring opt-in to send  X-Requested-With header from WebView](http://android-developers.googleblog.com/2023/02/improving-user-privacy-by-requiring-opt-in-to-send-x-requested-wih-header-from-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [#WeArePlay - Meet Valentin from Austria. More stories from Spain, Argentina and Azerbaijan](http://android-developers.googleblog.com/2023/02/weareplay-meet-valentin-from-austria-more-stores-from-spain-argentina-azerbaijan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 07 2023 - [Audit logs for Realtime Database #Shorts](https://www.youtube.com/watch?v=A1hOJsZ1ybE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 07 2023 - [Hundreds of thousands of developers are learning Jetpack Compose](http://android-developers.googleblog.com/2023/02/hundreds-of-thousands-of-developers-are-learning-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 02 2023 - [Onboarding experience with Firebase Anonymous Auth - iOS/Swift #Shorts](https://www.youtube.com/watch?v=XUTJ_YAqIyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
