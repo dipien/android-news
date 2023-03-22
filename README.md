@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 22 2023 - [Compose Layouts and Modifiers: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-layouts-and-modifiers-mad-skills-wrap-up-1fe4621c64?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 22 2023 - [Android Developer Story: Rocket Game Studio grows with Google Play Academy](https://www.youtube.com/watch?v=x5ImszGI0OI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Concepts users spend more time on tablets #Shorts](https://www.youtube.com/watch?v=4IjV7Uh989Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Fun design with Compose - MAD Skills](https://www.youtube.com/watch?v=s0CRRJbpHl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -61,7 +62,6 @@
 - Feb 16 2023 - [API desugaring supporting Android 13 and java.nio](http://android-developers.googleblog.com/2023/02/api-desugaring-supporting-android-13-and-java-nio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2023 - [Enable next generation IDs for better Play Games Services support for all Google accounts](http://android-developers.googleblog.com/2023/02/enable-next-generation-ids-for-better-play-games-services-support-for-all-google-accounts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 15 2023 - [Now in Android #77](https://medium.com/androiddevelopers/now-in-android-77-638bbca98f79?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 14 2023 - [Bringing the best of Chrome to Android developers and users](http://android-developers.googleblog.com/2023/02/bringing-best-of-chrome-to-android-developers-and-users.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
