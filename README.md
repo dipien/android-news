@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 22 2023 - [Android Developer Story: Rocket Game Studio grows with Google Play Academy](https://www.youtube.com/watch?v=x5ImszGI0OI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Concepts users spend more time on tablets #Shorts](https://www.youtube.com/watch?v=4IjV7Uh989Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Fun design with Compose - MAD Skills](https://www.youtube.com/watch?v=s0CRRJbpHl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -23,7 +24,6 @@
 - Mar 14 2023 - [Optimizing Vulkan games performance](https://www.youtube.com/watch?v=QXZ0_gkeltU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Give your players seamless continuity across Play surfaces with Google Play Game Services (PGS)](https://www.youtube.com/watch?v=WN2EBDE0V0g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Introducing the new Google Play Games on PC emulator](https://www.youtube.com/watch?v=2KEaPQpfzkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2023 - [Boost your game quality with Android Game Development Kit (AGDK) and GameActivity](https://www.youtube.com/watch?v=nOeyQfUwkKA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
