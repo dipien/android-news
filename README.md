@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-in-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [What's your favorite Android Studio AQI feature? #Shorts](https://www.youtube.com/watch?v=gLuUlDKJc0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 23 2023 - [Don’t Prewarm App Features](https://medium.com/androiddevelopers/dont-prewarm-app-features-118e0a2d4bb1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
