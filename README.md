@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 27 2023 - [Mercari reduces 355K lines of code, a 69% difference, by rebuilding with Jetpack Compose](http://android-developers.googleblog.com/2023/03/mercari-reduces-lines-of-code-by-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 27 2023 - [Firestore realtime updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=GEOfFgBXnZs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 24 2023 - [Concepts users spend 70% more time using the app on tablets than on phones](http://android-developers.googleblog.com/2023/03/concepts-users-spend-more-time-using-app-on-tablets-than-phones.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-in-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -73,7 +74,6 @@
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 14 2023 - [Bringing the best of Chrome to Android developers and users](http://android-developers.googleblog.com/2023/02/bringing-best-of-chrome-to-android-developers-and-users.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 14 2023 - [Firestore index definitions show document name #Shorts](https://www.youtube.com/watch?v=AeRcm59F_i8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 09 2023 - [Better onboarding with anonymous authentication and account linking in Kotlin #Shorts](https://www.youtube.com/watch?v=fULeGGiaxsA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 07 2023 - [Audit logs for Realtime Database #Shorts](https://www.youtube.com/watch?v=A1hOJsZ1ybE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
