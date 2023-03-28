@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Mar 28 2023 - [Mar 2023: Top takeaways from Google for Game Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Mar 28 2023 - [Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 27 2023 - [Mercari reduces 355K lines of code, a 69% difference, by rebuilding with Jetpack Compose](http://android-developers.googleblog.com/2023/03/mercari-reduces-lines-of-code-by-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 27 2023 - [Firestore realtime updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=GEOfFgBXnZs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
