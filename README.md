@@ -35,7 +35,7 @@
 - Mar 15 2023 - [Bring Your Video App to Cars](https://medium.com/androiddevelopers/bring-your-video-app-to-cars-d84366a1f5e9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 15 2023 - [Privacy Sandbox for Android](https://www.youtube.com/watch?v=NYu0cD8WAm4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2023 - [Top Google Play and Android highlights from the 2023 Google for Games Developer Summit](https://www.youtube.com/watch?v=pu-RZZsUNIg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2023 - [What's new in Android Vitals and ANR: A deep dive into Play's technical quality bar](https://www.youtube.com/watch?v=HvHYXTO-_-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 14 2023 - [What's new in Android vitals: A deep dive into Play's technical quality bar](https://www.youtube.com/watch?v=HvHYXTO-_-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Reduce cheating with Firebase App Check](https://www.youtube.com/watch?v=K1XU2y0YVtU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2023 - [Deep dive on new frame rate metrics in Android Vitals](https://www.youtube.com/watch?v=kTdgDItDVlE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2023 - [Optimizing Vulkan games performance](https://www.youtube.com/watch?v=QXZ0_gkeltU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
