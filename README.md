@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 30 2023 - [Bringing seamless authentication to your apps using Credential Manager API](https://medium.com/androiddevelopers/bringing-seamless-authentication-to-your-apps-using-credential-manager-api-b3f0d09e0093?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 30 2023 - [RePlay 1: App update changes, raising the bar on technical quality, Privacy Sandbox on Android beta](https://www.youtube.com/watch?v=T0ML8u_8Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 29 2023 - [Firebase Realtime Database updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=-R0gBGxLfw4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -61,7 +62,6 @@
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
 - Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 01 2023 - [Leverage Multi-Window and Activity Embedding](https://medium.com/androiddevelopers/leverage-multi-window-and-activity-embedding-4951f44a8992?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 28 2023 - [Policy Updates: New Wear OS App Quality Requirements](http://android-developers.googleblog.com/2023/02/policy-updates-new-wear-os-app-quality-requirements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
