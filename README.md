@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 30 2023 - [Bringing seamless authentication to your apps using Credential Manager API](https://medium.com/androiddevelopers/bringing-seamless-authentication-to-your-apps-using-credential-manager-api-b3f0d09e0093?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 30 2023 - [RePlay 1: App update changes, raising the bar on technical quality, Privacy Sandbox on Android beta](https://www.youtube.com/watch?v=T0ML8u_8Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 29 2023 - [Firebase Realtime Database updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=-R0gBGxLfw4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -73,7 +74,6 @@
 - Feb 21 2023 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2023 - [Feature Engineering in the Google Play Store](http://android-developers.googleblog.com/2023/02/feature-engineering-in-google-play-store.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2023 - [API desugaring supporting Android 13 and java.nio](http://android-developers.googleblog.com/2023/02/api-desugaring-supporting-android-13-and-java-nio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 16 2023 - [Enable next generation IDs for better Play Games Services support for all Google accounts](http://android-developers.googleblog.com/2023/02/enable-next-generation-ids-for-better-play-games-services-support-for-all-google-accounts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
