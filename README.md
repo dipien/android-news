@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 06 2023 - [Getting started with Account Linking and Anonymous Authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Accessibility services and how users interact with them](https://www.youtube.com/watch?v=TJsIVB5Y35U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Customizing Compose Pager with fun indicators and transitions](https://medium.com/androiddevelopers/customizing-compose-pager-with-fun-indicators-and-transitions-12b3b69af2cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Clue’s development speed improves 3X after rebuilding the app with Jetpack Compose](http://android-developers.googleblog.com/2023/04/clues-development-speed-improves-after-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -80,7 +81,6 @@
 - Feb 21 2023 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Feb 15 2023 - [Better onboarding with anonymous authentication and account linking in JavaScript #Shorts](https://www.youtube.com/watch?v=HuabwT_l10o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
 - Jan 31 2023 - [Top 5 takeaways from Material Design at Android Dev Summit 2022 #Shorts](https://www.youtube.com/watch?v=j_5hoPBy9ss) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
