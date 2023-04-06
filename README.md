@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 06 2023 - [Now in Android: 80 - Media3, Jetpack Compose 1.4, Crash Management, and more!](https://www.youtube.com/watch?v=5UBWUhXN34Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Getting started with Account Linking and Anonymous Authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Accessibility services and how users interact with them](https://www.youtube.com/watch?v=TJsIVB5Y35U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Customizing Compose Pager with fun indicators and transitions](https://medium.com/androiddevelopers/customizing-compose-pager-with-fun-indicators-and-transitions-12b3b69af2cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -37,7 +38,6 @@
 - Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
 - Mar 22 2023 - [Now in Android #79](https://medium.com/androiddevelopers/now-in-android-79-4b309fda7cfc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 22 2023 - [Now in Android: 79 - Privacy week, #TheAndroidShow, Google for Games Developer Summit, and more!](https://www.youtube.com/watch?v=u7BRp9fLgbI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 22 2023 - [Launching new #WeArePlay stories from India](http://android-developers.googleblog.com/2023/03/launching-new-weareplay-stories-from-india.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [Compose Layouts and Modifiers: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-layouts-and-modifiers-mad-skills-wrap-up-1fe4621c64?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
