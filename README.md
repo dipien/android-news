@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 05 2023 - [Building Reddit Recap with Jetpack Compose on Android](https://medium.com/androiddevelopers/building-reddit-recap-with-jetpack-compose-on-android-dbe34ae4c957?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 05 2023 - [Giving Users More Transparency and Control Over Account Data](http://android-developers.googleblog.com/2023/04/giving-people-more-control-over-their-data.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 05 2023 - [Best practices for integrating SDKs into your app or game](https://www.youtube.com/watch?v=3klmiHX0uVQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
