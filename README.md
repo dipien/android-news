@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 07 2023 - [Map Firestore documents using Swift Codable](https://www.youtube.com/watch?v=1ZkR27pws0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Now in Android #80](https://medium.com/androiddevelopers/now-in-android-80-3eca146ea3c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Now in Android: 80 - Media3, Jetpack Compose 1.4, Crash Management, and more!](https://www.youtube.com/watch?v=5UBWUhXN34Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Getting started with Account Linking and Anonymous Authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -78,7 +79,6 @@
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 21 2023 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
