@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 10 2023 - [Reduce uninstalls for your app with auto-archive](http://android-developers.googleblog.com/2023/04/reduce-uninstalls-for-your-app-with-auto-archive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 10 2023 - [CameraX CameraController basics](https://www.youtube.com/watch?v=fazzQs-O31U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2023 - [CameraX setup and permissions](https://www.youtube.com/watch?v=XUN6mUQiDpg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2023 - [CameraX CameraProvider basics](https://www.youtube.com/watch?v=OfjPOUunkc8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -75,7 +76,6 @@
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 27 2023 - [Now's the time to learn Android development with Jetpack Compose!](http://android-developers.googleblog.com/2023/02/nows-time-to-learn-android-development-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 24 2023 - [How Stripe leveraged Google Play to build an SDK for Tap to Pay on Android](http://android-developers.googleblog.com/2023/02/how-stripe-leveraged-google-play-to-build-an-sdk-for-tap-to-pay-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
