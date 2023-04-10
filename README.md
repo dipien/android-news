@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 10 2023 - [CameraX CameraController basics](https://www.youtube.com/watch?v=fazzQs-O31U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 10 2023 - [CameraX setup and permissions](https://www.youtube.com/watch?v=XUN6mUQiDpg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 10 2023 - [CameraX CameraProvider basics](https://www.youtube.com/watch?v=OfjPOUunkc8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 07 2023 - [Map Firestore documents using Swift Codable](https://www.youtube.com/watch?v=1ZkR27pws0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Now in Android #80](https://medium.com/androiddevelopers/now-in-android-80-3eca146ea3c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Now in Android: 80 - Media3, Jetpack Compose 1.4, Crash Management, and more!](https://www.youtube.com/watch?v=5UBWUhXN34Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,11 +26,9 @@
 - Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月ポリシー アップデート (Japanese）](https://www.youtube.com/watch?v=PlnosEoUSrY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - April 2023 policy updates](https://www.youtube.com/watch?v=4N_cmJkRwR0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 04 2023 - [Offer the right subscription - App growth](https://www.youtube.com/watch?v=80JDlAheU5M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 30 2023 - [Bringing seamless authentication to your apps using Credential Manager API](https://medium.com/androiddevelopers/bringing-seamless-authentication-to-your-apps-using-credential-manager-api-b3f0d09e0093?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 30 2023 - [RePlay 1: App update changes, raising the bar on technical quality, Privacy Sandbox on Android beta](https://www.youtube.com/watch?v=T0ML8u_8Khg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 29 2023 - [Firebase Realtime Database updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=-R0gBGxLfw4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -35,7 +36,6 @@
 - Mar 27 2023 - [Firestore realtime updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=GEOfFgBXnZs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 24 2023 - [Concepts users spend 70% more time using the app on tablets than on phones](http://android-developers.googleblog.com/2023/03/concepts-users-spend-more-time-using-app-on-tablets-than-phones.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-in-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 23 2023 - [What's your favorite Android Studio AQI feature? #Shorts](https://www.youtube.com/watch?v=gLuUlDKJc0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 23 2023 - [Don’t Prewarm App Features](https://medium.com/androiddevelopers/dont-prewarm-app-features-118e0a2d4bb1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
