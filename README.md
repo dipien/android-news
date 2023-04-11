@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 11 2023 - [5 ways to prepare your app build for Android Studio Flamingo release](https://medium.com/androiddevelopers/5-ways-to-prepare-your-app-build-for-android-studio-flamingo-release-da34616bb946?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 11 2023 - [What's new in multiplatform Jetpack libraries](http://android-developers.googleblog.com/2023/04/whats-new-in-jetpack-multiplatform.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 10 2023 - [Reduce uninstalls for your app with auto-archive](http://android-developers.googleblog.com/2023/04/reduce-uninstalls-for-your-app-with-auto-archive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 10 2023 - [CameraX CameraController basics](https://www.youtube.com/watch?v=fazzQs-O31U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2023 - [CameraX setup and permissions](https://www.youtube.com/watch?v=XUN6mUQiDpg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -52,7 +54,6 @@
 - Mar 20 2023 - [Mitigating soft verification issues in R8 and D8](https://medium.com/androiddevelopers/mitigating-soft-verification-issues-in-r8-and-d8-7e9e06827dfd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2023 - [Map Cloud Firestore data with Swift Codable #Shorts](https://www.youtube.com/watch?v=brHWxhlC7Ec) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 16 2023 - [How to leverage recent Android privacy changes to increase user trust](https://medium.com/androiddevelopers/how-to-leverage-recent-android-privacy-changes-to-increase-user-trust-b3a9648b53bd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 15 2023 - [Bring Your Video App to Cars](https://medium.com/androiddevelopers/bring-your-video-app-to-cars-d84366a1f5e9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 14 2023 - [Reduce cheating with Firebase App Check](https://www.youtube.com/watch?v=K1XU2y0YVtU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -75,7 +76,6 @@
 - Feb 28 2023 - [Policy Updates: New Wear OS App Quality Requirements](http://android-developers.googleblog.com/2023/02/policy-updates-new-wear-os-app-quality-requirements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 27 2023 - [Now's the time to learn Android development with Jetpack Compose!](http://android-developers.googleblog.com/2023/02/nows-time-to-learn-android-development-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2023 - [Começando a usar Firebase no Android](https://www.youtube.com/watch?v=Wjy7XKDAx1M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
