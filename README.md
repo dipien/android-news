@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 11 2023 - [Android App Links: Deploy assetlinks.json in minutes](https://medium.com/androiddevelopers/android-app-links-deploy-assetlinks-json-in-minutes-d7082dffcac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 11 2023 - [Android App Links implementation in a few steps!](https://medium.com/androiddevelopers/android-app-links-implementation-in-a-few-steps-df66a8a538c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [Top takeaways from Google for Games Developer Summit](https://www.youtube.com/watch?v=-QGd84IyxRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 11 2023 - [5 ways to prepare your app build for Android Studio Flamingo release](https://medium.com/androiddevelopers/5-ways-to-prepare-your-app-build-for-android-studio-flamingo-release-da34616bb946?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [What's new in multiplatform Jetpack libraries](http://android-developers.googleblog.com/2023/04/whats-new-in-jetpack-multiplatform.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -52,9 +54,7 @@
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 21 2023 - [Protect against email enumeration attacks #Shorts](https://www.youtube.com/watch?v=EGbZ3Kx9R0w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 20 2023 - [Evolution of Crash Management: Behind the Scenes with App Quality Insights](http://android-developers.googleblog.com/2023/03/evolution-of-crash-management-behind-the-scenes-app-quality-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 20 2023 - [Mitigating soft verification issues in R8 and D8](https://medium.com/androiddevelopers/mitigating-soft-verification-issues-in-r8-and-d8-7e9e06827dfd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 17 2023 - [Map Cloud Firestore data with Swift Codable #Shorts](https://www.youtube.com/watch?v=brHWxhlC7Ec) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 16 2023 - [How to leverage recent Android privacy changes to increase user trust](https://medium.com/androiddevelopers/how-to-leverage-recent-android-privacy-changes-to-increase-user-trust-b3a9648b53bd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 14 2023 - [Reduce cheating with Firebase App Check](https://www.youtube.com/watch?v=K1XU2y0YVtU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [Unlock seamless gameplay across mobile and PC with Google Play Games](http://android-developers.googleblog.com/2023/03/GGDS23-google-play-games-on-PC.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
