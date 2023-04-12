@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 12 2023 - [Bring your IOT apps to cars](http://android-developers.googleblog.com/2023/04/expanding-options-for-building-apps-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 12 2023 - [Android 14 Beta 1](http://android-developers.googleblog.com/2023/04/android-14-beta-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 11 2023 - [Android App Links: Deploy assetlinks.json in minutes](https://medium.com/androiddevelopers/android-app-links-deploy-assetlinks-json-in-minutes-d7082dffcac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -74,7 +75,6 @@
 - Mar 07 2023 - [Tune in on Thursday to watch #TheAndroidShow](http://android-developers.googleblog.com/2023/03/tune-in-on-thursday-to-watch-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
-- Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
