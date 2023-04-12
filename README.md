@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 12 2023 - [Android 14 Beta 1](http://android-developers.googleblog.com/2023/04/android-14-beta-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 11 2023 - [Android App Links: Deploy assetlinks.json in minutes](https://medium.com/androiddevelopers/android-app-links-deploy-assetlinks-json-in-minutes-d7082dffcac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [Android App Links implementation in a few steps!](https://medium.com/androiddevelopers/android-app-links-implementation-in-a-few-steps-df66a8a538c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [Top takeaways from Google for Games Developer Summit](https://www.youtube.com/watch?v=-QGd84IyxRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -74,7 +75,6 @@
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
 - Mar 06 2023 - [Keeping Android and Google Play safe with our key 2023 initiatives](http://android-developers.googleblog.com/2023/03/keeping-google-play-safe-with-our-key-2023-initiatives.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 28 2023 - [Policy Updates: New Wear OS App Quality Requirements](http://android-developers.googleblog.com/2023/02/policy-updates-new-wear-os-app-quality-requirements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
