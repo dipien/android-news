@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 12 2023 - [Android 14 Beta 1](http://android-developers.googleblog.com/2023/04/android-14-beta-1.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 11 2023 - [Android App Links: Deploy assetlinks.json in minutes](https://medium.com/androiddevelopers/android-app-links-deploy-assetlinks-json-in-minutes-d7082dffcac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [Android App Links implementation in a few steps!](https://medium.com/androiddevelopers/android-app-links-implementation-in-a-few-steps-df66a8a538c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)
-- Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 03 2022 - [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
