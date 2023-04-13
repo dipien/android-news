@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 13 2023 - [Android Studio Flamingo is stable](http://android-developers.googleblog.com/2023/04/android-studio-flamingo-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 13 2023 - [Kotlin DSL is Now the Default for New Gradle Builds](http://android-developers.googleblog.com/2023/04/kotlin-dsl-is-now-default-for-new-gradle-builds.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2023 - [Bring your IOT apps to cars](http://android-developers.googleblog.com/2023/04/expanding-options-for-building-apps-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
@@ -72,7 +73,6 @@
 - Mar 08 2023 - [Firebase Test Lab #Shorts](https://www.youtube.com/watch?v=rwEm-xf0H-4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 08 2023 - [#WeArePlay - Meet Ania from Canada. More stories from USA, Australia and Montenegro](http://android-developers.googleblog.com/2023/03/weareplay-meet-ania-from-canada-more-stories-from-usa-australia-and-montenegro.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 08 2023 - [Android 14 Developer Preview 2](http://android-developers.googleblog.com/2023/03/android-14-developer-preview-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 07 2023 - [Let’s go. It’s Google I/O 2023](http://android-developers.googleblog.com/2023/03/lets-go-its-google-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
