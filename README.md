@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 13 2023 - [Monitor Cloud storage for Firebase upload progress with Kotlin Flows on Android](https://www.youtube.com/watch?v=r5dgjU7s5jA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 13 2023 - [Android Studio Flamingo is stable](http://android-developers.googleblog.com/2023/04/android-studio-flamingo-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 13 2023 - [Kotlin DSL is Now the Default for New Gradle Builds](http://android-developers.googleblog.com/2023/04/kotlin-dsl-is-now-default-for-new-gradle-builds.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 12 2023 - [Bring your IOT apps to cars](http://android-developers.googleblog.com/2023/04/expanding-options-for-building-apps-for-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -79,7 +80,6 @@
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 23 2023 - [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 22 2023 - [Better onboarding with anonymous authentication and account linking in Flutter #Shorts](https://www.youtube.com/watch?v=hEJ2aUe6QhI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
