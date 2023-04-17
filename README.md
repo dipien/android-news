@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 17 2023 - [Improvements and Changes to Compose’s Pointer Input](https://medium.com/androiddevelopers/improvements-and-changes-to-composes-pointer-input-6026904ac972?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 13 2023 - [What's new in Android Studio - Flamingo](https://www.youtube.com/watch?v=41VZhwrXAKI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 13 2023 - [Monitor Cloud storage for Firebase upload progress with Kotlin Flows on Android](https://www.youtube.com/watch?v=r5dgjU7s5jA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 13 2023 - [Android Studio Flamingo is stable](http://android-developers.googleblog.com/2023/04/android-studio-flamingo-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -54,7 +55,6 @@
 - Mar 22 2023 - [Now in Android #79](https://medium.com/androiddevelopers/now-in-android-79-4b309fda7cfc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 22 2023 - [Launching new #WeArePlay stories from India](http://android-developers.googleblog.com/2023/03/launching-new-weareplay-stories-from-india.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Mar 22 2023 - [Compose Layouts and Modifiers: MAD Skills Wrap-Up](https://medium.com/androiddevelopers/compose-layouts-and-modifiers-mad-skills-wrap-up-1fe4621c64?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 22 2023 - [What’s new in the Jetpack Compose March ’23 release](http://android-developers.googleblog.com/2023/03/whats-new-in-jetpack-compose-march-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
