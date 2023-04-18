@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 18 2023 - [Build engaging apps - App growth](https://www.youtube.com/watch?v=LKtXc08x7Bw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 18 2023 - [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 17 2023 - [Improvements and Changes to Compose’s Pointer Input](https://medium.com/androiddevelopers/improvements-and-changes-to-composes-pointer-input-6026904ac972?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 13 2023 - [What's new in Android Studio - Flamingo](https://www.youtube.com/watch?v=41VZhwrXAKI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -38,7 +39,6 @@
 - Apr 05 2023 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=_mFmIZ52Dsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=ZPKSdNOFBdg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play 정책 바이트 - 2023년 4월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=cFQjOqKE4o0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月ポリシー アップデート (Japanese）](https://www.youtube.com/watch?v=PlnosEoUSrY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
