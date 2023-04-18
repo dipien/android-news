@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 18 2023 - [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 17 2023 - [Improvements and Changes to Compose’s Pointer Input](https://medium.com/androiddevelopers/improvements-and-changes-to-composes-pointer-input-6026904ac972?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 13 2023 - [What's new in Android Studio - Flamingo](https://www.youtube.com/watch?v=41VZhwrXAKI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 13 2023 - [Monitor Cloud storage for Firebase upload progress with Kotlin Flows on Android](https://www.youtube.com/watch?v=r5dgjU7s5jA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -52,7 +53,6 @@
 - Mar 23 2023 - [Don’t Prewarm App Features](https://medium.com/androiddevelopers/dont-prewarm-app-features-118e0a2d4bb1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
-- Mar 22 2023 - [Now in Android #79](https://medium.com/androiddevelopers/now-in-android-79-4b309fda7cfc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 22 2023 - [Launching new #WeArePlay stories from India](http://android-developers.googleblog.com/2023/03/launching-new-weareplay-stories-from-india.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [What’s new in the Jetpack Compose March ’23 release](http://android-developers.googleblog.com/2023/03/whats-new-in-jetpack-compose-march-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
