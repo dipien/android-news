@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 19 2023 - [Using a BoM to manage Firebase dependencies on Android](https://www.youtube.com/watch?v=N5urQKJ5Y8w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2023 - [Automate your Firebase project creating with Terraform](https://www.youtube.com/watch?v=IIZtRJtNWFI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2023 - [Voice controlled workouts with Google Assistant](http://android-developers.googleblog.com/2023/04/voice-controlled-workouts-with-google-assistant.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -53,7 +54,6 @@
 - Mar 27 2023 - [Firestore realtime updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=GEOfFgBXnZs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 24 2023 - [Concepts users spend 70% more time using the app on tablets than on phones](http://android-developers.googleblog.com/2023/03/concepts-users-spend-more-time-using-app-on-tablets-than-phones.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-in-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 23 2023 - [Don’t Prewarm App Features](https://medium.com/androiddevelopers/dont-prewarm-app-features-118e0a2d4bb1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
 - Mar 22 2023 - [Launching new #WeArePlay stories from India](http://android-developers.googleblog.com/2023/03/launching-new-weareplay-stories-from-india.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
