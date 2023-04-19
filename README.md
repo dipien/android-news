@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 19 2023 - [Using a BoM to manage Firebase dependencies on Android](https://www.youtube.com/watch?v=N5urQKJ5Y8w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2023 - [Automate your Firebase project creating with Terraform](https://www.youtube.com/watch?v=IIZtRJtNWFI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2023 - [Voice controlled workouts with Google Assistant](http://android-developers.googleblog.com/2023/04/voice-controlled-workouts-with-google-assistant.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 18 2023 - [Build engaging apps - App growth](https://www.youtube.com/watch?v=LKtXc08x7Bw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -79,7 +80,6 @@
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Feb 28 2023 - [Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks](https://www.youtube.com/watch?v=odMXGxKIcS4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
