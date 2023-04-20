@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Apr 20 2023 - [What is PLR and how can it help to create accessible apps?](https://www.youtube.com/watch?v=Pm2GOQ8jTes) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 20 2023 - [Automatic Update Prompts for Crashing Apps](http://android-developers.googleblog.com/2023/04/automatic-update-prompts-for-crashing-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 19 2023 - [Using a BoM to manage Firebase dependencies on Android](https://www.youtube.com/watch?v=N5urQKJ5Y8w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2023 - [Automate your Firebase project creating with Terraform](https://www.youtube.com/watch?v=IIZtRJtNWFI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -75,7 +76,6 @@
 - Mar 09 2023 - [What it means to be an Android Google Developer Expert](http://android-developers.googleblog.com/2023/03/android-google-developer-experts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
 - Mar 08 2023 - [Firebase Test Lab #Shorts](https://www.youtube.com/watch?v=rwEm-xf0H-4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 08 2023 - [#WeArePlay - Meet Ania from Canada. More stories from USA, Australia and Montenegro](http://android-developers.googleblog.com/2023/03/weareplay-meet-ania-from-canada-more-stories-from-usa-australia-and-montenegro.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
 - Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
