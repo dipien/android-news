@@ -3,6 +3,7 @@
 <!-- NEWS:START -->
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android: 81 - Android Studio Flamingo, Android 14 Beta 1, Kotlin DSL, and more!](https://www.youtube.com/watch?v=nMmRpi47Jik) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 20 2023 - [Delivering an immersive sound experience with Spatial Audio](http://android-developers.googleblog.com/2023/04/delivering-immersive-sound-experience-with-spatial-audio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 20 2023 - [What is PLR and how can it help to create accessible apps?](https://www.youtube.com/watch?v=Pm2GOQ8jTes) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 20 2023 - [Automatic Update Prompts for Crashing Apps](http://android-developers.googleblog.com/2023/04/automatic-update-prompts-for-crashing-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -73,7 +74,6 @@
 - Mar 13 2023 - [Privacy Week for Android Developers](http://android-developers.googleblog.com/2023/03/privacy-week-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 10 2023 - [Withings reduces 50% of its data sync code by streamlining health and fitness API integrations with Health Connect](http://android-developers.googleblog.com/2023/03/withings-reduces-data-sync-code-with--health-and-fitness-api-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [Happening now! Unpacking the latest in large screens and foldables + MAD Skills on #TheAndroidShow](http://android-developers.googleblog.com/2023/03/the-android-show-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 09 2023 - [What it means to be an Android Google Developer Expert](http://android-developers.googleblog.com/2023/03/android-google-developer-experts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
 - Mar 08 2023 - [Firebase Test Lab #Shorts](https://www.youtube.com/watch?v=rwEm-xf0H-4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
