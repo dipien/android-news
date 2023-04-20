@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 20 2023 - [Now in Android: 81 - Android Studio Flamingo, Android 14 Beta 1, Kotlin DSL, and more!](https://www.youtube.com/watch?v=nMmRpi47Jik) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 20 2023 - [What is PLR and how can it help to create accessible apps?](https://www.youtube.com/watch?v=Pm2GOQ8jTes) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 20 2023 - [Automatic Update Prompts for Crashing Apps](http://android-developers.googleblog.com/2023/04/automatic-update-prompts-for-crashing-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -43,11 +45,9 @@
 - Apr 05 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril del 2023 (Spanish Latam)](https://www.youtube.com/watch?v=mds0jZTTHNI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=dnkscZBPOkc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=_mFmIZ52Dsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=ZPKSdNOFBdg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 30 2023 - [Bringing seamless authentication to your apps using Credential Manager API](https://medium.com/androiddevelopers/bringing-seamless-authentication-to-your-apps-using-credential-manager-api-b3f0d09e0093?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 29 2023 - [Firebase Realtime Database updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=-R0gBGxLfw4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
