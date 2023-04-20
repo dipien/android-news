@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 20 2023 - [What is PLR and how can it help to create accessible apps?](https://www.youtube.com/watch?v=Pm2GOQ8jTes) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 19 2023 - [Using a BoM to manage Firebase dependencies on Android](https://www.youtube.com/watch?v=N5urQKJ5Y8w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 18 2023 - [Automate your Firebase project creating with Terraform](https://www.youtube.com/watch?v=IIZtRJtNWFI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,7 +43,6 @@
 - Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=dnkscZBPOkc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=_mFmIZ52Dsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=ZPKSdNOFBdg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play 정책 바이트 - 2023년 4월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=cFQjOqKE4o0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
