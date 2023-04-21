@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 21 2023 - [Shape Morphing in Android](https://medium.com/androiddevelopers/shape-morphing-in-android-f5c36416a979?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android: 81 - Android Studio Flamingo, Android 14 Beta 1, Kotlin DSL, and more!](https://www.youtube.com/watch?v=nMmRpi47Jik) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 20 2023 - [Delivering an immersive sound experience with Spatial Audio](http://android-developers.googleblog.com/2023/04/delivering-immersive-sound-experience-with-spatial-audio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -38,7 +39,6 @@
 - Apr 06 2023 - [Clue’s development speed improves 3X after rebuilding the app with Jetpack Compose](http://android-developers.googleblog.com/2023/04/clues-development-speed-improves-after-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2023 - [First look: Use OR conditions in Firestore queries](https://www.youtube.com/watch?v=peS8pbWpPrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Apr 05 2023 - [Building Reddit Recap with Jetpack Compose on Android](https://medium.com/androiddevelopers/building-reddit-recap-with-jetpack-compose-on-android-dbe34ae4c957?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 05 2023 - [Giving Users More Transparency and Control Over Account Data](http://android-developers.googleblog.com/2023/04/giving-people-more-control-over-their-data.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 05 2023 - [Best practices for integrating SDKs into your app or game](https://www.youtube.com/watch?v=3klmiHX0uVQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - Pembaruan kebijakan April 2023](https://www.youtube.com/watch?v=rT4e2YyQNGQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
