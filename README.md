@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 24 2023 - [Photo Picker Everywhere](http://android-developers.googleblog.com/2023/04/photo-picker-everywhere.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 24 2023 - [Com2uS brings a seamless multi-platform gameplay experience with Google Play Games on PC](http://android-developers.googleblog.com/2023/04/com2us-brings-seamless-multi-platform-gameplay-experience-google-play-games-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 21 2023 - [Shape Morphing in Android](https://medium.com/androiddevelopers/shape-morphing-in-android-f5c36416a979?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -73,7 +74,6 @@
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 13 2023 - [Kakaonavi increased foldable adoption by 24.5% after optimizing its app for large screens](http://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2023 - [Privacy Week for Android Developers](http://android-developers.googleblog.com/2023/03/privacy-week-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 10 2023 - [Withings reduces 50% of its data sync code by streamlining health and fitness API integrations with Health Connect](http://android-developers.googleblog.com/2023/03/withings-reduces-data-sync-code-with--health-and-fitness-api-health-connect.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
 - Mar 08 2023 - [Firebase Test Lab #Shorts](https://www.youtube.com/watch?v=rwEm-xf0H-4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
