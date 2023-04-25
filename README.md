@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 25 2023 - [Apr 2023: Firestore OR and IN queries, Play Integrity, use TOTP for MFA, and Firebase at Google I/O!](https://www.youtube.com/watch?v=3o4vRTw5Ti4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 24 2023 - [Photo Picker Everywhere](http://android-developers.googleblog.com/2023/04/photo-picker-everywhere.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 24 2023 - [Com2uS brings a seamless multi-platform gameplay experience with Google Play Games on PC](http://android-developers.googleblog.com/2023/04/com2us-brings-seamless-multi-platform-gameplay-experience-google-play-games-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 21 2023 - [Shape Morphing in Android](https://medium.com/androiddevelopers/shape-morphing-in-android-f5c36416a979?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -78,7 +79,6 @@
 - Mar 08 2023 - [Firebase Test Lab #Shorts](https://www.youtube.com/watch?v=rwEm-xf0H-4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
-- Mar 02 2023 - [Add Firebase to your Flutter app: The fast way](https://www.youtube.com/watch?v=FkFvQ0SaT1I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 28 2023 - [Introduction to color guidance](https://www.youtube.com/watch?v=vv3lOGZrcdk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 16 2023 - [Top 10 Material Design updates from 2022 #Shorts](https://www.youtube.com/watch?v=sIoerRbqy7g) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
