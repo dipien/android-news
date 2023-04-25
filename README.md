@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 25 2023 - [#WeArePlay - Maria, AnnMaria and Dennis | 7 Generation Games | USA](https://www.youtube.com/watch?v=Cl5y65Yy4kM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 25 2023 - [Apr 2023: Firestore OR and IN queries, Play Integrity, use TOTP for MFA, and Firebase at Google I/O!](https://www.youtube.com/watch?v=3o4vRTw5Ti4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 24 2023 - [Photo Picker Everywhere](http://android-developers.googleblog.com/2023/04/photo-picker-everywhere.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 24 2023 - [Com2uS brings a seamless multi-platform gameplay experience with Google Play Games on PC](http://android-developers.googleblog.com/2023/04/com2us-brings-seamless-multi-platform-gameplay-experience-google-play-games-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -48,7 +49,6 @@
 - Apr 05 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung vom April 2023 (German)](https://www.youtube.com/watch?v=HYn1fzxD_HA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril del 2023 (Spanish Latam)](https://www.youtube.com/watch?v=mds0jZTTHNI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=dnkscZBPOkc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=_mFmIZ52Dsw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
