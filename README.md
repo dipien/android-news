@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 27 2023 - [Empezar con Firebase y la Web](https://www.youtube.com/watch?v=vjfzXNGG66k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 27 2023 - [Getting started with Firebase on the Web](https://www.youtube.com/watch?v=ILTo8IvFXJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 27 2023 - [Get ready for Google I/O](https://medium.com/googleplaydev/get-ready-for-google-i-o-d08acfc967e9?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 27 2023 - [Get ready for Google I/O](http://android-developers.googleblog.com/2023/04/get-ready-for-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 26 2023 - [Using WorkManager to upload large files to Cloud Storage](https://www.youtube.com/watch?v=OHuDWmyzYMo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -73,8 +75,6 @@
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 21 2023 - [Protect against email enumeration attacks #Shorts](https://www.youtube.com/watch?v=EGbZ3Kx9R0w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 20 2023 - [Evolution of Crash Management: Behind the Scenes with App Quality Insights](http://android-developers.googleblog.com/2023/03/evolution-of-crash-management-behind-the-scenes-app-quality-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 17 2023 - [Map Cloud Firestore data with Swift Codable #Shorts](https://www.youtube.com/watch?v=brHWxhlC7Ec) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 14 2023 - [Reduce cheating with Firebase App Check](https://www.youtube.com/watch?v=K1XU2y0YVtU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
