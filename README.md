@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 28 2023 - [Android Firebase Authentication with Google](https://medium.com/firebase-developers/android-firebase-authentication-with-google-1c2f6ca3a738?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 27 2023 - [Empezar con Firebase y la Web](https://www.youtube.com/watch?v=vjfzXNGG66k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 27 2023 - [Getting started with Firebase on the Web](https://www.youtube.com/watch?v=ILTo8IvFXJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 27 2023 - [Get ready for Google I/O](https://medium.com/googleplaydev/get-ready-for-google-i-o-d08acfc967e9?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
@@ -99,8 +100,7 @@
 - Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
 - Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 11 2022 - [Episode 191: Compose Lazy Layouts](http://adbackstage.libsyn.com/episode-191-compose-lazy-layouts) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Nov 08 2022 - [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Nov 08 2022 - [Building Shrine in Compose: Part 5 - Material Live](https://www.youtube.com/watch?v=zfCgp-r1J1s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
