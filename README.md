@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 03 2023 - [Android's road to I/O 2023 - The platform & app quality](https://www.youtube.com/watch?v=Rw0fWOIWbG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 03 2023 - [Android's road to I/O 2023 - Building for a multi-device world](https://www.youtube.com/watch?v=h3leoFrUdHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 03 2023 - [Android's road to I/O 2023 - Modern Android Development](https://www.youtube.com/watch?v=TBfiKC7Fgdw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2023 - [3 must know tips for Angular and Firebase](https://www.youtube.com/watch?v=G9Mi-Q-Z7gc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 02 2023 - [Catch Firebase at Google I/O!](https://www.youtube.com/watch?v=XPEoxTdF4NA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
@@ -59,9 +62,6 @@
 - Apr 05 2023 - [Giving Users More Transparency and Control Over Account Data](http://android-developers.googleblog.com/2023/04/giving-people-more-control-over-their-data.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 05 2023 - [Best practices for integrating SDKs into your app or game](https://www.youtube.com/watch?v=3klmiHX0uVQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Google Play PolicyBytes - Pembaruan kebijakan April 2023](https://www.youtube.com/watch?v=rT4e2YyQNGQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung vom April 2023 (German)](https://www.youtube.com/watch?v=HYn1fzxD_HA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Abril del 2023 (Spanish Latam)](https://www.youtube.com/watch?v=mds0jZTTHNI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - 2023 年 4 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=dnkscZBPOkc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
