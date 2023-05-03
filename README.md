@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 03 2023 - [3 must know tips for Angular and Firebase](https://www.youtube.com/watch?v=G9Mi-Q-Z7gc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 02 2023 - [Catch Firebase at Google I/O!](https://www.youtube.com/watch?v=XPEoxTdF4NA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
@@ -68,7 +69,6 @@
 - Mar 28 2023 - [Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 27 2023 - [Mercari reduces 355K lines of code, a 69% difference, by rebuilding with Jetpack Compose](http://android-developers.googleblog.com/2023/03/mercari-reduces-lines-of-code-by-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 27 2023 - [Firestore realtime updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=GEOfFgBXnZs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 24 2023 - [Concepts users spend 70% more time using the app on tablets than on phones](http://android-developers.googleblog.com/2023/03/concepts-users-spend-more-time-using-app-on-tablets-than-phones.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-in-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
