@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 03 2023 - [Get ready for I/O ‘23: start planning your sessions, and take a look at some of Android’s favorite moments!](http://android-developers.googleblog.com/2023/05/get-ready-for-io-23-android-sessions-and-favorite-moments.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 03 2023 - [Android's road to I/O 2023 - The platform & app quality](https://www.youtube.com/watch?v=Rw0fWOIWbG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2023 - [Android's road to I/O 2023 - Building for a multi-device world](https://www.youtube.com/watch?v=h3leoFrUdHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2023 - [Android's road to I/O 2023 - Modern Android Development](https://www.youtube.com/watch?v=TBfiKC7Fgdw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -79,7 +80,6 @@
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 20 2023 - [Evolution of Crash Management: Behind the Scenes with App Quality Insights](http://android-developers.googleblog.com/2023/03/evolution-of-crash-management-behind-the-scenes-app-quality-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 14 2023 - [Key product updates from the 2023 Google for Games Developer Summit](http://android-developers.googleblog.com/2023/03/GGDS-recap-blog.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
