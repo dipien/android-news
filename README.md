@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 04 2023 - [Now in Android #82](https://medium.com/androiddevelopers/now-in-android-82-5acc32eabe78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- May 04 2023 - [Now in Android: 82 - Google I/O, Spatial Audio, automatic update prompts for crashing apps, & more!](https://www.youtube.com/watch?v=OskFa0_U-3I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2023 - [Get ready for I/O ‘23: start planning your sessions, and take a look at some of Android’s favorite moments!](http://android-developers.googleblog.com/2023/05/get-ready-for-io-23-android-sessions-and-favorite-moments.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 03 2023 - [Android's road to I/O 2023 - The platform & app quality](https://www.youtube.com/watch?v=Rw0fWOIWbG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2023 - [Android's road to I/O 2023 - Building for a multi-device world](https://www.youtube.com/watch?v=h3leoFrUdHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -56,13 +58,11 @@
 - Apr 06 2023 - [Now in Android: 80 - Media3, Jetpack Compose 1.4, Crash Management, and more!](https://www.youtube.com/watch?v=5UBWUhXN34Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Getting started with Account Linking and Anonymous Authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Accessibility services and how users interact with them](https://www.youtube.com/watch?v=TJsIVB5Y35U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 06 2023 - [Customizing Compose Pager with fun indicators and transitions](https://medium.com/androiddevelopers/customizing-compose-pager-with-fun-indicators-and-transitions-12b3b69af2cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Clue’s development speed improves 3X after rebuilding the app with Jetpack Compose](http://android-developers.googleblog.com/2023/04/clues-development-speed-improves-after-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2023 - [First look: Use OR conditions in Firestore queries](https://www.youtube.com/watch?v=peS8pbWpPrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 05 2023 - [Giving Users More Transparency and Control Over Account Data](http://android-developers.googleblog.com/2023/04/giving-people-more-control-over-their-data.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 05 2023 - [Best practices for integrating SDKs into your app or game](https://www.youtube.com/watch?v=3klmiHX0uVQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 05 2023 - [Google Play PolicyBytes - Pembaruan kebijakan April 2023](https://www.youtube.com/watch?v=rT4e2YyQNGQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
