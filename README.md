@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 04 2023 - [Media transcoding and editing, transform and roll out!](http://android-developers.googleblog.com/2023/05/media-transcoding-and-editing-transform-and-roll-out.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [How to optimize your Android app for large screens (And what NOT to do!)](http://android-developers.googleblog.com/2023/05/optimizing-your-android-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [Now in Android #82](https://medium.com/androiddevelopers/now-in-android-82-5acc32eabe78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 04 2023 - [Now in Android: 82 - Google I/O, Spatial Audio, automatic update prompts for crashing apps, & more!](https://www.youtube.com/watch?v=OskFa0_U-3I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -77,7 +78,6 @@
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
 - Mar 22 2023 - [Launching new #WeArePlay stories from India](http://android-developers.googleblog.com/2023/03/launching-new-weareplay-stories-from-india.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Mar 22 2023 - [What’s new in the Jetpack Compose March ’23 release](http://android-developers.googleblog.com/2023/03/whats-new-in-jetpack-compose-march-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
