@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 04 2023 - [How to optimize your Android app for large screens (And what NOT to do!)](http://android-developers.googleblog.com/2023/05/optimizing-your-android-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [Now in Android #82](https://medium.com/androiddevelopers/now-in-android-82-5acc32eabe78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 04 2023 - [Now in Android: 82 - Google I/O, Spatial Audio, automatic update prompts for crashing apps, & more!](https://www.youtube.com/watch?v=OskFa0_U-3I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2023 - [Get ready for I/O ‘23: start planning your sessions, and take a look at some of Android’s favorite moments!](http://android-developers.googleblog.com/2023/05/get-ready-for-io-23-android-sessions-and-favorite-moments.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -79,7 +80,6 @@
 - Mar 22 2023 - [What’s new in the Jetpack Compose March ’23 release](http://android-developers.googleblog.com/2023/03/whats-new-in-jetpack-compose-march-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Mar 20 2023 - [Evolution of Crash Management: Behind the Scenes with App Quality Insights](http://android-developers.googleblog.com/2023/03/evolution-of-crash-management-behind-the-scenes-app-quality-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
