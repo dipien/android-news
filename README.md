@@ -1,9 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2023 - [Coming to Google I/O: Advanced state and side effects in Compose](https://www.youtube.com/watch?v=wkQQ9KhATZM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 04 2023 - [Media transcoding and editing, transform and roll out!](http://android-developers.googleblog.com/2023/05/media-transcoding-and-editing-transform-and-roll-out.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 04 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [How to optimize your Android app for large screens (And what NOT to do!)](http://android-developers.googleblog.com/2023/05/optimizing-your-android-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [Now in Android #82](https://medium.com/androiddevelopers/now-in-android-82-5acc32eabe78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 04 2023 - [Now in Android: 82 - Google I/O, Spatial Audio, automatic update prompts for crashing apps, & more!](https://www.youtube.com/watch?v=OskFa0_U-3I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
