@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 08 2023 - [Latest updates in Firestore](https://www.youtube.com/watch?v=Vwx2gM1XXJ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2023 - [Coming to Google I/O: Advanced state and side effects in Compose](https://www.youtube.com/watch?v=wkQQ9KhATZM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 04 2023 - [Media transcoding and editing, transform and roll out!](http://android-developers.googleblog.com/2023/05/media-transcoding-and-editing-transform-and-roll-out.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -70,7 +71,6 @@
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 03 2023 - [What’s new in WindowManager 1.1.0-beta01](http://android-developers.googleblog.com/2023/04/whats-new-in-windowmanager-110-beta01.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 29 2023 - [Firebase Realtime Database updates with Kotlin Flows in Android #Shorts](https://www.youtube.com/watch?v=-R0gBGxLfw4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 28 2023 - [Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform](https://www.youtube.com/watch?v=pwPSS6OP8YM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 27 2023 - [Mercari reduces 355K lines of code, a 69% difference, by rebuilding with Jetpack Compose](http://android-developers.googleblog.com/2023/03/mercari-reduces-lines-of-code-by-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 24 2023 - [Concepts users spend 70% more time using the app on tablets than on phones](http://android-developers.googleblog.com/2023/03/concepts-users-spend-more-time-using-app-on-tablets-than-phones.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
