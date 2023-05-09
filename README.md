@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 09 2023 - [Baked something special for 'What's new in Android'](https://www.youtube.com/watch?v=FxQ0JeAhlzo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 08 2023 - [Latest updates in Firestore](https://www.youtube.com/watch?v=Vwx2gM1XXJ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 05 2023 - [Coming to Google I/O: Advanced state and side effects in Compose](https://www.youtube.com/watch?v=wkQQ9KhATZM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -62,7 +63,6 @@
 - Apr 06 2023 - [Now in Android #80](https://medium.com/androiddevelopers/now-in-android-80-3eca146ea3c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Now in Android: 80 - Media3, Jetpack Compose 1.4, Crash Management, and more!](https://www.youtube.com/watch?v=5UBWUhXN34Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Getting started with Account Linking and Anonymous Authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Apr 06 2023 - [Accessibility services and how users interact with them](https://www.youtube.com/watch?v=TJsIVB5Y35U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Clue’s development speed improves 3X after rebuilding the app with Jetpack Compose](http://android-developers.googleblog.com/2023/04/clues-development-speed-improves-after-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 06 2023 - [First look: Use OR conditions in Firestore queries](https://www.youtube.com/watch?v=peS8pbWpPrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
