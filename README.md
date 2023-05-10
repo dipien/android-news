@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 10 2023 - [What's new in Google Play in less than 1 minute](https://www.youtube.com/watch?v=DblSgZ0NarQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 10 2023 - [Dropbox took 40% less time to rebuild search feature using Compose](https://www.youtube.com/watch?v=quY2B_6shy0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 10 2023 - [What's new in Android in less than 1 minute](https://www.youtube.com/watch?v=uYUvj5l5RnQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Android Developer Story: Peloton across screens](https://www.youtube.com/watch?v=mSejMEIbAzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -32,10 +35,7 @@
 - May 10 2023 - [What's new in Firebase Crashlytics](https://www.youtube.com/watch?v=UmAFhPeCNF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Debugging Jetpack Compose](https://www.youtube.com/watch?v=Kp-aiSU8qCU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [What's new in Android development tools](https://www.youtube.com/watch?v=7lubRrkxagk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 10 2023 - [10 things to know about the Privacy Sandbox on Android](https://www.youtube.com/watch?v=rOtYqxaSnco) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Building for the future of Android](https://www.youtube.com/watch?v=WMMPXayjP8g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [14 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2023/05/14-things-to-know-for-android-developers-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
