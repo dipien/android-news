@@ -2,7 +2,10 @@
 
 <!-- NEWS:START -->
 - May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- May 10 2023 - [Introducing the Android Design Hub: The ultimate resource for building exceptional user interfaces across all form factors](http://android-developers.googleblog.com/2023/05/introducing-android-ui-design-hub.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Android Performance — Google I/O 2023 edition](https://medium.com/androiddevelopers/whats-new-in-android-performance-google-i-o-2023-edition-21a1832c9fa3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
+- May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
 - May 09 2023 - [Baked something special for 'What's new in Android'](https://www.youtube.com/watch?v=FxQ0JeAhlzo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 08 2023 - [Latest updates in Firestore](https://www.youtube.com/watch?v=Vwx2gM1XXJ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -75,7 +78,6 @@
 - Mar 27 2023 - [Mercari reduces 355K lines of code, a 69% difference, by rebuilding with Jetpack Compose](http://android-developers.googleblog.com/2023/03/mercari-reduces-lines-of-code-by-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 24 2023 - [Concepts users spend 70% more time using the app on tablets than on phones](http://android-developers.googleblog.com/2023/03/concepts-users-spend-more-time-using-app-on-tablets-than-phones.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Play Commerce prevented over $2 billion in fraudulent and abusive transactions in 2022](http://android-developers.googleblog.com/2023/03/play-commerce-prevented-fraudulent-and-abusive-transactions-in-2022.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 23 2023 - [Media3 is ready to play!](http://android-developers.googleblog.com/2023/03/media3-is-ready-to-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
@@ -98,9 +100,7 @@
 - Dec 12 2022 - [Gain control of your Firebase Extension with Firebase Extension Events](https://medium.com/firebase-developers/gain-more-control-of-our-firebase-extension-with-firebase-extension-event-f5baeb6d4785?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2022 - [How to build a URL shortener for free with Firebase](https://medium.com/firebase-developers/firebase-url-shortener-7754377478e0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 09 2022 - [Measuring the impact font grade has on text readability #Shorts](https://www.youtube.com/watch?v=ulHaXHAcHaA) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Dec 05 2022 - [How Google is humanizing UI design #Shorts](https://www.youtube.com/watch?v=rJRc07ntBOg) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 07 2022 - [Google’s new color system, HCT #Shorts](https://www.youtube.com/watch?v=apl8aoLPVYc) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
