@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- May 10 2023 - [What’s new in Android Performance — Google I/O 2023 edition](https://medium.com/androiddevelopers/whats-new-in-android-performance-google-i-o-2023-edition-21a1832c9fa3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 09 2023 - [Baked something special for 'What's new in Android'](https://www.youtube.com/watch?v=FxQ0JeAhlzo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 08 2023 - [Latest updates in Firestore](https://www.youtube.com/watch?v=Vwx2gM1XXJ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -53,14 +55,12 @@
 - Apr 11 2023 - [Android App Links: Deploy assetlinks.json in minutes](https://medium.com/androiddevelopers/android-app-links-deploy-assetlinks-json-in-minutes-d7082dffcac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [Android App Links implementation in a few steps!](https://medium.com/androiddevelopers/android-app-links-implementation-in-a-few-steps-df66a8a538c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [Top takeaways from Google for Games Developer Summit](https://www.youtube.com/watch?v=-QGd84IyxRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Apr 11 2023 - [5 ways to prepare your app build for Android Studio Flamingo release](https://medium.com/androiddevelopers/5-ways-to-prepare-your-app-build-for-android-studio-flamingo-release-da34616bb946?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 11 2023 - [What's new in multiplatform Jetpack libraries](http://android-developers.googleblog.com/2023/04/whats-new-in-jetpack-multiplatform.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 10 2023 - [Reduce uninstalls for your app with auto-archive](http://android-developers.googleblog.com/2023/04/reduce-uninstalls-for-your-app-with-auto-archive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 10 2023 - [CameraX CameraController basics](https://www.youtube.com/watch?v=fazzQs-O31U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2023 - [CameraX setup and permissions](https://www.youtube.com/watch?v=XUN6mUQiDpg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2023 - [CameraX CameraProvider basics](https://www.youtube.com/watch?v=OfjPOUunkc8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 07 2023 - [Map Firestore documents using Swift Codable](https://www.youtube.com/watch?v=1ZkR27pws0I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Apr 06 2023 - [Now in Android #80](https://medium.com/androiddevelopers/now-in-android-80-3eca146ea3c9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Now in Android: 80 - Media3, Jetpack Compose 1.4, Crash Management, and more!](https://www.youtube.com/watch?v=5UBWUhXN34Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 06 2023 - [Getting started with Account Linking and Anonymous Authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 06 2023 - [Clue’s development speed improves 3X after rebuilding the app with Jetpack Compose](http://android-developers.googleblog.com/2023/04/clues-development-speed-improves-after-rebuilding-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
