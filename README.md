@@ -3,7 +3,7 @@
 <!-- NEWS:START -->
 - May 10 2023 - [What's new in Google Play in less than 1 minute](https://www.youtube.com/watch?v=DblSgZ0NarQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Dropbox took 40% less time to rebuild search feature using Compose](https://www.youtube.com/watch?v=quY2B_6shy0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 10 2023 - [What's new in Android in less than 1 minute](https://www.youtube.com/watch?v=uYUvj5l5RnQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 10 2023 - [What's new in Android Accessibility in less than 1 minute](https://www.youtube.com/watch?v=uYUvj5l5RnQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Android Developer Story: Peloton across screens](https://www.youtube.com/watch?v=mSejMEIbAzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
