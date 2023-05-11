@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 11 2023 - [Fixing content labels in PLR](https://www.youtube.com/watch?v=Xhdpq7S8jLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What's new in Android in less than 1 minute](https://www.youtube.com/watch?v=GpQF0dAJtWo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What's new in Google Play in less than 1 minute](https://www.youtube.com/watch?v=DblSgZ0NarQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -33,7 +34,6 @@
 - May 10 2023 - [Advanced state and side effects in Jetpack Compose](https://www.youtube.com/watch?v=TbxCz5AljQk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Ship faster with feature flags using Firebase Remote Config](https://www.youtube.com/watch?v=vWJ8wDzeEg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Best practices for saving UI state on Android](https://www.youtube.com/watch?v=V-s4z7B_Gnc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 10 2023 - [What's new in Kotlin for Android](https://www.youtube.com/watch?v=QGtB--ABiNM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What's new in Firebase Crashlytics](https://www.youtube.com/watch?v=UmAFhPeCNF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -42,9 +42,9 @@
 - May 10 2023 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Google I/O 2023: What's new in Jetpack](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Second Beta of Android 14](http://android-developers.googleblog.com/2023/05/android-14-beta-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 10 2023 - [I/O 2023: What’s new in Google Play](http://android-developers.googleblog.com/2023/05/io-2023-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Price in-app products with confidence by running price experiments in Play Console](http://android-developers.googleblog.com/2023/05/price-experiments-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Build smarter Android apps with on-device Machine Learning](http://android-developers.googleblog.com/2023/05/build-smarter-android-apps-with-on-device-machine-learning.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [I/O 2023: What’s new in Google Play](http://android-developers.googleblog.com/2023/05/io-2023-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Android Health](http://android-developers.googleblog.com/2023/05/whats-new-in-android-health.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Android Studio @ I/O ‘23: Announcing Studio Bot, an AI-powered coding assistant](http://android-developers.googleblog.com/2023/05/android-studio-io-23-announcing-studio-bot.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Introducing the Watch Face Format for Wear OS](http://android-developers.googleblog.com/2023/05/introducing-watch-face-format-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
