@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - May 11 2023 - [Fixing content labels in PLR](https://www.youtube.com/watch?v=Xhdpq7S8jLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 11 2023 - [WPS uses ML Kit to seamlessly translate 43 languages and net $65M in annual savings](http://android-developers.googleblog.com/2023/05/wps-uses-ml-kit-to-seamlessly-translate-languages-and-net-annual-savings.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What's new in Android in less than 1 minute](https://www.youtube.com/watch?v=GpQF0dAJtWo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What's new in Google Play in less than 1 minute](https://www.youtube.com/watch?v=DblSgZ0NarQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -77,7 +78,6 @@
 - Apr 24 2023 - [Com2uS brings a seamless multi-platform gameplay experience with Google Play Games on PC](http://android-developers.googleblog.com/2023/04/com2us-brings-seamless-multi-platform-gameplay-experience-google-play-games-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 21 2023 - [Shape Morphing in Android](https://medium.com/androiddevelopers/shape-morphing-in-android-f5c36416a979?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 20 2023 - [Delivering an immersive sound experience with Spatial Audio](http://android-developers.googleblog.com/2023/04/delivering-immersive-sound-experience-with-spatial-audio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 18 2023 - [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 17 2023 - [Improvements and Changes to Compose’s Pointer Input](https://medium.com/androiddevelopers/improvements-and-changes-to-composes-pointer-input-6026904ac972?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
