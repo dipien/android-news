@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Catch up on the highlights from Firebase @ Google I/O ‘23](https://www.youtube.com/watch?v=rGqj6U7SawA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 11 2023 - [Fixing content labels in PLR](https://www.youtube.com/watch?v=Xhdpq7S8jLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -83,7 +84,6 @@
 - Apr 18 2023 - [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 17 2023 - [Improvements and Changes to Compose’s Pointer Input](https://medium.com/androiddevelopers/improvements-and-changes-to-composes-pointer-input-6026904ac972?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Apr 11 2023 - [Android App Links: Deploy assetlinks.json in minutes](https://medium.com/androiddevelopers/android-app-links-deploy-assetlinks-json-in-minutes-d7082dffcac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
