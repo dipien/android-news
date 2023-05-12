@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Catch up on the highlights from Firebase @ Google I/O ‘23](https://www.youtube.com/watch?v=rGqj6U7SawA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
@@ -67,7 +68,6 @@
 - May 04 2023 - [How to optimize your Android app for large screens (And what NOT to do!)](http://android-developers.googleblog.com/2023/05/optimizing-your-android-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [Now in Android #82](https://medium.com/androiddevelopers/now-in-android-82-5acc32eabe78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 03 2023 - [Get ready for I/O ‘23: start planning your sessions, and take a look at some of Android’s favorite moments!](http://android-developers.googleblog.com/2023/05/get-ready-for-io-23-android-sessions-and-favorite-moments.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 03 2023 - [3 must know tips for Angular and Firebase](https://www.youtube.com/watch?v=G9Mi-Q-Z7gc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
 - Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
