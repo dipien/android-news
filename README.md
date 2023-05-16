@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 16 2023 - [Live Google Pay integrations on Android: A modern Google Pay integration](https://www.youtube.com/watch?v=wD1_GVIdd6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Catch up on the highlights from Firebase @ Google I/O ‘23](https://www.youtube.com/watch?v=rGqj6U7SawA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -38,7 +39,6 @@
 - May 10 2023 - [How to build a data layer](https://www.youtube.com/watch?v=P125nWICYps) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Advanced state and side effects in Jetpack Compose](https://www.youtube.com/watch?v=TbxCz5AljQk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Ship faster with feature flags using Firebase Remote Config](https://www.youtube.com/watch?v=vWJ8wDzeEg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [Best practices for saving UI state on Android](https://www.youtube.com/watch?v=V-s4z7B_Gnc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What's new in Firebase Crashlytics](https://www.youtube.com/watch?v=UmAFhPeCNF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
