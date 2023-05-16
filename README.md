@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 16 2023 - [`ViewCompositionStrategy` Demystefied](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 16 2023 - [Live Google Pay integrations on Android: A modern Google Pay integration](https://www.youtube.com/watch?v=wD1_GVIdd6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -82,7 +83,6 @@
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 18 2023 - [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 17 2023 - [Improvements and Changes to Compose’s Pointer Input](https://medium.com/androiddevelopers/improvements-and-changes-to-composes-pointer-input-6026904ac972?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
