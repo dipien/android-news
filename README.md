@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 17 2023 - [Live Google Pay integrations on Android: A modern Google Pay integration](https://www.youtube.com/watch?v=wD1_GVIdd6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [How to get the best of Play monetization](https://www.youtube.com/watch?v=cVOjiCSuWQ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [Android game graphics - OpenGL ES vs. Vulkan case study](https://www.youtube.com/watch?v=C7OjI7CpjLw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [Squeezing out the last 5% of performance: AGDE, profile-guided optimization, and automation](https://www.youtube.com/watch?v=CNbpFTyHOe8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -9,7 +10,6 @@
 - May 16 2023 - [Google Play Games on PC: Multiplatform experience critical for growth](https://www.youtube.com/watch?v=WKKME28Y82w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [Improving game performance with Android Dynamic Performance Framework](https://www.youtube.com/watch?v=Pn1mH86Rwis) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 16 2023 - [Live Google Pay integrations on Android: A modern Google Pay integration](https://www.youtube.com/watch?v=wD1_GVIdd6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Catch up on the highlights from Firebase @ Google I/O ‘23](https://www.youtube.com/watch?v=rGqj6U7SawA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
