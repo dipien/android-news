@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- May 17 2023 - [Now in Android: 83 - Android at Google I/O, second Beta of Android 14, and more!](https://www.youtube.com/watch?v=L8HvWVc59Vo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Live Google Pay integrations on Android: A modern Google Pay integration](https://www.youtube.com/watch?v=wD1_GVIdd6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -26,7 +28,6 @@
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Android Developer Story: Peloton across screens](https://www.youtube.com/watch?v=mSejMEIbAzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Meet Studio Bot - the AI powered coding assistant in Android Studio](https://www.youtube.com/watch?v=kfbXQbt7TBg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to enhance your app security with new features in Firebase App Check](https://www.youtube.com/watch?v=iYA0QYP9ocw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Faster, cheaper serverless APIs for your Firebase app](https://www.youtube.com/watch?v=EIA58FKrA8Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -83,7 +84,6 @@
 - Apr 24 2023 - [Com2uS brings a seamless multi-platform gameplay experience with Google Play Games on PC](http://android-developers.googleblog.com/2023/04/com2us-brings-seamless-multi-platform-gameplay-experience-google-play-games-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 21 2023 - [Shape Morphing in Android](https://medium.com/androiddevelopers/shape-morphing-in-android-f5c36416a979?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 19 2023 - [The Shape of Things to Come](https://medium.com/androiddevelopers/the-shape-of-things-to-come-1c7663d9dbc0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
