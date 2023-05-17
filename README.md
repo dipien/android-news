@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Live Google Pay integrations on Android: A modern Google Pay integration](https://www.youtube.com/watch?v=wD1_GVIdd6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [How to get the best of Play monetization](https://www.youtube.com/watch?v=cVOjiCSuWQ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
-- Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Jan 18 2023 - [How To Authenticate to Firebase Using Email and Password in Jetpack Compose](https://medium.com/firebase-developers/how-to-authenticate-to-firebase-using-email-and-password-in-jetpack-compose-bd70ca56ea91?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
