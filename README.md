@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 18 2023 - [Fixing color contrast issues in PLR](https://www.youtube.com/watch?v=t9HQVTLvS6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Now in Android: 83 - Android at Google I/O, second Beta of Android 14, and more!](https://www.youtube.com/watch?v=L8HvWVc59Vo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -27,7 +28,6 @@
 - May 10 2023 - [Dropbox took 40% less time to rebuild search feature using Compose](https://www.youtube.com/watch?v=quY2B_6shy0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What's new in Android Accessibility in less than 1 minute](https://www.youtube.com/watch?v=uYUvj5l5RnQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 10 2023 - [Android Developer Story: Peloton across screens](https://www.youtube.com/watch?v=mSejMEIbAzU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to enhance your app security with new features in Firebase App Check](https://www.youtube.com/watch?v=iYA0QYP9ocw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
