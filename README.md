@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 23 2023 - [May 2023: Firebase updates from Google I/O, get started w/ PaLM AI,Python support＆Flutter on Windows](https://www.youtube.com/watch?v=AejfDKJtsjU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 18 2023 - [Fixing color contrast issues in PLR](https://www.youtube.com/watch?v=t9HQVTLvS6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -69,7 +70,6 @@
 - May 10 2023 - [What’s new in Android Performance — Google I/O 2023 edition](https://medium.com/androiddevelopers/whats-new-in-android-performance-google-i-o-2023-edition-21a1832c9fa3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
-- May 08 2023 - [Latest updates in Firestore](https://www.youtube.com/watch?v=Vwx2gM1XXJ4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [Media transcoding and editing, transform and roll out!](http://android-developers.googleblog.com/2023/05/media-transcoding-and-editing-transform-and-roll-out.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [How to optimize your Android app for large screens (And what NOT to do!)](http://android-developers.googleblog.com/2023/05/optimizing-your-android-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
