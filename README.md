@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 24 2023 - [Studio Bot - Android Developers Backstage](https://www.youtube.com/watch?v=jeuAR8qMePg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 23 2023 - [May 2023: Firebase updates from Google I/O, get started w/ PaLM AI,Python support＆Flutter on Windows](https://www.youtube.com/watch?v=AejfDKJtsjU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
 - Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)
-- Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Feb 02 2023 - [Material Design Components for Android 1.8.0](https://material.io/blog/android-stable-release-1-8-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Feb 15 2023 - [Episode 195: Mainlining](http://adbackstage.libsyn.com/episode-195-mainlining) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
