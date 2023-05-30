@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](https://www.youtube.com/watch?v=B91ztNPq_cs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 24 2023 - [Studio Bot - Android Developers Backstage](https://www.youtube.com/watch?v=jeuAR8qMePg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -84,7 +85,6 @@
 - Apr 27 2023 - [Get ready for Google I/O](http://android-developers.googleblog.com/2023/04/get-ready-for-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 25 2023 - [U-NEXT sees 1.5X increase in tablet installations after boosting support for large screens](http://android-developers.googleblog.com/2023/04/u-next-sees-increase-in-tablet-installations-after-boosting-support-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 25 2023 - [#WeArePlay - Meet Maria, AnnMaria and Dennis from the USA. More stories from around the world](http://android-developers.googleblog.com/2023/04/weareplay-meet-maria-annmaria-and-dennis-from-the-usa-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 24 2023 - [Photo Picker Everywhere](http://android-developers.googleblog.com/2023/04/photo-picker-everywhere.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 21 2023 - [Shape Morphing in Android](https://medium.com/androiddevelopers/shape-morphing-in-android-f5c36416a979?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 20 2023 - [Now in Android #81](https://medium.com/androiddevelopers/now-in-android-81-5e05923c1644?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
