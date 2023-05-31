@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 31 2023 - [FLIP on Firestore](https://www.youtube.com/watch?v=Y6Of3AHh4os) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](https://www.youtube.com/watch?v=B91ztNPq_cs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
@@ -49,7 +50,6 @@
 - May 10 2023 - [What's new in Firebase](https://www.youtube.com/watch?v=emIxn-f9bK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [What's new in Firebase's Android SDK](https://www.youtube.com/watch?v=nYGg_8Ro5VE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Ship faster with feature flags using Firebase Remote Config](https://www.youtube.com/watch?v=vWJ8wDzeEg0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [What's new in Firebase Crashlytics](https://www.youtube.com/watch?v=UmAFhPeCNF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
