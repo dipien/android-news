@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 01 2023 - [#WeArePlay - Tessa and Saasha | Olio | UK](https://www.youtube.com/watch?v=2qf3m868Fd0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 31 2023 - [FLIP on Firestore](https://www.youtube.com/watch?v=Y6Of3AHh4os) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](https://www.youtube.com/watch?v=B91ztNPq_cs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -32,7 +33,6 @@
 - May 11 2023 - [WPS uses ML Kit to seamlessly translate 43 languages and net $65M in annual savings](http://android-developers.googleblog.com/2023/05/wps-uses-ml-kit-to-seamlessly-translate-languages-and-net-annual-savings.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What's new in Android in less than 1 minute](https://www.youtube.com/watch?v=GpQF0dAJtWo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [What's new in Google Play in less than 1 minute](https://www.youtube.com/watch?v=DblSgZ0NarQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
