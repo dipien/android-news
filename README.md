@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 02 2023 - [Google Play PolicyBytes - Safe SDKs](https://www.youtube.com/watch?v=GN53V_nqBV4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2023 - [Upcoming changes to InAppProducts API and subscription catalog management](http://android-developers.googleblog.com/2023/06/changes-to-google-play-developer-api-june-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [Now in Android: 84 - Top MAD things at I/O, Designing for Wear OS, InteractionSource, and more!](https://www.youtube.com/watch?v=aba5jXV8k8A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -33,7 +34,6 @@
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Catch up on the highlights from Firebase @ Google I/O ‘23](https://www.youtube.com/watch?v=rGqj6U7SawA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
-- May 11 2023 - [Fixing content labels in PLR](https://www.youtube.com/watch?v=Xhdpq7S8jLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 11 2023 - [WPS uses ML Kit to seamlessly translate 43 languages and net $65M in annual savings](http://android-developers.googleblog.com/2023/05/wps-uses-ml-kit-to-seamlessly-translate-languages-and-net-annual-savings.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
