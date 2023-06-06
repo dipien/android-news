@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Jun 06 2023 - [Top 3 things to know in Platform and App Quality at Google I/O '23](https://www.youtube.com/watch?v=zaUwrj9qlOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 06 2023 - [Top things to know in Android Platform and Quality at Google I/O '23](http://android-developers.googleblog.com/2023/06/android-platform-and-quality-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2023 - [Safe SDKs - 5 key takeaways](https://www.youtube.com/watch?v=CtXjJIKCeDQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 06 2023 - [What it means to be a Google Developer Expert - spotlight stories](http://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 02 2023 - [Google Play PolicyBytes - Safe SDKs](https://www.youtube.com/watch?v=GN53V_nqBV4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -80,7 +81,6 @@
 - May 04 2023 - [Media transcoding and editing, transform and roll out!](http://android-developers.googleblog.com/2023/05/media-transcoding-and-editing-transform-and-roll-out.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [How to optimize your Android app for large screens (And what NOT to do!)](http://android-developers.googleblog.com/2023/05/optimizing-your-android-app-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 04 2023 - [Now in Android #82](https://medium.com/androiddevelopers/now-in-android-82-5acc32eabe78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 03 2023 - [Get ready for I/O ‘23: start planning your sessions, and take a look at some of Android’s favorite moments!](http://android-developers.googleblog.com/2023/05/get-ready-for-io-23-android-sessions-and-favorite-moments.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
 - Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
