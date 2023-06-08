@@ -75,8 +75,6 @@
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
 - Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 27 2023 - [Get ready for Google I/O](https://medium.com/googleplaydev/get-ready-for-google-i-o-d08acfc967e9?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
@@ -100,7 +98,9 @@
 - Nov 04 2022 - [Episode 190: Performance Review](http://adbackstage.libsyn.com/episode-190-performance-review) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 24 2022 - [Material Design at Android Developer Summit 2022](https://material.io/blog/material-ads-2022) - [Material Design Blog](https://material.io/blog)
 - Oct 24 2022 - [Announcing Relay Alpha](https://material.io/blog/relay-in-alpha) - [Material Design Blog](https://material.io/blog)
-- Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Oct 24 2022 - [Material Design 3 for Compose is now stable](https://material.io/blog/material-3-compose-stable) - [Material Design Blog](https://material.io/blog)
+- Oct 20 2022 - [MDC-Android Stable release 1.7.0](https://material.io/blog/android-stable-release-1-7-0) - [Material Design Blog](https://material.io/blog)
+- Oct 18 2022 - [Introducing the M3 design kit for Figma](https://material.io/blog/material-3-figma-design-kit) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
