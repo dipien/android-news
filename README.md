@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 09 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Stripe](https://www.youtube.com/watch?v=fbkfB-FAaMg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [RePlay 2: New Data deletion controls in the Data safety section](https://www.youtube.com/watch?v=A7Pxy2OlDVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 07 2023 - [Firebase Hosting and Cloud Functions](https://www.youtube.com/watch?v=y3cMOapyRdk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -34,7 +35,6 @@
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
 - May 16 2023 - [How to get the best of Play monetization](https://www.youtube.com/watch?v=cVOjiCSuWQ4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [Android game graphics - OpenGL ES vs. Vulkan case study](https://www.youtube.com/watch?v=C7OjI7CpjLw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 16 2023 - [Squeezing out the last 5% of performance: AGDE, profile-guided optimization, and automation](https://www.youtube.com/watch?v=CNbpFTyHOe8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2023 - [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
