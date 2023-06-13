@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 13 2023 - [Crashlytics #Shorts](https://www.youtube.com/watch?v=SIF-0ulmDLw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jun 13 2023 - [Top 3 things to know in Multi-device for Android at Google I/O '23](https://www.youtube.com/watch?v=L3gFW97pn-s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Google Developer Expert Series: Zarah Dominguez](https://www.youtube.com/watch?v=qS932NaQBOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 12 2023 - [What is Studio Bot?](https://www.youtube.com/watch?v=sDdi4q0S4vI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2023 - [The AI powered coding assistant in Android Studio](https://www.youtube.com/watch?v=VKDt14jfq7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +33,6 @@
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 18 2023 - [Fixing color contrast issues in PLR](https://www.youtube.com/watch?v=t9HQVTLvS6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 17 2023 - [Now in Android: 83 - Android at Google I/O, second Beta of Android 14, and more!](https://www.youtube.com/watch?v=L8HvWVc59Vo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
@@ -57,7 +58,6 @@
 - May 10 2023 - [Manage Firebase projects with Terraform](https://www.youtube.com/watch?v=32SKh-jGXI4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Connect millions of developers to your product by building a Firebase Extension](https://www.youtube.com/watch?v=PLOw63DvZdc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [What's new in Firebase](https://www.youtube.com/watch?v=emIxn-f9bK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [What's new in Firebase's Android SDK](https://www.youtube.com/watch?v=nYGg_8Ro5VE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
