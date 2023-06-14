@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 13 2023 - [HDR on Android](https://www.youtube.com/watch?v=KgC3z5K-k5k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Crashlytics #Shorts](https://www.youtube.com/watch?v=SIF-0ulmDLw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2023 - [Top 3 things to know in Multi-device for Android at Google I/O '23](https://www.youtube.com/watch?v=L3gFW97pn-s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Google Developer Expert Series: Zarah Dominguez](https://www.youtube.com/watch?v=qS932NaQBOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - May 23 2023 - [May 2023: Firebase updates from Google I/O, get started w/ PaLM AI,Python support＆Flutter on Windows](https://www.youtube.com/watch?v=AejfDKJtsjU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
-- May 18 2023 - [Fixing color contrast issues in PLR](https://www.youtube.com/watch?v=t9HQVTLvS6U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
