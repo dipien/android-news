@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 14 2023 - [Run Firebase locally with this one weird trick!](https://www.youtube.com/watch?v=8cWdQY0Ksys) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2023 - [HDR on Android](https://www.youtube.com/watch?v=KgC3z5K-k5k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Crashlytics #Shorts](https://www.youtube.com/watch?v=SIF-0ulmDLw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2023 - [Top 3 things to know in Multi-device for Android at Google I/O '23](https://www.youtube.com/watch?v=L3gFW97pn-s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -57,7 +58,6 @@
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Manage Firebase projects with Terraform](https://www.youtube.com/watch?v=32SKh-jGXI4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Connect millions of developers to your product by building a Firebase Extension](https://www.youtube.com/watch?v=PLOw63DvZdc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [What's new in Firebase](https://www.youtube.com/watch?v=emIxn-f9bK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
