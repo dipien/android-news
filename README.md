@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jun 14 2023 - [Now in Android: 85 - Platform and Quality at I/O, Android 14 Beta 3, Jetpack releases, and more!](https://www.youtube.com/watch?v=Ck9wyUtGm1Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 14 2023 - [Run Firebase locally with this one weird trick!](https://www.youtube.com/watch?v=8cWdQY0Ksys) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2023 - [HDR on Android](https://www.youtube.com/watch?v=KgC3z5K-k5k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Crashlytics #Shorts](https://www.youtube.com/watch?v=SIF-0ulmDLw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -29,7 +31,6 @@
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](https://www.youtube.com/watch?v=B91ztNPq_cs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 24 2023 - [Studio Bot - Android Developers Backstage](https://www.youtube.com/watch?v=jeuAR8qMePg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 23 2023 - [May 2023: Firebase updates from Google I/O, get started w/ PaLM AI,Python support＆Flutter on Windows](https://www.youtube.com/watch?v=AejfDKJtsjU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
@@ -77,7 +78,6 @@
 - May 10 2023 - [Building pixel-perfect living room experiences with Compose for TV](http://android-developers.googleblog.com/2023/05/building-pixel-perfect-living-room-experiences-compose-for-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Introducing the Android Design Hub: The ultimate resource for building exceptional user interfaces across all form factors](http://android-developers.googleblog.com/2023/05/introducing-android-ui-design-hub.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [What’s new in Android Performance — Google I/O 2023 edition](https://medium.com/androiddevelopers/whats-new-in-android-performance-google-i-o-2023-edition-21a1832c9fa3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
 - May 05 2023 - [Improving Consistency of Background Work on Android](http://android-developers.googleblog.com/2023/05/improving-consistency-of-background-work-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
