@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 16 2023 - [Boost user activation and commitment](https://www.youtube.com/watch?v=K785Zh8_l9s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 15 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Stripe](https://www.youtube.com/watch?v=fbkfB-FAaMg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 15 2023 - [Fun design with Lazy layouts](https://www.youtube.com/watch?v=-C2ApAsxZwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -26,7 +27,6 @@
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2023 - [Upcoming changes to InAppProducts API and subscription catalog management](http://android-developers.googleblog.com/2023/06/changes-to-google-play-developer-api-june-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [Now in Android: 84 - top MAD things at I/O, designing for Wear OS, InteractionSource, and more!](https://www.youtube.com/watch?v=aba5jXV8k8A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 01 2023 - [#WeArePlay - Tessa and Saasha | Olio | UK](https://www.youtube.com/watch?v=2qf3m868Fd0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2023 - [#WeArePlay - Meet Tessa and Saasha from the UK, founders of waste-fighting app Olio](http://android-developers.googleblog.com/2023/06/weareplay-meet-tessa-and-saasha-from-uk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 31 2023 - [FLIP on Firestore](https://www.youtube.com/watch?v=Y6Of3AHh4os) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
