@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 19 2023 - [Android Studio Flamingo](https://www.youtube.com/watch?v=RqWKwyTlmgY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2023 - [Technical quality on Google Play](https://www.youtube.com/watch?v=p3B7GpSUav0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2023 - [Boost user activation and commitment](https://www.youtube.com/watch?v=K785Zh8_l9s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 15 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Stripe](https://www.youtube.com/watch?v=fbkfB-FAaMg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -24,7 +25,6 @@
 - Jun 06 2023 - [Top things to know in Android Platform and Quality at Google I/O '23](http://android-developers.googleblog.com/2023/06/android-platform-and-quality-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2023 - [Safe SDKs - 5 key takeaways](https://www.youtube.com/watch?v=CtXjJIKCeDQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 06 2023 - [What it means to be a Google Developer Expert - spotlight stories](http://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 02 2023 - [Google Play PolicyBytes - Safe SDKs](https://www.youtube.com/watch?v=GN53V_nqBV4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2023 - [Upcoming changes to InAppProducts API and subscription catalog management](http://android-developers.googleblog.com/2023/06/changes-to-google-play-developer-api-june-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [#WeArePlay - Meet Tessa and Saasha from the UK, founders of waste-fighting app Olio](http://android-developers.googleblog.com/2023/06/weareplay-meet-tessa-and-saasha-from-uk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
