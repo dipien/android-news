@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 20 2023 - [Run Firebase locally with this one weird trick on Android](https://www.youtube.com/watch?v=n6BatI572QM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 19 2023 - [Android Studio Flamingo](https://www.youtube.com/watch?v=RqWKwyTlmgY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2023 - [Technical quality on Google Play](https://www.youtube.com/watch?v=p3B7GpSUav0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2023 - [Boost user activation and commitment](https://www.youtube.com/watch?v=K785Zh8_l9s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -58,7 +59,6 @@
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Manage Firebase projects with Terraform](https://www.youtube.com/watch?v=32SKh-jGXI4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [Connect millions of developers to your product by building a Firebase Extension](https://www.youtube.com/watch?v=PLOw63DvZdc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
