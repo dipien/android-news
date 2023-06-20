@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 20 2023 - [Top 3 things to know from Google Play at Google I/O '23](https://www.youtube.com/watch?v=tVsAGGRR4Bc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Google Developer Expert Series: Annyce Davis](https://www.youtube.com/watch?v=Hp9oNDFXCvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Run Firebase locally with this one weird trick on Android](https://www.youtube.com/watch?v=n6BatI572QM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 19 2023 - [Android Studio Flamingo](https://www.youtube.com/watch?v=RqWKwyTlmgY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,7 +24,6 @@
 - Jun 07 2023 - [Google Developer Expert Series: Madona Wambua](https://www.youtube.com/watch?v=P6A7hLk4l1c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Android 14 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2023/06/android-14-beta-3-and-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 06 2023 - [Top 3 things to know in Platform and App Quality at Google I/O '23](https://www.youtube.com/watch?v=zaUwrj9qlOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 06 2023 - [Top things to know in Android Platform and Quality at Google I/O '23](http://android-developers.googleblog.com/2023/06/android-platform-and-quality-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 06 2023 - [What it means to be a Google Developer Expert - spotlight stories](http://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
