@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 22 2023 - [Advanced layout concepts](https://www.youtube.com/watch?v=xp_4KwbwWmo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 21 2023 - [Key value pair with Block Store](https://www.youtube.com/watch?v=qyCbWL5XkyA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Top 3 things to know from Google Play at Google I/O '23](https://www.youtube.com/watch?v=tVsAGGRR4Bc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Google Developer Expert Series: Annyce Davis](https://www.youtube.com/watch?v=Hp9oNDFXCvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,7 +21,6 @@
 - Jun 12 2023 - [What is Studio Bot?](https://www.youtube.com/watch?v=sDdi4q0S4vI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2023 - [The AI powered coding assistant in Android Studio](https://www.youtube.com/watch?v=VKDt14jfq7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 08 2023 - [RePlay 2: New Data deletion controls in the Data safety section](https://www.youtube.com/watch?v=A7Pxy2OlDVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 07 2023 - [Firebase Hosting and Cloud Functions](https://www.youtube.com/watch?v=y3cMOapyRdk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Android 14 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2023/06/android-14-beta-3-and-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
