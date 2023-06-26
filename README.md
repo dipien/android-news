@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 26 2023 - [Google Play Games for PC](https://www.youtube.com/watch?v=PcGKqvvMFws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 26 2023 - [Run Firebase locally on JavaScript](https://www.youtube.com/watch?v=KnKtuglyt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 26 2023 - [How users interact with accessibility services](https://www.youtube.com/watch?v=JxMg5zWEkjs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2023 - [Fixing “Edit Text” elements in PLR](https://www.youtube.com/watch?v=PCZ43HlCHtw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -28,7 +29,6 @@
 - Jun 13 2023 - [Crashlytics #Shorts](https://www.youtube.com/watch?v=SIF-0ulmDLw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2023 - [Top 3 things to know in Multi-device for Android at Google I/O '23](https://www.youtube.com/watch?v=L3gFW97pn-s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Top 3 things to know in multi-device from Google I/O 2023](http://android-developers.googleblog.com/2023/06/multi-device-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 13 2023 - [Google Developer Expert Series: Zarah Dominguez](https://www.youtube.com/watch?v=qS932NaQBOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Firebase Hosting and Cloud Functions](https://www.youtube.com/watch?v=y3cMOapyRdk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
