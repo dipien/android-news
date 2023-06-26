@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 26 2023 - [Run Firebase locally on JavaScript](https://www.youtube.com/watch?v=KnKtuglyt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jun 26 2023 - [How users interact with accessibility services](https://www.youtube.com/watch?v=JxMg5zWEkjs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2023 - [Fixing “Edit Text” elements in PLR](https://www.youtube.com/watch?v=PCZ43HlCHtw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 22 2023 - [Run Firebase locally on Flutter](https://www.youtube.com/watch?v=c1GpVzr0p2k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 22 2023 - [Dropbox rebuilt its search experience 40% faster with Jetpack Compose](http://android-developers.googleblog.com/2023/06/dropbox-rebuilt-search-experience-faster-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -27,7 +29,6 @@
 - Jun 13 2023 - [Top 3 things to know in Multi-device for Android at Google I/O '23](https://www.youtube.com/watch?v=L3gFW97pn-s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2023 - [Top 3 things to know in multi-device from Google I/O 2023](http://android-developers.googleblog.com/2023/06/multi-device-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2023 - [Google Developer Expert Series: Zarah Dominguez](https://www.youtube.com/watch?v=qS932NaQBOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 12 2023 - [What is Studio Bot?](https://www.youtube.com/watch?v=sDdi4q0S4vI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Firebase Hosting and Cloud Functions](https://www.youtube.com/watch?v=y3cMOapyRdk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -62,7 +63,6 @@
 - May 10 2023 - [Building with Firebase webframeworks](https://www.youtube.com/watch?v=YUwJqZLLjQ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [How to run dynamic web apps on Firebase](https://www.youtube.com/watch?v=MhkDpZA_Ciw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [What’s new in Cloud Firestore at Google I/O 2023](https://www.youtube.com/watch?v=rW9MkxD5318) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [What's new in Firebase - American Sign Language](https://www.youtube.com/watch?v=YIkmBCf8tfQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
