@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 27 2023 - [Constraints and modifier order](https://www.youtube.com/watch?v=iEk3ySILgwk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 27 2023 - [June 2023: How Firestore snapshot listener scale, long-polling on JS & CLI and Apple SDK updates](https://www.youtube.com/watch?v=GUdSbhZmDtg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 26 2023 - [Location location location, revisited](https://www.youtube.com/watch?v=SlC6YZMVU4Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 26 2023 - [Location location location, revisited - Android Developers Backstage](https://www.youtube.com/watch?v=OF5QxcOIDo0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -25,7 +27,6 @@
 - Jun 15 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Stripe](https://www.youtube.com/watch?v=fbkfB-FAaMg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 15 2023 - [Fun design with Lazy layouts](https://www.youtube.com/watch?v=-C2ApAsxZwg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 14 2023 - [Now in Android: 85 - Platform and Quality at I/O, Android 14 Beta 3, Jetpack releases, and more!](https://www.youtube.com/watch?v=Ck9wyUtGm1Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 14 2023 - [Run Firebase locally on iOS](https://www.youtube.com/watch?v=8cWdQY0Ksys) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2023 - [#WeArePlay - Meet the people creating apps and games in Europe](http://android-developers.googleblog.com/2023/06/weareplay-meet-people-creating-apps-and-games-in-europe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2023 - [Crashlytics #Shorts](https://www.youtube.com/watch?v=SIF-0ulmDLw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -63,7 +64,6 @@
 - May 10 2023 - [Faster, cheaper serverless APIs for your Firebase app](https://www.youtube.com/watch?v=EIA58FKrA8Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Building with Firebase webframeworks](https://www.youtube.com/watch?v=YUwJqZLLjQ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [How to run dynamic web apps on Firebase](https://www.youtube.com/watch?v=MhkDpZA_Ciw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [What’s new in Cloud Firestore at Google I/O 2023](https://www.youtube.com/watch?v=rW9MkxD5318) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
