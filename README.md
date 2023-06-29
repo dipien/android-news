@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 29 2023 - [Mechanics of editing](https://medium.com/firebase-developers/mechanics-of-editing-112ffc35d77a?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2023 - [The new Pixel Fold & Pixel Tablet are here: optimizing for large screens with the latest stable APIs and tools](http://android-developers.googleblog.com/2023/06/the-new-pixel-fold-pixel-tablet-are-here-optimizing-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2023 - [Detecting device type – How to know if a device is foldable or a tablet](http://android-developers.googleblog.com/2023/06/detecting-if-device-is-foldable-tablet.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
-- Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Mar 07 2023 - [What is HCT? Material 3’s color space](https://www.youtube.com/watch?v=tw6cOcY_xtM) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
