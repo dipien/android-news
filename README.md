@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Jun 29 2023 - [#WeArePlay - Yoshihiko | YAMAP | Japan](https://www.youtube.com/watch?v=eLDp5UxHJjU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 29 2023 - [CameraX CameraController](https://www.youtube.com/watch?v=8K9Pvl2sNlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [Mechanics of editing](https://medium.com/firebase-developers/mechanics-of-editing-112ffc35d77a?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -80,7 +81,6 @@
 - May 10 2023 - [Second Beta of Android 14](http://android-developers.googleblog.com/2023/05/android-14-beta-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Price in-app products with confidence by running price experiments in Play Console](http://android-developers.googleblog.com/2023/05/price-experiments-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [I/O 2023: What’s new in Google Play](http://android-developers.googleblog.com/2023/05/io-2023-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [Build smarter Android apps with on-device Machine Learning](http://android-developers.googleblog.com/2023/05/build-smarter-android-apps-with-on-device-machine-learning.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
