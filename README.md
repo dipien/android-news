@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 29 2023 - [CameraX CameraController](https://www.youtube.com/watch?v=8K9Pvl2sNlU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [Mechanics of editing](https://medium.com/firebase-developers/mechanics-of-editing-112ffc35d77a?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2023 - [The new Pixel Fold & Pixel Tablet are here: optimizing for large screens with the latest stable APIs and tools](http://android-developers.googleblog.com/2023/06/the-new-pixel-fold-pixel-tablet-are-here-optimizing-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -29,7 +30,6 @@
 - Jun 16 2023 - [Technical quality on Google Play](https://www.youtube.com/watch?v=p3B7GpSUav0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2023 - [Boost user activation and commitment](https://www.youtube.com/watch?v=K785Zh8_l9s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 15 2023 - [Developers guide to Pixel Fold and Pixel Tablet: get your app large screen ready](http://android-developers.googleblog.com/2023/06/pixel-fold-and-pixel-tablet-developers-guide.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 15 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Stripe](https://www.youtube.com/watch?v=fbkfB-FAaMg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 14 2023 - [Run Firebase locally on iOS](https://www.youtube.com/watch?v=8cWdQY0Ksys) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2023 - [#WeArePlay - Meet the people creating apps and games in Europe](http://android-developers.googleblog.com/2023/06/weareplay-meet-people-creating-apps-and-games-in-europe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
