@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 04 2023 - [Google Developer Expert Series: Ahmed Tikiwa](https://www.youtube.com/watch?v=Rl2dmjb2hQo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [Android Developer Story: Ranida Games increases conversion rate by 4% after Indie Games Accelerator](https://www.youtube.com/watch?v=gsyyl5lBhuk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [#WeArePlay - Yoshihiko | YAMAP | Japan](https://www.youtube.com/watch?v=eLDp5UxHJjU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -67,7 +68,6 @@
 - May 10 2023 - [How to enhance your app security with new features in Firebase App Check](https://www.youtube.com/watch?v=iYA0QYP9ocw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Faster, cheaper serverless APIs for your Firebase app](https://www.youtube.com/watch?v=EIA58FKrA8Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Building with Firebase webframeworks](https://www.youtube.com/watch?v=YUwJqZLLjQ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [How to run dynamic web apps on Firebase](https://www.youtube.com/watch?v=MhkDpZA_Ciw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
