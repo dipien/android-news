@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 04 2023 - [Google Developer Expert Series: Ahmed Tikiwa](https://www.youtube.com/watch?v=Rl2dmjb2hQo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [Android Developer Story: Ranida Games increases conversion rate by 4% after Indie Games Accelerator](https://www.youtube.com/watch?v=gsyyl5lBhuk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [#WeArePlay - Yoshihiko | YAMAP | Japan](https://www.youtube.com/watch?v=eLDp5UxHJjU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -28,7 +29,6 @@
 - Jun 20 2023 - [Top things to know from Google Play at Google I/O '23](http://android-developers.googleblog.com/2023/06/top-things-to-know-from-google-play-at-google-io-23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 20 2023 - [Google Developer Expert Series: Annyce Davis](https://www.youtube.com/watch?v=Hp9oNDFXCvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Run Firebase locally on Android](https://www.youtube.com/watch?v=n6BatI572QM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 19 2023 - [Android Studio Flamingo](https://www.youtube.com/watch?v=RqWKwyTlmgY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 15 2023 - [Developers guide to Pixel Fold and Pixel Tablet: get your app large screen ready](http://android-developers.googleblog.com/2023/06/pixel-fold-and-pixel-tablet-developers-guide.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 14 2023 - [Run Firebase locally on iOS](https://www.youtube.com/watch?v=8cWdQY0Ksys) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
