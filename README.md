@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 05 2023 - [Android Developer Story: Gambir increased revenue by 20% after Indie Games Accelerator](https://www.youtube.com/watch?v=_smjK7xxpEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 04 2023 - [Google Developer Expert Series: Ahmed Tikiwa](https://www.youtube.com/watch?v=Rl2dmjb2hQo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [Android Developer Story: Ranida Games increases conversion rate by 4% after Indie Games Accelerator](https://www.youtube.com/watch?v=gsyyl5lBhuk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -28,7 +29,6 @@
 - Jun 21 2023 - [Key value pair with Block Store](https://www.youtube.com/watch?v=qyCbWL5XkyA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Top 3 things to know from Google Play at Google I/O '23](https://www.youtube.com/watch?v=tVsAGGRR4Bc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Top things to know from Google Play at Google I/O '23](http://android-developers.googleblog.com/2023/06/top-things-to-know-from-google-play-at-google-io-23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 20 2023 - [Google Developer Expert Series: Annyce Davis](https://www.youtube.com/watch?v=Hp9oNDFXCvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Run Firebase locally on Android](https://www.youtube.com/watch?v=n6BatI572QM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 15 2023 - [Developers guide to Pixel Fold and Pixel Tablet: get your app large screen ready](http://android-developers.googleblog.com/2023/06/pixel-fold-and-pixel-tablet-developers-guide.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
