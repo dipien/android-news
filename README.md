@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 06 2023 - [Build custom signup behavior with blocking serverless functions](https://www.youtube.com/watch?v=lQPukA6WjVw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 05 2023 - [Improve user onboarding for Play](https://www.youtube.com/watch?v=vppBdNOKfG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 05 2023 - [Android Developer Story: Gambir increased revenue by 20% after Indie Games Accelerator](https://www.youtube.com/watch?v=_smjK7xxpEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -67,7 +68,6 @@
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to enhance your app security with new features in Firebase App Check](https://www.youtube.com/watch?v=iYA0QYP9ocw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Faster, cheaper serverless APIs for your Firebase app](https://www.youtube.com/watch?v=EIA58FKrA8Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 10 2023 - [Building with Firebase webframeworks](https://www.youtube.com/watch?v=YUwJqZLLjQ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
