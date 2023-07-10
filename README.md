@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 06 2023 - [Build custom signup behavior with blocking serverless functions](https://www.youtube.com/watch?v=lQPukA6WjVw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 05 2023 - [Improve user onboarding for Play](https://www.youtube.com/watch?v=vppBdNOKfG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 05 2023 - [Android Developer Story: Gambir increased revenue by 20% after Indie Games Accelerator](https://www.youtube.com/watch?v=_smjK7xxpEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -79,7 +80,6 @@
 - May 10 2023 - [Second Beta of Android 14](http://android-developers.googleblog.com/2023/05/android-14-beta-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Google I/O 2023: What's new in Jetpack](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Price in-app products with confidence by running price experiments in Play Console](http://android-developers.googleblog.com/2023/05/price-experiments-in-play-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [I/O 2023: What’s new in Google Play](http://android-developers.googleblog.com/2023/05/io-2023-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
