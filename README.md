@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 11 2023 - [Google Developer Expert Series: Dinorah Tovar](https://www.youtube.com/watch?v=e3vgx_1yJQA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 06 2023 - [Build custom signup behavior with blocking serverless functions](https://www.youtube.com/watch?v=lQPukA6WjVw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 05 2023 - [Improve user onboarding for Play](https://www.youtube.com/watch?v=vppBdNOKfG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -29,7 +30,6 @@
 - Jun 22 2023 - [Advanced layout concepts](https://www.youtube.com/watch?v=xp_4KwbwWmo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 21 2023 - [CameraX 1.3 is now in Beta](http://android-developers.googleblog.com/2023/06/camerax-13-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 21 2023 - [Peloton increased its multi-device support and saw an uptick in user engagement](http://android-developers.googleblog.com/2023/06/peloton-increased-its-multi-device-support-and-saw-an-uptick-in-user-engagement.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 21 2023 - [Key value pair with Block Store](https://www.youtube.com/watch?v=qyCbWL5XkyA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2023 - [Top things to know from Google Play at Google I/O '23](http://android-developers.googleblog.com/2023/06/top-things-to-know-from-google-play-at-google-io-23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 20 2023 - [Run Firebase locally on Android](https://www.youtube.com/watch?v=n6BatI572QM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 15 2023 - [Developers guide to Pixel Fold and Pixel Tablet: get your app large screen ready](http://android-developers.googleblog.com/2023/06/pixel-fold-and-pixel-tablet-developers-guide.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
