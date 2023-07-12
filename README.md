@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 12 2023 - [Enabling New Blockchain-Based Experiences on Google Play](http://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jul 12 2023 - [New policy update to boost trust and transparency on Google Play](http://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 12 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Juli 2023](https://www.youtube.com/watch?v=Om_oR2yZY40) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Juli 2023 (German)](https://www.youtube.com/watch?v=CYp88-kRvis) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=hq_BPx3moKM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -78,8 +80,6 @@
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [14 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2023/05/14-things-to-know-for-android-developers-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [Second Beta of Android 14](http://android-developers.googleblog.com/2023/05/android-14-beta-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [Google I/O 2023: What's new in Jetpack](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-io-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
