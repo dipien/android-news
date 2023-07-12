@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 12 2023 - [Use the Remote Config property wrapper](https://www.youtube.com/watch?v=GpLJRFWWrns) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 12 2023 - [Enabling New Blockchain-Based Experiences on Google Play](http://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 12 2023 - [New policy update to boost trust and transparency on Google Play](http://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 12 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Juli 2023](https://www.youtube.com/watch?v=Om_oR2yZY40) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -71,7 +72,6 @@
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [How to enhance your app security with new features in Firebase App Check](https://www.youtube.com/watch?v=iYA0QYP9ocw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
