@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 13 2023 - [Now in Android #86](https://medium.com/androiddevelopers/now-in-android-86-6a5cdaebedb5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 13 2023 - [Now in Android: 86 - Google Play at I/O, Pixel Fold and Tablet, Google Developer Expert, & more!](https://www.youtube.com/watch?v=QBU1NEHL1EU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2023 - [How to create a chatbot with Firebase Firestore and ChatGPT on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-chatgpt-on-android-910dd40f11d9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 13 2023 - [Firebase Test Lab Integration for Android Flutter Integration Tests](https://medium.com/firebase-developers/google-firebase-test-lab-integration-for-flutter-integration-tests-38f903d47ac3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -82,7 +83,6 @@
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [14 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2023/05/14-things-to-know-for-android-developers-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [Introducing the Android UI design hub](https://medium.com/androiddevelopers/introducing-the-android-ui-design-hub-31d000186196?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
