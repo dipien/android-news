@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 14 2023 - [Beginning your Android development journey in Unity](https://www.youtube.com/watch?v=6srYfC-GWsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2023 - [Now in Android #86](https://medium.com/androiddevelopers/now-in-android-86-6a5cdaebedb5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 13 2023 - [Now in Android: 86 - Google Play at I/O, Pixel Fold and Tablet, Google Developer Expert, & more!](https://www.youtube.com/watch?v=QBU1NEHL1EU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2023 - [How to create a chatbot with Firebase Firestore and ChatGPT on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-chatgpt-on-android-910dd40f11d9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -26,7 +27,6 @@
 - Jul 05 2023 - [Android Developer Story: Gambir increased revenue by 20% after Indie Games Accelerator](https://www.youtube.com/watch?v=_smjK7xxpEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 04 2023 - [Google Developer Expert Series: Ahmed Tikiwa](https://www.youtube.com/watch?v=Rl2dmjb2hQo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 29 2023 - [Android Developer Story: Ranida Games increases conversion rate by 4% after Indie Games Accelerator](https://www.youtube.com/watch?v=gsyyl5lBhuk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2023 - [The new Pixel Fold & Pixel Tablet are here: optimizing for large screens with the latest stable APIs and tools](http://android-developers.googleblog.com/2023/06/the-new-pixel-fold-pixel-tablet-are-here-optimizing-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
