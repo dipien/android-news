@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 14 2023 - [Beginning your Android development journey in Unity](https://www.youtube.com/watch?v=6srYfC-GWsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2023 - [Now in Android #86](https://medium.com/androiddevelopers/now-in-android-86-6a5cdaebedb5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 13 2023 - [Now in Android: 86 - Google Play at I/O, Pixel Fold and Tablet, Google Developer Expert, & more!](https://www.youtube.com/watch?v=QBU1NEHL1EU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
 - Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
