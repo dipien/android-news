@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 18 2023 - [Compose performance - Android Developers Backstage](https://www.youtube.com/watch?v=h-b3-DWYhjo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2023 - [Meet Firebasers at I/O Connect across the world](https://www.youtube.com/watch?v=Zxg4mjh5jWQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -29,7 +30,6 @@
 - Jul 05 2023 - [Improve user onboarding for Play](https://www.youtube.com/watch?v=vppBdNOKfG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 05 2023 - [Android Developer Story: Gambir increased revenue by 20% after Indie Games Accelerator](https://www.youtube.com/watch?v=_smjK7xxpEE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 04 2023 - [Google Developer Expert Series: Ahmed Tikiwa](https://www.youtube.com/watch?v=Rl2dmjb2hQo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2023 - [The new Pixel Fold & Pixel Tablet are here: optimizing for large screens with the latest stable APIs and tools](http://android-developers.googleblog.com/2023/06/the-new-pixel-fold-pixel-tablet-are-here-optimizing-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
