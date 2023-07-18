@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jul 18 2023 - [Meet Firebasers at I/O Connect across the world](https://www.youtube.com/watch?v=Zxg4mjh5jWQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 14 2023 - [Beginning your Android development journey in Unity](https://www.youtube.com/watch?v=6srYfC-GWsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2023 - [Now in Android #86](https://medium.com/androiddevelopers/now-in-android-86-6a5cdaebedb5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -69,7 +71,6 @@
 - May 16 2023 - [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 12 2023 - [Catch up on the highlights from Firebase @ Google I/O ‘23](https://www.youtube.com/watch?v=rGqj6U7SawA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 11 2023 - [WPS uses ML Kit to seamlessly translate 43 languages and net $65M in annual savings](http://android-developers.googleblog.com/2023/05/wps-uses-ml-kit-to-seamlessly-translate-languages-and-net-annual-savings.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -99,8 +100,7 @@
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
 - Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
-- Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Mar 14 2023 - [How color schemes are derived](https://www.youtube.com/watch?v=i-GN0d76e-Y) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Mar 21 2023 - [Applying colors to products using design tokens](https://www.youtube.com/watch?v=KKxpJpbEwew) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
