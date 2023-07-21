@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 21 2023 - [Map RC JSON values using Codable](https://www.youtube.com/watch?v=NhKQBpedL-o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 19 2023 - [Compose performance](https://www.youtube.com/watch?v=DYSf2zpB0Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2023 - [Compose performance - Android Developers Backstage](https://www.youtube.com/watch?v=h-b3-DWYhjo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -70,7 +71,6 @@
 - May 17 2023 - [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
 - May 16 2023 - [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 12 2023 - [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 11 2023 - [WPS uses ML Kit to seamlessly translate 43 languages and net $65M in annual savings](http://android-developers.googleblog.com/2023/05/wps-uses-ml-kit-to-seamlessly-translate-languages-and-net-annual-savings.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
