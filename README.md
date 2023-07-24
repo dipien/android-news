@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 24 2023 - [Google Play services discontinuing updates for KitKat (API levels 19 & 20) starting August 2023](http://android-developers.googleblog.com/2023/07/google-play-services-discontinuing-updates-for-kitkat.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2023 - [Update your SwiftUI instantly with Remote Config](https://www.youtube.com/watch?v=Fnh0OY5vLuc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 21 2023 - [Map RC JSON values using Codable](https://www.youtube.com/watch?v=NhKQBpedL-o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -85,7 +86,6 @@
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [14 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2023/05/14-things-to-know-for-android-developers-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 10 2023 - [What’s new in Jetpack Compose](http://android-developers.googleblog.com/2023/05/whats-new-in-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
