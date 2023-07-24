@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 24 2023 - [Update your SwiftUI instantly with Remote Config](https://www.youtube.com/watch?v=Fnh0OY5vLuc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 21 2023 - [Map RC JSON values using Codable](https://www.youtube.com/watch?v=NhKQBpedL-o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 19 2023 - [Compose performance](https://www.youtube.com/watch?v=DYSf2zpB0Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -63,7 +64,6 @@
 - May 31 2023 - [FLIP on Firestore](https://www.youtube.com/watch?v=Y6Of3AHh4os) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 23 2023 - [May 2023: Firebase updates from Google I/O, get started w/ PaLM AI,Python support＆Flutter on Windows](https://www.youtube.com/watch?v=AejfDKJtsjU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
