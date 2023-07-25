@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 25 2023 - [Introducing a new Play Store for large screens](http://android-developers.googleblog.com/2023/07/introducing-new-play-store-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [Deep dive into Live Edit for Jetpack Compose UI](http://android-developers.googleblog.com/2023/07/deep-dive-into-live-edit-for-jetpack-compose-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [What's new in Android Studio - Giraffe](https://www.youtube.com/watch?v=Gcr1TmFv8IY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 25 2023 - [Android Studio Giraffe is stable](http://android-developers.googleblog.com/2023/07/android-studio-giraffe-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -67,7 +68,6 @@
 - Jun 01 2023 - [#WeArePlay - Meet Tessa and Saasha from the UK, founders of waste-fighting app Olio](http://android-developers.googleblog.com/2023/06/weareplay-meet-tessa-and-saasha-from-uk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
