@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 25 2023 - [Deep dive into Live Edit for Jetpack Compose UI](http://android-developers.googleblog.com/2023/07/deep-dive-into-live-edit-for-jetpack-compose-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jul 25 2023 - [What's new in Android Studio - Giraffe](https://www.youtube.com/watch?v=Gcr1TmFv8IY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jul 25 2023 - [Android Studio Giraffe is stable](http://android-developers.googleblog.com/2023/07/android-studio-giraffe-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [July 2023: Pigeon Flutter interop, multi-DB＆Point-in-time recovery for Firestore, Pixel Fold devices](https://www.youtube.com/watch?v=bTjLidwxsm0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2023 - [Google Play services discontinuing updates for KitKat (API levels 19 & 20) starting August 2023](http://android-developers.googleblog.com/2023/07/google-play-services-discontinuing-updates-for-kitkat.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2023 - [Update your SwiftUI instantly with Remote Config](https://www.youtube.com/watch?v=Fnh0OY5vLuc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -33,7 +36,6 @@
 - Jul 11 2023 - [Google Developer Expert Series: Dinorah Tovar](https://www.youtube.com/watch?v=e3vgx_1yJQA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 06 2023 - [Build custom signup behavior with blocking serverless functions](https://www.youtube.com/watch?v=lQPukA6WjVw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 05 2023 - [Improve user onboarding for Play](https://www.youtube.com/watch?v=vppBdNOKfG4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -74,7 +76,6 @@
 - May 16 2023 - [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
-- May 11 2023 - [WPS uses ML Kit to seamlessly translate 43 languages and net $65M in annual savings](http://android-developers.googleblog.com/2023/05/wps-uses-ml-kit-to-seamlessly-translate-languages-and-net-annual-savings.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
@@ -85,7 +86,6 @@
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [14 Things to know for Android developers at Google I/O!](http://android-developers.googleblog.com/2023/05/14-things-to-know-for-android-developers-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
