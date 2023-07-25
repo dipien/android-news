@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 25 2023 - [July 2023: Pigeon Flutter interop, multi-DB＆Point-in-time recovery for Firestore, Pixel Fold devices](https://www.youtube.com/watch?v=bTjLidwxsm0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2023 - [Google Play services discontinuing updates for KitKat (API levels 19 & 20) starting August 2023](http://android-developers.googleblog.com/2023/07/google-play-services-discontinuing-updates-for-kitkat.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2023 - [Update your SwiftUI instantly with Remote Config](https://www.youtube.com/watch?v=Fnh0OY5vLuc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 21 2023 - [Map RC JSON values using Codable](https://www.youtube.com/watch?v=NhKQBpedL-o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -62,7 +63,6 @@
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2023 - [Upcoming changes to InAppProducts API and subscription catalog management](http://android-developers.googleblog.com/2023/06/changes-to-google-play-developer-api-june-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [#WeArePlay - Meet Tessa and Saasha from the UK, founders of waste-fighting app Olio](http://android-developers.googleblog.com/2023/06/weareplay-meet-tessa-and-saasha-from-uk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 31 2023 - [FLIP on Firestore](https://www.youtube.com/watch?v=Y6Of3AHh4os) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2023 - [Top 3 things to know in Modern Android Development at Google I/O '23](http://android-developers.googleblog.com/2023/05/modern-android-development-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 22 2023 - [Designing for Wear OS: Getting started with designing inclusive smartwatch apps](http://android-developers.googleblog.com/2023/05/designing-for-wear-os-getting-started-designing-inclusive-smartwatch-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
