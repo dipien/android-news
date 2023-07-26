@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 26 2023 - [Now in Android: 87 - Android 14 Beta 4, Google Play policy update, and Compose Performance!](https://www.youtube.com/watch?v=0SLeHtlqjrI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 25 2023 - [Introducing a new Play Store for large screens](http://android-developers.googleblog.com/2023/07/introducing-new-play-store-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [Deep dive into Live Edit for Jetpack Compose UI](http://android-developers.googleblog.com/2023/07/deep-dive-into-live-edit-for-jetpack-compose-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [What's new in Android Studio - Giraffe](https://www.youtube.com/watch?v=Gcr1TmFv8IY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -34,7 +35,6 @@
 - Jul 12 2023 - [Google Play PolicyBytes - July 2023 policy updates](https://www.youtube.com/watch?v=seRJVjSq8w8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 11 2023 - [Google Developer Expert Series: Dinorah Tovar](https://www.youtube.com/watch?v=e3vgx_1yJQA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 06 2023 - [Build custom signup behavior with blocking serverless functions](https://www.youtube.com/watch?v=lQPukA6WjVw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 04 2023 - [Debug logging of Firestore SDK on Flutter](https://www.youtube.com/watch?v=0Q66a4Llx-U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
