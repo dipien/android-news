@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 26 2023 - [Now in Android #87](https://medium.com/androiddevelopers/now-in-android-87-51e1ba949d5e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 26 2023 - [Now in Android: 87 - Android 14 Beta 4, Google Play policy update, and Compose Performance!](https://www.youtube.com/watch?v=0SLeHtlqjrI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 26 2023 - [Deezer increased its monthly active users 4X after improving multi-device support](http://android-developers.googleblog.com/2023/07/deezer-increased-its-monthly-active-users-after-improving-multi-device-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [Introducing a new Play Store for large screens](http://android-developers.googleblog.com/2023/07/introducing-new-play-store-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -77,7 +78,6 @@
 - May 12 2023 - [Turo reduced its app startup time by 77% using Android Developer tools and best practices](https://medium.com/androiddevelopers/turo-reduced-its-app-startup-time-by-77-using-android-developer-tools-and-best-practices-bcf82f596bcf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Redesigning the Android Studio Logo](https://medium.com/androiddevelopers/redesigning-the-android-studio-logo-1e44112e6293?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
