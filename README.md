@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 26 2023 - [Prepare your app for the new Samsung tablets, foldables and watches](http://android-developers.googleblog.com/2023/07/prepare-your-app-for-new-samsung-tablets-foldables-watches.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 26 2023 - [Now in Android #87](https://medium.com/androiddevelopers/now-in-android-87-51e1ba949d5e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 26 2023 - [Now in Android: 87 - Android 14 Beta 4, Google Play policy update, and Compose Performance!](https://www.youtube.com/watch?v=0SLeHtlqjrI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 26 2023 - [Deezer increased its monthly active users 4X after improving multi-device support](http://android-developers.googleblog.com/2023/07/deezer-increased-its-monthly-active-users-after-improving-multi-device-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -67,7 +68,6 @@
 - Jun 06 2023 - [What it means to be a Google Developer Expert - spotlight stories](http://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2023 - [Upcoming changes to InAppProducts API and subscription catalog management](http://android-developers.googleblog.com/2023/06/changes-to-google-play-developer-api-june-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 01 2023 - [#WeArePlay - Meet Tessa and Saasha from the UK, founders of waste-fighting app Olio](http://android-developers.googleblog.com/2023/06/weareplay-meet-tessa-and-saasha-from-uk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
