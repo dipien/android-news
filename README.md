@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 28 2023 - [How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 27 2023 - [Credential Manager beta: easy & secure authentication with passkeys on Android](http://android-developers.googleblog.com/2023/07/credential-manager-beta-easy-secure-authentication-with-passkeys-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 26 2023 - [Prepare your app for the new Samsung tablets, foldables and watches](http://android-developers.googleblog.com/2023/07/prepare-your-app-for-new-samsung-tablets-foldables-watches.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 26 2023 - [Now in Android #87](https://medium.com/androiddevelopers/now-in-android-87-51e1ba949d5e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
-- Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
