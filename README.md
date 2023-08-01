@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 01 2023 - [Indie Games Fund: Apply for support from Google Play’s $2M fund in Latin America](http://android-developers.googleblog.com/2023/08/indie-games-fund-apply-for-support-from-google-play-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 31 2023 - [Try the K2 compiler in your Android projects](http://android-developers.googleblog.com/2023/07/try-k2-compiler-in-your-android-projects.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 28 2023 - [How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 27 2023 - [Credential Manager beta: easy & secure authentication with passkeys on Android](http://android-developers.googleblog.com/2023/07/credential-manager-beta-easy-secure-authentication-with-passkeys-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -67,7 +68,6 @@
 - Jun 07 2023 - [Firebase Hosting and Cloud Functions](https://www.youtube.com/watch?v=y3cMOapyRdk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Android 14 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2023/06/android-14-beta-3-and-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 06 2023 - [Top things to know in Android Platform and Quality at Google I/O '23](http://android-developers.googleblog.com/2023/06/android-platform-and-quality-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
