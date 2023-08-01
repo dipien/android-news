@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 01 2023 - [Learn how to create an Android themed app icon](https://www.youtube.com/watch?v=o_PnMp27DWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 01 2023 - [Firestore updates - July 2023](https://www.youtube.com/watch?v=_j6Pbl1Z2FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 01 2023 - [Capture, edit, play, and share, the Media Developer Center has it all!](https://medium.com/androiddevelopers/capture-edit-play-and-share-the-media-developer-center-has-it-all-1223ca07ea9c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 01 2023 - [Indie Games Fund: Apply for support from Google Play’s $2M fund in Latin America](http://android-developers.googleblog.com/2023/08/indie-games-fund-apply-for-support-from-google-play-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -41,7 +42,6 @@
 - Jul 12 2023 - [Google Play PolicyBytes - 2023 年 7 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=warWZu5uMOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - 2023년 7월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=LkKfJ9SdFmE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - 2023 年 7 月ポリシー アップデート（Japanese)](https://www.youtube.com/watch?v=X2AuQpmWjaI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 12 2023 - [Google Play PolicyBytes - July 2023 policy updates](https://www.youtube.com/watch?v=seRJVjSq8w8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
