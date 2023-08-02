@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 02 2023 - [#WeArePlay - Meet Ayushi & Nikhil from India. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ayushi-nikhil-from-india-and-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2023 - [How did I know this UI was better?](https://www.youtube.com/watch?v=n3sSUooJHNI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 02 2023 - [#WeArePlay - Ayushi and Nikhil | Alippo | India](https://www.youtube.com/watch?v=y3HkVAqNA0k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 01 2023 - [Learn how to create an Android themed app icon](https://www.youtube.com/watch?v=o_PnMp27DWU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,7 +69,6 @@
 - Jun 13 2023 - [Top 3 things to know in multi-device from Google I/O 2023](http://android-developers.googleblog.com/2023/06/multi-device-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 07 2023 - [Android 14 Beta 3 and Platform Stability](http://android-developers.googleblog.com/2023/06/android-14-beta-3-and-platform-stability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
