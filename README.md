@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 03 2023 - [Health Connect brings together Peloton, ŌURA, and Lifesum for deeper health and fitness insights](http://android-developers.googleblog.com/2023/08/health-connect-brings-together-peloton-oura-lifesum-for-deeper-health-and-fitness-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 03 2023 - [Health Connect brings together Oura, Peloton and Lifesum for deeper health and fitness insights](https://www.youtube.com/watch?v=WxOpQO4NUUM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 02 2023 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=j1Db1J0c3s4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 02 2023 - [#WeArePlay - Meet Ayushi & Nikhil from India. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ayushi-nikhil-from-india-and-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -66,7 +67,6 @@
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 14 2023 - [Run Firebase locally on iOS](https://www.youtube.com/watch?v=8cWdQY0Ksys) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2023 - [#WeArePlay - Meet the people creating apps and games in Europe](http://android-developers.googleblog.com/2023/06/weareplay-meet-people-creating-apps-and-games-in-europe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 13 2023 - [Top 3 things to know in multi-device from Google I/O 2023](http://android-developers.googleblog.com/2023/06/multi-device-at-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
