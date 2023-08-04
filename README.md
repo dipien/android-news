@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 03 2023 - [Fixing touch target size in PLR](https://www.youtube.com/watch?v=2ae-5TlKL8U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 03 2023 - [Health Connect brings together Peloton, ŌURA, and Lifesum for deeper health and fitness insights](http://android-developers.googleblog.com/2023/08/health-connect-brings-together-peloton-oura-lifesum-for-deeper-health-and-fitness-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 03 2023 - [Health Connect brings together Oura, Peloton and Lifesum for deeper health and fitness insights](https://www.youtube.com/watch?v=WxOpQO4NUUM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 02 2023 - [Live Edit for Jetpack Compose](https://www.youtube.com/watch?v=j1Db1J0c3s4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -44,7 +45,6 @@
 - Jul 12 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Juli 2023 (German)](https://www.youtube.com/watch?v=CYp88-kRvis) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=hq_BPx3moKM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - 2023 年 7 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=9Lmpj_gb85g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 12 2023 - [Google Play PolicyBytes - Atualizações de Política de Julho de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=a09hA8DLOwQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
