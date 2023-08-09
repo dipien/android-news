@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 09 2023 - [Now in Android #88](https://medium.com/androiddevelopers/now-in-android-88-f631b7564edb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Aug 09 2023 - [Now in Android: 88 - Android Studio Giraffe, K2 compiler, and Jetpack Compose Live Edit](https://www.youtube.com/watch?v=rdtBudmc03M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Aug 09 2023 - [What’s new in the Jetpack Compose August ’23 release](http://android-developers.googleblog.com/2023/08/whats-new-in-jetpack-compose-august-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Firebase Crashlytics in Android Studio](https://www.youtube.com/watch?v=PjnyKPPU65k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2023 - [Compose for Wear OS and Tiles 1.2 libraries are now stable: check out new features!](http://android-developers.googleblog.com/2023/08/compose-for-wear-os-and-tiles-1-2-libraries-now-stable-new-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Introducing Jetpack Emoji Picker: A New Way to Add Emojis to Your Android App](http://android-developers.googleblog.com/2023/08/introducing-jetpack-emoji-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -49,7 +52,6 @@
 - Jul 12 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Juli 2023](https://www.youtube.com/watch?v=Om_oR2yZY40) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Juli 2023 (German)](https://www.youtube.com/watch?v=CYp88-kRvis) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=hq_BPx3moKM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 12 2023 - [Google Play PolicyBytes - 2023 年 7 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=9Lmpj_gb85g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,7 +67,6 @@
 - Jun 22 2023 - [Run Firebase locally on Flutter](https://www.youtube.com/watch?v=c1GpVzr0p2k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 22 2023 - [Dropbox rebuilt its search experience 40% faster with Jetpack Compose](http://android-developers.googleblog.com/2023/06/dropbox-rebuilt-search-experience-faster-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 21 2023 - [CameraX 1.3 is now in Beta](http://android-developers.googleblog.com/2023/06/camerax-13-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 21 2023 - [Peloton increased its multi-device support and saw an uptick in user engagement](http://android-developers.googleblog.com/2023/06/peloton-increased-its-multi-device-support-and-saw-an-uptick-in-user-engagement.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -76,7 +77,6 @@
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 16 2023 - [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
