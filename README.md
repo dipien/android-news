@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 09 2023 - [Firebase Crashlytics in Android Studio](https://www.youtube.com/watch?v=PjnyKPPU65k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Aug 09 2023 - [Compose for Wear OS and Tiles 1.2 libraries are now stable: check out new features!](http://android-developers.googleblog.com/2023/08/compose-for-wear-os-and-tiles-1-2-libraries-now-stable-new-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Introducing Jetpack Emoji Picker: A New Way to Add Emojis to Your Android App](http://android-developers.googleblog.com/2023/08/introducing-jetpack-emoji-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 08 2023 - [Check out the Firebase blog](https://www.youtube.com/watch?v=Q6zpOOIb0Ng) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2023 - [Jetpack WindowManager 1.1 is stable!](http://android-developers.googleblog.com/2023/08/jetpack-windowmanager-11-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -64,8 +66,6 @@
 - Jun 22 2023 - [Dropbox rebuilt its search experience 40% faster with Jetpack Compose](http://android-developers.googleblog.com/2023/06/dropbox-rebuilt-search-experience-faster-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 21 2023 - [CameraX 1.3 is now in Beta](http://android-developers.googleblog.com/2023/06/camerax-13-is-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 21 2023 - [Peloton increased its multi-device support and saw an uptick in user engagement](http://android-developers.googleblog.com/2023/06/peloton-increased-its-multi-device-support-and-saw-an-uptick-in-user-engagement.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 20 2023 - [Top things to know from Google Play at Google I/O '23](http://android-developers.googleblog.com/2023/06/top-things-to-know-from-google-play-at-google-io-23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 20 2023 - [Run Firebase locally on Android](https://www.youtube.com/watch?v=n6BatI572QM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
