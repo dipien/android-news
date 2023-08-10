@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 10 2023 - [Choosing the right storage experience](http://android-developers.googleblog.com/2023/08/choosing-right-storage-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Now in Android #88](https://medium.com/androiddevelopers/now-in-android-88-f631b7564edb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 09 2023 - [Now in Android: 88 - Android Studio Giraffe, K2 compiler, and Jetpack Compose Live Edit](https://www.youtube.com/watch?v=rdtBudmc03M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -66,7 +67,6 @@
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 26 2023 - [Run Firebase locally on JavaScript](https://www.youtube.com/watch?v=KnKtuglyt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 22 2023 - [Run Firebase locally on Flutter](https://www.youtube.com/watch?v=c1GpVzr0p2k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 22 2023 - [Dropbox rebuilt its search experience 40% faster with Jetpack Compose](http://android-developers.googleblog.com/2023/06/dropbox-rebuilt-search-experience-faster-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
