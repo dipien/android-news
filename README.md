@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 11 2023 - [5 mistakes to avoid when optimizing for large screens](https://www.youtube.com/watch?v=LHpB4598_OQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2023 - [Getting started with Firebase Authentication on Android](https://www.youtube.com/watch?v=wm626abfMM8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 10 2023 - [Choosing the right storage experience](http://android-developers.googleblog.com/2023/08/choosing-right-storage-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -54,7 +55,6 @@
 - Jul 12 2023 - [New policy update to boost trust and transparency on Google Play](http://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 12 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Juli 2023](https://www.youtube.com/watch?v=Om_oR2yZY40) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 12 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Juli 2023 (German)](https://www.youtube.com/watch?v=CYp88-kRvis) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 12 2023 - [Google Play PolicyBytes - Actualizaciones de la Política de Julio de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=hq_BPx3moKM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
