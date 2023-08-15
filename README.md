@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 15 2023 - [Fluttercon, F3, and DevFest](https://www.youtube.com/watch?v=VOObFOPgYL4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2023 - [WebGPU - Android Developers Backstage](https://www.youtube.com/watch?v=e25VTGmtPrs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 15 2023 - [Enrich stylus and mouse experiences with hover](https://medium.com/androiddevelopers/enrich-stylus-and-mouse-experiences-with-hover-9db19320bf56?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -68,7 +69,6 @@
 - Jun 27 2023 - [Detecting device type – How to know if a device is foldable or a tablet](http://android-developers.googleblog.com/2023/06/detecting-if-device-is-foldable-tablet.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2023 - [June 2023: How Firestore snapshot listener scale, long-polling on JS & CLI and Apple SDK updates](https://www.youtube.com/watch?v=GUdSbhZmDtg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 26 2023 - [Run Firebase locally on JavaScript](https://www.youtube.com/watch?v=KnKtuglyt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 07 2023 - [Create a photo grid with multiselect behavior using Jetpack Compose](https://medium.com/androiddevelopers/create-a-photo-grid-with-multiselect-behavior-using-jetpack-compose-9a8d588a9b63?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
