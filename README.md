@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 16 2023 - [What’s WebGPU?](https://www.youtube.com/watch?v=FOG9MHZK-wE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 15 2023 - [Fluttercon, F3, and DevFest](https://www.youtube.com/watch?v=VOObFOPgYL4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2023 - [WebGPU - Android Developers Backstage](https://www.youtube.com/watch?v=e25VTGmtPrs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -57,7 +58,6 @@
 - Jul 12 2023 - [Use the Remote Config property wrapper](https://www.youtube.com/watch?v=GpLJRFWWrns) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 12 2023 - [Enabling New Blockchain-Based Experiences on Google Play](http://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 12 2023 - [New policy update to boost trust and transparency on Google Play](http://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 12 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Juli 2023](https://www.youtube.com/watch?v=Om_oR2yZY40) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
