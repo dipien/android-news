@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 22 2023 - [August 2023: Firestore geoquery, push notifications on iOS web apps, and OR queries in C++](https://www.youtube.com/watch?v=OmE6ue-s84g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 21 2023 - [RePlay 3: App recovery tools, contextual guidance for deep links, Play Integrity API](https://www.youtube.com/watch?v=mSZFENX24tE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 18 2023 - [Testing your app on a Pixel Fold with Firebase Test Lab](https://www.youtube.com/watch?v=FfSBJEHaBXg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -66,7 +67,6 @@
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Delivering Messages at the scale of the World Cup](https://www.youtube.com/watch?v=may-m1QkeK0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 06 2023 - [Build custom signup behavior with blocking serverless functions](https://www.youtube.com/watch?v=lQPukA6WjVw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
