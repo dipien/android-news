@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 23 2023 - [Now in Android #89](https://medium.com/androiddevelopers/now-in-android-89-6bc584e8aa43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Aug 23 2023 - [Now in Android: 89 - Android 14 Beta 5, Compose for Wear OS, WebGPU, and more!](https://www.youtube.com/watch?v=J4iKnS5ZVt8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2023 - [Firestore OR queries in Swift](https://www.youtube.com/watch?v=My1y3SCsBIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2023 - [August 2023: Firestore geoquery, push notifications on iOS web apps, and OR queries in C++](https://www.youtube.com/watch?v=OmE6ue-s84g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 21 2023 - [RePlay 3: App update prompts, contextual guidance for deep links, Play Integrity AP](https://www.youtube.com/watch?v=mSZFENX24tE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -58,7 +60,6 @@
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2023 - [Meet Firebasers at I/O Connect across the world](https://www.youtube.com/watch?v=Zxg4mjh5jWQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jul 14 2023 - [Beginning your Android development journey in Unity](https://www.youtube.com/watch?v=6srYfC-GWsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 13 2023 - [Now in Android #86](https://medium.com/androiddevelopers/now-in-android-86-6a5cdaebedb5?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 13 2023 - [How to create a chatbot with Firebase Firestore and ChatGPT on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-chatgpt-on-android-910dd40f11d9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 13 2023 - [Firebase Test Lab Integration for Android Flutter Integration Tests](https://medium.com/firebase-developers/google-firebase-test-lab-integration-for-flutter-integration-tests-38f903d47ac3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -76,7 +77,6 @@
 - Jun 01 2023 - [Now in Android #84](https://medium.com/androiddevelopers/now-in-android-84-44ca19e4e416?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
-- May 17 2023 - [Now in Android #83 — I/O edition](https://medium.com/androiddevelopers/now-in-android-83-i-o-edition-39da3091df20?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
