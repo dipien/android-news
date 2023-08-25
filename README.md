@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 23 2023 - [Now in Android #89](https://medium.com/androiddevelopers/now-in-android-89-6bc584e8aa43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 23 2023 - [Now in Android: 89 - Android 14 Beta 5, Compose for Wear OS, WebGPU, and more!](https://www.youtube.com/watch?v=J4iKnS5ZVt8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2023 - [Firestore OR queries in Swift](https://www.youtube.com/watch?v=My1y3SCsBIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Apr 04 2023 - [The Complete Guide to Firebase Phone Auth for iOS](https://medium.com/firebase-developers/the-complete-guide-to-firebase-phone-auth-for-ios-beb5bee788c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
