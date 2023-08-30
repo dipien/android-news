@@ -1,7 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 30 2023 - [Firestore OR queries in JavaScript](https://www.youtube.com/watch?v=zgWSprYwfF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [#WeArePlay - Ingrid | Ridely | Sweden](https://www.youtube.com/watch?v=x4gZL-kRtZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 29 2023 - [4 weeks til F3](https://www.youtube.com/watch?v=s5yourSKRYM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2023 - [Firestore OR queries in Dart](https://www.youtube.com/watch?v=G0hSj1J9PaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -58,7 +60,6 @@
 - Jul 25 2023 - [July 2023: Pigeon Flutter interop, multi-DB＆Point-in-time recovery for Firestore, Pixel Fold devices](https://www.youtube.com/watch?v=bTjLidwxsm0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2023 - [Google Play services discontinuing updates for KitKat (API levels 19 & 20) starting August 2023](http://android-developers.googleblog.com/2023/07/google-play-services-discontinuing-updates-for-kitkat.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2023 - [Update your SwiftUI instantly with Remote Config](https://www.youtube.com/watch?v=Fnh0OY5vLuc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 21 2023 - [Map RC JSON values using Codable](https://www.youtube.com/watch?v=NhKQBpedL-o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 19 2023 - [Compose performance](https://www.youtube.com/watch?v=DYSf2zpB0Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -71,7 +72,6 @@
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 29 2023 - [#WeArePlay - Meet Yoshihiko from Japan. More stories from Spain, Cameroon and Malaysia](http://android-developers.googleblog.com/2023/06/weareplay-meet-yoshihiko-from-japan-more-stories-from-spain-cameroon-malaysia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 28 2023 - [Records in Android Studio Flamingo](http://android-developers.googleblog.com/2023/06/records-in-android-studio-flamingo.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
