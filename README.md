@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 05 2023 - [Deeper dives on recent releases - August 2023](https://www.youtube.com/watch?v=yBJhnHgZV2Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [Firestore OR queries in JavaScript](https://www.youtube.com/watch?v=zgWSprYwfF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [#WeArePlay - Ingrid | Ridely | Sweden](https://www.youtube.com/watch?v=x4gZL-kRtZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -59,7 +60,6 @@
 - Jul 25 2023 - [Android Studio Giraffe is stable](http://android-developers.googleblog.com/2023/07/android-studio-giraffe-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [July 2023: Pigeon Flutter interop, multi-DB＆Point-in-time recovery for Firestore, Pixel Fold devices](https://www.youtube.com/watch?v=bTjLidwxsm0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2023 - [Google Play services discontinuing updates for KitKat (API levels 19 & 20) starting August 2023](http://android-developers.googleblog.com/2023/07/google-play-services-discontinuing-updates-for-kitkat.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 24 2023 - [Update your SwiftUI instantly with Remote Config](https://www.youtube.com/watch?v=Fnh0OY5vLuc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 19 2023 - [Compose performance](https://www.youtube.com/watch?v=DYSf2zpB0Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
