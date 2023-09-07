@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Sep 07 2023 - [Now in Android: 90 - Android brand, ART updates, Dagger KSP, and more!](https://www.youtube.com/watch?v=lEEthuvAbXg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [What is a developer’s favorite language?](https://www.youtube.com/watch?v=gbuSrFCmPBg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Google Play Store Listing Certificate Study Guide: Custom store listings - target by inactive users](https://www.youtube.com/watch?v=obTGSkz3lZc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Play Store Listing Certificate Study Guide: Custom store listings - in pre-registration campaigns](https://www.youtube.com/watch?v=AnBuQG78rWs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -38,7 +39,6 @@
 - Aug 15 2023 - [WebGPU - Android Developers Backstage](https://www.youtube.com/watch?v=e25VTGmtPrs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 15 2023 - [Enrich stylus and mouse experiences with hover](https://medium.com/androiddevelopers/enrich-stylus-and-mouse-experiences-with-hover-9db19320bf56?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 11 2023 - [5 mistakes to avoid when optimizing for large screens](https://www.youtube.com/watch?v=LHpB4598_OQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 11 2023 - [Getting started with Firebase Authentication on Android](https://www.youtube.com/watch?v=wm626abfMM8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 10 2023 - [Choosing the right storage experience](http://android-developers.googleblog.com/2023/08/choosing-right-storage-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
