@@ -14,7 +14,7 @@
 - Aug 23 2023 - [Now in Android: 89 - Android 14 Beta 5, Compose for Wear OS, WebGPU, and more!](https://www.youtube.com/watch?v=J4iKnS5ZVt8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2023 - [Firestore OR queries in Swift](https://www.youtube.com/watch?v=My1y3SCsBIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2023 - [August 2023: Firestore geoquery, push notifications on iOS web apps, and OR queries in C++](https://www.youtube.com/watch?v=OmE6ue-s84g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 21 2023 - [RePlay 3: App update prompts, contextual guidance for deep links, Play Integrity AP](https://www.youtube.com/watch?v=mSZFENX24tE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Aug 21 2023 - [RePlay 3: App update prompts, contextual guidance for deep links, Play Integrity API](https://www.youtube.com/watch?v=mSZFENX24tE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 18 2023 - [Testing your app on a Pixel Fold with Firebase Test Lab](https://www.youtube.com/watch?v=FfSBJEHaBXg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
