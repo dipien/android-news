@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 07 2023 - [What is a dev’s favorite language?](https://www.youtube.com/watch?v=GeyWx5klT60) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2023 - [Now in Android: 90 - Android brand, ART updates, Dagger KSP, and more!](https://www.youtube.com/watch?v=lEEthuvAbXg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [What is a developer’s favorite language?](https://www.youtube.com/watch?v=gbuSrFCmPBg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -51,7 +52,6 @@
 - Aug 08 2023 - [Jetpack WindowManager 1.1 is stable!](http://android-developers.googleblog.com/2023/08/jetpack-windowmanager-11-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 03 2023 - [Health Connect brings together Peloton, ŌURA, and Lifesum for deeper health and fitness insights](http://android-developers.googleblog.com/2023/08/health-connect-brings-together-peloton-oura-lifesum-for-deeper-health-and-fitness-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2023 - [#WeArePlay - Meet Ayushi & Nikhil from India. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ayushi-nikhil-from-india-and-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 02 2023 - [How did I know this UI was better?](https://www.youtube.com/watch?v=n3sSUooJHNI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 01 2023 - [Capture, edit, play, and share, the Media Developer Center has it all!](https://medium.com/androiddevelopers/capture-edit-play-and-share-the-media-developer-center-has-it-all-1223ca07ea9c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 01 2023 - [Indie Games Fund: Apply for support from Google Play’s $2M fund in Latin America](http://android-developers.googleblog.com/2023/08/indie-games-fund-apply-for-support-from-google-play-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 31 2023 - [Try the K2 compiler in your Android projects](http://android-developers.googleblog.com/2023/07/try-k2-compiler-in-your-android-projects.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
