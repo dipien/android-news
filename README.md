@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 12 2023 - [Write for us on Medium](https://www.youtube.com/watch?v=NaJwWTs0W70) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Adyen](https://www.youtube.com/watch?v=cbsP0bldDiA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [What is a dev’s favorite language?](https://www.youtube.com/watch?v=GeyWx5klT60) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -48,7 +49,6 @@
 - Aug 09 2023 - [Firebase Crashlytics in Android Studio](https://www.youtube.com/watch?v=PjnyKPPU65k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2023 - [Compose for Wear OS and Tiles 1.2 libraries are now stable: check out new features!](http://android-developers.googleblog.com/2023/08/compose-for-wear-os-and-tiles-1-2-libraries-now-stable-new-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Introducing Jetpack Emoji Picker: A New Way to Add Emojis to Your Android App](http://android-developers.googleblog.com/2023/08/introducing-jetpack-emoji-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 08 2023 - [Check out the Firebase blog](https://www.youtube.com/watch?v=Q6zpOOIb0Ng) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2023 - [Jetpack WindowManager 1.1 is stable!](http://android-developers.googleblog.com/2023/08/jetpack-windowmanager-11-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 03 2023 - [Health Connect brings together Peloton, ŌURA, and Lifesum for deeper health and fitness insights](http://android-developers.googleblog.com/2023/08/health-connect-brings-together-peloton-oura-lifesum-for-deeper-health-and-fitness-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2023 - [#WeArePlay - Meet Ayushi & Nikhil from India. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ayushi-nikhil-from-india-and-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
