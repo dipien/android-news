@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 14 2023 - [Firebase Cloud Messaging supports notifications on Safari](https://www.youtube.com/watch?v=G6n4FxuhiJo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](http://android-developers.googleblog.com/2023/09/notes-from-google-play-keeping-our-platform-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](https://www.youtube.com/watch?v=Hs7KRO5M2yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2023 - [Write for us on Medium](https://www.youtube.com/watch?v=NaJwWTs0W70) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Adyen](https://www.youtube.com/watch?v=cbsP0bldDiA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [What is a dev’s favorite language?](https://www.youtube.com/watch?v=GeyWx5klT60) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -37,7 +40,6 @@
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 16 2023 - [Firestore OR queries in Kotlin](https://www.youtube.com/watch?v=X50VaPoGNBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 16 2023 - [Privacy Sandbox Developer Preview 9: Custom Audience Delegation](http://android-developers.googleblog.com/2023/08/privacy-sandbox-developer-preview-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 16 2023 - [What’s WebGPU?](https://www.youtube.com/watch?v=FOG9MHZK-wE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 15 2023 - [Fluttercon, F3, and DevFest](https://www.youtube.com/watch?v=VOObFOPgYL4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 15 2023 - [Enrich stylus and mouse experiences with hover](https://medium.com/androiddevelopers/enrich-stylus-and-mouse-experiences-with-hover-9db19320bf56?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -46,7 +48,6 @@
 - Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Now in Android #88](https://medium.com/androiddevelopers/now-in-android-88-f631b7564edb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 09 2023 - [What’s new in the Jetpack Compose August ’23 release](http://android-developers.googleblog.com/2023/08/whats-new-in-jetpack-compose-august-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 09 2023 - [Firebase Crashlytics in Android Studio](https://www.youtube.com/watch?v=PjnyKPPU65k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2023 - [Compose for Wear OS and Tiles 1.2 libraries are now stable: check out new features!](http://android-developers.googleblog.com/2023/08/compose-for-wear-os-and-tiles-1-2-libraries-now-stable-new-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Introducing Jetpack Emoji Picker: A New Way to Add Emojis to Your Android App](http://android-developers.googleblog.com/2023/08/introducing-jetpack-emoji-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 08 2023 - [Jetpack WindowManager 1.1 is stable!](http://android-developers.googleblog.com/2023/08/jetpack-windowmanager-11-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -73,7 +74,6 @@
 - Jul 12 2023 - [Enabling New Blockchain-Based Experiences on Google Play](http://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 12 2023 - [New policy update to boost trust and transparency on Google Play](http://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 10 2023 - [#WeArePlay - Meet the people creating apps and games in Japan](http://android-developers.googleblog.com/2023/07/weareplay-meet-people-creating-apps-and-games-in-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
