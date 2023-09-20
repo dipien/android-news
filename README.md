@@ -1,11 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 20 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Adyen](https://www.youtube.com/watch?v=cbsP0bldDiA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 14 2023 - [Firebase Cloud Messaging supports notifications on Safari](https://www.youtube.com/watch?v=G6n4FxuhiJo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](http://android-developers.googleblog.com/2023/09/notes-from-google-play-keeping-our-platform-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](https://www.youtube.com/watch?v=Hs7KRO5M2yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2023 - [Write for us on Medium](https://www.youtube.com/watch?v=NaJwWTs0W70) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 12 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Adyen](https://www.youtube.com/watch?v=cbsP0bldDiA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [What is a dev’s favorite language?](https://www.youtube.com/watch?v=GeyWx5klT60) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2023 - [Now in Android: 90 - Android brand, ART updates, Dagger KSP, and more!](https://www.youtube.com/watch?v=lEEthuvAbXg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
