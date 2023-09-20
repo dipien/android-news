@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 20 2023 - [Now in Android #91](https://medium.com/androiddevelopers/now-in-android-91-1805122ae7a4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Sep 20 2023 - [Now in Android: 91 - Jetpack Glance, Android 14 QPR, Google Play policy and console updates, & more!](https://www.youtube.com/watch?v=DlN1g4zZTAI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 20 2023 - [Live Google Pay integrations on Android: Collect payments on Android with Google Pay and Adyen](https://www.youtube.com/watch?v=cbsP0bldDiA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 14 2023 - [Firebase Cloud Messaging supports notifications on Safari](https://www.youtube.com/watch?v=G6n4FxuhiJo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](http://android-developers.googleblog.com/2023/09/notes-from-google-play-keeping-our-platform-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +36,6 @@
 - Aug 23 2023 - [Now in Android: 89 - Android 14 Beta 5, Compose for Wear OS, WebGPU, and more!](https://www.youtube.com/watch?v=J4iKnS5ZVt8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2023 - [Firestore OR queries in Swift](https://www.youtube.com/watch?v=My1y3SCsBIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2023 - [August 2023: Firestore geoquery, push notifications on iOS web apps, and OR queries in C++](https://www.youtube.com/watch?v=OmE6ue-s84g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 21 2023 - [RePlay 3: App update prompts, contextual guidance for deep links, Play Integrity API](https://www.youtube.com/watch?v=mSZFENX24tE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 18 2023 - [Testing your app on a Pixel Fold with Firebase Test Lab](https://www.youtube.com/watch?v=FfSBJEHaBXg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -76,7 +77,6 @@
 - Jul 11 2023 - [Android 14 Beta 4](http://android-developers.googleblog.com/2023/07/android-14-beta-4.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 14 2023 - [Now in Android #85](https://medium.com/androiddevelopers/now-in-android-85-8bdb9ce34428?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 08 2023 - [Wear OS home workouts with Health Services](https://medium.com/androiddevelopers/wear-os-home-workouts-with-health-services-b9951fa9e0dc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
