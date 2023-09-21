@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Sep 21 2023 - [Firebase in Android Studio - Android Developers Backstage](https://www.youtube.com/watch?v=OvLCsH2vKgE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 1]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-1-3693ca3ae981?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 20 2023 - [Now in Android #91](https://medium.com/androiddevelopers/now-in-android-91-1805122ae7a4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -35,7 +37,6 @@
 - Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 23 2023 - [Now in Android #89](https://medium.com/androiddevelopers/now-in-android-89-6bc584e8aa43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 23 2023 - [Now in Android: 89 - Android 14 Beta 5, Compose for Wear OS, WebGPU, and more!](https://www.youtube.com/watch?v=J4iKnS5ZVt8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2023 - [Firestore OR queries in Swift](https://www.youtube.com/watch?v=My1y3SCsBIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 22 2023 - [August 2023: Firestore geoquery, push notifications on iOS web apps, and OR queries in C++](https://www.youtube.com/watch?v=OmE6ue-s84g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Apr 28 2023 - [Android Firebase Authentication with Google](https://medium.com/firebase-developers/android-firebase-authentication-with-google-1c2f6ca3a738?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 27 2023 - [Get ready for Google I/O](https://medium.com/googleplaydev/get-ready-for-google-i-o-d08acfc967e9?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- Apr 06 2023 - [Firestore’s @FirestoreQuery property wrapper for SwiftUI](https://medium.com/firebase-developers/firestorequery-swiftui-the-easiest-way-to-listen-for-real-time-updates-32f436cfa26b?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
