@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 22 2023 - [New UI for Android Studio](https://www.youtube.com/watch?v=K1TTzkToDyE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 21 2023 - [Studio Bot expands to 170+ international markets!](http://android-developers.googleblog.com/2023/09/studio-bot-expands-to-international-markets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 21 2023 - [Firebase in Android Studio - Android Developers Backstage](https://www.youtube.com/watch?v=OvLCsH2vKgE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - Sep 06 2023 - [What is Firebase and how to use it](https://www.youtube.com/watch?v=p9pgI3Mg-So) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 05 2023 - [Deeper dives on recent releases - August 2023](https://www.youtube.com/watch?v=yBJhnHgZV2Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [Firestore OR queries in JavaScript](https://www.youtube.com/watch?v=zgWSprYwfF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 30 2023 - [#WeArePlay - Ingrid | Ridely | Sweden](https://www.youtube.com/watch?v=x4gZL-kRtZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 29 2023 - [4 weeks til F3](https://www.youtube.com/watch?v=s5yourSKRYM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2023 - [Firestore OR queries in Dart](https://www.youtube.com/watch?v=G0hSj1J9PaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
