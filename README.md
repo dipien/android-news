@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 25 2023 - [Enforce App Check on your Firebase projects](https://www.youtube.com/watch?v=dYwA3Wo_9Bc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 25 2023 - [Sending Push Notifications for Chat Messages](https://medium.com/firebase-developers/ios-swift-send-a-push-notification-when-firebase-chat-message-is-sent-2ec0e6e412ac?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 22 2023 - [Secret key vs. publishable key](https://www.youtube.com/watch?v=YNIqHR-YGQo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 22 2023 - [New UI for Android Studio](https://www.youtube.com/watch?v=K1TTzkToDyE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -49,7 +50,6 @@
 - Aug 15 2023 - [Fluttercon, F3, and DevFest](https://www.youtube.com/watch?v=VOObFOPgYL4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 15 2023 - [Enrich stylus and mouse experiences with hover](https://medium.com/androiddevelopers/enrich-stylus-and-mouse-experiences-with-hover-9db19320bf56?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 11 2023 - [Getting started with Firebase Authentication on Android](https://www.youtube.com/watch?v=wm626abfMM8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 10 2023 - [Choosing the right storage experience](http://android-developers.googleblog.com/2023/08/choosing-right-storage-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Now in Android #88](https://medium.com/androiddevelopers/now-in-android-88-f631b7564edb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
