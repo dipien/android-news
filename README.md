@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 26 2023 - [Live Google Pay integrations on Android](https://www.youtube.com/watch?v=N6qt1fRkx9U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 26 2023 - [September 2023: Flutter updates, Firestore SUM/AVG＆backups, and Dynamic Links in Google Takeout](https://www.youtube.com/watch?v=xBGoBQyJA1o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 26 2023 - [Samsung unpacked - operation hardware hook](https://www.youtube.com/watch?v=j61YemCWXYw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 25 2023 - [Firebase in Android Studio](https://www.youtube.com/watch?v=u3MZvd4FePM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -29,7 +30,6 @@
 - Sep 07 2023 - [Target by URL in custom store listings - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=g8MsenRnH9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Target by country in custom store listings - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=V-dLD1vgI7g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Store listing experiments in app icons & graphics - Play Store Listing Certificate - Play Console](https://www.youtube.com/watch?v=jUKi98J1wfE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 07 2023 - [Store listing experiments in app text - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=aWbtWV85LSQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Sep 06 2023 - [What is Firebase and how to use it](https://www.youtube.com/watch?v=p9pgI3Mg-So) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
