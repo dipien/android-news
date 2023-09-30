@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 30 2023 - [Google Pay vs. Google Play billing](https://www.youtube.com/watch?v=to0rn6t_IaY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2023 - [The new UI for Android Studio](https://www.youtube.com/watch?v=QzefIO6lJpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2023 - [Kakao Games increased FPS stability to 96% through Android Adaptability](http://android-developers.googleblog.com/2023/09/kakao-games-increased-fps-stability-through-android-adapatability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 26 2023 - [Live Google Pay integrations on Android](https://www.youtube.com/watch?v=N6qt1fRkx9U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -30,7 +31,6 @@
 - Sep 07 2023 - [Target by inactive users in custom store listings - Play Store Listing Certificate - Play Console](https://www.youtube.com/watch?v=obTGSkz3lZc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Target by pre-registration campaigns - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=AnBuQG78rWs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Target by URL in custom store listings - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=g8MsenRnH9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 07 2023 - [Target by country in custom store listings - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=V-dLD1vgI7g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Sep 06 2023 - [What is Firebase and how to use it](https://www.youtube.com/watch?v=p9pgI3Mg-So) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
