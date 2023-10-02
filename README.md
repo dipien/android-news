@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 02 2023 - [How do Firebase App Check tokens work?](https://www.youtube.com/watch?v=eMa0hsHqfHU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 30 2023 - [Google Pay vs. Google Play billing](https://www.youtube.com/watch?v=to0rn6t_IaY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2023 - [The new UI for Android Studio](https://www.youtube.com/watch?v=QzefIO6lJpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2023 - [Kakao Games increased FPS stability to 96% through Android Adaptability](http://android-developers.googleblog.com/2023/09/kakao-games-increased-fps-stability-through-android-adapatability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -47,7 +48,6 @@
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 18 2023 - [Testing your app on a Pixel Fold with Firebase Test Lab](https://www.youtube.com/watch?v=FfSBJEHaBXg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 16 2023 - [Firestore OR queries in Kotlin](https://www.youtube.com/watch?v=X50VaPoGNBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 16 2023 - [Privacy Sandbox Developer Preview 9: Custom Audience Delegation](http://android-developers.googleblog.com/2023/08/privacy-sandbox-developer-preview-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Aug 15 2023 - [Enrich stylus and mouse experiences with hover](https://medium.com/androiddevelopers/enrich-stylus-and-mouse-experiences-with-hover-9db19320bf56?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
