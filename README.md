@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 02 2023 - [Jetpack WindowManager](https://www.youtube.com/watch?v=5msO3qy7F2g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2023 - [How do Firebase App Check tokens work?](https://www.youtube.com/watch?v=eMa0hsHqfHU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 30 2023 - [Google Pay vs. Google Play billing](https://www.youtube.com/watch?v=to0rn6t_IaY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 28 2023 - [The new UI for Android Studio](https://www.youtube.com/watch?v=QzefIO6lJpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - Sep 07 2023 - [What is a developer’s favorite language?](https://www.youtube.com/watch?v=gbuSrFCmPBg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Target by inactive users in custom store listings - Play Store Listing Certificate - Play Console](https://www.youtube.com/watch?v=obTGSkz3lZc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Target by pre-registration campaigns - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=AnBuQG78rWs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 07 2023 - [Target by URL in custom store listings - Play Store Listing Certificate - Google Play Console](https://www.youtube.com/watch?v=g8MsenRnH9Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Sep 06 2023 - [What is Firebase and how to use it](https://www.youtube.com/watch?v=p9pgI3Mg-So) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
