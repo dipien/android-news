@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 04 2023 - [Android 14 is live in AOSP](http://android-developers.googleblog.com/2023/10/android-14-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2023 - [Using Pandas or NumPy in Python CF3 gen2](https://www.youtube.com/watch?v=Bs0bBJFyPVc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 02 2023 - [Building UIs for all form factors](https://www.youtube.com/watch?v=WxCoW9v6xNE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2023 - [Jetpack WindowManager](https://www.youtube.com/watch?v=5msO3qy7F2g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -77,7 +78,6 @@
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 13 2023 - [How to create a chatbot with Firebase Firestore and ChatGPT on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-chatgpt-on-android-910dd40f11d9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 13 2023 - [Firebase Test Lab Integration for Android Flutter Integration Tests](https://medium.com/firebase-developers/google-firebase-test-lab-integration-for-flutter-integration-tests-38f903d47ac3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jul 12 2023 - [Enabling New Blockchain-Based Experiences on Google Play](http://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
