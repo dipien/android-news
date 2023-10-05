@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 05 2023 - [#WeArePlay - Solape & Yomi | HerVest | Nigeria](https://www.youtube.com/watch?v=mLUwNXOTaT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 04 2023 - [Now in Android: 92 - Studio Bot expansion, @Firebase integration, Android Studio, and much more!](https://www.youtube.com/watch?v=jpU6hjzOLRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 04 2023 - [Wear OS 4 is now stable and available on Google Pixel Watch 2!](http://android-developers.googleblog.com/2023/10/wear-os-4-is-now-stable-and-available-on-google-pixel-watch-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +35,6 @@
 - Sep 12 2023 - [Write for us on Medium](https://www.youtube.com/watch?v=NaJwWTs0W70) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [What is a dev’s favorite language?](https://www.youtube.com/watch?v=GeyWx5klT60) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 07 2023 - [Now in Android: 90 - Android brand, ART updates, Dagger KSP, and more!](https://www.youtube.com/watch?v=lEEthuvAbXg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 07 2023 - [What is a developer’s favorite language?](https://www.youtube.com/watch?v=gbuSrFCmPBg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
