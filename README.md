@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 05 2023 - [#WeArePlay - Solape & Yomi | HerVest | Nigeria](https://www.youtube.com/watch?v=mLUwNXOTaT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 05 2023 - [#WeArePlay - Meet Solape and Yomi from Nigeria. More stories from around the world](http://android-developers.googleblog.com/2023/10/weareplay-meet-solape-and-yomi-from-nigeria-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 04 2023 - [Now in Android: 92 - Studio Bot expansion, @Firebase integration, Android Studio, and much more!](https://www.youtube.com/watch?v=jpU6hjzOLRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 04 2023 - [Wear OS 4 is now stable and available on Google Pixel Watch 2!](http://android-developers.googleblog.com/2023/10/wear-os-4-is-now-stable-and-available-on-google-pixel-watch-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -72,7 +73,6 @@
 - Jul 26 2023 - [Deezer increased its monthly active users 4X after improving multi-device support](http://android-developers.googleblog.com/2023/07/deezer-increased-its-monthly-active-users-after-improving-multi-device-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [Introducing a new Play Store for large screens](http://android-developers.googleblog.com/2023/07/introducing-new-play-store-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [Deep dive into Live Edit for Jetpack Compose UI](http://android-developers.googleblog.com/2023/07/deep-dive-into-live-edit-for-jetpack-compose-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 25 2023 - [Android Studio Giraffe is stable](http://android-developers.googleblog.com/2023/07/android-studio-giraffe-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
