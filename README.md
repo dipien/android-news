@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 10 2023 - [Device Streaming: The latest devices you need, when you need them](https://medium.com/androiddevelopers/device-streaming-the-latest-devices-you-need-when-you-need-them-4472d28d0c57?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 10 2023 - [Deep dives with Marina](https://www.youtube.com/watch?v=B506AABZVWw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 05 2023 - [#WeArePlay - Solape & Yomi | HerVest | Nigeria](https://www.youtube.com/watch?v=mLUwNXOTaT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 05 2023 - [#WeArePlay - Meet Solape and Yomi from Nigeria. More stories from around the world](http://android-developers.googleblog.com/2023/10/weareplay-meet-solape-and-yomi-from-nigeria-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -64,7 +65,6 @@
 - Aug 08 2023 - [Jetpack WindowManager 1.1 is stable!](http://android-developers.googleblog.com/2023/08/jetpack-windowmanager-11-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 03 2023 - [Health Connect brings together Peloton, ŌURA, and Lifesum for deeper health and fitness insights](http://android-developers.googleblog.com/2023/08/health-connect-brings-together-peloton-oura-lifesum-for-deeper-health-and-fitness-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2023 - [#WeArePlay - Meet Ayushi & Nikhil from India. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ayushi-nikhil-from-india-and-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 01 2023 - [Capture, edit, play, and share, the Media Developer Center has it all!](https://medium.com/androiddevelopers/capture-edit-play-and-share-the-media-developer-center-has-it-all-1223ca07ea9c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 01 2023 - [Indie Games Fund: Apply for support from Google Play’s $2M fund in Latin America](http://android-developers.googleblog.com/2023/08/indie-games-fund-apply-for-support-from-google-play-fund-in-latin-america.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 31 2023 - [Try the K2 compiler in your Android projects](http://android-developers.googleblog.com/2023/07/try-k2-compiler-in-your-android-projects.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 28 2023 - [How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
