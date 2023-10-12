@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 12 2023 - [#TheAndroidShow - Tune in on October 19!](https://www.youtube.com/watch?v=q0rzhMHj25k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 12 2023 - [Tune in for another episode of #TheAndroidShow on October 19!](http://android-developers.googleblog.com/2023/10/watch-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 12 2023 - [#TheAndroidShow - broadcasted live (here!) on October 19 at 10AM PT](https://www.youtube.com/watch?v=_gL7XZy_XsY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 12 2023 - [Dynamic Links are Dead. What to do?](https://medium.com/firebase-developers/dynamic-links-are-dead-what-to-do-c73ad0669540?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 11 2023 - [Gestures in Jetpack Compose](https://www.youtube.com/watch?v=1tkVjBxdGrk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -73,7 +74,6 @@
 - Jul 26 2023 - [Prepare your app for the new Samsung tablets, foldables and watches](http://android-developers.googleblog.com/2023/07/prepare-your-app-for-new-samsung-tablets-foldables-watches.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 26 2023 - [Deezer increased its monthly active users 4X after improving multi-device support](http://android-developers.googleblog.com/2023/07/deezer-increased-its-monthly-active-users-after-improving-multi-device-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2023 - [Introducing a new Play Store for large screens](http://android-developers.googleblog.com/2023/07/introducing-new-play-store-for-large-screens.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 25 2023 - [Deep dive into Live Edit for Jetpack Compose UI](http://android-developers.googleblog.com/2023/07/deep-dive-into-live-edit-for-jetpack-compose-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
