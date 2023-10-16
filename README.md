@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 16 2023 - [Save the date for #FirebaseDemoDay](https://www.youtube.com/watch?v=DPa-heX0LN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 12 2023 - [#TheAndroidShow - Tune in on October 19!](https://www.youtube.com/watch?v=q0rzhMHj25k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 12 2023 - [Tune in for another episode of #TheAndroidShow on October 19!](http://android-developers.googleblog.com/2023/10/watch-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -53,7 +54,6 @@
 - Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 23 2023 - [Now in Android #89](https://medium.com/androiddevelopers/now-in-android-89-6bc584e8aa43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 23 2023 - [Firestore OR queries in Swift](https://www.youtube.com/watch?v=My1y3SCsBIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 16 2023 - [Privacy Sandbox Developer Preview 9: Custom Audience Delegation](http://android-developers.googleblog.com/2023/08/privacy-sandbox-developer-preview-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
