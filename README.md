@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 17 2023 - [Make it so tutorials - September 2023](https://www.youtube.com/watch?v=HxWl7QtgA6E) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [Save the date for #FirebaseDemoDay](https://www.youtube.com/watch?v=DPa-heX0LN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 12 2023 - [#TheAndroidShow - Tune in on October 19!](https://www.youtube.com/watch?v=q0rzhMHj25k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -50,7 +51,6 @@
 - Aug 30 2023 - [Firestore OR queries in JavaScript](https://www.youtube.com/watch?v=zgWSprYwfF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 29 2023 - [4 weeks til F3](https://www.youtube.com/watch?v=s5yourSKRYM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 28 2023 - [Firestore OR queries in Dart](https://www.youtube.com/watch?v=G0hSj1J9PaM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 23 2023 - [Now in Android #89](https://medium.com/androiddevelopers/now-in-android-89-6bc584e8aa43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
