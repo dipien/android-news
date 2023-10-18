@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Oct 17 2023 - [Make it so tutorials - September 2023](https://www.youtube.com/watch?v=HxWl7QtgA6E) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 17 2023 - [Make it So tutorials - September 2023](https://www.youtube.com/watch?v=HxWl7QtgA6E) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [Save the date for #FirebaseDemoDay](https://www.youtube.com/watch?v=DPa-heX0LN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 12 2023 - [#TheAndroidShow - Tune in on October 19!](https://www.youtube.com/watch?v=q0rzhMHj25k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
