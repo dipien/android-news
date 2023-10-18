@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 17 2023 - [Make it So tutorials - September 2023](https://www.youtube.com/watch?v=HxWl7QtgA6E) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [Save the date for #FirebaseDemoDay](https://www.youtube.com/watch?v=DPa-heX0LN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -61,7 +62,6 @@
 - Aug 15 2023 - [Enrich stylus and mouse experiences with hover](https://medium.com/androiddevelopers/enrich-stylus-and-mouse-experiences-with-hover-9db19320bf56?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 10 2023 - [Choosing the right storage experience](http://android-developers.googleblog.com/2023/08/choosing-right-storage-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 09 2023 - [Now in Android #88](https://medium.com/androiddevelopers/now-in-android-88-f631b7564edb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 09 2023 - [What’s new in the Jetpack Compose August ’23 release](http://android-developers.googleblog.com/2023/08/whats-new-in-jetpack-compose-august-23-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Compose for Wear OS and Tiles 1.2 libraries are now stable: check out new features!](http://android-developers.googleblog.com/2023/08/compose-for-wear-os-and-tiles-1-2-libraries-now-stable-new-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2023 - [Introducing Jetpack Emoji Picker: A New Way to Add Emojis to Your Android App](http://android-developers.googleblog.com/2023/08/introducing-jetpack-emoji-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
