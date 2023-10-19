@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 19 2023 - [View and list multiple databases in the Google Cloud console](https://www.youtube.com/watch?v=Lx6pf2Bq5Hw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 19 2023 - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Now in Android: 93 - Android 14, Wear OS 4, Gestures in Jetpack Compose, and more!](https://www.youtube.com/watch?v=_nSFWfipdgw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -37,6 +38,7 @@
 - Sep 22 2023 - [New UI for Android Studio](https://www.youtube.com/watch?v=K1TTzkToDyE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 21 2023 - [Studio Bot expands to 170+ international markets!](http://android-developers.googleblog.com/2023/09/studio-bot-expands-to-international-markets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Sep 21 2023 - [Firebase in Android Studio - Android Developers Backstage](https://www.youtube.com/watch?v=OvLCsH2vKgE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 1]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-1-3693ca3ae981?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 20 2023 - [Now in Android #91](https://medium.com/androiddevelopers/now-in-android-91-1805122ae7a4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -52,7 +54,6 @@
 - Sep 05 2023 - [Deeper dives on recent releases - August 2023](https://www.youtube.com/watch?v=yBJhnHgZV2Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [Firestore OR queries in JavaScript](https://www.youtube.com/watch?v=zgWSprYwfF4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 29 2023 - [4 weeks til F3](https://www.youtube.com/watch?v=s5yourSKRYM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
 - Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 28 2023 - [Android Firebase Authentication with Google](https://medium.com/firebase-developers/android-firebase-authentication-with-google-1c2f6ca3a738?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Apr 27 2023 - [Get ready for Google I/O](https://medium.com/googleplaydev/get-ready-for-google-i-o-d08acfc967e9?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)<!-- NEWS:END -->
+- Apr 28 2023 - [Android Firebase Authentication with Google](https://medium.com/firebase-developers/android-firebase-authentication-with-google-1c2f6ca3a738?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
 
 ## Sources
 
