@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Oct 19 2023 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=76Sdi7Q1608) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 19 2023 - [#TheAndroidShow: Behind the scenes at the launch of Google Pixel Watch 2](https://www.youtube.com/watch?v=3jrQ2DYdOpc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Android Developer Story: Snapchat integrated camera features 50% faster with Camera2 Extensions API](https://www.youtube.com/watch?v=d8YDBy-BhOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Android Developer Story: Zoom users spend 2x more time connecting on tablets](https://www.youtube.com/watch?v=o9L8dMPViCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [#TheAndroidShow: faster and easier to build excellent apps, across devices!](https://www.youtube.com/watch?v=_gL7XZy_XsY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
