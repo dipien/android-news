@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Oct 18 2023 - [Now in Android: 93 - Android 14, Wear OS 4, Gestures in Jetpack Compose, and more!](https://www.youtube.com/watch?v=_nSFWfipdgw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 17 2023 - [Make it So tutorials - September 2023](https://www.youtube.com/watch?v=HxWl7QtgA6E) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2023 - [Save the date for #FirebaseDemoDay](https://www.youtube.com/watch?v=DPa-heX0LN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -36,7 +37,6 @@
 - Sep 22 2023 - [New UI for Android Studio](https://www.youtube.com/watch?v=K1TTzkToDyE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 21 2023 - [Studio Bot expands to 170+ international markets!](http://android-developers.googleblog.com/2023/09/studio-bot-expands-to-international-markets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 21 2023 - [Firebase in Android Studio - Android Developers Backstage](https://www.youtube.com/watch?v=OvLCsH2vKgE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 1]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-1-3693ca3ae981?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 20 2023 - [Now in Android #91](https://medium.com/androiddevelopers/now-in-android-91-1805122ae7a4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
