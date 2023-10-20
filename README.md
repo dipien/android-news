@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 19 2023 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=DEcyz2fynBE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [#TheAndroidShow: Behind the scenes at the launch of Google Pixel Watch 2](https://www.youtube.com/watch?v=3jrQ2DYdOpc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Android Developer Story: Snapchat integrated camera features 50% faster with Camera2 Extensions API](https://www.youtube.com/watch?v=d8YDBy-BhOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
-- Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 28 2023 - [Android Firebase Authentication with Google](https://medium.com/firebase-developers/android-firebase-authentication-with-google-1c2f6ca3a738?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)<!-- NEWS:END -->
+- Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
