@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 19 2023 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=DEcyz2fynBE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [#TheAndroidShow: Behind the scenes at the launch of Google Pixel Watch 2](https://www.youtube.com/watch?v=3jrQ2DYdOpc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Android Developer Story: Snapchat integrated camera features 50% faster with Camera2 Extensions API](https://www.youtube.com/watch?v=d8YDBy-BhOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Android Developer Story: Zoom users spend 2x more time connecting on tablets](https://www.youtube.com/watch?v=o9L8dMPViCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - Oct 04 2023 - [Wear OS 4 is now stable and available on Google Pixel Watch 2!](http://android-developers.googleblog.com/2023/10/wear-os-4-is-now-stable-and-available-on-google-pixel-watch-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Android 14 is live in AOSP](http://android-developers.googleblog.com/2023/10/android-14-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2023 - [Using Pandas or NumPy in Python CF3 gen2](https://www.youtube.com/watch?v=Bs0bBJFyPVc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 02 2023 - [Building UIs for all form factors](https://www.youtube.com/watch?v=WxCoW9v6xNE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2023 - [How do Firebase App Check tokens work?](https://www.youtube.com/watch?v=eMa0hsHqfHU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 28 2023 - [Kakao Games increased FPS stability to 96% through Android Adaptability](http://android-developers.googleblog.com/2023/09/kakao-games-increased-fps-stability-through-android-adapatability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 26 2023 - [September 2023: Flutter updates, Firestore SUM/AVG＆backups, and Dynamic Links in Google Takeout](https://www.youtube.com/watch?v=xBGoBQyJA1o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
