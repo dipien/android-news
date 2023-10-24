@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 24 2023 - [Android Developer Story: KAYAK reduced sign-in time by 50% and improved security with passkeys](https://www.youtube.com/watch?v=moeXZ0rjezQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2023 - [October 2023: Firestore SUM/AVG, App Check terms of service, Pixel 8 testing ＆blocking abusive files](https://www.youtube.com/watch?v=6rr5jWj_ORI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 23 2023 - [Surprises are in store for #FirebaseDemoDay](https://www.youtube.com/watch?v=HCdk6qXCeNA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -31,7 +32,6 @@
 - Oct 05 2023 - [#WeArePlay - Solape & Yomi | HerVest | Nigeria](https://www.youtube.com/watch?v=mLUwNXOTaT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 05 2023 - [#WeArePlay - Meet Solape and Yomi from Nigeria. More stories from around the world](http://android-developers.googleblog.com/2023/10/weareplay-meet-solape-and-yomi-from-nigeria-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 04 2023 - [Now in Android: 92 - Studio Bot expansion, @Firebase integration, Android Studio, and much more!](https://www.youtube.com/watch?v=jpU6hjzOLRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 04 2023 - [Wear OS 4 is now stable and available on Google Pixel Watch 2!](http://android-developers.googleblog.com/2023/10/wear-os-4-is-now-stable-and-available-on-google-pixel-watch-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Android 14 is live in AOSP](http://android-developers.googleblog.com/2023/10/android-14-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2023 - [Using Pandas or NumPy in Python CF3 gen2](https://www.youtube.com/watch?v=Bs0bBJFyPVc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
