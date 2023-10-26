@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Oktober 2023](https://www.youtube.com/watch?v=sZEb3Br7sDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Oktober 2023 (German)](https://www.youtube.com/watch?v=H4ZqVnp0kCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - Actualizaciones de las Políticas de Octubre de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=0SbPpuHxG6c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -81,7 +82,6 @@
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jul 13 2023 - [How to create a chatbot with Firebase Firestore and ChatGPT on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-chatgpt-on-android-910dd40f11d9?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
