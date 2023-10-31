@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 31 2023 - [Firebase Demo Day #shorts](https://www.youtube.com/watch?v=MiYMtm8GVmU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2023 - [Meta built threads in only 5 months using Jetpack Compose](http://android-developers.googleblog.com/2023/10/meta-built-threads-in-only-5-months-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Make the passkey endpoints well-known URL part of your passkey implementation](http://android-developers.googleblog.com/2023/10/make-passkey-endpoints-well-known-url-part-of-your-passkey-implementation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -70,7 +71,6 @@
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 24 2023 - [An update on Jetpack Compose Accompanist libraries — August 2023](https://medium.com/androiddevelopers/an-update-on-jetpack-compose-accompanist-libraries-august-2023-ac4cbbf059f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
