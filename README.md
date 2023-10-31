@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 31 2023 - [Firebase: 入門講解與範例](https://www.youtube.com/watch?v=DEILLUIdUIE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 31 2023 - [Firebase Demo Day #shorts](https://www.youtube.com/watch?v=MiYMtm8GVmU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2023 - [Meta built threads in only 5 months using Jetpack Compose](http://android-developers.googleblog.com/2023/10/meta-built-threads-in-only-5-months-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -67,7 +68,6 @@
 - Sep 12 2023 - [Write for us on Medium](https://www.youtube.com/watch?v=NaJwWTs0W70) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [What is a dev’s favorite language?](https://www.youtube.com/watch?v=GeyWx5klT60) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 07 2023 - [What is a developer’s favorite language?](https://www.youtube.com/watch?v=gbuSrFCmPBg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
