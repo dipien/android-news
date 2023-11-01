@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 01 2023 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.youtube.com/watch?v=Lh-6etOdLdI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 01 2023 - [How to implement gesture handling in our app](https://www.youtube.com/watch?v=uRsoD91_Xyg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2023 - [Firebase: 入門講解與範例](https://www.youtube.com/watch?v=DEILLUIdUIE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -32,7 +34,6 @@
 - Oct 19 2023 - [Upcoming Android Events](http://android-developers.googleblog.com/2023/10/events-tas.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [With 2X higher user engagement on tablets, Zoom optimized for large screens on Android](http://android-developers.googleblog.com/2023/10/zoom-optimized-for-large-screens-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [Android Developer Story: Snapchat integrated camera features 50% faster with Camera2 Extensions API](https://www.youtube.com/watch?v=d8YDBy-BhOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 19 2023 - [Android Developer Story: Zoom users spend 2x more time connecting on tablets](https://www.youtube.com/watch?v=o9L8dMPViCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [#TheAndroidShow: Faster and easier to build excellent apps, across devices.](http://android-developers.googleblog.com/2023/10/show-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [View and list multiple databases in the Google Cloud console](https://www.youtube.com/watch?v=Lx6pf2Bq5Hw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 19 2023 - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
-- May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
-- Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
