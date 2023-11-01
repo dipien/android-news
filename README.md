@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 01 2023 - [How to implement gesture handling in our app](https://www.youtube.com/watch?v=uRsoD91_Xyg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2023 - [Firebase: 入門講解與範例](https://www.youtube.com/watch?v=DEILLUIdUIE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 31 2023 - [Firebase Demo Day #shorts](https://www.youtube.com/watch?v=MiYMtm8GVmU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -32,7 +33,6 @@
 - Oct 19 2023 - [With 2X higher user engagement on tablets, Zoom optimized for large screens on Android](http://android-developers.googleblog.com/2023/10/zoom-optimized-for-large-screens-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [Android Developer Story: Snapchat integrated camera features 50% faster with Camera2 Extensions API](https://www.youtube.com/watch?v=d8YDBy-BhOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Android Developer Story: Zoom users spend 2x more time connecting on tablets](https://www.youtube.com/watch?v=o9L8dMPViCg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 19 2023 - [#TheAndroidShow: faster and easier to build excellent apps, across devices!](https://www.youtube.com/watch?v=_gL7XZy_XsY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [#TheAndroidShow: Faster and easier to build excellent apps, across devices.](http://android-developers.googleblog.com/2023/10/show-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [View and list multiple databases in the Google Cloud console](https://www.youtube.com/watch?v=Lx6pf2Bq5Hw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 19 2023 - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
