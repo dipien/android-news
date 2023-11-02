@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 02 2023 - [Live Google Pay integrations on Android: A detailed look at the new dynamic button](https://www.youtube.com/watch?v=ekDlFqR84WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [#WeArePlay - Geraldo | Moises | USA](https://www.youtube.com/watch?v=ONyj5VkfNws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2023 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.youtube.com/watch?v=Lh-6etOdLdI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -31,7 +32,6 @@
 - Oct 23 2023 - [Surprises are in store for #FirebaseDemoDay](https://www.youtube.com/watch?v=HCdk6qXCeNA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 19 2023 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=DEcyz2fynBE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 19 2023 - [#TheAndroidShow: Behind the scenes at the launch of Google Pixel Watch 2](https://www.youtube.com/watch?v=3jrQ2DYdOpc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 19 2023 - [Upcoming Android Events](http://android-developers.googleblog.com/2023/10/events-tas.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [With 2X higher user engagement on tablets, Zoom optimized for large screens on Android](http://android-developers.googleblog.com/2023/10/zoom-optimized-for-large-screens-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [#TheAndroidShow: Faster and easier to build excellent apps, across devices.](http://android-developers.googleblog.com/2023/10/show-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
