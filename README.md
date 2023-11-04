@@ -2,9 +2,12 @@
 
 <!-- NEWS:START -->
 - Nov 03 2023 - [Reacting to Firestore changes with Cloud Functions and Eventarc](https://www.youtube.com/watch?v=0PK53ndn3Lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Now in Android: 94 - #TheAndroidShow, Jetpack Glance, Google Play policy updates, and more!](https://www.youtube.com/watch?v=8rsIxtKiClk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 02 2023 - [Increasing trust for embedded media](http://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Live Google Pay integrations on Android: A detailed look at the new dynamic button](https://www.youtube.com/watch?v=ekDlFqR84WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [#WeArePlay - Geraldo | Moises | USA](https://www.youtube.com/watch?v=ONyj5VkfNws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 02 2023 - [#WeArePlay - Meet Geraldo from Utah. More stories from around the world.](http://android-developers.googleblog.com/2023/11/weareplay-meet-geraldo-from-utah-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 01 2023 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.youtube.com/watch?v=Lh-6etOdLdI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 01 2023 - [How to implement gesture handling in our app](https://www.youtube.com/watch?v=uRsoD91_Xyg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -75,10 +78,7 @@
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 21 2023 - [Latest ARTwork on hundreds of millions of devices](http://android-developers.googleblog.com/2023/08/latest-artwork-on-hundreds-of-millions-of-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 16 2023 - [Privacy Sandbox Developer Preview 9: Custom Audience Delegation](http://android-developers.googleblog.com/2023/08/privacy-sandbox-developer-preview-9.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Aug 10 2023 - [Choosing the right storage experience](http://android-developers.googleblog.com/2023/08/choosing-right-storage-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 10 2023 - [Android 14 Beta 5](http://android-developers.googleblog.com/2023/08/android-14-beta-5.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 28 2023 - [How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
