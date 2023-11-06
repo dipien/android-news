@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 06 2023 - [Behind the scenes #FirebaseDemoDay](https://www.youtube.com/watch?v=0vWRYOJ6hIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 03 2023 - [Reacting to Firestore changes with Cloud Functions and Eventarc](https://www.youtube.com/watch?v=0PK53ndn3Lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -33,7 +34,6 @@
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2023 - [Grow your game on Google Play with the Indie Games Accelerator - submissions now open](http://android-developers.googleblog.com/2023/10/grow-your-game-on-google-play-indie-games-accelerator-submissions-now-open.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 24 2023 - [Android Developer Story: KAYAK reduced sign-in time by 50% and improved security with passkeys](https://www.youtube.com/watch?v=moeXZ0rjezQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2023 - [October 2023: Firestore SUM/AVG, App Check terms of service, Pixel 8 testing ＆blocking abusive files](https://www.youtube.com/watch?v=6rr5jWj_ORI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 23 2023 - [Surprises are in store for #FirebaseDemoDay](https://www.youtube.com/watch?v=HCdk6qXCeNA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
