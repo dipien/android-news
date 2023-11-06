@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 06 2023 - [Behind the scenes #FirebaseDemoDay](https://www.youtube.com/watch?v=0vWRYOJ6hIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 03 2023 - [Reacting to Firestore changes with Cloud Functions and Eventarc](https://www.youtube.com/watch?v=0PK53ndn3Lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Now in Android: 94 - #TheAndroidShow, Jetpack Glance, Google Play policy updates, and more!](https://www.youtube.com/watch?v=8rsIxtKiClk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -70,7 +71,6 @@
 - Sep 20 2023 - [Now in Android #91](https://medium.com/androiddevelopers/now-in-android-91-1805122ae7a4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 14 2023 - [Firebase Cloud Messaging supports notifications on Safari](https://www.youtube.com/watch?v=G6n4FxuhiJo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](http://android-developers.googleblog.com/2023/09/notes-from-google-play-keeping-our-platform-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 12 2023 - [Write for us on Medium](https://www.youtube.com/watch?v=NaJwWTs0W70) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
