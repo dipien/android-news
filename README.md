@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 08 2023 - [Welcome to #FirebaseDemoDay!](https://www.youtube.com/watch?v=JIGwupAyhSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How to release safely and reduce risk with Remote Config and Crashlytics](https://www.youtube.com/watch?v=qkbKJyfORHw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Smarter pre-release app testing: AI-powered automated testing in App Distribution](https://www.youtube.com/watch?v=a-FLP4GFXvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Using AI to generate poems from pictures with Python in Firebase](https://www.youtube.com/watch?v=mvEHYMsk_AE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -28,7 +29,6 @@
 - Nov 01 2023 - [How to implement gesture handling in our app](https://www.youtube.com/watch?v=uRsoD91_Xyg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2023 - [Firebase: 入門講解與範例](https://www.youtube.com/watch?v=DEILLUIdUIE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 31 2023 - [Firebase Demo Day #shorts](https://www.youtube.com/watch?v=MiYMtm8GVmU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 27 2023 - [Meta built threads in only 5 months using Jetpack Compose](http://android-developers.googleblog.com/2023/10/meta-built-threads-in-only-5-months-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Make the passkey endpoints well-known URL part of your passkey implementation](http://android-developers.googleblog.com/2023/10/make-passkey-endpoints-well-known-url-part-of-your-passkey-implementation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Updates to Google Identity Services (GIS) and migration to the Credential Manager API](http://android-developers.googleblog.com/2023/10/pdates-to-google-identity-services-gis-credential-manager-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
