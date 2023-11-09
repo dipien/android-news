@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 09 2023 - [Live Google Pay integrations on Android: A detailed look at the new dynamic button](https://www.youtube.com/watch?v=ekDlFqR84WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 09 2023 - [Firebase supports Sum and Average in Cloud Firestore](https://www.youtube.com/watch?v=91LWShFZn40) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 09 2023 - [Ensuring high-quality apps on Google Play](http://android-developers.googleblog.com/2023/11/ensuring-high-quality-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 08 2023 - [Welcome to #FirebaseDemoDay!](https://www.youtube.com/watch?v=JIGwupAyhSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How to release safely and reduce risk with Remote Config and Crashlytics](https://www.youtube.com/watch?v=qkbKJyfORHw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Smarter pre-release app testing: AI-powered automated testing in App Distribution](https://www.youtube.com/watch?v=a-FLP4GFXvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -21,13 +24,11 @@
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Now in Android: 94 - #TheAndroidShow, Jetpack Glance, Google Play policy updates, and more!](https://www.youtube.com/watch?v=8rsIxtKiClk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [Increasing trust for embedded media](http://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 02 2023 - [Live Google Pay integrations on Android: A detailed look at the new dynamic button](https://www.youtube.com/watch?v=ekDlFqR84WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [#WeArePlay - Geraldo | Moises | USA](https://www.youtube.com/watch?v=ONyj5VkfNws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [#WeArePlay - Meet Geraldo from Utah. More stories from around the world.](http://android-developers.googleblog.com/2023/11/weareplay-meet-geraldo-from-utah-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 01 2023 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.youtube.com/watch?v=Lh-6etOdLdI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 01 2023 - [How to implement gesture handling in our app](https://www.youtube.com/watch?v=uRsoD91_Xyg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 31 2023 - [Firebase: 入門講解與範例](https://www.youtube.com/watch?v=DEILLUIdUIE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 27 2023 - [Meta built threads in only 5 months using Jetpack Compose](http://android-developers.googleblog.com/2023/10/meta-built-threads-in-only-5-months-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Make the passkey endpoints well-known URL part of your passkey implementation](http://android-developers.googleblog.com/2023/10/make-passkey-endpoints-well-known-url-part-of-your-passkey-implementation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -75,7 +76,6 @@
 - Sep 07 2023 - [Now in Android #90](https://medium.com/androiddevelopers/now-in-android-90-a852c6753fda?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2023 - [Grow user acquisition and store conversions with the updated Play Store Listing Certificate course](http://android-developers.googleblog.com/2023/09/grow-user-acquisition-and-store-conversions-with-updated-play-store-listing-certificate-course.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
-- Aug 30 2023 - [#WeArePlay - Meet Ingrid from Sweden. More stories from around the world.](http://android-developers.googleblog.com/2023/08/weareplay-meet-ingrid-from-sweden-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
