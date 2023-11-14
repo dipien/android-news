@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Nov 14 2023 - [FlowLinks extension #shorts](https://www.youtube.com/watch?v=NisWEs5UFIc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 14 2023 - [Bringing New Input Support to Desktop AVD](http://android-developers.googleblog.com/2023/11/bringing-new-input-support-to-desktop-avd.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 13 2023 - [The secret to Android's improved memory on 1B+ Devices: The latest Android Runtime update](http://android-developers.googleblog.com/2023/11/the-secret-to-androids-improved-memory-latest-android-runtime-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2023 - [Squaring the Circle on Google TV](https://medium.com/androiddevelopers/squaring-the-circle-on-google-tv-e1ee37fe247e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 09 2023 - [Live Google Pay integrations on Android: A detailed look at the new dynamic button](https://www.youtube.com/watch?v=ekDlFqR84WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -74,7 +75,6 @@
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 1]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-1-3693ca3ae981?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 20 2023 - [Now in Android #91](https://medium.com/androiddevelopers/now-in-android-91-1805122ae7a4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 14 2023 - [Notes from Google Play: Keeping our platform safe](http://android-developers.googleblog.com/2023/09/notes-from-google-play-keeping-our-platform-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
