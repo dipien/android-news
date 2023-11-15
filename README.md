@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Nov 15 2023 - [Tune into #AskFirebase LIVE](https://www.youtube.com/watch?v=Mz38KBbveK8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2023 - [5 must-know Google Play updates](https://www.youtube.com/watch?v=rIFShToilkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2023 - [Google Play Games on PC brings new features to accelerate growth](http://android-developers.googleblog.com/2023/11/google-play-games-on-pc-brings-new-features-accelerate-growth.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2023 - [Snapchat integrated new camera features 50% faster with the Camera2 Extensions API](http://android-developers.googleblog.com/2023/11/snapchat-integrated-new-camera-features-faster-with-camera2-extensions-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -69,7 +70,6 @@
 - Oct 05 2023 - [#WeArePlay - Meet Solape and Yomi from Nigeria. More stories from around the world](http://android-developers.googleblog.com/2023/10/weareplay-meet-solape-and-yomi-from-nigeria-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 04 2023 - [Wear OS 4 is now stable and available on Google Pixel Watch 2!](http://android-developers.googleblog.com/2023/10/wear-os-4-is-now-stable-and-available-on-google-pixel-watch-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 04 2023 - [Android 14 is live in AOSP](http://android-developers.googleblog.com/2023/10/android-14-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 25 2023 - [Sending Push Notifications for Chat Messages](https://medium.com/firebase-developers/ios-swift-send-a-push-notification-when-firebase-chat-message-is-sent-2ec0e6e412ac?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
