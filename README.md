@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 14 2023 - [Snapchat integrated new camera features 50% faster with the Camera2 Extensions API](http://android-developers.googleblog.com/2023/11/snapchat-integrated-new-camera-features-faster-with-camera2-extensions-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2023 - [FlowLinks extension #shorts](https://www.youtube.com/watch?v=NisWEs5UFIc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 14 2023 - [Bringing New Input Support to Desktop AVD](http://android-developers.googleblog.com/2023/11/bringing-new-input-support-to-desktop-avd.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 13 2023 - [The secret to Android's improved memory on 1B+ Devices: The latest Android Runtime update](http://android-developers.googleblog.com/2023/11/the-secret-to-androids-improved-memory-latest-android-runtime-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -70,7 +71,6 @@
 - Oct 04 2023 - [Android 14 is live in AOSP](http://android-developers.googleblog.com/2023/10/android-14-is-live-in-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 28 2023 - [Kakao Games increased FPS stability to 96% through Android Adaptability](http://android-developers.googleblog.com/2023/09/kakao-games-increased-fps-stability-through-android-adapatability.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 25 2023 - [Sending Push Notifications for Chat Messages](https://medium.com/firebase-developers/ios-swift-send-a-push-notification-when-firebase-chat-message-is-sent-2ec0e6e412ac?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Sep 21 2023 - [Studio Bot expands to 170+ international markets!](http://android-developers.googleblog.com/2023/09/studio-bot-expands-to-international-markets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 1]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-1-3693ca3ae981?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
