@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 15 2023 - [Tune into #AskFirebase LIVE](https://www.youtube.com/watch?v=Mz38KBbveK8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2023 - [5 must-know Google Play updates](https://www.youtube.com/watch?v=rIFShToilkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2023 - [Google Play Games on PC brings new features to accelerate growth](http://android-developers.googleblog.com/2023/11/google-play-games-on-pc-brings-new-features-accelerate-growth.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2023 - [Snapchat integrated new camera features 50% faster with the Camera2 Extensions API](http://android-developers.googleblog.com/2023/11/snapchat-integrated-new-camera-features-faster-with-camera2-extensions-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -26,7 +27,6 @@
 - Nov 07 2023 - [Blog: Get actionable feedback from your Android testers with App Distribution](https://www.youtube.com/watch?v=jfYwpT8bBGQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 06 2023 - [Behind the scenes #FirebaseDemoDay](https://www.youtube.com/watch?v=0vWRYOJ6hIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Now in Android: 94 - #TheAndroidShow, Jetpack Glance, Google Play policy updates, and more!](https://www.youtube.com/watch?v=8rsIxtKiClk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [Increasing trust for embedded media](http://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
