@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 17 2023 - [#AskFirebase on November 21, 2023](https://www.youtube.com/watch?v=n6-eep3Q_SA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [Now in Android: 95 - Google Play requirements, Animations in Compose, Passkeys in Android, and more!](https://www.youtube.com/watch?v=QqSOAfNSt10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -28,7 +29,6 @@
 - Nov 08 2023 - [Firebase & Terraform: The simple way to scale and automate your infrastructure](https://www.youtube.com/watch?v=1KFzlz4ibAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [5 Firebase updates that improve your everyday development experience](https://www.youtube.com/watch?v=nQYA1HzBzPk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Android Developer Story: Bombay Play 10x their revenue after Google Play’s Indie Games Accelerator](https://www.youtube.com/watch?v=onFl_2COT04) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 07 2023 - [Blog: Get actionable feedback from your Android testers with App Distribution](https://www.youtube.com/watch?v=jfYwpT8bBGQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
