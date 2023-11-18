@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 18 2023 - [The biggest AI announcements from Firebase Demo Day 2023](https://www.youtube.com/watch?v=v_F4iepjTAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2023 - [#AskFirebase on November 21, 2023](https://www.youtube.com/watch?v=n6-eep3Q_SA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [Now in Android: 95 - Google Play requirements, Animations in Compose, Passkeys in Android, and more!](https://www.youtube.com/watch?v=QqSOAfNSt10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -17,7 +18,7 @@
 - Nov 09 2023 - [Live Google Pay integrations on Android: A detailed look at the new dynamic button](https://www.youtube.com/watch?v=ekDlFqR84WQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 09 2023 - [Firebase supports Sum and Average in Cloud Firestore](https://www.youtube.com/watch?v=91LWShFZn40) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 09 2023 - [Ensuring high-quality apps on Google Play](http://android-developers.googleblog.com/2023/11/ensuring-high-quality-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 08 2023 - [Welcome to #FirebaseDemoDay!](https://www.youtube.com/watch?v=JIGwupAyhSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 08 2023 - [Welcome to #FirebaseDemoDay 2023!](https://www.youtube.com/watch?v=JIGwupAyhSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How to release safely and reduce risk with Remote Config and Crashlytics](https://www.youtube.com/watch?v=qkbKJyfORHw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Smarter pre-release app testing: AI-powered automated testing in App Distribution](https://www.youtube.com/watch?v=a-FLP4GFXvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Using AI to generate poems from pictures with Python in Firebase](https://www.youtube.com/watch?v=mvEHYMsk_AE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -27,7 +28,6 @@
 - Nov 08 2023 - [How Duet AI in Firebase helps you build successful apps](https://www.youtube.com/watch?v=IUaUxXLACkg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How to build smarter & ship faster with the Firebase Flutter SDK & your Windows development workflow](https://www.youtube.com/watch?v=ba1IvQU1kgo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Firebase & Terraform: The simple way to scale and automate your infrastructure](https://www.youtube.com/watch?v=1KFzlz4ibAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 08 2023 - [5 Firebase updates that improve your everyday development experience](https://www.youtube.com/watch?v=nQYA1HzBzPk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Android Developer Story: Bombay Play 10x their revenue after Google Play’s Indie Games Accelerator](https://www.youtube.com/watch?v=onFl_2COT04) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
