@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Nov 21 2023 - [Deleting User Accounts (including Sign in with Apple Token Revocation)](https://www.youtube.com/watch?v=U1PIrZBgv0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 21 2023 - [Deleting user accounts (including Sign in with Apple token revocation)](https://www.youtube.com/watch?v=U1PIrZBgv0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2023 - [6 things you may have missed from Firebase Demo Day 2023](https://www.youtube.com/watch?v=V2h9ypRv_lU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 18 2023 - [The biggest AI announcements from Firebase Demo Day 2023](https://www.youtube.com/watch?v=v_F4iepjTAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2023 - [#AskFirebase on November 21, 2023](https://www.youtube.com/watch?v=n6-eep3Q_SA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
