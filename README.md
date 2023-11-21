@@ -83,8 +83,6 @@
 - May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
 - Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
 - Apr 28 2023 - [Variable fonts will change the very nature of typography: How grade impacts readability](https://www.youtube.com/watch?v=yrhnKUD-J9c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- Apr 27 2023 - [Get ready for Google I/O](https://medium.com/googleplaydev/get-ready-for-google-i-o-d08acfc967e9?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Apr 12 2023 - [4 Tips for Finding and Engaging Mobile Players in the US](https://medium.com/googleplaydev/4-tips-for-finding-and-engaging-mobile-players-in-the-us-a15ef286b997?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Apr 05 2023 - [Content color schemes in Material Design 3](https://www.youtube.com/watch?v=oGBtLu5e05U) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 28 2023 - [Types of color schemes in Material Design 3](https://www.youtube.com/watch?v=Ga8UCAgfFf8) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
@@ -100,7 +98,9 @@
 - Feb 02 2023 - [How Ravn solves design-developer handoff with Relay](https://material.io/blog/relay-ravn-case-study) - [Material Design Blog](https://material.io/blog)
 - Jan 17 2023 - [Episode 194: Subtext](http://adbackstage.libsyn.com/episode-194-subtext) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 22 2022 - [Episode 193: Kotlin](http://adbackstage.libsyn.com/episode-193-kotlin) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 15 2022 - [The Best of Material in 2022](https://material.io/blog/material-design-2022-roundup) - [Material Design Blog](https://material.io/blog)
+- Dec 01 2022 - [The 24-hour Clock Design Challenge](https://material.io/blog/24-hour-clock-design-research) - [Material Design Blog](https://material.io/blog)
+- Nov 21 2022 - [Episode 192: The Path Forward](http://adbackstage.libsyn.com/episode-192-the-path-forward) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
