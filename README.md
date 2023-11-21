@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 21 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2023 - [Deleting user accounts (including Sign in with Apple token revocation)](https://www.youtube.com/watch?v=U1PIrZBgv0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2023 - [6 things you may have missed from Firebase Demo Day 2023](https://www.youtube.com/watch?v=V2h9ypRv_lU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 18 2023 - [The biggest AI announcements from Firebase Demo Day 2023](https://www.youtube.com/watch?v=v_F4iepjTAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -51,7 +52,6 @@
 - Oct 25 2023 - [Google Play PolicyBytes - Actualizaciones de las Políticas de Octubre de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=0SbPpuHxG6c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - 2023 年 10 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=xfMdQf8--fQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=OMtmn3ZAuic) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2023 - [Google Play PolicyBytes - 2023 年 10 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=fchB0PWBhuE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2023 - [Grow your game on Google Play with the Indie Games Accelerator - submissions now open](http://android-developers.googleblog.com/2023/10/grow-your-game-on-google-play-indie-games-accelerator-submissions-now-open.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
