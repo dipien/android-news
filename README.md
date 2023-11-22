@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 22 2023 - [The biggest news from Firebase Demo Day 2023](https://www.youtube.com/watch?v=zFHp6uj3aJ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2023 - [Deleting user accounts (including Sign in with Apple token revocation)](https://www.youtube.com/watch?v=U1PIrZBgv0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2023 - [6 things you may have missed from Firebase Demo Day 2023](https://www.youtube.com/watch?v=V2h9ypRv_lU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -28,7 +29,6 @@
 - Nov 08 2023 - [How to build an AI chatbot with Firebase and the PaLM API in under 10 minutes](https://www.youtube.com/watch?v=_9rCf353j3U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How App Check helps protect your app from credential stuffing](https://www.youtube.com/watch?v=89l3DnhqySM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Build, test, and deploy your Firebase web apps faster in Project IDX](https://www.youtube.com/watch?v=oyL-V94SZiM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 08 2023 - [How Duet AI in Firebase helps you build successful apps](https://www.youtube.com/watch?v=IUaUxXLACkg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Android Developer Story: Bombay Play 10x their revenue after Google Play’s Indie Games Accelerator](https://www.youtube.com/watch?v=onFl_2COT04) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
