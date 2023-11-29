@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 29 2023 - [NordVPN boosted the speed of its login user flow by 60% using Baseline Profiles](http://android-developers.googleblog.com/2023/11/nordvpn-boosted-speed-of-login-user-flow-using-baseline-profiles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [Spotify wins Google Play’s 2023 Best Multi-device App award](https://www.youtube.com/watch?v=tOthjJ32r7E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](http://android-developers.googleblog.com/2023/11/notes-from-google-play-celebrating-another-year-of-partnership-and-innovation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -70,7 +71,6 @@
 - Oct 12 2023 - [Tune in for another episode of #TheAndroidShow on October 19!](http://android-developers.googleblog.com/2023/10/watch-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 12 2023 - [Dynamic Links are Dead. What to do?](https://medium.com/firebase-developers/dynamic-links-are-dead-what-to-do-c73ad0669540?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2023 - [Device Streaming: The latest devices you need, when you need them](https://medium.com/androiddevelopers/device-streaming-the-latest-devices-you-need-when-you-need-them-4472d28d0c57?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 05 2023 - [#WeArePlay - Meet Solape and Yomi from Nigeria. More stories from around the world](http://android-developers.googleblog.com/2023/10/weareplay-meet-solape-and-yomi-from-nigeria-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 25 2023 - [Sending Push Notifications for Chat Messages](https://medium.com/firebase-developers/ios-swift-send-a-push-notification-when-firebase-chat-message-is-sent-2ec0e6e412ac?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
