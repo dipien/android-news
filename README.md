@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Nov 29 2023 - [Now in Android: 96 - New APIs for adaptive layouts, Google Play updates, and more!](https://www.youtube.com/watch?v=jqKC-4J5EwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [NordVPN boosted the speed of its login user flow by 60% using Baseline Profiles](http://android-developers.googleblog.com/2023/11/nordvpn-boosted-speed-of-login-user-flow-using-baseline-profiles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [Spotify wins Google Play’s 2023 Best Multi-device App award](https://www.youtube.com/watch?v=tOthjJ32r7E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -53,7 +55,6 @@
 - Oct 25 2023 - [Announcing Policy Updates To Support App Quality on Google Play](http://android-developers.googleblog.com/2023/10/announcing-policy-updates-to-support-app-quality-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Oktober 2023](https://www.youtube.com/watch?v=sZEb3Br7sDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Oktober 2023 (German)](https://www.youtube.com/watch?v=H4ZqVnp0kCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2023 - [Google Play PolicyBytes - Actualizaciones de las Políticas de Octubre de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=0SbPpuHxG6c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2023 - [Grow your game on Google Play with the Indie Games Accelerator - submissions now open](http://android-developers.googleblog.com/2023/10/grow-your-game-on-google-play-indie-games-accelerator-submissions-now-open.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -74,7 +75,6 @@
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 25 2023 - [Sending Push Notifications for Chat Messages](https://medium.com/firebase-developers/ios-swift-send-a-push-notification-when-firebase-chat-message-is-sent-2ec0e6e412ac?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
