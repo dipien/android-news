@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](http://android-developers.googleblog.com/2023/11/notes-from-google-play-celebrating-another-year-of-partnership-and-innovation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](https://www.youtube.com/watch?v=4Ora7QcCph0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 28 2023 - [November 2023: Using Duet AI to simplify app development, develop Flutter＆Firebase apps on Windows](https://www.youtube.com/watch?v=gpCnDkCkZj0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2023 - [The biggest news from Firebase Demo Day 2023](https://www.youtube.com/watch?v=zFHp6uj3aJ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -51,7 +53,6 @@
 - Oct 25 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Oktober 2023 (German)](https://www.youtube.com/watch?v=H4ZqVnp0kCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - Actualizaciones de las Políticas de Octubre de 2023 (Spanish Latam)](https://www.youtube.com/watch?v=0SbPpuHxG6c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Google Play PolicyBytes - 2023 年 10 月政策更新 (Traditional Chinese)](https://www.youtube.com/watch?v=xfMdQf8--fQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2023 - [Google Play PolicyBytes - Atualizações de Política de Outubro de 2023 (Portuguese-Brazil)](https://www.youtube.com/watch?v=OMtmn3ZAuic) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2023 - [Grow your game on Google Play with the Indie Games Accelerator - submissions now open](http://android-developers.googleblog.com/2023/10/grow-your-game-on-google-play-indie-games-accelerator-submissions-now-open.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -71,7 +72,6 @@
 - Oct 10 2023 - [Device Streaming: The latest devices you need, when you need them](https://medium.com/androiddevelopers/device-streaming-the-latest-devices-you-need-when-you-need-them-4472d28d0c57?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 05 2023 - [#WeArePlay - Meet Solape and Yomi from Nigeria. More stories from around the world](http://android-developers.googleblog.com/2023/10/weareplay-meet-solape-and-yomi-from-nigeria-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 04 2023 - [Wear OS 4 is now stable and available on Google Pixel Watch 2!](http://android-developers.googleblog.com/2023/10/wear-os-4-is-now-stable-and-available-on-google-pixel-watch-2.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 25 2023 - [Sending Push Notifications for Chat Messages](https://medium.com/firebase-developers/ios-swift-send-a-push-notification-when-firebase-chat-message-is-sent-2ec0e6e412ac?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 21 2023 - [Migrating to Jetpack Compose — an interop love story [part 2]](https://medium.com/androiddevelopers/migrating-to-jetpack-compose-an-interop-love-story-part-2-370fdd978c33?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
