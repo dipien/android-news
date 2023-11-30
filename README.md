@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 30 2023 - [What's new in Android Studio - Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Firebase holiday campaign #shorts](https://www.youtube.com/watch?v=Oim3pOaq4y8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 29 2023 - [Now in Android: 96 - New APIs for adaptive layouts, Google Play updates, and more!](https://www.youtube.com/watch?v=jqKC-4J5EwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -54,7 +55,6 @@
 - Oct 25 2023 - [Simple and secure sign-in on Android with Credential Manager and passkeys](http://android-developers.googleblog.com/2023/10/simple-and-secure-sign-in-on-android-with-credential-manager-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2023 - [Announcing Policy Updates To Support App Quality on Google Play](http://android-developers.googleblog.com/2023/10/announcing-policy-updates-to-support-app-quality-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Oktober 2023](https://www.youtube.com/watch?v=sZEb3Br7sDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 25 2023 - [Google Play PolicyBytes - Richtlinienaktualisierung Oktober 2023 (German)](https://www.youtube.com/watch?v=H4ZqVnp0kCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2023 - [Grow your game on Google Play with the Indie Games Accelerator - submissions now open](http://android-developers.googleblog.com/2023/10/grow-your-game-on-google-play-indie-games-accelerator-submissions-now-open.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
