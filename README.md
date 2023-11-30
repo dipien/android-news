@@ -1,8 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
-- Nov 30 2023 - [What's new in Android Studio - Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Firebase holiday campaign #shorts](https://www.youtube.com/watch?v=Oim3pOaq4y8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 29 2023 - [Now in Android: 96 - New APIs for adaptive layouts, Google Play updates, and more!](https://www.youtube.com/watch?v=jqKC-4J5EwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [NordVPN boosted the speed of its login user flow by 60% using Baseline Profiles](http://android-developers.googleblog.com/2023/11/nordvpn-boosted-speed-of-login-user-flow-using-baseline-profiles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -69,7 +70,6 @@
 - Oct 17 2023 - [Google’s Contacts app created a new widget 25% faster using Jetpack Glance](http://android-developers.googleblog.com/2023/10/googles-contacts-app-created-new-widget-faster-using-jetpack-glance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2023 - [AndroidX moving to minSdkVersion 19](http://android-developers.googleblog.com/2023/10/androidx-minsdkversion-19.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 12 2023 - [Tune in for another episode of #TheAndroidShow on October 19!](http://android-developers.googleblog.com/2023/10/watch-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 12 2023 - [Dynamic Links are Dead. What to do?](https://medium.com/firebase-developers/dynamic-links-are-dead-what-to-do-c73ad0669540?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2023 - [Device Streaming: The latest devices you need, when you need them](https://medium.com/androiddevelopers/device-streaming-the-latest-devices-you-need-when-you-need-them-4472d28d0c57?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 04 2023 - [Now in Android #92](https://medium.com/androiddevelopers/now-in-android-92-51866ffd0bd8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
