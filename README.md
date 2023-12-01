@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 01 2023 - [SUM and AVG aggregation queries in Firestore #shorts](https://www.youtube.com/watch?v=OO23nOnmNzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Firebase holiday campaign #shorts](https://www.youtube.com/watch?v=Oim3pOaq4y8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -36,7 +37,6 @@
 - Nov 08 2023 - [How to release safely and reduce risk with Remote Config and Crashlytics](https://www.youtube.com/watch?v=qkbKJyfORHw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Smarter pre-release app testing: AI-powered automated testing in App Distribution](https://www.youtube.com/watch?v=a-FLP4GFXvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Using AI to generate poems from pictures with Python in Firebase](https://www.youtube.com/watch?v=mvEHYMsk_AE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 08 2023 - [How to build an AI chatbot with Firebase and the PaLM API in under 10 minutes](https://www.youtube.com/watch?v=_9rCf353j3U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Android Developer Story: Bombay Play 10x their revenue after Google Play’s Indie Games Accelerator](https://www.youtube.com/watch?v=onFl_2COT04) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
