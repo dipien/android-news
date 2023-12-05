@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2023 - [App Check for Firebase Auth #shorts](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2023 - [SUM and AVG aggregation queries in Firestore #shorts](https://www.youtube.com/watch?v=OO23nOnmNzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,7 +69,6 @@
 - Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Join us online from 23-27 October for Passkeys Week](http://android-developers.googleblog.com/2023/10/join-us-for-passkeys-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 17 2023 - [Google’s Contacts app created a new widget 25% faster using Jetpack Glance](http://android-developers.googleblog.com/2023/10/googles-contacts-app-created-new-widget-faster-using-jetpack-glance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 16 2023 - [AndroidX moving to minSdkVersion 19](http://android-developers.googleblog.com/2023/10/androidx-minsdkversion-19.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 12 2023 - [Dynamic Links are Dead. What to do?](https://medium.com/firebase-developers/dynamic-links-are-dead-what-to-do-c73ad0669540?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2023 - [Device Streaming: The latest devices you need, when you need them](https://medium.com/androiddevelopers/device-streaming-the-latest-devices-you-need-when-you-need-them-4472d28d0c57?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
