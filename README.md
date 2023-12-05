@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2023 - [Safety: Play Integrity API #shorts](https://www.youtube.com/watch?v=OMQ3HaXMvDc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2023 - [Monetization: User choice billing #shorts](https://www.youtube.com/watch?v=Da_ucXjKTC4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2023 - [Quality: Android vitals #shorts](https://www.youtube.com/watch?v=zMt6Z40393c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2023 - [Engagement: Deep links #shorts](https://www.youtube.com/watch?v=LrxNn0agLg0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2023 - [Growth: Custom store listings #shorts](https://www.youtube.com/watch?v=KVERb-t3_B4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Smarter algorithm in Firebase Crashlytics #shorts](https://www.youtube.com/watch?v=gAkWFxqnGBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2023 - [App Check for Firebase Auth #shorts](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,13 +47,9 @@
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 02 2023 - [Now in Android: 94 - #TheAndroidShow, Jetpack Glance, Google Play policy updates, and more!](https://www.youtube.com/watch?v=8rsIxtKiClk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [Increasing trust for embedded media](http://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 02 2023 - [#WeArePlay - Geraldo | Moises | USA](https://www.youtube.com/watch?v=ONyj5VkfNws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 02 2023 - [#WeArePlay - Meet Geraldo from Utah. More stories from around the world.](http://android-developers.googleblog.com/2023/11/weareplay-meet-geraldo-from-utah-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 01 2023 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.youtube.com/watch?v=Lh-6etOdLdI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 01 2023 - [How to implement gesture handling in our app](https://www.youtube.com/watch?v=uRsoD91_Xyg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 27 2023 - [Meta built threads in only 5 months using Jetpack Compose](http://android-developers.googleblog.com/2023/10/meta-built-threads-in-only-5-months-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Make the passkey endpoints well-known URL part of your passkey implementation](http://android-developers.googleblog.com/2023/10/make-passkey-endpoints-well-known-url-part-of-your-passkey-implementation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -56,7 +57,6 @@
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2023 - [Simple and secure sign-in on Android with Credential Manager and passkeys](http://android-developers.googleblog.com/2023/10/simple-and-secure-sign-in-on-android-with-credential-manager-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2023 - [Announcing Policy Updates To Support App Quality on Google Play](http://android-developers.googleblog.com/2023/10/announcing-policy-updates-to-support-app-quality-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 25 2023 - [Google Play PolicyBytes - Pembaruan kebijakan Oktober 2023](https://www.youtube.com/watch?v=sZEb3Br7sDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2023 - [Grow your game on Google Play with the Indie Games Accelerator - submissions now open](http://android-developers.googleblog.com/2023/10/grow-your-game-on-google-play-indie-games-accelerator-submissions-now-open.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
