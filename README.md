@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2023 - [Smarter algorithm in Firebase Crashlytics #shorts](https://www.youtube.com/watch?v=gAkWFxqnGBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2023 - [App Check for Firebase Auth #shorts](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2023 - [SUM and AVG aggregation queries in Firestore #shorts](https://www.youtube.com/watch?v=OO23nOnmNzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -37,7 +38,6 @@
 - Nov 08 2023 - [Welcome to #FirebaseDemoDay 2023!](https://www.youtube.com/watch?v=JIGwupAyhSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How to release safely and reduce risk with Remote Config and Crashlytics](https://www.youtube.com/watch?v=qkbKJyfORHw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Smarter pre-release app testing: AI-powered automated testing in App Distribution](https://www.youtube.com/watch?v=a-FLP4GFXvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 08 2023 - [Using AI to generate poems from pictures with Python in Firebase](https://www.youtube.com/watch?v=mvEHYMsk_AE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [Android Developer Story: Bombay Play 10x their revenue after Google Play’s Indie Games Accelerator](https://www.youtube.com/watch?v=onFl_2COT04) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 06 2023 - [Practical magic with animations in Jetpack Compose](https://www.youtube.com/watch?v=HNSKJIQtb4c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
