@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2023 - [Safety: Play Integrity API #shorts](https://www.youtube.com/watch?v=OMQ3HaXMvDc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Monetization: User choice billing #shorts](https://www.youtube.com/watch?v=Da_ucXjKTC4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Quality: Android vitals #shorts](https://www.youtube.com/watch?v=zMt6Z40393c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,7 +69,6 @@
 - Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Join us online from 23-27 October for Passkeys Week](http://android-developers.googleblog.com/2023/10/join-us-for-passkeys-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 17 2023 - [Google’s Contacts app created a new widget 25% faster using Jetpack Glance](http://android-developers.googleblog.com/2023/10/googles-contacts-app-created-new-widget-faster-using-jetpack-glance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 12 2023 - [Dynamic Links are Dead. What to do?](https://medium.com/firebase-developers/dynamic-links-are-dead-what-to-do-c73ad0669540?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2023 - [Device Streaming: The latest devices you need, when you need them](https://medium.com/androiddevelopers/device-streaming-the-latest-devices-you-need-when-you-need-them-4472d28d0c57?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
