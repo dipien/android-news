@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 07 2023 - [Techniques to improve your Jetpack Compose app performance](https://www.youtube.com/watch?v=i8kX5R7Vzb0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [Enhancing Jetpack Compose app performance](https://www.youtube.com/watch?v=Z96wfbID_Yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [Adding support for OR conditions and queries to Firestore #shorts](https://www.youtube.com/watch?v=nwO2-LSqoC8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -45,7 +46,6 @@
 - Nov 09 2023 - [Ensuring high-quality apps on Google Play](http://android-developers.googleblog.com/2023/11/ensuring-high-quality-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 08 2023 - [Welcome to #FirebaseDemoDay 2023!](https://www.youtube.com/watch?v=JIGwupAyhSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 08 2023 - [How to release safely and reduce risk with Remote Config and Crashlytics](https://www.youtube.com/watch?v=qkbKJyfORHw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 08 2023 - [Android Developer Story: Bombay Play 10x their revenue after Google Play’s Indie Games Accelerator](https://www.youtube.com/watch?v=onFl_2COT04) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Increasing trust for embedded media](http://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
