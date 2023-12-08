@@ -16,7 +16,7 @@
 - Dec 05 2023 - [Growth: Custom store listings #shorts](https://www.youtube.com/watch?v=KVERb-t3_B4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Smarter algorithm in Firebase Crashlytics #shorts](https://www.youtube.com/watch?v=gAkWFxqnGBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 04 2023 - [App Check for Firebase Auth #shorts](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Dec 04 2023 - [App Check for Firebase Auth #FirebaseUnwrapped](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2023 - [SUM and AVG aggregation queries in Firestore #shorts](https://www.youtube.com/watch?v=OO23nOnmNzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
