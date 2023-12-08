@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 08 2023 - [Android Developer Story: Archeland reaches more gamers with Google Play Games](https://www.youtube.com/watch?v=zuHlzs400x0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 07 2023 - [Frequentist inference in Firebase A/B Testing](https://www.youtube.com/watch?v=a0aVOlw5210) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -82,7 +83,6 @@
 - Jul 28 2023 - [How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 20 2023 - [Protecting Apps and APIs: A Deep Dive into Firebase App Check and Play Integrity at Chingari](https://medium.com/firebase-developers/protecting-apps-and-apis-a-deep-dive-into-firebase-app-check-and-play-integrity-7364f96aa96d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 17 2023 - [Mastering Firebase Cloud Functions and OpenAI in a React App: A Step-by-Step Guide](https://medium.com/firebase-developers/mastering-firebase-cloud-functions-and-openai-in-a-react-app-a-step-by-step-guide-1dfa58176009?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
