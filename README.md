@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 12 2023 - [Multiple Firestore databases in a single project #shorts](https://www.youtube.com/watch?v=9IEx7zqsmrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2023 - [Cloud Functions gen2 #FirebaseUnwrapped](https://www.youtube.com/watch?v=FEnr-K4fDmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -43,7 +44,6 @@
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2023 - [Google Play Games on PC brings new features to accelerate growth](http://android-developers.googleblog.com/2023/11/google-play-games-on-pc-brings-new-features-accelerate-growth.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2023 - [Snapchat integrated new camera features 50% faster with the Camera2 Extensions API](http://android-developers.googleblog.com/2023/11/snapchat-integrated-new-camera-features-faster-with-camera2-extensions-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 14 2023 - [FlowLinks extension #shorts](https://www.youtube.com/watch?v=NisWEs5UFIc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 14 2023 - [Bringing New Input Support to Desktop AVD](http://android-developers.googleblog.com/2023/11/bringing-new-input-support-to-desktop-avd.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 13 2023 - [The secret to Android's improved memory on 1B+ Devices: The latest Android Runtime update](http://android-developers.googleblog.com/2023/11/the-secret-to-androids-improved-memory-latest-android-runtime-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2023 - [Squaring the Circle on Google TV](https://medium.com/androiddevelopers/squaring-the-circle-on-google-tv-e1ee37fe247e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
