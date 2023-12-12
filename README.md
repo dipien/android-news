@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2023 - [Cloud Functions gen2 #FirebaseUnwrapped](https://www.youtube.com/watch?v=FEnr-K4fDmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 08 2023 - [Android Developer Story: Archeland reaches more gamers with Google Play Games](https://www.youtube.com/watch?v=zuHlzs400x0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -40,7 +41,6 @@
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 15 2023 - [Tune into #AskFirebase LIVE](https://www.youtube.com/watch?v=Mz38KBbveK8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 15 2023 - [5 must-know Google Play updates](https://www.youtube.com/watch?v=rIFShToilkQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2023 - [Google Play Games on PC brings new features to accelerate growth](http://android-developers.googleblog.com/2023/11/google-play-games-on-pc-brings-new-features-accelerate-growth.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2023 - [Snapchat integrated new camera features 50% faster with the Camera2 Extensions API](http://android-developers.googleblog.com/2023/11/snapchat-integrated-new-camera-features-faster-with-camera2-extensions-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 14 2023 - [FlowLinks extension #shorts](https://www.youtube.com/watch?v=NisWEs5UFIc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
