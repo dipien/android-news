@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 12 2023 - [Faster Rust Toolchains for Android](http://android-developers.googleblog.com/2023/12/faster-rust-toolchains-for-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2023 - [Multiple Firestore databases in a single project #shorts](https://www.youtube.com/watch?v=9IEx7zqsmrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2023 - [Cloud Functions gen2 #FirebaseUnwrapped](https://www.youtube.com/watch?v=FEnr-K4fDmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -66,7 +67,6 @@
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 19 2023 - [Upcoming Android Events](http://android-developers.googleblog.com/2023/10/events-tas.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [With 2X higher user engagement on tablets, Zoom optimized for large screens on Android](http://android-developers.googleblog.com/2023/10/zoom-optimized-for-large-screens-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 19 2023 - [#TheAndroidShow: Faster and easier to build excellent apps, across devices.](http://android-developers.googleblog.com/2023/10/show-tas23.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 19 2023 - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
