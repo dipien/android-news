@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 13 2023 - [Android Developer Story: Zee5 develops for multiple form factors in record time](https://www.youtube.com/watch?v=Y8cPaOdbja4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 12 2023 - [Faster Rust Toolchains for Android](http://android-developers.googleblog.com/2023/12/faster-rust-toolchains-for-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2023 - [Multiple Firestore databases in a single project #shorts](https://www.youtube.com/watch?v=9IEx7zqsmrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -39,7 +40,6 @@
 - Nov 18 2023 - [The biggest AI announcements from Firebase Demo Day 2023](https://www.youtube.com/watch?v=v_F4iepjTAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 17 2023 - [#AskFirebase on November 21, 2023](https://www.youtube.com/watch?v=n6-eep3Q_SA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 16 2023 - [Now in Android: 95 - Google Play requirements, Animations in Compose, Passkeys in Android, and more!](https://www.youtube.com/watch?v=QqSOAfNSt10) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 15 2023 - [Tune into #AskFirebase LIVE](https://www.youtube.com/watch?v=Mz38KBbveK8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
