@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 13 2023 - [Getting started with Cloud Firestore on Apple platforms](https://www.youtube.com/watch?v=1Fg7cwkmj_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2023 - [Adding real-time updates to Firebase Remote Config #FirebaseUnwrapped](https://www.youtube.com/watch?v=ubmXP_GBJ_k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2023 - [#WeArePlay - Steven | Super | Indonesia](https://www.youtube.com/watch?v=zVcGo35uBAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2023 - [Leverage Gemini in your Android apps](http://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -40,7 +41,6 @@
 - Nov 22 2023 - [The biggest news from Firebase Demo Day 2023](https://www.youtube.com/watch?v=zFHp6uj3aJ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2023 - [Deleting user accounts (including Sign in with Apple token revocation)](https://www.youtube.com/watch?v=U1PIrZBgv0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2023 - [6 things you may have missed from Firebase Demo Day 2023](https://www.youtube.com/watch?v=V2h9ypRv_lU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 18 2023 - [The biggest AI announcements from Firebase Demo Day 2023](https://www.youtube.com/watch?v=v_F4iepjTAA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
