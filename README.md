@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 15 2023 - [Getting started with Cloud Functions](https://www.youtube.com/watch?v=2u6Zb36OQjM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 14 2023 - [Now in Android: 97 - Gemini, AICore, ML Kit, Android Studio Hedgehog, and more!](https://www.youtube.com/watch?v=kD-noc33FKw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2023 - [Kotlin packaging modernization #FirebaseUnwrapped](https://www.youtube.com/watch?v=jLaqnPV7S7w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -41,7 +42,6 @@
 - Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](http://android-developers.googleblog.com/2023/11/notes-from-google-play-celebrating-another-year-of-partnership-and-innovation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 28 2023 - [November 2023: Using Duet AI to simplify app development, develop Flutter＆Firebase apps on Windows](https://www.youtube.com/watch?v=gpCnDkCkZj0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2023 - [The biggest news from Firebase Demo Day 2023](https://www.youtube.com/watch?v=zFHp6uj3aJ0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 21 2023 - [Deleting user accounts (including Sign in with Apple token revocation)](https://www.youtube.com/watch?v=U1PIrZBgv0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
