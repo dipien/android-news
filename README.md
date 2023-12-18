@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 18 2023 - [#Firebase and #Android Basics with Compose course #FirebaseUnwrapped](https://www.youtube.com/watch?v=spUs3MWRBLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 18 2023 - [#WeArePlay - Meet Steven from Indonesia. More stories from around the world.](http://android-developers.googleblog.com/2023/12/weareplay-meet-steven-from-indonesia-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 15 2023 - [#Firebase SDK for #Flutter updates  #FirebaseUnwrapped](https://www.youtube.com/watch?v=h3ydVUBYOSY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -43,7 +44,6 @@
 - Nov 29 2023 - [NordVPN boosted the speed of its login user flow by 60% using Baseline Profiles](http://android-developers.googleblog.com/2023/11/nordvpn-boosted-speed-of-login-user-flow-using-baseline-profiles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](http://android-developers.googleblog.com/2023/11/notes-from-google-play-celebrating-another-year-of-partnership-and-innovation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 28 2023 - [November 2023: Using Duet AI to simplify app development, develop Flutter＆Firebase apps on Windows](https://www.youtube.com/watch?v=gpCnDkCkZj0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
