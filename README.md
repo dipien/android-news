@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 15 2023 - [#Firebase SDK for #Flutter updates  #FirebaseUnwrapped](https://www.youtube.com/watch?v=h3ydVUBYOSY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 15 2023 - [Getting started with Cloud Functions](https://www.youtube.com/watch?v=2u6Zb36OQjM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -80,7 +81,6 @@
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 17 2023 - [Speedrun your MVP with Flutter and Firebase UI](https://medium.com/firebase-developers/speedrun-your-flutter-mvp-with-firebase-ui-f4927e1ab502?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 28 2023 - [How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
