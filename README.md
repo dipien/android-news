@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Dec 18 2023 - [#Firebase and #Android Basics with Compose course #FirebaseUnwrapped](https://www.youtube.com/watch?v=spUs3MWRBLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 18 2023 - [Increase your app’s availability across device types](http://android-developers.googleblog.com/2023/12/increase-your-apps-availability-across-device-types.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
-- May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
-- May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
