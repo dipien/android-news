@@ -1,8 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
-- Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 19 2023 - [Language tasks with Firebase Extensions #FirebaseUnwrapped](https://www.youtube.com/watch?v=5hWqf24C1gk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Dec 18 2023 - [#Firebase and #Android Basics with Compose course #FirebaseUnwrapped](https://www.youtube.com/watch?v=spUs3MWRBLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,7 +43,6 @@
 - Dec 04 2023 - [App Check for Firebase Auth #FirebaseUnwrapped](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 01 2023 - [SUM and AVG aggregation queries in Firestore #FirebaseUnwrapped](https://www.youtube.com/watch?v=OO23nOnmNzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 30 2023 - [Firebase holiday campaign #shorts](https://www.youtube.com/watch?v=Oim3pOaq4y8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 29 2023 - [Now in Android: 96 - New APIs for adaptive layouts, Google Play updates, and more!](https://www.youtube.com/watch?v=jqKC-4J5EwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
