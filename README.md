@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Dec 18 2023 - [#Firebase and #Android Basics with Compose course #FirebaseUnwrapped](https://www.youtube.com/watch?v=spUs3MWRBLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -45,7 +47,6 @@
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 29 2023 - [Now in Android: 96 - New APIs for adaptive layouts, Google Play updates, and more!](https://www.youtube.com/watch?v=jqKC-4J5EwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [NordVPN boosted the speed of its login user flow by 60% using Baseline Profiles](http://android-developers.googleblog.com/2023/11/nordvpn-boosted-speed-of-login-user-flow-using-baseline-profiles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 29 2023 - [Live Google Pay integrations on Android: Payments on Android with Google Pay and PayPal Braintree](https://www.youtube.com/watch?v=bcc8aqxF8Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](http://android-developers.googleblog.com/2023/11/notes-from-google-play-celebrating-another-year-of-partnership-and-innovation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -67,7 +68,6 @@
 - Oct 26 2023 - [Updates to Google Identity Services (GIS) and migration to the Credential Manager API](http://android-developers.googleblog.com/2023/10/pdates-to-google-identity-services-gis-credential-manager-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2023 - [Simple and secure sign-in on Android with Credential Manager and passkeys](http://android-developers.googleblog.com/2023/10/simple-and-secure-sign-in-on-android-with-credential-manager-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 25 2023 - [Announcing Policy Updates To Support App Quality on Google Play](http://android-developers.googleblog.com/2023/10/announcing-policy-updates-to-support-app-quality-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
