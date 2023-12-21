@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 21 2023 - [Limited-use tokens in Firebase App Check #FirebaseUnwrapped](https://www.youtube.com/watch?v=N1d18g6Wsps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2023 - [Dark mode launch #FirebaseUnwrapped](https://www.youtube.com/watch?v=ZhWle5s9bR4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Language tasks with Firebase Extensions #FirebaseUnwrapped](https://www.youtube.com/watch?v=5hWqf24C1gk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -45,7 +47,6 @@
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 29 2023 - [Now in Android: 96 - New APIs for adaptive layouts, Google Play updates, and more!](https://www.youtube.com/watch?v=jqKC-4J5EwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 29 2023 - [NordVPN boosted the speed of its login user flow by 60% using Baseline Profiles](http://android-developers.googleblog.com/2023/11/nordvpn-boosted-speed-of-login-user-flow-using-baseline-profiles.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Notes from Google Play: Celebrating another year of partnership and innovation](http://android-developers.googleblog.com/2023/11/notes-from-google-play-celebrating-another-year-of-partnership-and-innovation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design](https://www.youtube.com/watch?v=vnDhq8W98O4) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
-- May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
