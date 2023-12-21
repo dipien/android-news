@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 21 2023 - [Limited-use tokens in Firebase App Check #FirebaseUnwrapped](https://www.youtube.com/watch?v=N1d18g6Wsps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2023 - [Dark mode launch #FirebaseUnwrapped](https://www.youtube.com/watch?v=ZhWle5s9bR4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Language tasks with Firebase Extensions #FirebaseUnwrapped](https://www.youtube.com/watch?v=5hWqf24C1gk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -41,7 +42,6 @@
 - Dec 05 2023 - [Growth: Custom store listings #shorts](https://www.youtube.com/watch?v=KVERb-t3_B4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Smarter algorithm in Firebase Crashlytics #FirebaseUnwrapped](https://www.youtube.com/watch?v=gAkWFxqnGBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 04 2023 - [App Check for Firebase Auth #FirebaseUnwrapped](https://www.youtube.com/watch?v=ebymiGwttuw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
