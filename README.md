@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 22 2023 - [Windows development support for Firebase Flutter SDK #FirebaseUnwrapped](https://www.youtube.com/watch?v=2DnKXsXFu5A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 21 2023 - [Limited-use tokens in Firebase App Check #FirebaseUnwrapped](https://www.youtube.com/watch?v=N1d18g6Wsps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,7 +43,6 @@
 - Dec 05 2023 - [Quality: Android vitals #shorts](https://www.youtube.com/watch?v=zMt6Z40393c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Engagement: Deep links #shorts](https://www.youtube.com/watch?v=LrxNn0agLg0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Growth: Custom store listings #shorts](https://www.youtube.com/watch?v=KVERb-t3_B4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 05 2023 - [Smarter algorithm in Firebase Crashlytics #FirebaseUnwrapped](https://www.youtube.com/watch?v=gAkWFxqnGBk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 30 2023 - [What's new in Android Studio Hedgehog](https://www.youtube.com/watch?v=ZNX-kqjnjmM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
