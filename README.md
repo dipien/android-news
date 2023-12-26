@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 26 2023 - [December 2023: Duet AI for #Firebase in early preview＆Firestore point-in-time recovery is GA](https://www.youtube.com/watch?v=XC4bMSti1gI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 22 2023 - [Windows development support for Firebase Flutter SDK #FirebaseUnwrapped](https://www.youtube.com/watch?v=2DnKXsXFu5A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -37,7 +38,6 @@
 - Dec 07 2023 - [Firebase Hosting integration in Project IDX #FirebaseUnwrapped](https://www.youtube.com/watch?v=LA9zXni8EdI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2023 - [Techniques to improve your Jetpack Compose app performance](https://www.youtube.com/watch?v=i8kX5R7Vzb0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [Enhancing Jetpack Compose app performance](https://www.youtube.com/watch?v=Z96wfbID_Yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 06 2023 - [Adding support for OR conditions and queries to Firestore #FirebaseUnwrapped](https://www.youtube.com/watch?v=nwO2-LSqoC8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2023 - [Safety: Play Integrity API #shorts](https://www.youtube.com/watch?v=OMQ3HaXMvDc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Monetization: User choice billing #shorts](https://www.youtube.com/watch?v=Da_ucXjKTC4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
