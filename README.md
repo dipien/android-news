@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 27 2023 - [Firebase Extensions Hub #FirebaseUnwrapped](https://www.youtube.com/watch?v=mGtFsYRU2xc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 26 2023 - [Replay protection for Firebase App Check  #FirebaseUnwrapped](https://www.youtube.com/watch?v=7bSO-SFmvps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 26 2023 - [December 2023: Duet AI for #Firebase in early preview＆Firestore point-in-time recovery is GA](https://www.youtube.com/watch?v=XC4bMSti1gI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -34,7 +35,6 @@
 - Dec 08 2023 - [Cloud Functions gen2 #FirebaseUnwrapped](https://www.youtube.com/watch?v=FEnr-K4fDmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 08 2023 - [Android Developer Story: Archeland reaches more gamers with Google Play Games](https://www.youtube.com/watch?v=zuHlzs400x0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 07 2023 - [Frequentist inference in Firebase A/B Testing](https://www.youtube.com/watch?v=a0aVOlw5210) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 07 2023 - [Techniques to improve your Jetpack Compose app performance](https://www.youtube.com/watch?v=i8kX5R7Vzb0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [Enhancing Jetpack Compose app performance](https://www.youtube.com/watch?v=Z96wfbID_Yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
