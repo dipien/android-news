@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 28 2023 - [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 27 2023 - [Firebase Extensions Hub #FirebaseUnwrapped](https://www.youtube.com/watch?v=mGtFsYRU2xc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 26 2023 - [Replay protection for Firebase App Check  #FirebaseUnwrapped](https://www.youtube.com/watch?v=7bSO-SFmvps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 26 2023 - [December 2023: Duet AI for #Firebase in early preview＆Firestore point-in-time recovery is GA](https://www.youtube.com/watch?v=XC4bMSti1gI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -32,7 +33,6 @@
 - Dec 12 2023 - [Faster Rust Toolchains for Android](http://android-developers.googleblog.com/2023/12/faster-rust-toolchains-for-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2023 - [Multiple Firestore databases in a single project #FirebaseUnwrapped](https://www.youtube.com/watch?v=9IEx7zqsmrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 08 2023 - [Cloud Functions gen2 #FirebaseUnwrapped](https://www.youtube.com/watch?v=FEnr-K4fDmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 08 2023 - [Android Developer Story: Archeland reaches more gamers with Google Play Games](https://www.youtube.com/watch?v=zuHlzs400x0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
