@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 03 2024 - [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 02 2024 - [Happy New Year from Firebase!](https://www.youtube.com/watch?v=b5HUeVOFIig) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 28 2023 - [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 27 2023 - [Firebase Extensions Hub #FirebaseUnwrapped](https://www.youtube.com/watch?v=mGtFsYRU2xc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -27,7 +28,6 @@
 - Dec 14 2023 - [Now in Android: 97 - Gemini, AICore, ML Kit, Android Studio Hedgehog, and more!](https://www.youtube.com/watch?v=kD-noc33FKw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2023 - [Kotlin packaging modernization #FirebaseUnwrapped](https://www.youtube.com/watch?v=jLaqnPV7S7w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2023 - [Getting started with Cloud Firestore on Apple platforms](https://www.youtube.com/watch?v=1Fg7cwkmj_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 13 2023 - [Adding real-time updates to Firebase Remote Config #FirebaseUnwrapped](https://www.youtube.com/watch?v=ubmXP_GBJ_k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2023 - [#WeArePlay - Steven | Super | Indonesia](https://www.youtube.com/watch?v=zVcGo35uBAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2023 - [Leverage Gemini in your Android apps](http://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 13 2023 - [Android Developer Story: Zee5 develops for multiple form factors in record time](https://www.youtube.com/watch?v=Y8cPaOdbja4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
