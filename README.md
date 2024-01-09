@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 09 2024 - [Firebasers worked on the Gemini SDK](https://www.youtube.com/watch?v=EVCUukbq_S0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 03 2024 - [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 02 2024 - [Happy New Year from Firebase!](https://www.youtube.com/watch?v=b5HUeVOFIig) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -28,7 +29,6 @@
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 14 2023 - [Now in Android: 97 - Gemini, AICore, ML Kit, Android Studio Hedgehog, and more!](https://www.youtube.com/watch?v=kD-noc33FKw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 14 2023 - [Kotlin packaging modernization #FirebaseUnwrapped](https://www.youtube.com/watch?v=jLaqnPV7S7w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 13 2023 - [Getting started with Cloud Firestore on Apple platforms](https://www.youtube.com/watch?v=1Fg7cwkmj_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 13 2023 - [#WeArePlay - Steven | Super | Indonesia](https://www.youtube.com/watch?v=zVcGo35uBAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2023 - [Leverage Gemini in your Android apps](http://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 13 2023 - [Android Developer Story: Zee5 develops for multiple form factors in record time](https://www.youtube.com/watch?v=Y8cPaOdbja4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
