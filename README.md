@@ -1,8 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 12 2024 - [A New Approach to Real-Money Games on Google Play](http://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 10 2024 - [Delete user accounts and their data](https://www.youtube.com/watch?v=Uid-N9RYCBQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2024 - [Firebasers worked on the Gemini SDK](https://www.youtube.com/watch?v=EVCUukbq_S0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 09 2024 - [What's new with Google Cast?](http://android-developers.googleblog.com/2024/01/whats-new-with-google-cast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 03 2024 - [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 02 2024 - [Happy New Year from Firebase!](https://www.youtube.com/watch?v=b5HUeVOFIig) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -67,9 +69,7 @@
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 27 2023 - [Meta built threads in only 5 months using Jetpack Compose](http://android-developers.googleblog.com/2023/10/meta-built-threads-in-only-5-months-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Make the passkey endpoints well-known URL part of your passkey implementation](http://android-developers.googleblog.com/2023/10/make-passkey-endpoints-well-known-url-part-of-your-passkey-implementation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 26 2023 - [Updates to Google Identity Services (GIS) and migration to the Credential Manager API](http://android-developers.googleblog.com/2023/10/pdates-to-google-identity-services-gis-credential-manager-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 25 2023 - [Simple and secure sign-in on Android with Credential Manager and passkeys](http://android-developers.googleblog.com/2023/10/simple-and-secure-sign-in-on-android-with-credential-manager-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
