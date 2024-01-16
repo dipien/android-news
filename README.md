@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 16 2024 - [Blog: Adding complex Firestore queries to a Jetpack Compose app](https://www.youtube.com/watch?v=Mc4HE6u-qIM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 16 2024 - [#WeArePlay - Álvaro | Sky Alert | Mexico](https://www.youtube.com/watch?v=HNzCCiUzryo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 15 2024 - [Point-in-time recovery in Firestore](https://www.youtube.com/watch?v=ViEnpfM19nQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2024 - [A New Approach to Real-Money Games on Google Play](http://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -29,7 +30,6 @@
 - Dec 18 2023 - [Increase your app’s availability across device types](http://android-developers.googleblog.com/2023/12/increase-your-apps-availability-across-device-types.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2023 - [#WeArePlay - Meet Steven from Indonesia. More stories from around the world.](http://android-developers.googleblog.com/2023/12/weareplay-meet-steven-from-indonesia-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 15 2023 - [#Firebase SDK for #Flutter updates  #FirebaseUnwrapped](https://www.youtube.com/watch?v=h3ydVUBYOSY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 14 2023 - [Now in Android: 97 - Gemini, AICore, ML Kit, Android Studio Hedgehog, and more!](https://www.youtube.com/watch?v=kD-noc33FKw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2023 - [#WeArePlay - Steven | Super | Indonesia](https://www.youtube.com/watch?v=zVcGo35uBAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
