@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 17 2024 - [Top 3 Google Cloud tips for Firebase developers](https://www.youtube.com/watch?v=AX_JInDfhc0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 17 2024 - [#WeArePlay - Learn how a childhood experience with an earthquake shaped Álvaro's entrepreneurial journey](http://android-developers.googleblog.com/2024/01/weareplay-how-a-childhood-experience-shaped-alvaros-entrepreneurial-journey.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 16 2024 - [Blog: Adding complex Firestore queries to a Jetpack Compose app](https://www.youtube.com/watch?v=Mc4HE6u-qIM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 16 2024 - [#WeArePlay - Álvaro | Sky Alert | Mexico](https://www.youtube.com/watch?v=HNzCCiUzryo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -27,7 +28,6 @@
 - Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
-- Dec 18 2023 - [#Firebase and #Android Basics with Compose course #FirebaseUnwrapped](https://www.youtube.com/watch?v=spUs3MWRBLM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 18 2023 - [Increase your app’s availability across device types](http://android-developers.googleblog.com/2023/12/increase-your-apps-availability-across-device-types.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2023 - [#WeArePlay - Meet Steven from Indonesia. More stories from around the world.](http://android-developers.googleblog.com/2023/12/weareplay-meet-steven-from-indonesia-more-stories-from-around-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
