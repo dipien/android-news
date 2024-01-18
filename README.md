@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 18 2024 - [Adding Firebase to your app with SPM #shorts](https://www.youtube.com/watch?v=KdS0CLFG-bA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 17 2024 - [Top 3 Google Cloud tips for Firebase developers](https://www.youtube.com/watch?v=AX_JInDfhc0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 17 2024 - [#WeArePlay - Learn how a childhood experience with an earthquake shaped Álvaro's entrepreneurial journey](http://android-developers.googleblog.com/2024/01/weareplay-how-a-childhood-experience-shaped-alvaros-entrepreneurial-journey.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 16 2024 - [Blog: Adding complex Firestore queries to a Jetpack Compose app](https://www.youtube.com/watch?v=Mc4HE6u-qIM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -23,7 +24,6 @@
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 21 2023 - [Limited-use tokens in Firebase App Check #FirebaseUnwrapped](https://www.youtube.com/watch?v=N1d18g6Wsps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 20 2023 - [Dark mode launch #FirebaseUnwrapped](https://www.youtube.com/watch?v=ZhWle5s9bR4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 19 2023 - [Language tasks with Firebase Extensions #FirebaseUnwrapped](https://www.youtube.com/watch?v=5hWqf24C1gk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
