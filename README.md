@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 23 2024 - [January 2024: Firestore sum and average operations, and best practices for Firebase Cloud Messaging](https://www.youtube.com/watch?v=lesCn6Q-yss) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2024 - [Unlock the Power of Generative AI in Your Applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2024 - [How This Indie Game Studio Launched Their First Game on Google Play](http://android-developers.googleblog.com/2024/01/how-this-indie-game-studio-launched-their-first-game-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 18 2024 - [Adding Firebase to your app with SPM #shorts](https://www.youtube.com/watch?v=KdS0CLFG-bA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -25,7 +26,6 @@
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 21 2023 - [Limited-use tokens in Firebase App Check #FirebaseUnwrapped](https://www.youtube.com/watch?v=N1d18g6Wsps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 20 2023 - [Dark mode launch #FirebaseUnwrapped](https://www.youtube.com/watch?v=ZhWle5s9bR4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
