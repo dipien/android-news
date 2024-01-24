@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 24 2024 - [What’s new in the Jetpack Compose January ’24 release](http://android-developers.googleblog.com/2024/01/whats-new-in-jetpack-compose-january-24-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 23 2024 - [January 2024: Firestore sum and average operations, and best practices for Firebase Cloud Messaging](https://www.youtube.com/watch?v=lesCn6Q-yss) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2024 - [Unlock the Power of Generative AI in Your Applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2024 - [How This Indie Game Studio Launched Their First Game on Google Play](http://android-developers.googleblog.com/2024/01/how-this-indie-game-studio-launched-their-first-game-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -67,7 +68,6 @@
 - Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Alpha Release of Telecom Library](http://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 02 2023 - [Increasing trust for embedded media](http://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 02 2023 - [#WeArePlay - Meet Geraldo from Utah. More stories from around the world.](http://android-developers.googleblog.com/2023/11/weareplay-meet-geraldo-from-utah-more.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
