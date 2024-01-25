@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 25 2024 - [Now in Android: 98 - Gemini Pro, Google AI SDK, Google AI Studio, Cast, Rust, and more!](https://www.youtube.com/watch?v=5R7S3HVbKVY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2024 - [What’s new in the Jetpack Compose January ’24 release](http://android-developers.googleblog.com/2024/01/whats-new-in-jetpack-compose-january-24-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 23 2024 - [January 2024: Firestore sum and average operations, and best practices for Firebase Cloud Messaging](https://www.youtube.com/watch?v=lesCn6Q-yss) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2024 - [Unlock the Power of Generative AI in Your Applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -50,7 +51,6 @@
 - Dec 05 2023 - [Safety: Play Integrity API #shorts](https://www.youtube.com/watch?v=OMQ3HaXMvDc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Monetization: User choice billing #shorts](https://www.youtube.com/watch?v=Da_ucXjKTC4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Quality: Android vitals #shorts](https://www.youtube.com/watch?v=zMt6Z40393c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 05 2023 - [Engagement: Deep links #shorts](https://www.youtube.com/watch?v=LrxNn0agLg0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
