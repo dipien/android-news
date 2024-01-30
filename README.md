@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 30 2024 - [Blog: VueFire is generally available](https://www.youtube.com/watch?v=9ZN8Xy0JZJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 29 2024 - [Prompt users to update to your latest app version](http://android-developers.googleblog.com/2024/01/prompt-users-to-update-to-your-latest-app-version-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 25 2024 - [Now in Android #98](https://medium.com/androiddevelopers/now-in-android-98-f43cdb1b60c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 25 2024 - [Now in Android: 98 - Gemini Pro, Google AI SDK, Google AI Studio, Cast, Rust, and more!](https://www.youtube.com/watch?v=5R7S3HVbKVY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -29,7 +30,6 @@
 - Dec 22 2023 - [Windows development support for Firebase Flutter SDK #FirebaseUnwrapped](https://www.youtube.com/watch?v=2DnKXsXFu5A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 21 2023 - [Limited-use tokens in Firebase App Check #FirebaseUnwrapped](https://www.youtube.com/watch?v=N1d18g6Wsps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
