@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 31 2024 - [Automatically Generate PDFs from Firestore Documents with PDFPlum Firebase Extension](https://medium.com/firebase-developers/automatically-generate-pdfs-from-firestore-documents-with-pdfplum-firebase-extension-49c2e23e15d8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 30 2024 - [Blog: VueFire is generally available](https://www.youtube.com/watch?v=9ZN8Xy0JZJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 29 2024 - [Prompt users to update to your latest app version](http://android-developers.googleblog.com/2024/01/prompt-users-to-update-to-your-latest-app-version-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 25 2024 - [Now in Android #98](https://medium.com/androiddevelopers/now-in-android-98-f43cdb1b60c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -79,7 +80,6 @@
 - Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 12 2023 - [Dynamic Links are Dead. What to do?](https://medium.com/firebase-developers/dynamic-links-are-dead-what-to-do-c73ad0669540?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
