@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 06 2024 - [#Firebase newsletter #shorts](https://www.youtube.com/watch?v=P_PXZafyKcY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2024 - [Best practices when sending FCM messages at scale](https://www.youtube.com/watch?v=FY9_5H39sYQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 31 2024 - [Automatically Generate PDFs from Firestore Documents with PDFPlum Firebase Extension](https://medium.com/firebase-developers/automatically-generate-pdfs-from-firestore-documents-with-pdfplum-firebase-extension-49c2e23e15d8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 30 2024 - [Blog: VueFire is generally available](https://www.youtube.com/watch?v=9ZN8Xy0JZJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -27,7 +28,6 @@
 - Dec 28 2023 - [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 27 2023 - [Firebase Extensions Hub #FirebaseUnwrapped](https://www.youtube.com/watch?v=mGtFsYRU2xc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 26 2023 - [Replay protection for Firebase App Check  #FirebaseUnwrapped](https://www.youtube.com/watch?v=7bSO-SFmvps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 26 2023 - [December 2023: Duet AI for #Firebase in early preview＆Firestore point-in-time recovery is GA](https://www.youtube.com/watch?v=XC4bMSti1gI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
