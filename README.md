@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 07 2024 - [Now in Android #99](https://medium.com/androiddevelopers/now-in-android-99-3937624f5576?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 07 2024 - [Now in Android: 99 - Jetpack Compose, Google AI on Samsung Galaxy, Play recovery tools, and more!](https://www.youtube.com/watch?v=JPhQKgOZCog) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 06 2024 - [#Firebase newsletter #shorts](https://www.youtube.com/watch?v=P_PXZafyKcY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2024 - [Best practices when sending FCM messages at scale](https://www.youtube.com/watch?v=FY9_5H39sYQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -78,7 +79,6 @@
 - Oct 20 2023 - [Recycle your waste with AI and Firebase Extensions](https://medium.com/firebase-developers/recycle-your-waste-with-ai-and-firebase-extensions-b806e36814c5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 19 2023 - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 18 2023 - [Adopt Compose for View-based libraries](https://medium.com/androiddevelopers/adopt-compose-for-view-based-libraries-8db5badf1afc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 16 2023 - [How BallFields uses Firebase](https://medium.com/firebase-developers/how-ballfields-uses-firebase-ddd7faa374ad?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
