@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 14 2024 - [#WeArePlay - Caitlin and Nicolas | We Spot Turtles! | Australia](https://www.youtube.com/watch?v=CfzhLOiczDQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 13 2024 - [Cloud photos now available in the Android photo picker](http://android-developers.googleblog.com/2024/02/cloud-photos-now-available-in-android-photo-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 08 2024 - [Sign in with Google with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-2-fdd6ad6608f7?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -58,7 +59,6 @@
 - Dec 06 2023 - [Enhancing Jetpack Compose app performance](https://www.youtube.com/watch?v=Z96wfbID_Yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2023 - [Safety: Play Integrity API #shorts](https://www.youtube.com/watch?v=OMQ3HaXMvDc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 05 2023 - [Monetization: User choice billing #shorts](https://www.youtube.com/watch?v=Da_ucXjKTC4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
