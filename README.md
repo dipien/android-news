@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Feb 14 2024 - [#WeArePlay - Caitlin and Nicolas | We Spot Turtles! | Australia](https://www.youtube.com/watch?v=CfzhLOiczDQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 14 2024 - [#WeArePlay - How two sea turtle enthusiasts are revolutionizing marine conservation](http://android-developers.googleblog.com/2024/02/weareplay-how-two-sea-turtle-enthusiasts-are-revolutionizing-marine-conservation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 13 2024 - [Cloud photos now available in the Android photo picker](http://android-developers.googleblog.com/2024/02/cloud-photos-now-available-in-android-photo-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 08 2024 - [Sign in with Google with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-2-fdd6ad6608f7?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -73,7 +74,6 @@
 - Nov 13 2023 - [The secret to Android's improved memory on 1B+ Devices: The latest Android Runtime update](http://android-developers.googleblog.com/2023/11/the-secret-to-androids-improved-memory-latest-android-runtime-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2023 - [Squaring the Circle on Google TV](https://medium.com/androiddevelopers/squaring-the-circle-on-google-tv-e1ee37fe247e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 09 2023 - [Ensuring high-quality apps on Google Play](http://android-developers.googleblog.com/2023/11/ensuring-high-quality-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 07 2023 - [Order Files in Android](http://android-developers.googleblog.com/2023/11/orderfiles-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
