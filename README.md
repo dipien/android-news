@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 16 2024 - [Understanding Nested Scrolling in Jetpack Compose](https://medium.com/androiddevelopers/understanding-nested-scrolling-in-jetpack-compose-eb57c1ea0af0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 16 2024 - [Sign in with Apple with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-3-80be99dbc63d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 14 2024 - [#WeArePlay - Caitlin and Nicolas | We Spot Turtles! | Australia](https://www.youtube.com/watch?v=CfzhLOiczDQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 14 2024 - [#WeArePlay - How two sea turtle enthusiasts are revolutionizing marine conservation](http://android-developers.googleblog.com/2024/02/weareplay-how-two-sea-turtle-enthusiasts-are-revolutionizing-marine-conservation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -81,7 +82,6 @@
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Oct 25 2023 - [It’s time to replace Dynamic Links with Firebase Hosting](https://medium.com/firebase-developers/its-time-to-replace-dynamic-links-with-firebase-hosting-647296b082fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 19 2023 - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 18 2023 - [Now in Android #93 : Android 14 Release Edition](https://medium.com/androiddevelopers/now-in-android-93-android-14-release-edition-2cb821aebdc9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
