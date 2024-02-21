@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 21 2024 - [Fan’otations - Android Developers Backstage](https://www.youtube.com/watch?v=IQijvxZZaPg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 16 2024 - [The First Developer Preview of Android 15](http://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 16 2024 - [Understanding Nested Scrolling in Jetpack Compose](https://medium.com/androiddevelopers/understanding-nested-scrolling-in-jetpack-compose-eb57c1ea0af0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -63,7 +65,6 @@
 - Dec 07 2023 - [Techniques to improve your Jetpack Compose app performance](https://www.youtube.com/watch?v=i8kX5R7Vzb0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [Enhancing Jetpack Compose app performance](https://www.youtube.com/watch?v=Z96wfbID_Yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 05 2023 - [Safety: Play Integrity API #shorts](https://www.youtube.com/watch?v=OMQ3HaXMvDc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Material You for large screens guidance](https://www.youtube.com/watch?v=wP-xAPIyqLY) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 10 2023 - [Build modern Android apps with Material You for Compose](https://www.youtube.com/watch?v=tu0UtDGC31A) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
