@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 21 2024 - [Getting started with anonymous authentication and account linking on Android](https://www.youtube.com/watch?v=moZssMRVoWI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2024 - [Fan’otations - Android Developers Backstage](https://www.youtube.com/watch?v=IQijvxZZaPg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -41,7 +42,6 @@
 - Jan 02 2024 - [Happy New Year from Firebase!](https://www.youtube.com/watch?v=b5HUeVOFIig) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 28 2023 - [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 27 2023 - [Firebase Extensions Hub #FirebaseUnwrapped](https://www.youtube.com/watch?v=mGtFsYRU2xc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 26 2023 - [Replay protection for Firebase App Check  #FirebaseUnwrapped](https://www.youtube.com/watch?v=7bSO-SFmvps) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
