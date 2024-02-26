@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 26 2024 - [Tune in on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=3D4k2z8Wmw0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Feb 26 2024 - [Tune in (here!) on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 26 2024 - [Wear OS hybrid interface: Boosting power and performance](http://android-developers.googleblog.com/2024/02/wear-os-hybrid-interface-boosting-power-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 22 2024 - [Easily add document scanning capability to your app with ML Kit Document Scanner API](http://android-developers.googleblog.com/2024/02/ml-kit-document-scanner-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 21 2024 - [Getting started with anonymous authentication and account linking on Android](https://www.youtube.com/watch?v=moZssMRVoWI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -64,8 +66,6 @@
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 08 2023 - [Android Developer Story: Archeland reaches more gamers with Google Play Games](https://www.youtube.com/watch?v=zuHlzs400x0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 07 2023 - [Techniques to improve your Jetpack Compose app performance](https://www.youtube.com/watch?v=i8kX5R7Vzb0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 06 2023 - [Enhancing Jetpack Compose app performance](https://www.youtube.com/watch?v=Z96wfbID_Yc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
