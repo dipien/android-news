@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 27 2024 - [February 2024: Auto-testing in App Distro, Flutter speedups, Firestore GA＆Crashlytics improvements](https://www.youtube.com/watch?v=5haj49KicJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 26 2024 - [Tune in on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=3D4k2z8Wmw0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 26 2024 - [Tune in (here!) on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 26 2024 - [New goodies from Android, Wearables at Mobile World Congress + tune in to a new episode of #TheAndroidShow next week!](http://android-developers.googleblog.com/2024/02/tas-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -46,7 +47,6 @@
 - Jan 03 2024 - [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 02 2024 - [Happy New Year from Firebase!](https://www.youtube.com/watch?v=b5HUeVOFIig) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 28 2023 - [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 27 2023 - [Firebase Extensions Hub #FirebaseUnwrapped](https://www.youtube.com/watch?v=mGtFsYRU2xc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
