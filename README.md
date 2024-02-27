@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 27 2024 - [Jetpack Compose: Strong Skipping Mode Explained](https://medium.com/androiddevelopers/jetpack-compose-strong-skipping-mode-explained-cbdb2aa4b900?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 27 2024 - [Fun with shapes in Compose](https://medium.com/androiddevelopers/fun-with-shapes-in-compose-8814c439e1a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 27 2024 - [February 2024: Auto-testing in App Distro, Flutter speedups, Firestore GA＆Crashlytics improvements](https://www.youtube.com/watch?v=5haj49KicJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 26 2024 - [Tune in on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=3D4k2z8Wmw0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -80,7 +81,6 @@
 - Nov 15 2023 - [Google Play Games on PC brings new features to accelerate growth](http://android-developers.googleblog.com/2023/11/google-play-games-on-pc-brings-new-features-accelerate-growth.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2023 - [Squaring the Circle on Google TV](https://medium.com/androiddevelopers/squaring-the-circle-on-google-tv-e1ee37fe247e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 31 2023 - [Now in Android #94 : The Halloween and Android Show Edition](https://medium.com/androiddevelopers/now-in-android-94-the-halloween-and-android-show-edition-a199674e6daf?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
