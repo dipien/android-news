@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 29 2024 - [Android Studio Iguana is stable](http://android-developers.googleblog.com/2024/02/android-studio-iguana-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 27 2024 - [Jetpack Compose: Strong Skipping Mode Explained](https://medium.com/androiddevelopers/jetpack-compose-strong-skipping-mode-explained-cbdb2aa4b900?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 27 2024 - [Fun with shapes in Compose](https://medium.com/androiddevelopers/fun-with-shapes-in-compose-8814c439e1a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 27 2024 - [February 2024: Auto-testing in App Distro, Flutter speedups, Firestore GA＆Crashlytics improvements](https://www.youtube.com/watch?v=5haj49KicJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -78,7 +79,6 @@
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 15 2023 - [The latest updates to power your growth on Google Play](http://android-developers.googleblog.com/2023/11/power-your-growth-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 15 2023 - [Google Play Games on PC brings new features to accelerate growth](http://android-developers.googleblog.com/2023/11/google-play-games-on-pc-brings-new-features-accelerate-growth.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 09 2023 - [Squaring the Circle on Google TV](https://medium.com/androiddevelopers/squaring-the-circle-on-google-tv-e1ee37fe247e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
