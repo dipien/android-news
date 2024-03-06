@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 06 2024 - [Developer guidance for Google Play Protect enhanced fraud protections](https://www.youtube.com/watch?v=DeEmqBydY24) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2024 - [Firebase at Google for Game Developers and GDC](https://www.youtube.com/watch?v=jjQDq4yW1vI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 05 2024 - [Introducing a new Text-To-Speech engine on Wear OS](http://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2024 - [Embracing Android 14: Meta's Early Adoption Empowered Enhanced User Experience](http://android-developers.googleblog.com/2024/03/android-14-meta-early-adoption-enhanced-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -70,7 +71,6 @@
 - Dec 12 2023 - [Faster Rust Toolchains for Android](http://android-developers.googleblog.com/2023/12/faster-rust-toolchains-for-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 08 2023 - [Android Developer Story: Archeland reaches more gamers with Google Play Games](https://www.youtube.com/watch?v=zuHlzs400x0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
