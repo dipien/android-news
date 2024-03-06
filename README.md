@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Developer guidance for Google Play Protect enhanced fraud protections](https://www.youtube.com/watch?v=DeEmqBydY24) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2024 - [Firebase at Google for Game Developers and GDC](https://www.youtube.com/watch?v=jjQDq4yW1vI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -53,7 +54,6 @@
 - Jan 09 2024 - [What's new with Google Cast?](http://android-developers.googleblog.com/2024/01/whats-new-with-google-cast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 03 2024 - [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 02 2024 - [Happy New Year from Firebase!](https://www.youtube.com/watch?v=b5HUeVOFIig) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
