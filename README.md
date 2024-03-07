@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 07 2024 - [Now in Android: 100 - Android 15 DP 1, Stable Studio Iguana, Cloud Photo Picker, and more!](https://www.youtube.com/watch?v=tiNXsmbcKgA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 07 2024 - [The latest in Android foldables and Wear OS at MWC'24](https://www.youtube.com/watch?v=BcGfpspxX2E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 07 2024 - [Behind the scenes with Gemini Nano and AICore](https://www.youtube.com/watch?v=hHIMUgTuoXE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Developer guidance for Google Play Protect enhanced fraud protections](https://www.youtube.com/watch?v=DeEmqBydY24) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -66,11 +69,8 @@
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 14 2023 - [Now in Android: 97 - Gemini, AICore, ML Kit, Android Studio Hedgehog, and more!](https://www.youtube.com/watch?v=kD-noc33FKw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 13 2023 - [#WeArePlay - Steven | Super | Indonesia](https://www.youtube.com/watch?v=zVcGo35uBAY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2023 - [Leverage Gemini in your Android apps](http://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 13 2023 - [Android Developer Story: Zee5 develops for multiple form factors in record time](https://www.youtube.com/watch?v=Y8cPaOdbja4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 12 2023 - [Faster Rust Toolchains for Android](http://android-developers.googleblog.com/2023/12/faster-rust-toolchains-for-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 12 2023 - [Top 5 new features in Android Studio Hedgehog](https://www.youtube.com/watch?v=9hSygJTvii8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
