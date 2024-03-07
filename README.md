@@ -1,9 +1,12 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 07 2024 - [Tune in (here!) on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2024 - [Now in Android: 100 - Android 15 DP 1, Stable Studio Iguana, Cloud Photo Picker, and more!](https://www.youtube.com/watch?v=tiNXsmbcKgA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [The latest in Android foldables and Wear OS at MWC'24](https://www.youtube.com/watch?v=BcGfpspxX2E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [Behind the scenes with Gemini Nano and AICore](https://www.youtube.com/watch?v=hHIMUgTuoXE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Developer guidance for Google Play Protect enhanced fraud protections](https://www.youtube.com/watch?v=DeEmqBydY24) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -15,7 +18,6 @@
 - Feb 27 2024 - [Fun with shapes in Compose](https://medium.com/androiddevelopers/fun-with-shapes-in-compose-8814c439e1a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 27 2024 - [February 2024: Auto-testing in App Distro, Flutter speedups, Firestore GA＆Crashlytics improvements](https://www.youtube.com/watch?v=5haj49KicJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 26 2024 - [Tune in on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=3D4k2z8Wmw0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Feb 26 2024 - [Tune in (here!) on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 26 2024 - [New goodies from Android, Wearables at Mobile World Congress + tune in to a new episode of #TheAndroidShow next week!](http://android-developers.googleblog.com/2024/02/tas-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 26 2024 - [Wear OS hybrid interface: Boosting power and performance](http://android-developers.googleblog.com/2024/02/wear-os-hybrid-interface-boosting-power-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 22 2024 - [Easily add document scanning capability to your app with ML Kit Document Scanner API](http://android-developers.googleblog.com/2024/02/ml-kit-document-scanner-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -56,7 +58,6 @@
 - Jan 09 2024 - [Firebasers worked on the Gemini SDK](https://www.youtube.com/watch?v=EVCUukbq_S0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2024 - [What's new with Google Cast?](http://android-developers.googleblog.com/2024/01/whats-new-with-google-cast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 03 2024 - [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -75,7 +76,6 @@
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2023 - [Virtual Machine as a core Android Primitive](http://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 30 2023 - [Android Studio Hedgehog is stable](http://android-developers.googleblog.com/2023/11/android-studio-hedgehog-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
