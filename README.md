@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Mar 07 2024 - [Tune in (here!) on March 7 for #TheAndroidShow](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 07 2024 - [#TheAndroidShow: the latest from MWC'24, Gemini Nano, Android 15 and more!](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2024 - [Now in Android: 100 - Android 15 DP 1, Stable Studio Iguana, Cloud Photo Picker, and more!](https://www.youtube.com/watch?v=tiNXsmbcKgA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [The latest in Android foldables and Wear OS at MWC'24](https://www.youtube.com/watch?v=BcGfpspxX2E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
