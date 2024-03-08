@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 08 2024 - [Better, faster, stronger time zone updates on Android](http://android-developers.googleblog.com/2024/03/better-faster-stronger-time-zone-updates-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=EGTzWzyeHD4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2024 - [Introducing the Fused Orientation Provider API: Consistent device orientation for all](http://android-developers.googleblog.com/2024/03/introducing-fused-orientation-provider-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -76,7 +77,6 @@
 - Dec 12 2023 - [Faster Rust Toolchains for Android](http://android-developers.googleblog.com/2023/12/faster-rust-toolchains-for-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 07 2023 - [KSP2 Preview: Kotlin K2 and Standalone Source Generator](http://android-developers.googleblog.com/2023/12/ksp2-preview-kotlin-k2-standalone.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 06 2023 - [A New Foundation for AI on Android](http://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 16 2023 - [New APIs for adaptive layouts in Jetpack Compose](https://medium.com/androiddevelopers/new-apis-for-adaptive-layouts-in-jetpack-compose-f27cace48bcd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
