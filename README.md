@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 11 2024 - [What’s new in Android Studio Iguana](https://www.youtube.com/watch?v=kVZ1QNMMub0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 08 2024 - [Better, faster, stronger time zone updates on Android](http://android-developers.googleblog.com/2024/03/better-faster-stronger-time-zone-updates-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=EGTzWzyeHD4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -66,7 +67,6 @@
 - Dec 21 2023 - [(W)rap - Android Developers Backstage](https://www.youtube.com/watch?v=6x_BcfnWkHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 19 2023 - [Thank you for creating excellent apps, across devices in 2023!](http://android-developers.googleblog.com/2023/12/thank-you-2023.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 19 2023 - [Thank you, Android devs, for creating excellent apps, across devices in 2023!](https://www.youtube.com/watch?v=yXiRLGwbi1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Dec 18 2023 - [Increase your app’s availability across device types](http://android-developers.googleblog.com/2023/12/increase-your-apps-availability-across-device-types.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
