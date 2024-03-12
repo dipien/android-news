@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 12 2024 - [Reduced cost for 'Stream Firestore to BigQuery' extension #shorts](https://www.youtube.com/watch?v=YCYrn3bv6vM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 11 2024 - [What’s new in Android Studio Iguana](https://www.youtube.com/watch?v=kVZ1QNMMub0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 08 2024 - [Better, faster, stronger time zone updates on Android](http://android-developers.googleblog.com/2024/03/better-faster-stronger-time-zone-updates-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=EGTzWzyeHD4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -60,7 +61,6 @@
 - Jan 15 2024 - [Point-in-time recovery in Firestore](https://www.youtube.com/watch?v=ViEnpfM19nQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2024 - [A New Approach to Real-Money Games on Google Play](http://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 10 2024 - [Delete user accounts and their data](https://www.youtube.com/watch?v=Uid-N9RYCBQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 09 2024 - [Firebasers worked on the Gemini SDK](https://www.youtube.com/watch?v=EVCUukbq_S0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2024 - [What's new with Google Cast?](http://android-developers.googleblog.com/2024/01/whats-new-with-google-cast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 23 2023 - [Android Developer Story: HoYoverse & Netmarble unlocked the multi-lingual opportunity on Google Play](https://www.youtube.com/watch?v=E3gxhqwW9c4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
