@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 19 2024 - [Introducing Device Streaming in Android Studio in Open Alpha](https://www.youtube.com/watch?v=MrrGJXKOLOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2024 - [[Games] - Building for the long term: anticipating risks in your game (Playtime 2023)](https://www.youtube.com/watch?v=MIDg15wNOXQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Games] - Expanding opportunties for games (Playtime 2023)](https://www.youtube.com/watch?v=r9we5jU_ukA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Games] - Strategic pricing for games: enabling revenue growth and price equity (Playtime 2023)](https://www.youtube.com/watch?v=hcQ4MVcsfOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -62,7 +63,6 @@
 - Jan 16 2024 - [Blog: Adding complex Firestore queries to a Jetpack Compose app](https://www.youtube.com/watch?v=Mc4HE6u-qIM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 15 2024 - [Point-in-time recovery in Firestore](https://www.youtube.com/watch?v=ViEnpfM19nQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 12 2024 - [A New Approach to Real-Money Games on Google Play](http://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 10 2024 - [Delete user accounts and their data](https://www.youtube.com/watch?v=Uid-N9RYCBQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2024 - [What's new with Google Cast?](http://android-developers.googleblog.com/2024/01/whats-new-with-google-cast.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
