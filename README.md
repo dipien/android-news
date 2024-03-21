@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 21 2024 - [Now in Android: 101 - Android 15 Developer Preview 2, #TheAndroidShow, the Google I/O date, & more!](https://www.youtube.com/watch?v=RUc1jc5BzWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2024 - [Getting started with Cloud Storage for iOS](https://www.youtube.com/watch?v=rfBCPIJUcpI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 19 2024 - [Introducing Device Streaming in Android Studio in Open Alpha](https://www.youtube.com/watch?v=MrrGJXKOLOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2024 - [[Games] - Building for the long term: anticipating risks in your game (Playtime 2023)](https://www.youtube.com/watch?v=MIDg15wNOXQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -36,7 +37,6 @@
 - Feb 26 2024 - [Wear OS hybrid interface: Boosting power and performance](http://android-developers.googleblog.com/2024/02/wear-os-hybrid-interface-boosting-power-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 22 2024 - [Easily add document scanning capability to your app with ML Kit Document Scanner API](http://android-developers.googleblog.com/2024/02/ml-kit-document-scanner-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 21 2024 - [Getting started with anonymous authentication and account linking on Android](https://www.youtube.com/watch?v=moZssMRVoWI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 21 2024 - [Fan’otations - Android Developers Backstage](https://www.youtube.com/watch?v=IQijvxZZaPg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 16 2024 - [The First Developer Preview of Android 15](http://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
