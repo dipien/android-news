@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 26 2024 - [March '24: faster Flutter web apps, more App Check,＆range conditions on multiple fields in Firestore](https://www.youtube.com/watch?v=eTArV4Z3Caw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 26 2024 - [Go for Cloud Functions and #Firebase](https://www.youtube.com/watch?v=-QHpBX3u8pM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2024 - [#WeArePlay - Meet the founders changing women's lives: Women’s History Month Stories](http://android-developers.googleblog.com/2024/03/weareplay-meet-founders-changing-womens-lives-womens-history-month-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 21 2024 - [Now in Android #101](https://medium.com/androiddevelopers/now-in-android-101-6e0df9a15355?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -68,7 +69,6 @@
 - Jan 19 2024 - [Unlock the power of Generative AI in your applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2024 - [How This Indie Game Studio Launched Their First Game on Google Play](http://android-developers.googleblog.com/2024/01/how-this-indie-game-studio-launched-their-first-game-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 18 2024 - [Adding Firebase to your app with SPM #shorts](https://www.youtube.com/watch?v=KdS0CLFG-bA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 17 2024 - [Top 3 Google Cloud tips for Firebase developers](https://www.youtube.com/watch?v=AX_JInDfhc0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 17 2024 - [#WeArePlay - Learn how a childhood experience with an earthquake shaped Álvaro's entrepreneurial journey](http://android-developers.googleblog.com/2024/01/weareplay-how-a-childhood-experience-shaped-alvaros-entrepreneurial-journey.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 12 2024 - [A New Approach to Real-Money Games on Google Play](http://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
