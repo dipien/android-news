@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 29 2024 - [Battling Impersonation Scams: Monzo’s Innovative Approach](http://android-developers.googleblog.com/2024/03/battling-impersonation-scams-monzo-innovative-approach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 26 2024 - [Time for Playtime - Android Developers Backstage](https://www.youtube.com/watch?v=51Hn1nhcits) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 26 2024 - [March '24: faster Flutter web apps, more App Check,＆range conditions on multiple fields in Firestore](https://www.youtube.com/watch?v=eTArV4Z3Caw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -71,7 +72,6 @@
 - Jan 18 2024 - [How This Indie Game Studio Launched Their First Game on Google Play](http://android-developers.googleblog.com/2024/01/how-this-indie-game-studio-launched-their-first-game-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 18 2024 - [Adding Firebase to your app with SPM #shorts](https://www.youtube.com/watch?v=KdS0CLFG-bA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 17 2024 - [#WeArePlay - Learn how a childhood experience with an earthquake shaped Álvaro's entrepreneurial journey](http://android-developers.googleblog.com/2024/01/weareplay-how-a-childhood-experience-shaped-alvaros-entrepreneurial-journey.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 12 2024 - [A New Approach to Real-Money Games on Google Play](http://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
