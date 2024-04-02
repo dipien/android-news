@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 02 2024 - [puf speaking at Cloud Next and Google I/O](https://www.youtube.com/watch?v=5FIeOKcFxU8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 29 2024 - [Battling Impersonation Scams: Monzo’s Innovative Approach](http://android-developers.googleblog.com/2024/03/battling-impersonation-scams-monzo-innovative-approach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 26 2024 - [Time for Playtime - Android Developers Backstage](https://www.youtube.com/watch?v=51Hn1nhcits) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -70,7 +71,6 @@
 - Jan 23 2024 - [January 2024: Firestore sum and average operations, and best practices for Firebase Cloud Messaging](https://www.youtube.com/watch?v=lesCn6Q-yss) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 19 2024 - [Unlock the power of Generative AI in your applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 18 2024 - [How This Indie Game Studio Launched Their First Game on Google Play](http://android-developers.googleblog.com/2024/01/how-this-indie-game-studio-launched-their-first-game-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 18 2024 - [Adding Firebase to your app with SPM #shorts](https://www.youtube.com/watch?v=KdS0CLFG-bA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 17 2024 - [#WeArePlay - Learn how a childhood experience with an earthquake shaped Álvaro's entrepreneurial journey](http://android-developers.googleblog.com/2024/01/weareplay-how-a-childhood-experience-shaped-alvaros-entrepreneurial-journey.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
