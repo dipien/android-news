@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 03 2024 - [Google Play PolicyBytes - April 2024 policy updates](https://www.youtube.com/watch?v=Q1NmhIwlyl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 02 2024 - [puf speaking at Cloud Next and Google I/O](https://www.youtube.com/watch?v=5FIeOKcFxU8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 29 2024 - [Battling Impersonation Scams: Monzo’s Innovative Approach](http://android-developers.googleblog.com/2024/03/battling-impersonation-scams-monzo-innovative-approach.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 26 2024 - [Time for Playtime - Android Developers Backstage](https://www.youtube.com/watch?v=51Hn1nhcits) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -38,7 +39,6 @@
 - Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 06 2024 - [Developer guidance for Google Play Protect enhanced fraud protections](https://www.youtube.com/watch?v=DeEmqBydY24) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2024 - [Firebase at Google for Game Developers and GDC](https://www.youtube.com/watch?v=jjQDq4yW1vI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 05 2024 - [Introducing a new Text-To-Speech engine on Wear OS](http://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2024 - [Embracing Android 14: Meta's Early Adoption Empowered Enhanced User Experience](http://android-developers.googleblog.com/2024/03/android-14-meta-early-adoption-enhanced-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
