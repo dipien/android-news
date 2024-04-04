@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 04 2024 - [New Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=_KvbjXGemvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 03 2024 - [Enable email and enumeration protection in your #Firebase project](https://www.youtube.com/watch?v=MSrpxc9PO8Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 03 2024 - [Google Play PolicyBytes - April 2024 policy updates](https://www.youtube.com/watch?v=Q1NmhIwlyl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 02 2024 - [puf speaking at Cloud Next and Google I/O](https://www.youtube.com/watch?v=5FIeOKcFxU8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -65,7 +66,6 @@
 - Feb 06 2024 - [#Firebase newsletter #shorts](https://www.youtube.com/watch?v=P_PXZafyKcY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 01 2024 - [Best practices when sending FCM messages at scale](https://www.youtube.com/watch?v=FY9_5H39sYQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 31 2024 - [Automatically Generate PDFs from Firestore Documents with PDFPlum Firebase Extension](https://medium.com/firebase-developers/automatically-generate-pdfs-from-firestore-documents-with-pdfplum-firebase-extension-49c2e23e15d8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jan 30 2024 - [Blog: VueFire is generally available](https://www.youtube.com/watch?v=9ZN8Xy0JZJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 29 2024 - [Prompt users to update to your latest app version](http://android-developers.googleblog.com/2024/01/prompt-users-to-update-to-your-latest-app-version-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 25 2024 - [Now in Android #98](https://medium.com/androiddevelopers/now-in-android-98-f43cdb1b60c8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 24 2024 - [What’s new in the Jetpack Compose January ’24 release](http://android-developers.googleblog.com/2024/01/whats-new-in-jetpack-compose-january-24-release.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
