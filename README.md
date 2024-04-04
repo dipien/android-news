@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 04 2024 - [Now in Android #102](https://medium.com/androiddevelopers/now-in-android-102-b8c8d9fccd5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 04 2024 - [Now in Android: 102 - Google I/O 2024, Women’s History Month, Vulkan on Android, and more!](https://www.youtube.com/watch?v=BM3cjQGHGrY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 04 2024 - [New Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=_KvbjXGemvU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 03 2024 - [Enable email and enumeration protection in your #Firebase project](https://www.youtube.com/watch?v=MSrpxc9PO8Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 03 2024 - [Google Play PolicyBytes - April 2024 policy updates](https://www.youtube.com/watch?v=Q1NmhIwlyl4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -37,7 +39,6 @@
 - Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2024 - [Now in Android: 100 - Android 15 DP 1, Stable Studio Iguana, Cloud Photo Picker, and more!](https://www.youtube.com/watch?v=tiNXsmbcKgA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [The latest in Android foldables and Wear OS at MWC'24](https://www.youtube.com/watch?v=BcGfpspxX2E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 07 2024 - [Behind the scenes with Gemini Nano and AICore](https://www.youtube.com/watch?v=hHIMUgTuoXE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -80,7 +81,6 @@
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 16 2023 - [Now in Android #95](https://medium.com/androiddevelopers/now-in-android-95-18456a4ada03?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
