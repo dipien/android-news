@@ -20,7 +20,7 @@
 - Mar 19 2024 - [Introducing Device Streaming in Android Studio in Open Alpha](https://www.youtube.com/watch?v=MrrGJXKOLOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2024 - [Tune in for Google I/O on May 14](http://android-developers.googleblog.com/2024/03/google-io-24-save-the-date.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2024 - [[Games] - Building for the long term: anticipating risks in your game (Playtime 2023)](https://www.youtube.com/watch?v=MIDg15wNOXQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2024 - [[Games] - Expanding opportunties for games (Playtime 2023)](https://www.youtube.com/watch?v=r9we5jU_ukA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 14 2024 - [[Games] - Expanding opportunities for games (Playtime 2023)](https://www.youtube.com/watch?v=r9we5jU_ukA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Games] - Strategic pricing for games: enabling revenue growth and price equity (Playtime 2023)](https://www.youtube.com/watch?v=hcQ4MVcsfOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Apps] - Beyond categories: New frontiers for app business growth (Playtime 2023)](https://www.youtube.com/watch?v=TVG1DSwkP8U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Apps] - One price no longer fits all (Playtime 2023)](https://www.youtube.com/watch?v=pEffqYuYdcA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
