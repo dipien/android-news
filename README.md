@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 09 2024 - [Android Developer Story: Google Drive cut code and development time in half with Jetpack Compose](https://www.youtube.com/watch?v=Q_pM2SsV5n0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 09 2024 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2024 (Portuguese-Brazil)](https://www.youtube.com/watch?v=yuQqQ3sJVF0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Google Play PolicyBytes - 2024 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=dneJahbLU2Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -37,7 +38,6 @@
 - Mar 11 2024 - [What’s new in Android Studio Iguana](https://www.youtube.com/watch?v=kVZ1QNMMub0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 11 2024 - [Enhanced screen sharing capabilities in Android 14 (and Google Meet) improve meeting productivity](http://android-developers.googleblog.com/2024/03/enhanced-screen-sharing-capabilities-in-android-14.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 08 2024 - [Better, faster, stronger time zone updates on Android](http://android-developers.googleblog.com/2024/03/better-faster-stronger-time-zone-updates-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 07 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=EGTzWzyeHD4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2024 - [Introducing the Fused Orientation Provider API: Consistent device orientation for all](http://android-developers.googleblog.com/2024/03/introducing-fused-orientation-provider-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
