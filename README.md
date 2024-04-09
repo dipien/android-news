@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 09 2024 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2024 (Portuguese-Brazil)](https://www.youtube.com/watch?v=yuQqQ3sJVF0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Google Play PolicyBytes - 2024 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=dneJahbLU2Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Google Play PolicyBytes - 2024년 4월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=0vGhEy2bwsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -80,7 +81,6 @@
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Nov 29 2023 - [Now in Android #96](https://medium.com/androiddevelopers/now-in-android-96-f4ba324b2b73?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
