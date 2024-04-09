@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 09 2024 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2024 (Portuguese-Brazil)](https://www.youtube.com/watch?v=yuQqQ3sJVF0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 09 2024 - [Google Play PolicyBytes - 2024 年 4 月政策更新 (Mandarin)](https://www.youtube.com/watch?v=dneJahbLU2Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 09 2024 - [Google Play PolicyBytes - 2024년 4월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=0vGhEy2bwsM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Improved iOS testing capabilities in Checks](https://www.youtube.com/watch?v=PXfat7hCP-s) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 04 2024 - [Now in Android #102](https://medium.com/androiddevelopers/now-in-android-102-b8c8d9fccd5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 04 2024 - [Now in Android: 102 - Google I/O 2024, Women’s History Month, Vulkan on Android, and more!](https://www.youtube.com/watch?v=BM3cjQGHGrY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -36,10 +39,7 @@
 - Mar 07 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=EGTzWzyeHD4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2024 - [Introducing the Fused Orientation Provider API: Consistent device orientation for all](http://android-developers.googleblog.com/2024/03/introducing-fused-orientation-provider-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 07 2024 - [#TheAndroidShow: the latest from MWC'24, Gemini Nano, Android 15 and more!](https://www.youtube.com/watch?v=pou4o1X1DI4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 07 2024 - [Now in Android: 100 - Android 15 DP 1, Stable Studio Iguana, Cloud Photo Picker, and more!](https://www.youtube.com/watch?v=tiNXsmbcKgA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 07 2024 - [The latest in Android foldables and Wear OS at MWC'24](https://www.youtube.com/watch?v=BcGfpspxX2E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
