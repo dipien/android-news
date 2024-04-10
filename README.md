@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 10 2024 - [Google Play PolicyBytes - Pembaruan Kebijakan April 2024](https://www.youtube.com/watch?v=mWbxb39-96c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 10 2024 - [Google Play PolicyBytes - 2024 年 4 月ポリシー アップデート（Japanese）](https://www.youtube.com/watch?v=KoOcSOjaz4k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Android Developer Story: Google Drive cut code and development time in half with Jetpack Compose](https://www.youtube.com/watch?v=Q_pM2SsV5n0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 09 2024 - [Google Play PolicyBytes - Atualizações de Política de Abril de 2024 (Portuguese-Brazil)](https://www.youtube.com/watch?v=yuQqQ3sJVF0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -30,12 +32,10 @@
 - Mar 14 2024 - [[Games] - Strategic pricing for games: enabling revenue growth and price equity (Playtime 2023)](https://www.youtube.com/watch?v=hcQ4MVcsfOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Apps] - Beyond categories: New frontiers for app business growth (Playtime 2023)](https://www.youtube.com/watch?v=TVG1DSwkP8U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Apps] - One price no longer fits all (Playtime 2023)](https://www.youtube.com/watch?v=pEffqYuYdcA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2024 - [[Apps] - Knowing your buyers (Playtime 2023)](https://www.youtube.com/watch?v=Fyx0-eW2Cwk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 12 2024 - [Reduced cost for 'Stream Firestore to BigQuery' extension #shorts](https://www.youtube.com/watch?v=YCYrn3bv6vM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 12 2024 - [Key product updates from the 2024 Google for Games Developer Summit](http://android-developers.googleblog.com/2024/03/key-product-updates-from-2024-google-for-games-developer-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Introducing Play Install Referrer for Google Play Games on PC](http://android-developers.googleblog.com/2024/03/introducing-play-install-referrer-for-google-play-games-on-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Meet the class of 2024 for Google Play’s Indie Games Accelerator](http://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 11 2024 - [What’s new in Android Studio Iguana](https://www.youtube.com/watch?v=kVZ1QNMMub0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 11 2024 - [Enhanced screen sharing capabilities in Android 14 (and Google Meet) improve meeting productivity](http://android-developers.googleblog.com/2024/03/enhanced-screen-sharing-capabilities-in-android-14.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 08 2024 - [Better, faster, stronger time zone updates on Android](http://android-developers.googleblog.com/2024/03/better-faster-stronger-time-zone-updates-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
