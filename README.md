@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 18 2024 - [Now in Android: 103 - Android 15 Beta, Gemini in Android Studio, Google Drive improvements, & more!](https://www.youtube.com/watch?v=DOvKN5tXIWg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 16 2024 - [Change in scopes for RTDB](https://www.youtube.com/watch?v=_6qeAd0ZxQU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 10 2024 - [Google Play PolicyBytes - Pembaruan Kebijakan April 2024](https://www.youtube.com/watch?v=mWbxb39-96c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2024 - [Google Play PolicyBytes - 2024 年 4 月ポリシー アップデート（Japanese）](https://www.youtube.com/watch?v=KoOcSOjaz4k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -32,7 +34,6 @@
 - Mar 14 2024 - [[Games] - Expanding opportunities for games (Playtime 2023)](https://www.youtube.com/watch?v=r9we5jU_ukA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Games] - Strategic pricing for games: enabling revenue growth and price equity (Playtime 2023)](https://www.youtube.com/watch?v=hcQ4MVcsfOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Apps] - Beyond categories: New frontiers for app business growth (Playtime 2023)](https://www.youtube.com/watch?v=TVG1DSwkP8U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2024 - [[Apps] - One price no longer fits all (Playtime 2023)](https://www.youtube.com/watch?v=pEffqYuYdcA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 12 2024 - [Reduced cost for 'Stream Firestore to BigQuery' extension #shorts](https://www.youtube.com/watch?v=YCYrn3bv6vM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 12 2024 - [Key product updates from the 2024 Google for Games Developer Summit](http://android-developers.googleblog.com/2024/03/key-product-updates-from-2024-google-for-games-developer-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Introducing Play Install Referrer for Google Play Games on PC](http://android-developers.googleblog.com/2024/03/introducing-play-install-referrer-for-google-play-games-on-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -79,7 +80,6 @@
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 14 2023 - [Now in Android #97](https://medium.com/androiddevelopers/now-in-android-97-f5db5d045dfb?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 08 2023 - [Processing Payments in Firebase with Stripe](https://medium.com/firebase-developers/processing-payments-in-firebase-with-stripe-e90c816f02d0?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 26 2023 - [Seeding Firestore Data in Emulator](https://medium.com/firebase-developers/seeding-firestore-data-in-emulator-c8485e797135?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
