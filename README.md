@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 23 2024 - [#Firebase at Google I/O](https://www.youtube.com/watch?v=LdocYcXI1cw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 18 2024 - [Now in Android: 103 - Android 15 Beta, Gemini in Android Studio, Google Drive improvements, & more!](https://www.youtube.com/watch?v=DOvKN5tXIWg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -61,7 +62,6 @@
 - Feb 26 2024 - [New goodies from Android, Wearables at Mobile World Congress + tune in to a new episode of #TheAndroidShow next week!](http://android-developers.googleblog.com/2024/02/tas-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 26 2024 - [Wear OS hybrid interface: Boosting power and performance](http://android-developers.googleblog.com/2024/02/wear-os-hybrid-interface-boosting-power-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 22 2024 - [Easily add document scanning capability to your app with ML Kit Document Scanner API](http://android-developers.googleblog.com/2024/02/ml-kit-document-scanner-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 21 2024 - [Getting started with anonymous authentication and account linking on Android](https://www.youtube.com/watch?v=moZssMRVoWI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 16 2024 - [The First Developer Preview of Android 15](http://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
