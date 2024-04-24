@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 24 2024 - [Firebase After Hours #2: Go get Gemini](https://www.youtube.com/watch?v=WbaCQ5ZnHwI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 23 2024 - [#Firebase at Google I/O](https://www.youtube.com/watch?v=LdocYcXI1cw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -28,7 +29,7 @@
 - Mar 26 2024 - [Time for Playtime - Android Developers Backstage](https://www.youtube.com/watch?v=51Hn1nhcits) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 26 2024 - [March '24: faster Flutter web apps, more App Check,＆range conditions on multiple fields in Firestore](https://www.youtube.com/watch?v=eTArV4Z3Caw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 26 2024 - [Go for Cloud Functions and #Firebase](https://www.youtube.com/watch?v=-QHpBX3u8pM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Mar 26 2024 - [Firebase After Hours #1: Go for Cloud Functions and #Firebase](https://www.youtube.com/watch?v=-QHpBX3u8pM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2024 - [#WeArePlay - Meet the founders changing women's lives: Women’s History Month Stories](http://android-developers.googleblog.com/2024/03/weareplay-meet-founders-changing-womens-lives-womens-history-month-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 21 2024 - [Now in Android #101](https://medium.com/androiddevelopers/now-in-android-101-6e0df9a15355?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 21 2024 - [Now in Android: 101 - Android 15 Developer Preview 2, #TheAndroidShow, the Google I/O date, & more!](https://www.youtube.com/watch?v=RUc1jc5BzWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -58,7 +59,6 @@
 - Feb 29 2024 - [Android Studio Iguana is stable](http://android-developers.googleblog.com/2024/02/android-studio-iguana-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 27 2024 - [Jetpack Compose: Strong Skipping Mode Explained](https://medium.com/androiddevelopers/jetpack-compose-strong-skipping-mode-explained-cbdb2aa4b900?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 27 2024 - [Fun with shapes in Compose](https://medium.com/androiddevelopers/fun-with-shapes-in-compose-8814c439e1a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 27 2024 - [February 2024: Auto-testing in App Distro, Flutter speedups, Firestore GA＆Crashlytics improvements](https://www.youtube.com/watch?v=5haj49KicJw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 26 2024 - [New goodies from Android, Wearables at Mobile World Congress + tune in to a new episode of #TheAndroidShow next week!](http://android-developers.googleblog.com/2024/02/tas-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 26 2024 - [Wear OS hybrid interface: Boosting power and performance](http://android-developers.googleblog.com/2024/02/wear-os-hybrid-interface-boosting-power-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 22 2024 - [Easily add document scanning capability to your app with ML Kit Document Scanner API](http://android-developers.googleblog.com/2024/02/ml-kit-document-scanner-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
