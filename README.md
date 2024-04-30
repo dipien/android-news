@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Apr 24 2024 - [Firebase After Hours #2: Go get Gemini](https://www.youtube.com/watch?v=WbaCQ5ZnHwI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 30 2024 - [Firebase After Hours #2: Go get Gemini](https://www.youtube.com/watch?v=WbaCQ5ZnHwI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 23 2024 - [#Firebase at Google I/O](https://www.youtube.com/watch?v=LdocYcXI1cw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
