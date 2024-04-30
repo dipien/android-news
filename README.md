@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Apr 30 2024 - [April 2024: Firestore new from Cloud Next, Flutter on Windows, and Gemini in Firebase](https://www.youtube.com/watch?v=kD5NsBbG3kk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 30 2024 - [Material Design at Google I/O ‘24](https://material.io/blog/google-io-2024) - [Material Design Blog](https://material.io/blog)
 - Apr 30 2024 - [Firebase After Hours #2: Go get Gemini](https://www.youtube.com/watch?v=WbaCQ5ZnHwI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 23 2024 - [#Firebase at Google I/O](https://www.youtube.com/watch?v=LdocYcXI1cw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -99,8 +100,7 @@
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [How to build a complete app with Relay and Compose](https://www.youtube.com/watch?v=vBNmeiHlDHE) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
