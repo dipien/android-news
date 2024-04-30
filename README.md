@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 30 2024 - [Use Codable to call your Cloud Functions from Swift](https://www.youtube.com/watch?v=LTDNQQOcyBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 30 2024 - [What’s new in Android Studio Jellyfish](https://www.youtube.com/watch?v=lvI_6aE5gC0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 30 2024 - [Gemini in Android Studio - Supercharge your development](https://www.youtube.com/watch?v=D6KTkmZmXG0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 30 2024 - [April 2024: Firestore new from Cloud Next, Flutter on Windows, and Gemini in Firebase](https://www.youtube.com/watch?v=kD5NsBbG3kk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -53,7 +54,6 @@
 - Mar 07 2024 - [Introducing the Fused Orientation Provider API: Consistent device orientation for all](http://android-developers.googleblog.com/2024/03/introducing-fused-orientation-provider-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2024 - [Introducing a new Text-To-Speech engine on Wear OS](http://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2024 - [Embracing Android 14: Meta's Early Adoption Empowered Enhanced User Experience](http://android-developers.googleblog.com/2024/03/android-14-meta-early-adoption-enhanced-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
