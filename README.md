@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 30 2024 - [April 2024: Firestore new from Cloud Next, Flutter on Windows, and Gemini in Firebase](https://www.youtube.com/watch?v=kD5NsBbG3kk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 30 2024 - [Firebase After Hours #2: Go get Gemini](https://www.youtube.com/watch?v=WbaCQ5ZnHwI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 23 2024 - [#Firebase at Google I/O](https://www.youtube.com/watch?v=LdocYcXI1cw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -53,7 +54,6 @@
 - Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Vue.js and #Firebase crash course](https://www.youtube.com/watch?v=N-CS73eHld0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 05 2024 - [Firebase at Google for Game Developers and GDC](https://www.youtube.com/watch?v=jjQDq4yW1vI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 05 2024 - [Introducing a new Text-To-Speech engine on Wear OS](http://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2024 - [Embracing Android 14: Meta's Early Adoption Empowered Enhanced User Experience](http://android-developers.googleblog.com/2024/03/android-14-meta-early-adoption-enhanced-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 29 2024 - [Android Studio Iguana is stable](http://android-developers.googleblog.com/2024/02/android-studio-iguana-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
