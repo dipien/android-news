@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 30 2024 - [What’s new in Android Studio Jellyfish](https://www.youtube.com/watch?v=lvI_6aE5gC0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 30 2024 - [Gemini in Android Studio - Supercharge your development](https://www.youtube.com/watch?v=D6KTkmZmXG0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 30 2024 - [April 2024: Firestore new from Cloud Next, Flutter on Windows, and Gemini in Firebase](https://www.youtube.com/watch?v=kD5NsBbG3kk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 30 2024 - [Material Design at Google I/O ‘24](https://material.io/blog/google-io-2024) - [Material Design Blog](https://material.io/blog)
 - Apr 30 2024 - [Firebase After Hours #2: Go get Gemini](https://www.youtube.com/watch?v=WbaCQ5ZnHwI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -41,8 +43,6 @@
 - Mar 14 2024 - [Tune in for Google I/O on May 14](http://android-developers.googleblog.com/2024/03/google-io-24-save-the-date.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 14 2024 - [[Games] - Building for the long term: anticipating risks in your game (Playtime 2023)](https://www.youtube.com/watch?v=MIDg15wNOXQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2024 - [[Games] - Expanding opportunities for games (Playtime 2023)](https://www.youtube.com/watch?v=r9we5jU_ukA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2024 - [[Games] - Strategic pricing for games: enabling revenue growth and price equity (Playtime 2023)](https://www.youtube.com/watch?v=hcQ4MVcsfOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2024 - [[Apps] - Beyond categories: New frontiers for app business growth (Playtime 2023)](https://www.youtube.com/watch?v=TVG1DSwkP8U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 12 2024 - [Reduced cost for 'Stream Firestore to BigQuery' extension #shorts](https://www.youtube.com/watch?v=YCYrn3bv6vM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 12 2024 - [Key product updates from the 2024 Google for Games Developer Summit](http://android-developers.googleblog.com/2024/03/key-product-updates-from-2024-google-for-games-developer-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Introducing Play Install Referrer for Google Play Games on PC](http://android-developers.googleblog.com/2024/03/introducing-play-install-referrer-for-google-play-games-on-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
