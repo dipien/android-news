@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 02 2024 - [Now in Android: 104 - Android Studio Jellyfish, A/B testing power consumption, AndroidX, and more!](https://www.youtube.com/watch?v=CxhVXj7C-bs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 02 2024 - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 01 2024 - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 30 2024 - [Use Codable to call your Cloud Functions from Swift](https://www.youtube.com/watch?v=LTDNQQOcyBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -45,7 +46,6 @@
 - Mar 21 2024 - [The Second Developer Preview of Android 15](http://android-developers.googleblog.com/2024/03/the-second-developer-preview-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 19 2024 - [Introducing Device Streaming in Android Studio in Open Alpha](https://www.youtube.com/watch?v=MrrGJXKOLOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2024 - [Tune in for Google I/O on May 14](http://android-developers.googleblog.com/2024/03/google-io-24-save-the-date.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 14 2024 - [[Games] - Building for the long term: anticipating risks in your game (Playtime 2023)](https://www.youtube.com/watch?v=MIDg15wNOXQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 12 2024 - [Reduced cost for 'Stream Firestore to BigQuery' extension #shorts](https://www.youtube.com/watch?v=YCYrn3bv6vM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 12 2024 - [Key product updates from the 2024 Google for Games Developer Summit](http://android-developers.googleblog.com/2024/03/key-product-updates-from-2024-google-for-games-developer-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Introducing Play Install Referrer for Google Play Games on PC](http://android-developers.googleblog.com/2024/03/introducing-play-install-referrer-for-google-play-games-on-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
