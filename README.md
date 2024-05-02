@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 02 2024 - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 01 2024 - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 30 2024 - [Use Codable to call your Cloud Functions from Swift](https://www.youtube.com/watch?v=LTDNQQOcyBo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 30 2024 - [What’s new in Android Studio Jellyfish](https://www.youtube.com/watch?v=lvI_6aE5gC0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -73,7 +74,6 @@
 - Feb 13 2024 - [Cloud photos now available in the Android photo picker](http://android-developers.googleblog.com/2024/02/cloud-photos-now-available-in-android-photo-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 08 2024 - [Sign in with Google with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-2-fdd6ad6608f7?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 07 2024 - [Now in Android #99](https://medium.com/androiddevelopers/now-in-android-99-3937624f5576?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Jan 31 2024 - [Automatically Generate PDFs from Firestore Documents with PDFPlum Firebase Extension](https://medium.com/firebase-developers/automatically-generate-pdfs-from-firestore-documents-with-pdfplum-firebase-extension-49c2e23e15d8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 19 2024 - [Unlock the power of Generative AI in your applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
