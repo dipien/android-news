@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 03 2024 - [Now in Android #104](https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 02 2024 - [Now in Android: 104 - Android Studio Jellyfish, A/B testing power consumption, AndroidX, and more!](https://www.youtube.com/watch?v=CxhVXj7C-bs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 02 2024 - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 01 2024 - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -68,7 +69,6 @@
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 16 2024 - [The First Developer Preview of Android 15](http://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 16 2024 - [Understanding Nested Scrolling in Jetpack Compose](https://medium.com/androiddevelopers/understanding-nested-scrolling-in-jetpack-compose-eb57c1ea0af0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 16 2024 - [Sign in with Apple with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-3-80be99dbc63d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 14 2024 - [#WeArePlay - How two sea turtle enthusiasts are revolutionizing marine conservation](http://android-developers.googleblog.com/2024/02/weareplay-how-two-sea-turtle-enthusiasts-are-revolutionizing-marine-conservation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 13 2024 - [Cloud photos now available in the Android photo picker](http://android-developers.googleblog.com/2024/02/cloud-photos-now-available-in-android-photo-picker.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
