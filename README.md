@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 06 2024 - [Live Google Pay integrations on Android: Google Pay on Android using Stripe's React Native SDK](https://www.youtube.com/watch?v=hlnrL88Lyzc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2024 - [Now in Android #104](https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 02 2024 - [Now in Android: 104 - Android Studio Jellyfish, A/B testing power consumption, AndroidX, and more!](https://www.youtube.com/watch?v=CxhVXj7C-bs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 02 2024 - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -19,7 +20,6 @@
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 18 2024 - [Now in Android: 103 - Android 15 Beta, Gemini in Android Studio, Google Drive improvements, & more!](https://www.youtube.com/watch?v=DOvKN5tXIWg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Apr 18 2024 - [Live Google Pay integrations on Android: Google Pay on Android using Stripe's React Native SDK](https://www.youtube.com/watch?v=hlnrL88Lyzc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 17 2024 - [How to effectively A/B test power consumption for your Android app’s features](http://android-developers.googleblog.com/2024/04/how-to-effectively-ab-test-power-consumption-for-your-android-app-features.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 16 2024 - [Change in scopes for RTDB](https://www.youtube.com/watch?v=_6qeAd0ZxQU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 11 2024 - [The First Beta of Android 15](http://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
