@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-material-design-3) - [Material Design Blog](https://material.io/blog)
 - May 06 2024 - [Live Google Pay integrations on Android: Google Pay on Android using Stripe's React Native SDK](https://www.youtube.com/watch?v=hlnrL88Lyzc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2024 - [Now in Android #104](https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 02 2024 - [Now in Android: 104 - Android Studio Jellyfish, A/B testing power consumption, AndroidX, and more!](https://www.youtube.com/watch?v=CxhVXj7C-bs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Making beautiful products more accessible with Material research](https://www.youtube.com/watch?v=k-nG86tp8oQ) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
