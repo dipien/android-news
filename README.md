@@ -1,8 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 07 2024 - [All the launches at I/O!](https://www.youtube.com/watch?v=n78xFBIqzT4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2024 - [#WeArePlay - From Your Eyes | FYE | Türkiye](https://www.youtube.com/watch?v=rgQ59AULlHQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-material-design-3) - [Material Design Blog](https://material.io/blog)
+- May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-compose-material-design-3) - [Material Design Blog](https://material.io/blog)
 - May 06 2024 - [Live Google Pay integrations on Android: Google Pay on Android using Stripe's React Native SDK](https://www.youtube.com/watch?v=hlnrL88Lyzc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2024 - [Now in Android #104](https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 02 2024 - [Now in Android: 104 - Android Studio Jellyfish, A/B testing power consumption, AndroidX, and more!](https://www.youtube.com/watch?v=CxhVXj7C-bs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -60,7 +61,6 @@
 - Mar 08 2024 - [Better, faster, stronger time zone updates on Android](http://android-developers.googleblog.com/2024/03/better-faster-stronger-time-zone-updates-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2024 - [Introducing the Fused Orientation Provider API: Consistent device orientation for all](http://android-developers.googleblog.com/2024/03/introducing-fused-orientation-provider-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 07 2024 - [New #Firebase Extensions with Gemini](https://www.youtube.com/watch?v=HIi-DuLKff8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 07 2024 - [#TheAndroidShow: the latest from MWC, Gemini Nano, Android 15 and more!](http://android-developers.googleblog.com/2024/03/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2024 - [Designing your account deletion experience with users in mind](http://android-developers.googleblog.com/2024/03/designing-your-account-deletion-experience-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2024 - [Introducing a new Text-To-Speech engine on Wear OS](http://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
