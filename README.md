@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 07 2024 - [#WeArePlay - From Your Eyes | FYE | Türkiye](https://www.youtube.com/watch?v=rgQ59AULlHQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-material-design-3) - [Material Design Blog](https://material.io/blog)
 - May 06 2024 - [Live Google Pay integrations on Android: Google Pay on Android using Stripe's React Native SDK](https://www.youtube.com/watch?v=hlnrL88Lyzc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 03 2024 - [Now in Android #104](https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -47,7 +48,6 @@
 - Mar 26 2024 - [Firebase After Hours #1: Go for Cloud Functions and #Firebase](https://www.youtube.com/watch?v=-QHpBX3u8pM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2024 - [#WeArePlay - Meet the founders changing women's lives: Women’s History Month Stories](http://android-developers.googleblog.com/2024/03/weareplay-meet-founders-changing-womens-lives-womens-history-month-stories.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 21 2024 - [Now in Android #101](https://medium.com/androiddevelopers/now-in-android-101-6e0df9a15355?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 21 2024 - [Now in Android: 101 - Android 15 Developer Preview 2, #TheAndroidShow, the Google I/O date, & more!](https://www.youtube.com/watch?v=RUc1jc5BzWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 21 2024 - [Getting started with Cloud Storage for iOS](https://www.youtube.com/watch?v=rfBCPIJUcpI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 21 2024 - [The Second Developer Preview of Android 15](http://android-developers.googleblog.com/2024/03/the-second-developer-preview-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 19 2024 - [Introducing Device Streaming in Android Studio in Open Alpha](https://www.youtube.com/watch?v=MrrGJXKOLOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
