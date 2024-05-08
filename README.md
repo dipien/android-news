@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
 - May 07 2024 - [All the launches at I/O!](https://www.youtube.com/watch?v=n78xFBIqzT4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2024 - [#WeArePlay - From Your Eyes | FYE | Türkiye](https://www.youtube.com/watch?v=rgQ59AULlHQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-compose-material-design-3) - [Material Design Blog](https://material.io/blog)
@@ -99,8 +100,7 @@
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
 - May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Design for every device with Flutter and Material 3](https://www.youtube.com/watch?v=CfOlY36GWYU) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
