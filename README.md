@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
 - May 07 2024 - [All the launches at I/O!](https://www.youtube.com/watch?v=n78xFBIqzT4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2024 - [#WeArePlay - From Your Eyes | FYE | Türkiye](https://www.youtube.com/watch?v=rgQ59AULlHQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,7 +69,6 @@
 - Mar 04 2024 - [Embracing Android 14: Meta's Early Adoption Empowered Enhanced User Experience](http://android-developers.googleblog.com/2024/03/android-14-meta-early-adoption-enhanced-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 29 2024 - [Android Studio Iguana is stable](http://android-developers.googleblog.com/2024/02/android-studio-iguana-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 27 2024 - [Jetpack Compose: Strong Skipping Mode Explained](https://medium.com/androiddevelopers/jetpack-compose-strong-skipping-mode-explained-cbdb2aa4b900?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 27 2024 - [Fun with shapes in Compose](https://medium.com/androiddevelopers/fun-with-shapes-in-compose-8814c439e1a0?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 26 2024 - [New goodies from Android, Wearables at Mobile World Congress + tune in to a new episode of #TheAndroidShow next week!](http://android-developers.googleblog.com/2024/02/tas-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 26 2024 - [Wear OS hybrid interface: Boosting power and performance](http://android-developers.googleblog.com/2024/02/wear-os-hybrid-interface-boosting-power-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
