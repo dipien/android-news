@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 09 2024 - [Multi-field range and inequality conditions on Firestore](https://www.youtube.com/watch?v=qMZ_q-iHqsU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
 - May 07 2024 - [All the launches at I/O!](https://www.youtube.com/watch?v=n78xFBIqzT4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -55,7 +56,6 @@
 - Mar 21 2024 - [The Second Developer Preview of Android 15](http://android-developers.googleblog.com/2024/03/the-second-developer-preview-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 19 2024 - [Introducing Device Streaming in Android Studio in Open Alpha](https://www.youtube.com/watch?v=MrrGJXKOLOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 14 2024 - [Tune in for Google I/O on May 14](http://android-developers.googleblog.com/2024/03/google-io-24-save-the-date.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 12 2024 - [Reduced cost for 'Stream Firestore to BigQuery' extension #shorts](https://www.youtube.com/watch?v=YCYrn3bv6vM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 12 2024 - [Key product updates from the 2024 Google for Games Developer Summit](http://android-developers.googleblog.com/2024/03/key-product-updates-from-2024-google-for-games-developer-summit.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Introducing Play Install Referrer for Google Play Games on PC](http://android-developers.googleblog.com/2024/03/introducing-play-install-referrer-for-google-play-games-on-pc.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2024 - [Meet the class of 2024 for Google Play’s Indie Games Accelerator](http://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
