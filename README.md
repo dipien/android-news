@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multi-field range and inequality conditions on Firestore](https://www.youtube.com/watch?v=qMZ_q-iHqsU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Build better, safer SDKs with Google Play SDK Console](http://android-developers.googleblog.com/2024/05/build-better-safer-sdks-google-play-sdk-console.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
 - May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
 - May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
-- May 10 2023 - [What’s New in Material Design - American Sign Language](https://www.youtube.com/watch?v=iwJaQCsX63s) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
