@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- May 14 2024 - [Vertex AI for Firebase](https://www.youtube.com/watch?v=7CYpEt1L3Ug) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 14 2024 - [Vertex AI for #Firebase](https://www.youtube.com/watch?v=7CYpEt1L3Ug) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2024 - [Introducing Checks - Google’s AI-powered compliance platform](https://www.youtube.com/watch?v=QanvMCF9bRU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2024 - [Introducing #Firebase App Hosting](https://www.youtube.com/watch?v=saQ7Ab8ETkY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2024 - [#Firebase does SQL with Data Connect](https://www.youtube.com/watch?v=wcGV3BJ6jCM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
