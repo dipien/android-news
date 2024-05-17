@@ -27,7 +27,7 @@
 - May 15 2024 - [#Firebase Android SDK](https://www.youtube.com/watch?v=2QJOUcJHaXs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [What’s new in the #Firebase Apple SDK](https://www.youtube.com/watch?v=3ikkwPOb_u4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [What’s new in the #Firebase Web SDK](https://www.youtube.com/watch?v=3ZOVSqJWs0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 15 2024 - [The latest FlutterFire SDK updates](https://www.youtube.com/watch?v=abjUf_7Udf8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 15 2024 - [The latest Flutter SDK updates](https://www.youtube.com/watch?v=abjUf_7Udf8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Spend more time building YOUR app, less time figuring out how](https://www.youtube.com/watch?v=oJ-tnZyKfj4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
