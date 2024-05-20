@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- May 20 2024 - [Behind the scenes of Google I/O with an Android Developer](https://www.youtube.com/watch?v=A_RDWBsd-Wc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 20 2024 - [Behind the scenes of Google I/O with an Android developer](https://www.youtube.com/watch?v=A_RDWBsd-Wc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [How to analyze and improve performance of your Jetpack Compose app](https://www.youtube.com/watch?v=c3gdS42TJmI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Scale and optimize your business with Google Play](https://www.youtube.com/watch?v=luPzzuRwQnQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
