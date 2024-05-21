@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 21 2024 - [Android Studio Jellyfish](https://www.youtube.com/watch?v=pXtxdot6rVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 20 2024 - [Behind the scenes of Google I/O with an Android developer](https://www.youtube.com/watch?v=A_RDWBsd-Wc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [How to analyze and improve performance of your Jetpack Compose app](https://www.youtube.com/watch?v=c3gdS42TJmI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,7 +21,6 @@
 - May 16 2024 - [Android on-device AI under the hood](https://www.youtube.com/watch?v=nOinQrCvZkM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Add Generative AI to your Android app with the Gemini API](https://www.youtube.com/watch?v=L2ORMj0yak8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Designing scalable Compose APIs](https://www.youtube.com/watch?v=JvbyGcqdWBA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 16 2024 - [Safeguarding user security on Android](https://www.youtube.com/watch?v=RccJYep2v5I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Try the new Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=1zV6BHsgHIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Explore all of the latest Codelabs from #Firebase](https://www.youtube.com/watch?v=8cHCRWAFKdw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
