@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 21 2024 - [Android Studio Jellyfish](https://www.youtube.com/watch?v=pXtxdot6rVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 20 2024 - [Behind the scenes of Google I/O with an Android developer](https://www.youtube.com/watch?v=A_RDWBsd-Wc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -39,7 +40,6 @@
 - May 15 2024 - [The Second Beta of Android 15](http://android-developers.googleblog.com/2024/05/the-second-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Get the big picture with Large Screens at Google I/O 2024](http://android-developers.googleblog.com/2024/05/get-big-picture-with-large-screens-at-google-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [Vertex AI for #Firebase](https://www.youtube.com/watch?v=7CYpEt1L3Ug) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 14 2024 - [Introducing Checks - Google’s AI-powered compliance platform](https://www.youtube.com/watch?v=QanvMCF9bRU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2024 - [Google I/O 2024: What’s new in Android Development Tools](http://android-developers.googleblog.com/2024/05/google-io-2024-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [15 Things to know for Android developers at Google I/O](http://android-developers.googleblog.com/2024/05/15-things-to-know-for-android-developers-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [Android Support for Kotlin Multiplatform to Share Business Logic Across Mobile, Web, Server, and Desktop Platforms](http://android-developers.googleblog.com/2024/05/android-support-for-kotlin-multiplatform-to-share-business-logic-across-mobile-web-server-desktop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
