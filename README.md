@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 22 2024 - [Make it faster - Android Developers Backstage](https://www.youtube.com/watch?v=D1xPZagZdqk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [3 things to improve your Android App experience: Edge to Edge, Predictive Back, and Glance](https://www.youtube.com/watch?v=RimGfoOU67s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 22 2024 - [Grow your community of loyal gamers](https://www.youtube.com/watch?v=7r4BwXUW9hY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,7 +22,6 @@
 - May 16 2024 - [Building adaptable experiences with Android Health](https://www.youtube.com/watch?v=cWUcag-8iWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Building for the future of Wear OS](https://www.youtube.com/watch?v=6K5cITvVcoM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Passkeys and identity best practices](https://www.youtube.com/watch?v=fgTOeLShcrY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 16 2024 - [Best practices for rendering your game multiplatform](https://www.youtube.com/watch?v=PEfenmYPQHY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [What's new in Firebase for building gen AI features](https://www.youtube.com/watch?v=2MvV-YX1eKw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Try the new Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=1zV6BHsgHIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
