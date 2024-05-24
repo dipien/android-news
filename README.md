@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Make it faster - Android Developers Backstage](https://www.youtube.com/watch?v=D1xPZagZdqk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [3 things to improve your Android App experience: Edge to Edge, Predictive Back, and Glance](https://www.youtube.com/watch?v=RimGfoOU67s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -67,7 +68,6 @@
 - Apr 11 2024 - [The First Beta of Android 15](http://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 09 2024 - [Google Drive cut code and development time in half with Jetpack Compose and new architecture](http://android-developers.googleblog.com/2024/04/google-drive-cut-code-and-development-time-in-half-with-jetpack-compose-and-new-architecture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 08 2024 - [Android Studio uses Gemini Pro to make Android development faster and easier](http://android-developers.googleblog.com/2024/04/android-studio-uses-gemini-pro.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 04 2024 - [Now in Android #102](https://medium.com/androiddevelopers/now-in-android-102-b8c8d9fccd5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 21 2024 - [Now in Android #101](https://medium.com/androiddevelopers/now-in-android-101-6e0df9a15355?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
