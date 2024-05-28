@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 28 2024 - [May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O](https://www.youtube.com/watch?v=vYk6Uh2WGto) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 28 2024 - [Top 3 updates for building excellent apps at Google I/O ‘24](https://www.youtube.com/watch?v=agGTpNEl2S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -42,7 +43,6 @@
 - May 15 2024 - [Latest updates for watch faces on Wear OS](http://android-developers.googleblog.com/2024/05/latest-updates-for-watch-faces-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [The Second Beta of Android 15](http://android-developers.googleblog.com/2024/05/the-second-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Get the big picture with Large Screens at Google I/O 2024](http://android-developers.googleblog.com/2024/05/get-big-picture-with-large-screens-at-google-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 14 2024 - [Vertex AI for #Firebase](https://www.youtube.com/watch?v=7CYpEt1L3Ug) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2024 - [Google I/O 2024: What’s new in Android Development Tools](http://android-developers.googleblog.com/2024/05/google-io-2024-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [15 Things to know for Android developers at Google I/O](http://android-developers.googleblog.com/2024/05/15-things-to-know-for-android-developers-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [Android Support for Kotlin Multiplatform to Share Business Logic Across Mobile, Web, Server, and Desktop Platforms](http://android-developers.googleblog.com/2024/05/android-support-for-kotlin-multiplatform-to-share-business-logic-across-mobile-web-server-desktop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
