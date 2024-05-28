@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 28 2024 - [Top 3 updates for building excellent apps at Google I/O ‘24](https://www.youtube.com/watch?v=agGTpNEl2S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Make it faster - Android Developers Backstage](https://www.youtube.com/watch?v=D1xPZagZdqk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,7 +24,6 @@
 - May 16 2024 - [What's new on Google TV and the Android TV OS](https://www.youtube.com/watch?v=s0jUt5LTtpI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Building adaptable experiences with Android Health](https://www.youtube.com/watch?v=cWUcag-8iWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Building for the future of Wear OS](https://www.youtube.com/watch?v=6K5cITvVcoM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 16 2024 - [Passkeys and identity best practices](https://www.youtube.com/watch?v=fgTOeLShcrY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [What's new in Firebase for building gen AI features](https://www.youtube.com/watch?v=2MvV-YX1eKw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Try the new Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=1zV6BHsgHIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
