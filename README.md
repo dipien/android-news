@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- May 30 2024 - [Now in Android: 106 - I/O ‘24, Android 15, KMP, Compose, AndroidX, and more!](https://www.youtube.com/watch?v=eWRd0VIBKIY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 28 2024 - [May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O](https://www.youtube.com/watch?v=vYk6Uh2WGto) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 28 2024 - [Top 3 updates for building excellent apps at Google I/O ‘24](https://www.youtube.com/watch?v=agGTpNEl2S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -24,7 +26,6 @@
 - May 16 2024 - [Confidently launch gen AI features with Firebase Remote Config](https://www.youtube.com/watch?v=b5c8BbV8sIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [What's new on Google TV and the Android TV OS](https://www.youtube.com/watch?v=s0jUt5LTtpI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Building adaptable experiences with Android Health](https://www.youtube.com/watch?v=cWUcag-8iWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 16 2024 - [Building for the future of Wear OS](https://www.youtube.com/watch?v=6K5cITvVcoM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [What's new in Firebase for building gen AI features](https://www.youtube.com/watch?v=2MvV-YX1eKw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Try the new Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=1zV6BHsgHIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -72,7 +73,6 @@
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 21 2024 - [Now in Android #101](https://medium.com/androiddevelopers/now-in-android-101-6e0df9a15355?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 07 2024 - [Now in Android #100](https://medium.com/androiddevelopers/now-in-android-100-46422a7fefe8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Feb 27 2024 - [Jetpack Compose: Strong Skipping Mode Explained](https://medium.com/androiddevelopers/jetpack-compose-strong-skipping-mode-explained-cbdb2aa4b900?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 16 2024 - [Sign in with Apple with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-3-80be99dbc63d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
