@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 04 2024 - [More easily install Firebase plugins with the FlutterFire CLI](https://www.youtube.com/watch?v=yPgQNDgK0lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 30 2024 - [Now in Android: 105 - I/O ‘24, Android 15, KMP, Compose, AndroidX, and more!](https://www.youtube.com/watch?v=eWRd0VIBKIY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 28 2024 - [May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O](https://www.youtube.com/watch?v=vYk6Uh2WGto) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -34,7 +35,6 @@
 - May 15 2024 - [What’s new in the #Firebase Apple SDK](https://www.youtube.com/watch?v=3ikkwPOb_u4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [What’s new in the #Firebase Web SDK](https://www.youtube.com/watch?v=3ZOVSqJWs0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [The latest Flutter SDK updates](https://www.youtube.com/watch?v=abjUf_7Udf8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 15 2024 - [Spend more time building YOUR app, less time figuring out how](https://www.youtube.com/watch?v=oJ-tnZyKfj4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Android for Cars: Bringing more apps to cars](http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
