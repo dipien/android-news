@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 11 2024 - [Firebase After Hours #3: Genkit More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [Top 3 updates around Compose across form factors at Google I/O ‘24](https://www.youtube.com/watch?v=uzz_gzDxc7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Data insights and key-value distributions in Crashlytics](https://www.youtube.com/watch?v=rrkEV8p04lA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [#WeArePlay - Bernard Frischer | Flyover Zone | USA](https://www.youtube.com/watch?v=N2HLbXsCaHg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -35,7 +36,6 @@
 - May 15 2024 - [Explore all of the latest Codelabs from #Firebase](https://www.youtube.com/watch?v=8cHCRWAFKdw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [#Firebase Android SDK](https://www.youtube.com/watch?v=2QJOUcJHaXs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [What’s new in the #Firebase Apple SDK](https://www.youtube.com/watch?v=3ikkwPOb_u4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 15 2024 - [What’s new in the #Firebase Web SDK](https://www.youtube.com/watch?v=3ZOVSqJWs0U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Android for Cars: Bringing more apps to cars](http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
