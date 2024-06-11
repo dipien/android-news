@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 11 2024 - [Top 3 updates around Compose across form factors at Google I/O ‘24](https://www.youtube.com/watch?v=uzz_gzDxc7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Data insights and key-value distributions in Crashlytics](https://www.youtube.com/watch?v=rrkEV8p04lA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [#WeArePlay - Bernard Frischer | Flyover Zone | USA](https://www.youtube.com/watch?v=N2HLbXsCaHg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Deleting User Account & Revoke Access Token in SwiftUI apps](https://medium.com/firebase-developers/deleting-user-account-revoke-access-token-0e30d7a351bb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -25,7 +26,6 @@
 - May 21 2024 - [Android Studio Jellyfish](https://www.youtube.com/watch?v=pXtxdot6rVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 20 2024 - [Behind the scenes of Google I/O with an Android developer](https://www.youtube.com/watch?v=A_RDWBsd-Wc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 16 2024 - [How to analyze and improve performance of your Jetpack Compose app](https://www.youtube.com/watch?v=c3gdS42TJmI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Confidently launch gen AI features with Firebase Remote Config](https://www.youtube.com/watch?v=b5c8BbV8sIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
