@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 11 2024 - [Android Developer Story: Adidas builds features up to 30% faster with Jetpack Compose](https://www.youtube.com/watch?v=C5V2MTc5Wtw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Firebase After Hours #3: Genkit More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [Top 3 updates around Compose across form factors at Google I/O ‘24](https://www.youtube.com/watch?v=uzz_gzDxc7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Data insights and key-value distributions in Crashlytics](https://www.youtube.com/watch?v=rrkEV8p04lA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -25,7 +26,6 @@
 - May 21 2024 - [Handling input for desktop users in a delightful way](https://www.youtube.com/watch?v=DreFmL7OfpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Sustaining best performance with Android adaptability technology](https://www.youtube.com/watch?v=-dQl12gaulg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Android Studio Jellyfish](https://www.youtube.com/watch?v=pXtxdot6rVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 20 2024 - [Behind the scenes of Google I/O with an Android developer](https://www.youtube.com/watch?v=A_RDWBsd-Wc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
