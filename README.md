@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Jun 11 2024 - [Android Developer Story: Adidas builds features up to 30% faster with Jetpack Compose](https://www.youtube.com/watch?v=C5V2MTc5Wtw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 11 2024 - [Firebase After Hours #3: Genkit More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jun 11 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [Top 3 updates around Compose across form factors at Google I/O ‘24](https://www.youtube.com/watch?v=uzz_gzDxc7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Data insights and key-value distributions in Crashlytics](https://www.youtube.com/watch?v=rrkEV8p04lA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [#WeArePlay - Bernard Frischer | Flyover Zone | USA](https://www.youtube.com/watch?v=N2HLbXsCaHg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
