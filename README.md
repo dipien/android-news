@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 11 2024 - [Android Developer Story: Adidas builds features up to 30% faster with Jetpack Compose](https://www.youtube.com/watch?v=C5V2MTc5Wtw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [Top 3 updates around Compose across form factors at Google I/O ‘24](https://www.youtube.com/watch?v=uzz_gzDxc7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
-- May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
+- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
