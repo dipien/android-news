@@ -12,7 +12,7 @@
 - Jun 04 2024 - [Top 3 updates for building with AI on Android at Google I/O ‘24](https://www.youtube.com/watch?v=fHUH9730vZE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 04 2024 - [More easily install Firebase plugins with the FlutterFire CLI](https://www.youtube.com/watch?v=yPgQNDgK0lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 30 2024 - [Now in Android: 105 - I/O ‘24, Android 15, KMP, Compose, AndroidX, and more!](https://www.youtube.com/watch?v=eWRd0VIBKIY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 30 2024 - [Now in Android: 106 - I/O ‘24, Android 15, KMP, Compose, AndroidX, and more!](https://www.youtube.com/watch?v=eWRd0VIBKIY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 28 2024 - [May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O](https://www.youtube.com/watch?v=vYk6Uh2WGto) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 28 2024 - [Top 3 updates for building excellent apps at Google I/O ‘24](https://www.youtube.com/watch?v=agGTpNEl2S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
