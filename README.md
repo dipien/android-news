@@ -8,7 +8,7 @@
 - Jun 11 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 11 2024 - [Top 3 updates around Compose across form factors at Google I/O ‘24](https://www.youtube.com/watch?v=uzz_gzDxc7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Data insights and key-value distributions in Crashlytics](https://www.youtube.com/watch?v=rrkEV8p04lA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 11 2024 - [#WeArePlay - Bernard Frischer | Flyover Zone | USA](https://www.youtube.com/watch?v=N2HLbXsCaHg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 11 2024 - [#WeArePlay - Bernard | Flyover Zone | USA](https://www.youtube.com/watch?v=N2HLbXsCaHg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Deleting User Account & Revoke Access Token in SwiftUI apps](https://medium.com/firebase-developers/deleting-user-account-revoke-access-token-0e30d7a351bb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 04 2024 - [I/O ‘24, Android 15, KMP, Compose, AndroidX, and more!](https://www.youtube.com/watch?v=3x8Hsa45vZU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 04 2024 - [Top 3 updates for building with AI on Android at Google I/O ‘24](https://www.youtube.com/watch?v=fHUH9730vZE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
