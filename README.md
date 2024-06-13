@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 13 2024 - [Now in Android: 107 - KotlinConf, Android Studio updates, I/O recaps, AndroidX updates, and more!](https://www.youtube.com/watch?v=y7hHH1phkLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2024 - [Vertex AI SDKs for #Firebase](https://www.youtube.com/watch?v=sfWczhmnA3s) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -28,7 +29,6 @@
 - May 21 2024 - [Acquiring users on Google Play Games on PC](https://www.youtube.com/watch?v=VPh0yc0pICc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Handling input for desktop users in a delightful way](https://www.youtube.com/watch?v=DreFmL7OfpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Sustaining best performance with Android adaptability technology](https://www.youtube.com/watch?v=-dQl12gaulg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 21 2024 - [Android Studio Jellyfish](https://www.youtube.com/watch?v=pXtxdot6rVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
