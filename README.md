@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 13 2024 - [Now in Android: 107 - KotlinConf, Android Studio updates, I/O recaps, AndroidX updates, and more!](https://www.youtube.com/watch?v=y7hHH1phkLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2024 - [Vertex AI SDKs for #Firebase](https://www.youtube.com/watch?v=sfWczhmnA3s) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -74,7 +75,6 @@
 - Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 04 2024 - [Now in Android #102](https://medium.com/androiddevelopers/now-in-android-102-b8c8d9fccd5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Mar 21 2024 - [Now in Android #101](https://medium.com/androiddevelopers/now-in-android-101-6e0df9a15355?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 16 2024 - [Sign in with Apple with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-3-80be99dbc63d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
