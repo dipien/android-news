@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](https://www.youtube.com/watch?v=ve9_jM39dgQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2024 - [Max implemented UI changes 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -37,7 +39,6 @@
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 21 2024 - [Acquiring users on Google Play Games on PC](https://www.youtube.com/watch?v=VPh0yc0pICc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Handling input for desktop users in a delightful way](https://www.youtube.com/watch?v=DreFmL7OfpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 21 2024 - [Sustaining best performance with Android adaptability technology](https://www.youtube.com/watch?v=-dQl12gaulg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -61,7 +62,6 @@
 - May 14 2024 - [Android Support for Kotlin Multiplatform (KMP) to Share Business Logic Across Mobile, Web, Server, and Desktop](http://android-developers.googleblog.com/2024/05/android-support-for-kotlin-multiplatform-to-share-business-logic-across-mobile-web-server-desktop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [I/O 2024: What's new in Google Play](http://android-developers.googleblog.com/2024/05/io-24-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [What’s new in Jetpack Compose at I/O ‘24](http://android-developers.googleblog.com/2024/05/whats-new-in-jetpack-compose-at-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 14 2024 - [SoundCloud supported more screens using 45% less code with Jetpack Compose](http://android-developers.googleblog.com/2024/05/soundcloud-supported-more-screens-with-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
