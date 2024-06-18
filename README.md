@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 18 2024 - [Firestore now also in Dallas, and in all Google Cloud regions](https://www.youtube.com/watch?v=XKdmObZRdzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](https://www.youtube.com/watch?v=ve9_jM39dgQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -47,7 +48,6 @@
 - May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Try the new Release Monitoring dashboard in #Firebase](https://www.youtube.com/watch?v=1zV6BHsgHIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Explore all of the latest Codelabs from #Firebase](https://www.youtube.com/watch?v=8cHCRWAFKdw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 15 2024 - [#Firebase Android SDK](https://www.youtube.com/watch?v=2QJOUcJHaXs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Android for Cars: Bringing more apps to cars](http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
