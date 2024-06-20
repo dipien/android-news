@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jun 20 2024 - [AI development assistance - Android Developers Backstage](https://www.youtube.com/watch?v=tprU6FTZrHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [Connecting Firebase Emulator and Genkit DevUI](https://www.youtube.com/watch?v=h3DD67EhDIY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 19 2024 - [Hidden gems in Genkit's DevUI](https://www.youtube.com/watch?v=e5SqsAXGl_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -43,7 +45,6 @@
 - May 21 2024 - [Advanced graphics features in mobile games with Vulkan](https://www.youtube.com/watch?v=tyhhtf_DFjw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 21 2024 - [Acquiring users on Google Play Games on PC](https://www.youtube.com/watch?v=VPh0yc0pICc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 21 2024 - [Handling input for desktop users in a delightful way](https://www.youtube.com/watch?v=DreFmL7OfpQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
