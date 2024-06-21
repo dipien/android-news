@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 21 2024 - [What is one piece of advice for Android developers?](https://www.youtube.com/watch?v=3l8hkC6_fqg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [What features are you most excited about for Jetpack Compose?](https://www.youtube.com/watch?v=_-B5uy_bzks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 20 2024 - [AI development assistance - Android Developers Backstage](https://www.youtube.com/watch?v=tprU6FTZrHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -42,7 +43,6 @@
 - May 22 2024 - [3 things to improve your Android App experience: Edge to Edge, Predictive Back, and Glance](https://www.youtube.com/watch?v=RimGfoOU67s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 22 2024 - [Grow your community of loyal gamers](https://www.youtube.com/watch?v=7r4BwXUW9hY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 21 2024 - [Advanced graphics features in mobile games with Vulkan](https://www.youtube.com/watch?v=tyhhtf_DFjw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
