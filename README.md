@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 24 2024 - [#WeArePlay - Meet the people creating apps and games in Australia](http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 21 2024 - [What is one piece of advice for Android developers?](https://www.youtube.com/watch?v=3l8hkC6_fqg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [What features are you most excited about for Jetpack Compose?](https://www.youtube.com/watch?v=_-B5uy_bzks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -62,7 +63,6 @@
 - May 15 2024 - [Get the big picture with Large Screens at Google I/O 2024](http://android-developers.googleblog.com/2024/05/get-big-picture-with-large-screens-at-google-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [Google I/O 2024: What’s new in Android Development Tools](http://android-developers.googleblog.com/2024/05/google-io-2024-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [15 Things to know for Android developers at Google I/O](http://android-developers.googleblog.com/2024/05/15-things-to-know-for-android-developers-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 14 2024 - [Android Support for Kotlin Multiplatform (KMP) to Share Business Logic Across Mobile, Web, Server, and Desktop](http://android-developers.googleblog.com/2024/05/android-support-for-kotlin-multiplatform-to-share-business-logic-across-mobile-web-server-desktop.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
