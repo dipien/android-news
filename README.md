@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jun 27 2024 - [Now in Android: 108 - Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=gMh07qifhQE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 25 2024 - [June 2024: Cloud Messaging, Vertex AI, and faster Flutter web apps](https://www.youtube.com/watch?v=C7ZkCfTRr14) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2024 - [Make your app the best it can be with Firebase and generative AI](https://www.youtube.com/watch?v=cEr8XCnoSVY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2024 - [#WeArePlay - Meet the people creating apps and games in Australia](http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -45,7 +47,6 @@
 - May 22 2024 - [Make it faster - Android Developers Backstage](https://www.youtube.com/watch?v=D1xPZagZdqk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [3 things to improve your Android App experience: Edge to Edge, Predictive Back, and Glance](https://www.youtube.com/watch?v=RimGfoOU67s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 22 2024 - [Grow your community of loyal gamers](https://www.youtube.com/watch?v=7r4BwXUW9hY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -74,7 +75,6 @@
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 04 2024 - [Now in Android #102](https://medium.com/androiddevelopers/now-in-android-102-b8c8d9fccd5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
