@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 28 2024 - [Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=8wg1Y_jjUFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 28 2024 - [#WeArePlay - 4 stories of founders building apps for the LGBTQIA+ community](http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 27 2024 - [Now in Android: 108 - Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=gMh07qifhQE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 25 2024 - [June 2024: Cloud Messaging, Vertex AI, and faster Flutter web apps](https://www.youtube.com/watch?v=C7ZkCfTRr14) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -10,7 +12,6 @@
 - Jun 20 2024 - [What features are you most excited about for Jetpack Compose?](https://www.youtube.com/watch?v=_-B5uy_bzks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 20 2024 - [AI development assistance - Android Developers Backstage](https://www.youtube.com/watch?v=tprU6FTZrHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 20 2024 - [Connecting Firebase Emulator and Genkit DevUI](https://www.youtube.com/watch?v=h3DD67EhDIY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firestore now also in Dallas, and in all Google Cloud regions](https://www.youtube.com/watch?v=XKdmObZRdzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -45,7 +46,6 @@
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Make it faster - Android Developers Backstage](https://www.youtube.com/watch?v=D1xPZagZdqk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2024 - [3 things to improve your Android App experience: Edge to Edge, Predictive Back, and Glance](https://www.youtube.com/watch?v=RimGfoOU67s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -63,7 +63,6 @@
 - May 15 2024 - [The Second Beta of Android 15](http://android-developers.googleblog.com/2024/05/the-second-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Get the big picture with Large Screens at Google I/O 2024](http://android-developers.googleblog.com/2024/05/get-big-picture-with-large-screens-at-google-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 14 2024 - [Google I/O 2024: What’s new in Android Development Tools](http://android-developers.googleblog.com/2024/05/google-io-2024-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 14 2024 - [15 Things to know for Android developers at Google I/O](http://android-developers.googleblog.com/2024/05/15-things-to-know-for-android-developers-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
@@ -100,7 +99,8 @@
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
+- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
