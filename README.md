@@ -53,6 +53,7 @@
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Confidently launch gen AI features with Firebase Remote Config](https://www.youtube.com/watch?v=b5c8BbV8sIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [What's new in Firebase for building gen AI features](https://www.youtube.com/watch?v=2MvV-YX1eKw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Android for Cars: Bringing more apps to cars](http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
