@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 02 2024 - [All the Firebase blogs with deep-dives from I/O](https://www.youtube.com/watch?v=zJHmo7e5MSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 28 2024 - [Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=8wg1Y_jjUFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 28 2024 - [#WeArePlay - 4 stories of founders building apps for the LGBTQIA+ community](http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -53,7 +54,6 @@
 - May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Confidently launch gen AI features with Firebase Remote Config](https://www.youtube.com/watch?v=b5c8BbV8sIw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [What's new in Firebase for building gen AI features](https://www.youtube.com/watch?v=2MvV-YX1eKw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 15 2024 - [AI assistance in Crashlytics, powered by Gemini Models](https://www.youtube.com/watch?v=KHhkN_vMNyI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Android for Cars: Bringing more apps to cars](http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
