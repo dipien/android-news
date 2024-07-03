@@ -86,6 +86,7 @@
 - Jan 19 2024 - [Unlock the power of Generative AI in your applications with Gemini](https://medium.com/firebase-developers/unlock-the-power-of-generative-ai-in-your-applications-with-gemini-3117a64fbd5e?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 08 2024 - [Firebase Anonymous Authentication in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-1-71a409108d9f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
