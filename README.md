@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 03 2024 - [#WeArePlay - Brian | SweatyChair | Australia](https://www.youtube.com/watch?v=Dto-LBlv5aM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 03 2024 - [Security Rules Basics for Cloud Firestore](https://medium.com/firebase-developers/firebase-firestore-security-rules-basics-cloud-firestore-978702628df6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 02 2024 - [All the Firebase blogs with deep-dives from I/O](https://www.youtube.com/watch?v=zJHmo7e5MSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 28 2024 - [Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=8wg1Y_jjUFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -47,7 +48,6 @@
 - May 28 2024 - [Top 3 updates for building excellent apps at Google I/O ‘24](https://www.youtube.com/watch?v=agGTpNEl2S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 22 2024 - [Make it faster - Android Developers Backstage](https://www.youtube.com/watch?v=D1xPZagZdqk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
