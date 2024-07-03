@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 03 2024 - [Security Rules Basics for Cloud Firestore](https://medium.com/firebase-developers/firebase-firestore-security-rules-basics-cloud-firestore-978702628df6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 02 2024 - [All the Firebase blogs with deep-dives from I/O](https://www.youtube.com/watch?v=zJHmo7e5MSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 28 2024 - [Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=8wg1Y_jjUFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 28 2024 - [#WeArePlay - 4 stories of founders building apps for the LGBTQIA+ community](http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -88,7 +89,6 @@
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
-- Dec 18 2023 - [Tracking Cloud Storage usage for each user with Firebase and Cloud Functions](https://medium.com/firebase-developers/tracking-cloud-storage-usage-for-each-user-with-firebase-and-cloud-functions-1c70c1e0c10f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
