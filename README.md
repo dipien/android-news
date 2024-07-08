@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 03 2024 - [#WeArePlay - Brian | SweatyChair | Australia](https://www.youtube.com/watch?v=Dto-LBlv5aM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 03 2024 - [Security Rules Basics for Cloud Firestore](https://medium.com/firebase-developers/firebase-firestore-security-rules-basics-cloud-firestore-978702628df6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 02 2024 - [All the Firebase blogs with deep-dives from I/O](https://www.youtube.com/watch?v=zJHmo7e5MSA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -75,7 +76,6 @@
 - Apr 30 2024 - [Material Design at Google I/O ‘24](https://material.io/blog/google-io-2024) - [Material Design Blog](https://material.io/blog)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 18 2024 - [Now in Android #103](https://medium.com/androiddevelopers/now-in-android-103-c7d89399161d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 09 2024 - [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
