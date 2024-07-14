@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 11 2024 - [Prepare your app for the new Samsung Galaxy foldables and watches!](http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2024 - [What apps are *you* building over the summer/winter break?](https://www.youtube.com/watch?v=oKsbnqFBhcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 03 2024 - [#WeArePlay - Brian | SweatyChair | Australia](https://www.youtube.com/watch?v=Dto-LBlv5aM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -65,7 +66,6 @@
 - May 15 2024 - [Latest updates for watch faces on Wear OS](http://android-developers.googleblog.com/2024/05/latest-updates-for-watch-faces-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [The Second Beta of Android 15](http://android-developers.googleblog.com/2024/05/the-second-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Get the big picture with Large Screens at Google I/O 2024](http://android-developers.googleblog.com/2024/05/get-big-picture-with-large-screens-at-google-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 14 2024 - [Google I/O 2024: What’s new in Android Development Tools](http://android-developers.googleblog.com/2024/05/google-io-2024-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
