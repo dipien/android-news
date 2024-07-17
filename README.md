@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 17 2024 - [Introduction to Compose Tips for Delightful UI](https://www.youtube.com/watch?v=PFdiTzd6CbI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2024 - [Prepare your app for the new Samsung Galaxy foldables and watches!](http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2024 - [What apps are *you* building over the summer/winter break?](https://www.youtube.com/watch?v=oKsbnqFBhcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -48,7 +49,6 @@
 - May 30 2024 - [Now in Android: 106 - I/O ‘24, Android 15, KMP, Compose, AndroidX, and more!](https://www.youtube.com/watch?v=eWRd0VIBKIY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 28 2024 - [Top 3 Updates for Building Excellent Apps at Google I/O ‘24](http://android-developers.googleblog.com/2024/05/top-3-updates-for-building-excellent-apps-at-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 28 2024 - [May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O](https://www.youtube.com/watch?v=vYk6Uh2WGto) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 28 2024 - [Top 3 updates for building excellent apps at Google I/O ‘24](https://www.youtube.com/watch?v=agGTpNEl2S0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
