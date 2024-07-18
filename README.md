@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 18 2024 - [Compose Tips for Delightful UI](https://www.youtube.com/watch?v=wZrAHewIWuo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2024 - [👋🙏🐟 (so long and thanks for all the fish)](https://www.youtube.com/watch?v=utkEruvtzWc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 17 2024 - [Google Play PolicyBytes - 2024년 7월 정책 업데이트 (Korean)](https://www.youtube.com/watch?v=roGgd14vMxk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firestore now also in Dallas, and in all Google Cloud regions](https://www.youtube.com/watch?v=XKdmObZRdzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](https://www.youtube.com/watch?v=ve9_jM39dgQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2024 - [Max implemented UI changes 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
