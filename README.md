@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 23 2024 - [Learn all about creating Shared elements in Jetpack Compose](https://www.youtube.com/watch?v=ButlO8360es) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 23 2024 - [Advanced layout animations in Compose (Shared elements)](https://www.youtube.com/watch?v=PR6rz1QUkAM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 19 2024 - [3 steps to go edge-to-edge safely](https://www.youtube.com/watch?v=F-Jpr5E1i34) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2024 - [Micro optimizations - Android Developers Backstage](https://www.youtube.com/watch?v=Z9-Z16glXRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -36,7 +37,6 @@
 - Jun 18 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2024 - [Max implemented UI changes 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 13 2024 - [Now in Android: 107 - KotlinConf, Android Studio updates, I/O recaps, AndroidX updates, and more!](https://www.youtube.com/watch?v=y7hHH1phkLM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2024 - [Vertex AI SDKs for #Firebase](https://www.youtube.com/watch?v=sfWczhmnA3s) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
