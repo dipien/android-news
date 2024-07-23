@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 23 2024 - [Advanced layout animations in Compose (Shared elements)](https://www.youtube.com/watch?v=PR6rz1QUkAM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 19 2024 - [3 steps to go edge-to-edge safely](https://www.youtube.com/watch?v=F-Jpr5E1i34) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2024 - [Micro optimizations - Android Developers Backstage](https://www.youtube.com/watch?v=Z9-Z16glXRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -39,7 +40,6 @@
 - Jun 13 2024 - [Vertex AI SDKs for #Firebase](https://www.youtube.com/watch?v=sfWczhmnA3s) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 11 2024 - [Android Developer Story: Adidas builds features up to 30% faster with Jetpack Compose](https://www.youtube.com/watch?v=C5V2MTc5Wtw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 11 2024 - [Developers for adidas CONFIRMED build features 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/developers-for-adidas-confirmed-build-features-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 11 2024 - [Top 3 Updates with Compose across Form Factors at Google I/O '24](http://android-developers.googleblog.com/2024/06/top-3-updates-around-compose-across-form-factors-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 11 2024 - [Data insights and key-value distributions in Crashlytics](https://www.youtube.com/watch?v=rrkEV8p04lA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
