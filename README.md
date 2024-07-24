@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 24 2024 - [Pager - Compose Tips](https://www.youtube.com/watch?v=V2Ke-JJDnrU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jul 24 2024 - [Getting started with sign in with Google on Android](https://www.youtube.com/watch?v=bMm4jEpH6T0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 23 2024 - [Learn all about creating Shared elements in Jetpack Compose](https://www.youtube.com/watch?v=ButlO8360es) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 23 2024 - [Advanced layout animations in Compose (Shared elements)](https://www.youtube.com/watch?v=PR6rz1QUkAM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 19 2024 - [3 steps to go edge-to-edge safely](https://www.youtube.com/watch?v=F-Jpr5E1i34) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -32,7 +34,6 @@
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firestore now also in Dallas, and in all Google Cloud regions](https://www.youtube.com/watch?v=XKdmObZRdzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](https://www.youtube.com/watch?v=ve9_jM39dgQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2024 - [Max implemented UI changes 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -58,7 +59,6 @@
 - May 21 2024 - [Advanced debugging with Firebase Crashlytics](https://www.youtube.com/watch?v=gyuS86Stw-w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Build gen AI features powered by your data with Firebase and PostgreSQL](https://www.youtube.com/watch?v=D5qxlu3A9D4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2024 - [Firebase has SQL: Introducing Data Connect](https://www.youtube.com/watch?v=7OdVatEI85o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 16 2024 - [Planet-scale reach for Next and Angular apps with Firebase App Hosting](https://www.youtube.com/watch?v=qyhdKb8liEA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 15 2024 - [Android for Cars: Bringing more apps to cars](http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
