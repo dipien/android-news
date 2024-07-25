@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 25 2024 - [📄Pager - Jetpack Compose](https://www.youtube.com/watch?v=1gMYrx7zLjA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 25 2024 - [Troubleshoot your app faster with AI in Crashlytics](https://www.youtube.com/watch?v=LhjTAkifr6g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2024 - [Pager - Compose Tips](https://www.youtube.com/watch?v=V2Ke-JJDnrU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 24 2024 - [Getting started with sign in with Google on Android](https://www.youtube.com/watch?v=bMm4jEpH6T0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -31,7 +32,6 @@
 - Jun 21 2024 - [What is one piece of advice for Android developers?](https://www.youtube.com/watch?v=3l8hkC6_fqg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [What features are you most excited about for Jetpack Compose?](https://www.youtube.com/watch?v=_-B5uy_bzks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 20 2024 - [AI development assistance - Android Developers Backstage](https://www.youtube.com/watch?v=tprU6FTZrHc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firestore now also in Dallas, and in all Google Cloud regions](https://www.youtube.com/watch?v=XKdmObZRdzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
