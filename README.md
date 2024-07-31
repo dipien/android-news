@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 30 2024 - [July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=1HfMI21e42c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 30 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 27 2024 - [😍 Customize your Shared element animations](https://www.youtube.com/watch?v=DBKNwKgHSwM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -59,7 +60,6 @@
 - Jun 03 2024 - [Android Device Streaming, powered by Firebase, is now in Beta](http://android-developers.googleblog.com/2024/06/android-device-streaming-powered-by-firebse-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 28 2024 - [Top 3 Updates for Building Excellent Apps at Google I/O ‘24](http://android-developers.googleblog.com/2024/05/top-3-updates-for-building-excellent-apps-at-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 28 2024 - [May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O](https://www.youtube.com/watch?v=vYk6Uh2WGto) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
