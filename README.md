@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 01 2024 - [What are Genkit flows?](https://www.youtube.com/watch?v=ONR38NZK5FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 31 2024 - [Nested scrolling - Compose Tips](https://www.youtube.com/watch?v=JfYBCKRjFA0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 30 2024 - [July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=1HfMI21e42c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -55,7 +56,6 @@
 - Jun 11 2024 - [Deleting User Account & Revoke Access Token in SwiftUI apps](https://medium.com/firebase-developers/deleting-user-account-revoke-access-token-0e30d7a351bb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 06 2024 - [Enabling safe AI experiences on Google Play](http://android-developers.googleblog.com/2024/06/enabling-safe-ai-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 04 2024 - [Top 3 Updates for Building with AI on Android at Google I/O ‘24](http://android-developers.googleblog.com/2024/06/top-3-updates-for-building-with-ai-on-android-google-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 04 2024 - [More easily install Firebase plugins with the FlutterFire CLI](https://www.youtube.com/watch?v=yPgQNDgK0lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 04 2024 - [#WeArePlay - How Zülal is using AI to help people with low vision](http://android-developers.googleblog.com/2024/06/weareplay-how-zulal-is-using-ai-to-help-people-with-low-vision.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 03 2024 - [Android Device Streaming, powered by Firebase, is now in Beta](http://android-developers.googleblog.com/2024/06/android-device-streaming-powered-by-firebse-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
