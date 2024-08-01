@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 01 2024 - [Nested scrolling - Compose Tips](https://www.youtube.com/watch?v=_cHzgstP-Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 01 2024 - [What are Genkit flows?](https://www.youtube.com/watch?v=ONR38NZK5FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 31 2024 - [Nested scrolling - Compose Tips](https://www.youtube.com/watch?v=JfYBCKRjFA0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -35,7 +36,6 @@
 - Jun 28 2024 - [Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=8wg1Y_jjUFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 28 2024 - [#WeArePlay - 4 stories of founders building apps for the LGBTQIA+ community](http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 27 2024 - [Now in Android: 108 - Android 15 Beta 3, Google AI Studio, Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=gMh07qifhQE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 25 2024 - [June 2024: Cloud Messaging, Vertex AI, and faster Flutter web apps](https://www.youtube.com/watch?v=C7ZkCfTRr14) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2024 - [Make your app the best it can be with Firebase and generative AI](https://www.youtube.com/watch?v=cEr8XCnoSVY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2024 - [#WeArePlay - Meet the people creating apps and games in Australia](http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
