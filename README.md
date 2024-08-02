@@ -1,12 +1,12 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 02 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 01 2024 - [Nested scrolling - Compose Tips](https://www.youtube.com/watch?v=_cHzgstP-Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 01 2024 - [What are Genkit flows?](https://www.youtube.com/watch?v=ONR38NZK5FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 31 2024 - [Nested scrolling - Compose Tips](https://www.youtube.com/watch?v=JfYBCKRjFA0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 30 2024 - [July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=1HfMI21e42c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 30 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 27 2024 - [😍 Customize your Shared element animations](https://www.youtube.com/watch?v=DBKNwKgHSwM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 25 2024 - [📄Pager - Jetpack Compose](https://www.youtube.com/watch?v=1gMYrx7zLjA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
