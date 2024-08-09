@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Aug 08 2024 - [Lifecycle path to Multiplatform](https://www.youtube.com/watch?v=k1PIzEIO6jo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Aug 08 2024 - [Build an Angular app with Genkit and deploy to Firebase](https://www.youtube.com/watch?v=TGHua_RtUjs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [Updates from I/O Connect](https://www.youtube.com/watch?v=-By0YGCydQg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [#WeArePlay - Jakub | Amanita Design | Czech Republic](https://www.youtube.com/watch?v=uhQxUVZccLQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -48,7 +49,6 @@
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [Firestore now also in Dallas, and in all Google Cloud regions](https://www.youtube.com/watch?v=XKdmObZRdzA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 18 2024 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 14 2024 - [Max implemented UI changes 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
