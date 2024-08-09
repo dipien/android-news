@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 09 2024 - [Lifecycle path to Multiplatform #shorts](https://www.youtube.com/watch?v=ke44la722pA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 08 2024 - [Lifecycle path to Multiplatform](https://www.youtube.com/watch?v=k1PIzEIO6jo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 08 2024 - [Build an Angular app with Genkit and deploy to Firebase](https://www.youtube.com/watch?v=TGHua_RtUjs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [Updates from I/O Connect](https://www.youtube.com/watch?v=-By0YGCydQg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -32,7 +33,6 @@
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 17 2024 - [Google Play PolicyBytes - July 2024 policy updates](https://www.youtube.com/watch?v=GvMokxen-Nc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 17 2024 - [Edge-to-edge and insets - Compose Tips](https://www.youtube.com/watch?v=QRzepC9gHj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 17 2024 - [Introduction to Compose Tips for Delightful UI](https://www.youtube.com/watch?v=PFdiTzd6CbI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2024 - [Prepare your app for the new Samsung Galaxy foldables and watches!](http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2024 - [What apps are *you* building over the summer/winter break?](https://www.youtube.com/watch?v=oKsbnqFBhcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
