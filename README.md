@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 14 2024 - [Indie Games Fund: Google Play’s $2m fund in Latin America is back](http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Create exceptional experiences on Pixel’s new watches and foldables](http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Firebase App Development in the Google Cloud Console](https://www.youtube.com/watch?v=JtN4d3C9x2Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -68,7 +69,6 @@
 - May 24 2024 - [Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more](http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 15 2024 - [Home APIs: Enabling all developers to build for the home](http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 15 2024 - [Everything you need to know about Google TV and Android TV OS](http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
