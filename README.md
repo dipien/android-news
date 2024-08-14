@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 14 2024 - [Brush - Compose Tips](https://www.youtube.com/watch?v=qh72KAX6TSI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 14 2024 - [Indie Games Fund: Google Play’s $2m fund in Latin America is back](http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Create exceptional experiences on Pixel’s new watches and foldables](http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Firebase App Development in the Google Cloud Console](https://www.youtube.com/watch?v=JtN4d3C9x2Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -36,7 +37,6 @@
 - Jul 18 2024 - [👋🙏🐟 (so long and thanks for all the fish)](https://www.youtube.com/watch?v=utkEruvtzWc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 17 2024 - [Google Play PolicyBytes - July 2024 policy updates](https://www.youtube.com/watch?v=GvMokxen-Nc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 17 2024 - [Edge-to-edge and insets - Compose Tips](https://www.youtube.com/watch?v=QRzepC9gHj4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 11 2024 - [Prepare your app for the new Samsung Galaxy foldables and watches!](http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2024 - [What apps are *you* building over the summer/winter break?](https://www.youtube.com/watch?v=oKsbnqFBhcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
