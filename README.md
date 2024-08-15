@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 15 2024 - [DeepDive #1 - Genkit's reflection API and how it powers Genkit's developer UI](https://www.youtube.com/watch?v=CGVBR8quZac) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 14 2024 - [Brush - Compose Tips](https://www.youtube.com/watch?v=qh72KAX6TSI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 14 2024 - [Indie Games Fund: Google Play’s $2m fund in Latin America is back](http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Create exceptional experiences on Pixel’s new watches and foldables](http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -48,7 +49,6 @@
 - Jun 24 2024 - [Make your app the best it can be with Firebase and generative AI](https://www.youtube.com/watch?v=cEr8XCnoSVY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2024 - [#WeArePlay - Meet the people creating apps and games in Australia](http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 20 2024 - [Connecting Firebase Emulator and Genkit DevUI](https://www.youtube.com/watch?v=h3DD67EhDIY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
