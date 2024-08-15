@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [DeepDive #1 - Genkit's reflection API and how it powers Genkit's developer UI](https://www.youtube.com/watch?v=CGVBR8quZac) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 14 2024 - [Brush - Compose Tips](https://www.youtube.com/watch?v=qh72KAX6TSI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 14 2024 - [Indie Games Fund: Google Play’s $2m fund in Latin America is back](http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -46,7 +47,6 @@
 - Jun 28 2024 - [#WeArePlay - 4 stories of founders building apps for the LGBTQIA+ community](http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 25 2024 - [June 2024: Cloud Messaging, Vertex AI, and faster Flutter web apps](https://www.youtube.com/watch?v=C7ZkCfTRr14) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jun 24 2024 - [Make your app the best it can be with Firebase and generative AI](https://www.youtube.com/watch?v=cEr8XCnoSVY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 24 2024 - [#WeArePlay - Meet the people creating apps and games in Australia](http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
