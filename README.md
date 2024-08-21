@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 21 2024 - [🎨Brushes in Compose](https://www.youtube.com/watch?v=-HcuwvJkxS4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 20 2024 - [Tune in on August 27 for our summer episode #TheAndroidShow](https://www.youtube.com/watch?v=McC2ceqdMr4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 20 2024 - [Tune in for our summer episode of #TheAndroidShow on August 27!](http://android-developers.googleblog.com/2024/08/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -38,7 +39,6 @@
 - Jul 23 2024 - [Advanced layout animations in Compose (Shared elements)](https://www.youtube.com/watch?v=PR6rz1QUkAM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 19 2024 - [3 steps to go edge-to-edge safely](https://www.youtube.com/watch?v=F-Jpr5E1i34) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 18 2024 - [Micro optimizations - Android Developers Backstage](https://www.youtube.com/watch?v=Z9-Z16glXRU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2024 - [The Fourth Beta of Android 15](http://android-developers.googleblog.com/2024/07/the-fourth-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 18 2024 - [👋🙏🐟 (so long and thanks for all the fish)](https://www.youtube.com/watch?v=utkEruvtzWc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
