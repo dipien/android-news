@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 23 2024 - [Adding 16 KB Page Size to Android](http://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2024 - [Fragments in Compose](https://www.youtube.com/watch?v=DZJV-ZKQ634) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 22 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 21 2024 - [🎨Brushes in Compose](https://www.youtube.com/watch?v=-HcuwvJkxS4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -67,7 +68,6 @@
 - Jun 03 2024 - [Android Device Streaming, powered by Firebase, is now in Beta](http://android-developers.googleblog.com/2024/06/android-device-streaming-powered-by-firebse-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 28 2024 - [Top 3 Updates for Building Excellent Apps at Google I/O ‘24](http://android-developers.googleblog.com/2024/05/top-3-updates-for-building-excellent-apps-at-google-io-2024.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 24 2024 - [A Developer’s Roadmap to Predictive Back (Views)](http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
