@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 27 2024 - [Now in Android: 109 - Android 15 Beta 4, Samsung Galaxy Unpacked, Google Play's new feature, & more!](https://www.youtube.com/watch?v=x3sVb-Inu0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [#TheAndroidShow: our summer episode, with the latest for developers from #MadebyGoogle](https://www.youtube.com/watch?v=4T8lJiAtnFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Android Developer Story: Instagram’s early adoption of Ultra HDR transforms UX in only 3 months](https://www.youtube.com/watch?v=gGFHVi3NPWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Android Developer Story: AllTrails sees 60% higher monthly retention from Wear OS users](https://www.youtube.com/watch?v=sgBXkvMX4Ng) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -32,7 +33,6 @@
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 01 2024 - [Nested scrolling - Compose Tips](https://www.youtube.com/watch?v=_cHzgstP-Ig) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 01 2024 - [What are Genkit flows?](https://www.youtube.com/watch?v=ONR38NZK5FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 30 2024 - [July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=1HfMI21e42c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
