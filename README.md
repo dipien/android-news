@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 27 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=uXKJYd8VPkY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Now in Android: 109 - Android 15 Beta 4, Samsung Galaxy Unpacked, Google Play's new feature, & more!](https://www.youtube.com/watch?v=x3sVb-Inu0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [#TheAndroidShow: our summer episode, with the latest for developers from #MadebyGoogle](https://www.youtube.com/watch?v=4T8lJiAtnFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Android Developer Story: Instagram’s early adoption of Ultra HDR transforms UX in only 3 months](https://www.youtube.com/watch?v=gGFHVi3NPWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -29,7 +30,6 @@
 - Aug 08 2024 - [Lifecycle path to Multiplatform](https://www.youtube.com/watch?v=k1PIzEIO6jo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 08 2024 - [Build an Angular app with Genkit and deploy to Firebase](https://www.youtube.com/watch?v=TGHua_RtUjs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [Updates from I/O Connect](https://www.youtube.com/watch?v=-By0YGCydQg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 08 2024 - [#WeArePlay - Jakub | Amanita Design | Czech Republic](https://www.youtube.com/watch?v=uhQxUVZccLQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
