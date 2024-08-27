@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 27 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=uXKJYd8VPkY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Now in Android: 109 - Android 15 Beta 4, Samsung Galaxy Unpacked, Google Play's new feature, & more!](https://www.youtube.com/watch?v=x3sVb-Inu0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [#TheAndroidShow: our summer episode, with the latest for developers from #MadebyGoogle](https://www.youtube.com/watch?v=4T8lJiAtnFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -75,7 +76,6 @@
 - May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-compose-material-design-3) - [Material Design Blog](https://material.io/blog)
 - May 03 2024 - [Now in Android #104](https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 02 2024 - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 01 2024 - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 30 2024 - [Material Design at Google I/O ‘24](https://material.io/blog/google-io-2024) - [Material Design Blog](https://material.io/blog)
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
