@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 27 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=uXKJYd8VPkY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Now in Android: 109 - Android 15 Beta 4, Samsung Galaxy Unpacked, Google Play's new feature, & more!](https://www.youtube.com/watch?v=x3sVb-Inu0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -13,7 +14,6 @@
 - Aug 27 2024 - [Prepare your app for Pixel Watch 3](https://www.youtube.com/watch?v=wscOVfiVX5k) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 23 2024 - [Adding 16 KB Page Size to Android](http://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2024 - [Fragments in Compose](https://www.youtube.com/watch?v=DZJV-ZKQ634) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 22 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 21 2024 - [🎨Brushes in Compose](https://www.youtube.com/watch?v=-HcuwvJkxS4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 20 2024 - [Tune in on August 27 for our summer episode #TheAndroidShow](https://www.youtube.com/watch?v=McC2ceqdMr4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 20 2024 - [Tune in for our summer episode of #TheAndroidShow on August 27!](http://android-developers.googleblog.com/2024/08/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
