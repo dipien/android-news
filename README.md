@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 29 2024 - [What's new in Android Studio Koala](https://www.youtube.com/watch?v=ZTYMPmbfx7E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 29 2024 - [Retrieval Augmented Generation (RAG) with Genkit](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2024 - [Are you making delightful UI? - Compose Tips](https://www.youtube.com/watch?v=FL0VyH_1KAw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -29,7 +30,6 @@
 - Aug 13 2024 - [Create exceptional experiences on Pixel’s new watches and foldables](http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Firebase App Development in the Google Cloud Console](https://www.youtube.com/watch?v=JtN4d3C9x2Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 09 2024 - [Lifecycle path to Multiplatform #shorts](https://www.youtube.com/watch?v=ke44la722pA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 08 2024 - [Build an Angular app with Genkit and deploy to Firebase](https://www.youtube.com/watch?v=TGHua_RtUjs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [Updates from I/O Connect](https://www.youtube.com/watch?v=-By0YGCydQg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
