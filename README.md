@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Build a Slack Bot App with Firebase Genkit in just 100 Lines](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 29 2024 - [Shaders - Jetpack Compose Tips](https://www.youtube.com/watch?v=wJx7EhGaDow) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -82,8 +84,6 @@
 - Apr 19 2024 - [Worksheet Generator app with Firebase AI Extension](https://medium.com/firebase-developers/worksheet-generator-flutter-app-with-firebase-ai-extension-866187ff1254?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Feb 21 2024 - [Is Using Firebase on Client-Side Safe?](https://medium.com/firebase-developers/is-using-firebase-on-client-side-safe-8b199d406596?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Feb 16 2024 - [Sign in with Apple with Firebase in SwiftUI apps](https://medium.com/firebase-developers/firebase-authentication-in-swiftui-part-3-80be99dbc63d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
