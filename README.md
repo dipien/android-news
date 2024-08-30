@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Aug 29 2024 - [Shaders - Jetpack Compose Tips](https://www.youtube.com/watch?v=wJx7EhGaDow) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 29 2024 - [What's new in Android Studio Koala](https://www.youtube.com/watch?v=ZTYMPmbfx7E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 29 2024 - [Retrieval Augmented Generation (RAG) with Genkit](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2024 - [Are you making delightful UI? - Jetpack Compose Tips](https://www.youtube.com/watch?v=FL0VyH_1KAw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -25,7 +26,6 @@
 - Aug 16 2024 - [Genkit Go SDK - Firebase Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [DeepDive #1 - Genkit's reflection API and how it powers Genkit's developer UI](https://www.youtube.com/watch?v=CGVBR8quZac) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 14 2024 - [Brush - Jetpack Compose Tips](https://www.youtube.com/watch?v=qh72KAX6TSI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 14 2024 - [Indie Games Fund: Google Play’s $2m fund in Latin America is back](http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Create exceptional experiences on Pixel’s new watches and foldables](http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Firebase App Development in the Google Cloud Console](https://www.youtube.com/watch?v=JtN4d3C9x2Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
