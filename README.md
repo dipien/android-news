@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 03 2024 - [#WeArePlay: Robson, Estante Mágica - Brazil](https://www.youtube.com/watch?v=GXngpeOx84c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 03 2024 - [#WeArePlay - Estante Mágica, the app helping kids publish their own books](http://android-developers.googleblog.com/2024/09/weareplay-estante-magica-app-helping-kids-publish-books.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -71,7 +72,6 @@
 - Jun 11 2024 - [Developers for adidas CONFIRMED build features 30% faster using Jetpack Compose](http://android-developers.googleblog.com/2024/06/developers-for-adidas-confirmed-build-features-faster-using-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 11 2024 - [Top 3 Updates with Compose across Form Factors at Google I/O '24](http://android-developers.googleblog.com/2024/06/top-3-updates-around-compose-across-form-factors-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 11 2024 - [Deleting User Account & Revoke Access Token in SwiftUI apps](https://medium.com/firebase-developers/deleting-user-account-revoke-access-token-0e30d7a351bb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 06 2024 - [Enabling safe AI experiences on Google Play](http://android-developers.googleblog.com/2024/06/enabling-safe-ai-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
