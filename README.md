@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 03 2024 - [Android 15 - Spotlight Week](https://www.youtube.com/watch?v=HZ5tWTtTKNo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 03 2024 - [Our first Spotlight Week: diving into Android 15](http://android-developers.googleblog.com/2024/09/android-15-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -33,7 +34,6 @@
 - Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 23 2024 - [Adding 16 KB Page Size to Android](http://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 22 2024 - [Fragments in Compose](https://www.youtube.com/watch?v=DZJV-ZKQ634) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 21 2024 - [🎨Brushes in Compose](https://www.youtube.com/watch?v=-HcuwvJkxS4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 20 2024 - [Tune in for our summer episode of #TheAndroidShow on August 27!](http://android-developers.googleblog.com/2024/08/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 20 2024 - [#WeArePlay - Meet the founders turning their passions into thriving businesses](http://android-developers.googleblog.com/2024/08/weareplay-meet-the-founders-turning-their-passions-into-thriving-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
