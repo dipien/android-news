@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 03 2024 - [#WeArePlay: Robson, Estante Mágica - Brazil](https://www.youtube.com/watch?v=GXngpeOx84c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 03 2024 - [#WeArePlay - Estante Mágica, the app helping kids publish their own books](http://android-developers.googleblog.com/2024/09/weareplay-estante-magica-app-helping-kids-publish-books.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -49,7 +50,6 @@
 - Jul 30 2024 - [July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=1HfMI21e42c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2024 - [Troubleshoot your app faster with AI in Crashlytics](https://www.youtube.com/watch?v=LhjTAkifr6g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 24 2024 - [Getting started with sign in with Google on Android](https://www.youtube.com/watch?v=bMm4jEpH6T0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
