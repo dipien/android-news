@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [Android 15 #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=pIDRLI9L_ks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 03 2024 - [Android 15 - Spotlight Week](https://www.youtube.com/watch?v=HZ5tWTtTKNo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -68,7 +69,6 @@
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 18 2024 - [3 must-know updates from Google Play at I/O '24](http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
