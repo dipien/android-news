@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 04 2024 - [Android 15 #SpotlightWeek](https://www.youtube.com/watch?v=nDlafIyIF4I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=YKPqjsYBFvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -31,7 +32,6 @@
 - Aug 27 2024 - [Android Developer Story: AllTrails sees 60% higher monthly retention from Wear OS users](https://www.youtube.com/watch?v=sgBXkvMX4Ng) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Android Dev Story: SAP integrated NavigationSuiteScaffold within 5 minutes, creating an adaptive UI](https://www.youtube.com/watch?v=Nwnj01s-gOo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Behind the scenes with Gemini Nano with multimodality](https://www.youtube.com/watch?v=-VcYUdNOp3s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 27 2024 - [Build adaptive apps for Pixel 9 Pro Fold](https://www.youtube.com/watch?v=rpJmtmWHBuE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature](http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
