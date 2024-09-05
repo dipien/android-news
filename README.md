@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Android 15 #SpotlightWeek](https://www.youtube.com/watch?v=nDlafIyIF4I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=YKPqjsYBFvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -77,7 +78,6 @@
 - May 30 2024 - [Now in Android #106](https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
-- May 09 2024 - [Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
 - May 07 2024 - [Using the Gemini app with Material Design 3](https://material.io/blog/how-to-gemini-app-compose-material-design-3) - [Material Design Blog](https://material.io/blog)
 - Apr 30 2024 - [Material Design at Google I/O ‘24](https://material.io/blog/google-io-2024) - [Material Design Blog](https://material.io/blog)
