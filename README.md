@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Sep 09 2024 - [SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI](http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 06 2024 - [Fragments in Compose #shorts](https://www.youtube.com/watch?v=CT2S1OANXGA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 05 2024 - [Android 15 #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=pIDRLI9L_ks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -69,8 +71,6 @@
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 24 2024 - [#WeArePlay - Meet the people creating apps and games in Australia](http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 20 2024 - [3 fun experiments to try for your next Android app, using Google AI Studio](http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 18 2024 - [The Third Beta of Android 15](http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
