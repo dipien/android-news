@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 10 2024 - [Navigation Compose meet Type Safety #shorts](https://www.youtube.com/watch?v=yQdGAAPvsJI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [Navigation Compose meet Type Safety](https://www.youtube.com/watch?v=8m1W4PyYMYQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 09 2024 - [😎 Shaders in Jetpack Compose](https://www.youtube.com/watch?v=gIdaNTh4B7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -35,7 +36,6 @@
 - Aug 27 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=uXKJYd8VPkY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Now in Android: 109 - Android 15 Beta 4, Samsung Galaxy Unpacked, Google Play's new feature, & more!](https://www.youtube.com/watch?v=x3sVb-Inu0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [#TheAndroidShow: our summer episode, with the latest for developers from #MadebyGoogle](https://www.youtube.com/watch?v=4T8lJiAtnFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 27 2024 - [Android Developer Story: Instagram’s early adoption of Ultra HDR transforms UX in only 3 months](https://www.youtube.com/watch?v=gGFHVi3NPWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature](http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
