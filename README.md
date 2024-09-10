@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 09 2024 - [😎 Shaders in Jetpack Compose](https://www.youtube.com/watch?v=gIdaNTh4B7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 09 2024 - [SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI](http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -58,7 +59,6 @@
 - Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 30 2024 - [July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=1HfMI21e42c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 25 2024 - [Troubleshoot your app faster with AI in Crashlytics](https://www.youtube.com/watch?v=LhjTAkifr6g) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
