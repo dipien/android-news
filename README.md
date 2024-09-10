@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 10 2024 - [Navigation Compose meet Type Safety](https://www.youtube.com/watch?v=8m1W4PyYMYQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 09 2024 - [😎 Shaders in Jetpack Compose](https://www.youtube.com/watch?v=gIdaNTh4B7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -8,7 +9,7 @@
 - Sep 06 2024 - [Fragments in Compose #shorts](https://www.youtube.com/watch?v=CT2S1OANXGA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 05 2024 - [Android 15 #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=pIDRLI9L_ks) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 04 2024 - [#Android15 Spotlight Week](https://www.youtube.com/watch?v=nDlafIyIF4I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 04 2024 - [#Android15 - Spotlight Week](https://www.youtube.com/watch?v=nDlafIyIF4I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Building for the future of Android - Spotlight Week](https://www.youtube.com/watch?v=YKPqjsYBFvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -35,7 +36,6 @@
 - Aug 27 2024 - [Now in Android: 109 - Android 15 Beta 4, Samsung Galaxy Unpacked, Google Play's new feature, & more!](https://www.youtube.com/watch?v=x3sVb-Inu0c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [#TheAndroidShow: our summer episode, with the latest for developers from #MadebyGoogle](https://www.youtube.com/watch?v=4T8lJiAtnFg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Android Developer Story: Instagram’s early adoption of Ultra HDR transforms UX in only 3 months](https://www.youtube.com/watch?v=gGFHVi3NPWM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Aug 27 2024 - [Android Developer Story: AllTrails sees 60% higher monthly retention from Wear OS users](https://www.youtube.com/watch?v=sgBXkvMX4Ng) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature](http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
