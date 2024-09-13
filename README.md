@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 12 2024 - [Compose animations - Android Developers Backstage](https://www.youtube.com/watch?v=kFtFP5dBJDo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Developer Preview: Desktop windowing on Android Tablets](http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -40,7 +41,6 @@
 - Aug 28 2024 - [Are you making delightful UI? - Jetpack Compose Tips](https://www.youtube.com/watch?v=FL0VyH_1KAw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 27 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=uXKJYd8VPkY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature](http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
