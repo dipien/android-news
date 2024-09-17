@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -62,7 +63,6 @@
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 02 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 01 2024 - [What are Genkit flows?](https://www.youtube.com/watch?v=ONR38NZK5FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jul 31 2024 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
