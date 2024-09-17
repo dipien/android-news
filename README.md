@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3 #shorts](https://www.youtube.com/watch?v=AjjA7x68zIs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [#WeArePlay: Michael and Shalom, Nkenne - USA](https://www.youtube.com/watch?v=iBL6uELMV2I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3](https://www.youtube.com/watch?v=7vmiYP4vNUE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -38,7 +39,6 @@
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Build a Slack Bot App with Firebase Genkit in just 100 Lines](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 29 2024 - [Shaders - Jetpack Compose Tips](https://www.youtube.com/watch?v=wJx7EhGaDow) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 29 2024 - [Android Studio Koala Feature Drop is Stable!](http://android-developers.googleblog.com/2024/08/android-studio-koala-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 29 2024 - [Augmented Generation (RAG) with Genkit (DeepDive #2)](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
