@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 12 2024 - [Compose animations - Android Developers Backstage](https://www.youtube.com/watch?v=kFtFP5dBJDo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,7 +69,6 @@
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2024 - [The Fourth Beta of Android 15](http://android-developers.googleblog.com/2024/07/the-fourth-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jul 11 2024 - [Prepare your app for the new Samsung Galaxy foldables and watches!](http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 03 2024 - [Security Rules Basics for Cloud Firestore](https://medium.com/firebase-developers/firebase-firestore-security-rules-basics-cloud-firestore-978702628df6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
