@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 17 2024 - [#WeArePlay: Michael and Shalom, Nkenne - USA](https://www.youtube.com/watch?v=iBL6uELMV2I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3](https://www.youtube.com/watch?v=7vmiYP4vNUE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -38,9 +40,7 @@
 - Aug 30 2024 - [Build a Slack Bot App with Firebase Genkit in just 100 Lines](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 29 2024 - [Shaders - Jetpack Compose Tips](https://www.youtube.com/watch?v=wJx7EhGaDow) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 29 2024 - [Android Studio Koala Feature Drop is Stable!](http://android-developers.googleblog.com/2024/08/android-studio-koala-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 29 2024 - [What's new in Android Studio Koala](https://www.youtube.com/watch?v=ZTYMPmbfx7E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 29 2024 - [Augmented Generation (RAG) with Genkit (DeepDive #2)](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 28 2024 - [Are you making delightful UI? - Jetpack Compose Tips](https://www.youtube.com/watch?v=FL0VyH_1KAw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
