@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Sep 18 2024 - [利用 Firebase 与 Google Cloud 打造更卓越的数据驱动型应用](https://www.youtube.com/watch?v=HZccOJfBn4U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Sep 18 2024 - [Flow layouts in Jetpack Compose](https://www.youtube.com/watch?v=BkjrJB6GaY4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 18 2024 - [Tools, not Rules: become a better Android developer with Compiler Explorer](http://android-developers.googleblog.com/2024/09/become-better-android-developer-compiler-explorer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3 #shorts](https://www.youtube.com/watch?v=AjjA7x68zIs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [#WeArePlay: Michael and Shalom, Nkenne - USA](https://www.youtube.com/watch?v=iBL6uELMV2I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -34,7 +37,6 @@
 - Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 03 2024 - [Google Maps improved download reliability by 10% using user initiated data transfer API](http://android-developers.googleblog.com/2024/09/google-maps-improved-download-reliability-user-initiated-data-transfer-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [Android 15 is released to AOSP](http://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 03 2024 - [#WeArePlay: Robson, Estante Mágica - Brazil](https://www.youtube.com/watch?v=GXngpeOx84c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 03 2024 - [#WeArePlay - Estante Mágica, the app helping kids publish their own books](http://android-developers.googleblog.com/2024/09/weareplay-estante-magica-app-helping-kids-publish-books.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -62,8 +64,6 @@
 - Aug 08 2024 - [Updates from I/O Connect](https://www.youtube.com/watch?v=-By0YGCydQg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 02 2024 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 01 2024 - [What are Genkit flows?](https://www.youtube.com/watch?v=ONR38NZK5FE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
