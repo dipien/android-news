@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 18 2024 - [Tools, not Rules: become a better Android developer with Compiler Explorer](http://android-developers.googleblog.com/2024/09/become-better-android-developer-compiler-explorer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3 #shorts](https://www.youtube.com/watch?v=AjjA7x68zIs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [#WeArePlay: Michael and Shalom, Nkenne - USA](https://www.youtube.com/watch?v=iBL6uELMV2I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3](https://www.youtube.com/watch?v=7vmiYP4vNUE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -67,7 +68,6 @@
 - Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 18 2024 - [The Fourth Beta of Android 15](http://android-developers.googleblog.com/2024/07/the-fourth-beta-of-android-15.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 03 2024 - [Security Rules Basics for Cloud Firestore](https://medium.com/firebase-developers/firebase-firestore-security-rules-basics-cloud-firestore-978702628df6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
