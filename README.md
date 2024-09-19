@@ -21,6 +21,8 @@
 - Sep 10 2024 - [Navigation Compose meet Type Safety #shorts](https://www.youtube.com/watch?v=yQdGAAPvsJI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [Navigation Compose meet Type Safety](https://www.youtube.com/watch?v=8m1W4PyYMYQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
+- Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
 - Sep 09 2024 - [😎 Shaders in Jetpack Compose](https://www.youtube.com/watch?v=gIdaNTh4B7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 09 2024 - [SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI](http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -98,9 +100,7 @@
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
-- May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
