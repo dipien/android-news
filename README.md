@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 23 2024 - [AI on Android Spotlight Week begins September 30th](http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 18 2024 - [利用 Firebase 与 Google Cloud 打造更卓越的数据驱动型应用](https://www.youtube.com/watch?v=HZccOJfBn4U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -69,7 +70,6 @@
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 23 2024 - [#WeArePlay - 153 new stories from people creating apps and games in the U.S.](http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
