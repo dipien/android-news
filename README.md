@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 24 2024 - [Room Renovations #shorts](https://www.youtube.com/watch?v=ukqFbqL2uuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 24 2024 - [Room Renovations - Android Conference Talks](https://www.youtube.com/watch?v=MwoRPPzeLtA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 24 2024 - [Attestation format change for the Android FIDO2 API](http://android-developers.googleblog.com/2024/09/attestation-format-change-for-android-fido2-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2024 - [AI on Android Spotlight Week begins September 30th](http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -36,7 +37,6 @@
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [#Android15 - Spotlight Week](https://www.youtube.com/watch?v=nDlafIyIF4I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 04 2024 - [Building for the future of Android - Spotlight Week](https://www.youtube.com/watch?v=YKPqjsYBFvI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 03 2024 - [Our first Spotlight Week: diving into Android 15](http://android-developers.googleblog.com/2024/09/android-15-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
