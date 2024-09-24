@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 24 2024 - [Attestation format change for the Android FIDO2 API](http://android-developers.googleblog.com/2024/09/attestation-format-change-for-android-fido2-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2024 - [AI on Android Spotlight Week begins September 30th](http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -13,6 +14,7 @@
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 12 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 12 2024 - [Compose animations - Android Developers Backstage](https://www.youtube.com/watch?v=kFtFP5dBJDo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Developer Preview: Desktop windowing on Android Tablets](http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,11 +67,9 @@
 - Aug 13 2024 - [Firebase App Development in the Google Cloud Console](https://www.youtube.com/watch?v=JtN4d3C9x2Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 08 2024 - [Build an Angular app with Genkit and deploy to Firebase](https://www.youtube.com/watch?v=TGHua_RtUjs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 08 2024 - [Updates from I/O Connect](https://www.youtube.com/watch?v=-By0YGCydQg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jul 24 2024 - [Introducing Collections, a new on-device surface for your content](http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
