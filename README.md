@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Sep 24 2024 - [Room Renovations #shorts](https://www.youtube.com/watch?v=ukqFbqL2uuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 24 2024 - [Changes to Cloud Functions](https://www.youtube.com/watch?v=tz7wmnhC9fY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Room Renovations - Android Conference Talks](https://www.youtube.com/watch?v=MwoRPPzeLtA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 24 2024 - [Attestation format change for the Android FIDO2 API](http://android-developers.googleblog.com/2024/09/attestation-format-change-for-android-fido2-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2024 - [AI on Android Spotlight Week begins September 30th](http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -66,7 +67,6 @@
 - Aug 13 2024 - [Create exceptional experiences on Pixel’s new watches and foldables](http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 13 2024 - [Firebase App Development in the Google Cloud Console](https://www.youtube.com/watch?v=JtN4d3C9x2Y) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 08 2024 - [Build an Angular app with Genkit and deploy to Firebase](https://www.youtube.com/watch?v=TGHua_RtUjs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 08 2024 - [#WeArePlay - How Jakub is infusing Czech mythology into his games](http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 06 2024 - [Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs](http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 25 2024 - [Making security easy: How we are helping you fix vulnerabilities in your Android apps](http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
