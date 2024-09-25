@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Sep 25 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Room Renovations #shorts](https://www.youtube.com/watch?v=ukqFbqL2uuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 24 2024 - [Changes to Cloud Functions](https://www.youtube.com/watch?v=tz7wmnhC9fY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Room Renovations - Android Conference Talks](https://www.youtube.com/watch?v=MwoRPPzeLtA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -17,7 +18,6 @@
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 12 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 12 2024 - [Compose animations - Android Developers Backstage](https://www.youtube.com/watch?v=kFtFP5dBJDo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Developer Preview: Desktop windowing on Android Tablets](http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
