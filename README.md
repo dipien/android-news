@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!](https://www.youtube.com/watch?v=kfXQXLlbszI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 01 2024 - [AI on Android - Spotlight Week](https://www.youtube.com/watch?v=0aX0mcw-eWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,7 +69,6 @@
 - Aug 16 2024 - [Genkit Go SDK - Firebase Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Genkit's reflection API and how it powers Genkit's developer UI (DeepDive #1)](https://www.youtube.com/watch?v=CGVBR8quZac) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 14 2024 - [Indie Games Fund: Google Play’s $2m fund in Latin America is back](http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
