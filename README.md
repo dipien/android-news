@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 01 2024 - [A walk-through for Android’s on-device GenAI solutions - Spotlight Week](https://www.youtube.com/watch?v=EpKghZYqVW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 01 2024 - [An Introduction to Privacy and Safety for Gemini Nano](http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 01 2024 - [An introduction to privacy and safety for Gemini Nano](http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!](https://www.youtube.com/watch?v=kfXQXLlbszI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
