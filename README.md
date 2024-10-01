@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 01 2024 - [AI on Android - Spotlight Week](https://www.youtube.com/watch?v=0aX0mcw-eWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2024 - [AI on Android #SpotlightWeek](https://www.youtube.com/watch?v=FK4NmBzeTOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2024 - [Welcome to AI on Android Spotlight Week](http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Gemini in Android Studio: Code Completion Gains Powerful Model Improvements](http://android-developers.googleblog.com/2024/09/gemini-android-studio-code-completion-model-improvements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -38,7 +39,6 @@
 - Sep 09 2024 - [😎 Shaders in Jetpack Compose](https://www.youtube.com/watch?v=gIdaNTh4B7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 09 2024 - [SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI](http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 06 2024 - [Fragments in Compose #shorts](https://www.youtube.com/watch?v=CT2S1OANXGA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
