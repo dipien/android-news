@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Sep 30 2024 - [AI on Android - Spotlight Week](https://www.youtube.com/watch?v=FK4NmBzeTOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Sep 30 2024 - [AI on Android #SpotlightWeek](https://www.youtube.com/watch?v=FK4NmBzeTOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2024 - [Welcome to AI on Android Spotlight Week](http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Gemini in Android Studio: Code Completion Gains Powerful Model Improvements](http://android-developers.googleblog.com/2024/09/gemini-android-studio-code-completion-model-improvements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Quick introduction to Large Language Models for Android developers](http://android-developers.googleblog.com/2024/09/introduction-to-large-language-models-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
