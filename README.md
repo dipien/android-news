@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 01 2024 - [A walk-through for Android’s on-device GenAI solutions - Spotlight Week](https://www.youtube.com/watch?v=EpKghZYqVW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 01 2024 - [An Introduction to Privacy and Safety for Gemini Nano](http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!](https://www.youtube.com/watch?v=kfXQXLlbszI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -39,7 +41,6 @@
 - Sep 10 2024 - [Navigation Compose meet Type Safety](https://www.youtube.com/watch?v=8m1W4PyYMYQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
-- Sep 09 2024 - [😎 Shaders in Jetpack Compose](https://www.youtube.com/watch?v=gIdaNTh4B7c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 09 2024 - [SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI](http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -65,7 +66,6 @@
 - Aug 23 2024 - [Adding 16 KB Page Size to Android](http://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Tune in for our summer episode of #TheAndroidShow on August 27!](http://android-developers.googleblog.com/2024/08/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 20 2024 - [#WeArePlay - Meet the founders turning their passions into thriving businesses](http://android-developers.googleblog.com/2024/08/weareplay-meet-the-founders-turning-their-passions-into-thriving-businesses.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 16 2024 - [Genkit Go SDK - Firebase Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Genkit's reflection API and how it powers Genkit's developer UI (DeepDive #1)](https://www.youtube.com/watch?v=CGVBR8quZac) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
