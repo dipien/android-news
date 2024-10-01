@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 01 2024 - [AI on Android - Spotlight Week](https://www.youtube.com/watch?v=0aX0mcw-eWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2024 - [AI on Android #SpotlightWeek](https://www.youtube.com/watch?v=FK4NmBzeTOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2024 - [Welcome to AI on Android Spotlight Week](http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -78,7 +79,6 @@
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Jun 11 2024 - [Deleting User Account & Revoke Access Token in SwiftUI apps](https://medium.com/firebase-developers/deleting-user-account-revoke-access-token-0e30d7a351bb?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
