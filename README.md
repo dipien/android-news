@@ -3,7 +3,7 @@
 <!-- NEWS:START -->
 - Oct 02 2024 - [Android Apps with Generative AI #SpotlightWeek](https://www.youtube.com/watch?v=5uyKvY2XndE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2024 - [How to bring your AI Model to Android devices](http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 01 2024 - [A walk-through for Android’s on-device GenAI solutions - Spotlight Week](https://www.youtube.com/watch?v=EpKghZYqVW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 01 2024 - [A walkthrough for Android’s on-device GenAI solutions - Spotlight Week](https://www.youtube.com/watch?v=EpKghZYqVW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 01 2024 - [An introduction to privacy and safety for Gemini Nano](http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!](https://www.youtube.com/watch?v=kfXQXLlbszI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
