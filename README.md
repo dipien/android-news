@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 02 2024 - [Android Apps with Generative AI #SpotlightWeek](https://www.youtube.com/watch?v=5uyKvY2XndE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2024 - [How to bring your AI Model to Android devices](http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [A walk-through for Android’s on-device GenAI solutions - Spotlight Week](https://www.youtube.com/watch?v=EpKghZYqVW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 01 2024 - [An introduction to privacy and safety for Gemini Nano](http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -39,7 +40,6 @@
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 11 2024 - [Streamlining Android authentication: Credential Manager replaces legacy APIs](http://android-developers.googleblog.com/2024/09/streamlining-android-authentication-credential-manager-replaces-legacy-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 10 2024 - [Navigation Compose meet Type Safety #shorts](https://www.youtube.com/watch?v=yQdGAAPvsJI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 10 2024 - [Navigation Compose meet Type Safety](https://www.youtube.com/watch?v=8m1W4PyYMYQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
 - Sep 09 2024 - [Jetpack Compose APIs for building adaptive layouts using Material guidance now stable](http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
