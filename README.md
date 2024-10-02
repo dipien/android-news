@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 02 2024 - [PyTorch machine learning models on Android](http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 02 2024 - [Android Apps with Generative AI #SpotlightWeek](https://www.youtube.com/watch?v=5uyKvY2XndE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2024 - [How to bring your AI Model to Android devices](http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [A walkthrough for Android’s on-device GenAI solutions - Spotlight Week](https://www.youtube.com/watch?v=EpKghZYqVW4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -64,7 +65,6 @@
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature](http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 23 2024 - [Adding 16 KB Page Size to Android](http://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 16 2024 - [Genkit Go SDK - Firebase Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
