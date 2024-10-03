@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Oct 03 2024 - [Advanced capabilities of the Gemini API for Android developers](http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Integrating the Gemini API in Android - Android Build Time](https://www.youtube.com/watch?v=DDN2pJ0SzNw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 02 2024 - [PyTorch machine learning models on Android](http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -64,8 +66,6 @@
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 27 2024 - [The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature](http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Aug 27 2024 - [#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!](http://android-developers.googleblog.com/2024/08/tas24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 16 2024 - [Genkit Go SDK - Firebase Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
