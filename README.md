@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 02 2024 - [PyTorch machine learning models on Android](http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 02 2024 - [Android Apps with Generative AI #SpotlightWeek](https://www.youtube.com/watch?v=5uyKvY2XndE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2024 - [How to bring your AI Model to Android devices](http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -78,7 +79,6 @@
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 12 2024 - [Build Firebase Genkit NodeJS apps with Dash Agents - Skip the docs](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
