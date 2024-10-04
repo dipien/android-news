@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 04 2024 - [Building with AI on Android - Spotlight Week](https://www.youtube.com/watch?v=o1wY5vnNVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Advanced capabilities of the Gemini API for Android developers](http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Integrating the Gemini API in Android - Android Build Time](https://www.youtube.com/watch?v=DDN2pJ0SzNw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -41,7 +42,6 @@
 - Sep 12 2024 - [Compose animations - Android Developers Backstage](https://www.youtube.com/watch?v=kFtFP5dBJDo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Developer Preview: Desktop windowing on Android Tablets](http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 12 2024 - [Infinite subdomains with App Hosting](https://www.youtube.com/watch?v=wW7QI7ZgAHQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 11 2024 - [Flow layouts - Jetpack Compose Tips](https://www.youtube.com/watch?v=QaMjBZCXHiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 11 2024 - [Streamlining Android authentication: Credential Manager replaces legacy APIs](http://android-developers.googleblog.com/2024/09/streamlining-android-authentication-credential-manager-replaces-legacy-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 10 2024 - [New #Firebase articles](https://www.youtube.com/watch?v=dM-FbIzOJyU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
