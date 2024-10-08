@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 08 2024 - [LLMs get confused when counting the number of "R"s in "Strawberry". But there's a solution!](https://www.youtube.com/watch?v=t2I2JDUivJs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 08 2024 - [Introducing Ink API, a new Jetpack library for stylus apps](http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2024 - [Building with AI on Android - Spotlight Week](https://www.youtube.com/watch?v=o1wY5vnNVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Advanced capabilities of the Gemini API for Android developers](http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -66,7 +67,6 @@
 - Aug 29 2024 - [Augmented Generation (RAG) with Genkit (DeepDive #2)](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 27 2024 - [Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months](http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 16 2024 - [Genkit Go SDK - Firebase Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
