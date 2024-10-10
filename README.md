@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 10 2024 - [Firestore Vector Embeddings - Release Notes Deep Dive](https://www.youtube.com/watch?v=3u7u4mNbYZI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [LLMs get confused when counting the number of "R"s in "Strawberry". But there's a solution!](https://www.youtube.com/watch?v=t2I2JDUivJs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [Introducing Ink API, a new Jetpack library for stylus apps](http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 04 2024 - [Building with AI on Android - Spotlight Week](https://www.youtube.com/watch?v=o1wY5vnNVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -69,7 +70,6 @@
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 16 2024 - [Genkit Go SDK - Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 15 2024 - [Building an app with Gemini in Firebase and Project IDX](https://www.youtube.com/watch?v=o7r8nxrAd_c) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
