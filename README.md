@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 10 2024 - [Now in Android: 110 - Android 15, Credential Manager, Android Studio Koala, Compose for TV, & more](https://www.youtube.com/watch?v=r_BQZnlrTZY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2024 - [Lazy grids #shorts](https://www.youtube.com/watch?v=uBmwECZdbpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2024 - [Firestore Vector Embeddings - Release Notes Deep Dive](https://www.youtube.com/watch?v=3u7u4mNbYZI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [LLMs get confused when counting the number of "R"s in "Strawberry". But there's a solution!](https://www.youtube.com/watch?v=t2I2JDUivJs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -41,7 +42,6 @@
 - Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3](https://www.youtube.com/watch?v=7vmiYP4vNUE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 13 2024 - [Building for the future of Android](https://www.youtube.com/watch?v=PZciYibwZ1I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 12 2024 - [Developer Preview: Desktop windowing on Android Tablets](http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 12 2024 - [Infinite subdomains with App Hosting](https://www.youtube.com/watch?v=wW7QI7ZgAHQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
