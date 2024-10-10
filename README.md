@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 10 2024 - [Now in Android: 110 - Android 15, Credential Manager, Android Studio Koala, Compose for TV, & more](https://www.youtube.com/watch?v=r_BQZnlrTZY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2024 - [Lazy grids #shorts](https://www.youtube.com/watch?v=uBmwECZdbpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2024 - [Firestore Vector Embeddings - Release Notes Deep Dive](https://www.youtube.com/watch?v=3u7u4mNbYZI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -78,7 +79,6 @@
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 13 2024 - [Building Jetcaster on all Form Factors](https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 13 2024 - [What does your UI say to your users?](https://material.io/blog/testing-material-3) - [Material Design Blog](https://material.io/blog)
 - May 08 2024 - [Material Design Components for Android 1.11.0 and 1.12.0](https://material.io/blog/android-stable-release-1-12-0) - [Material Design Blog](https://material.io/blog)
