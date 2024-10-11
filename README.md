@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 10 2024 - [Multimodal generation with Firebase Genkit](https://www.youtube.com/watch?v=yDFd5AZhsIk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 10 2024 - [Now in Android: 110 - Android 15, Credential Manager, Android Studio Koala, Compose for TV, & more](https://www.youtube.com/watch?v=r_BQZnlrTZY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2024 - [Lazy grids #shorts](https://www.youtube.com/watch?v=uBmwECZdbpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -70,7 +71,6 @@
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 16 2024 - [Genkit Go SDK - Release Notes Deep Dive](https://www.youtube.com/watch?v=LrhGTWqjfiU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
