@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Multimodal generation with Firebase Genkit](https://www.youtube.com/watch?v=yDFd5AZhsIk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 10 2024 - [Now in Android: 110 - Android 15, Credential Manager, Android Studio Koala, Compose for TV, & more](https://www.youtube.com/watch?v=r_BQZnlrTZY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -75,7 +76,6 @@
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 08 2024 - [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jul 03 2024 - [Security Rules Basics for Cloud Firestore](https://medium.com/firebase-developers/firebase-firestore-security-rules-basics-cloud-firestore-978702628df6?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jun 27 2024 - [Now in Android #108](https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 13 2024 - [Now in Android #107](https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
