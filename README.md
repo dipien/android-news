@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 14 2024 - [Adaptive - Spotlight Week](https://www.youtube.com/watch?v=E4fIOGjtfa4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 14 2024 - [Here's what happening in our latest Spotlight Week: Adaptive Android Apps](http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Multimodal generation with Firebase Genkit](https://www.youtube.com/watch?v=yDFd5AZhsIk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,7 +44,6 @@
 - Sep 18 2024 - [Flow layouts in Jetpack Compose](https://www.youtube.com/watch?v=BkjrJB6GaY4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 18 2024 - [Tools, not Rules: become a better Android developer with Compiler Explorer](http://android-developers.googleblog.com/2024/09/become-better-android-developer-compiler-explorer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3 #shorts](https://www.youtube.com/watch?v=AjjA7x68zIs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 17 2024 - [#WeArePlay: Michael and Shalom, Nkenne - USA](https://www.youtube.com/watch?v=iBL6uELMV2I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -67,7 +68,6 @@
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Build a Slack Bot App with Firebase Genkit in just 100 Lines](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 29 2024 - [Android Studio Koala Feature Drop is Stable!](http://android-developers.googleblog.com/2024/08/android-studio-koala-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 29 2024 - [Retrieval Augmented Generation (RAG) with Genkit (DeepDive #2)](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
