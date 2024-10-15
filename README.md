@@ -3,6 +3,7 @@
 <!-- NEWS:START -->
 - Oct 15 2024 - [Deploy Fearlessly with dry run in with the latest version of the Firebase CLI](https://www.youtube.com/watch?v=iuM_3RZ8RTE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 15 2024 - [#WeArePlay: Hyojeong, NomadHer - South Korea](https://www.youtube.com/watch?v=F4SXzUvlNBw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 15 2024 - [#WeArePlay - NomadHer helps women travel the world](http://android-developers.googleblog.com/2024/10/weareplay-nomadher-helps-women-travel-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 14 2024 - [Adaptive - Spotlight Week](https://www.youtube.com/watch?v=E4fIOGjtfa4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 14 2024 - [Here's what happening in our latest Spotlight Week: Adaptive Android Apps](http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -64,7 +65,6 @@
 - Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 03 2024 - [Google Maps improved download reliability by 10% using user initiated data transfer API](http://android-developers.googleblog.com/2024/09/google-maps-improved-download-reliability-user-initiated-data-transfer-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [Android 15 is released to AOSP](http://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 03 2024 - [#WeArePlay - Estante Mágica, the app helping kids publish their own books](http://android-developers.googleblog.com/2024/09/weareplay-estante-magica-app-helping-kids-publish-books.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
