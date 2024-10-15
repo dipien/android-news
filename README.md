@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 15 2024 - [Adaptive #SpotlightWeek](https://www.youtube.com/watch?v=EbT6UmlEzfk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 15 2024 - [Creating a responsive dashboard layout for JetLagged with Jetpack Compose](http://android-developers.googleblog.com/2024/10/creating-responsive-dashboard-layout-for-jetlagged-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2024 - [Deploy Fearlessly with dry run in with the latest version of the Firebase CLI](https://www.youtube.com/watch?v=iuM_3RZ8RTE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 15 2024 - [#WeArePlay: Hyojeong, NomadHer - South Korea](https://www.youtube.com/watch?v=F4SXzUvlNBw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 15 2024 - [#WeArePlay - NomadHer helps women travel the world](http://android-developers.googleblog.com/2024/10/weareplay-nomadher-helps-women-travel-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -44,7 +46,6 @@
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 18 2024 - [利用 Firebase 与 Google Cloud 打造更卓越的数据驱动型应用](https://www.youtube.com/watch?v=HZccOJfBn4U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 18 2024 - [Flow layouts in Jetpack Compose](https://www.youtube.com/watch?v=BkjrJB6GaY4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 18 2024 - [Tools, not Rules: become a better Android developer with Compiler Explorer](http://android-developers.googleblog.com/2024/09/become-better-android-developer-compiler-explorer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -64,7 +65,6 @@
 - Sep 03 2024 - [Our first Spotlight Week: diving into Android 15](http://android-developers.googleblog.com/2024/09/android-15-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 03 2024 - [Google Maps improved download reliability by 10% using user initiated data transfer API](http://android-developers.googleblog.com/2024/09/google-maps-improved-download-reliability-user-initiated-data-transfer-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 03 2024 - [Android 15 is released to AOSP](http://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
