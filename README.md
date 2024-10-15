@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 15 2024 - [Deploy Fearlessly with dry run in with the latest version of the Firebase CLI](https://www.youtube.com/watch?v=iuM_3RZ8RTE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 15 2024 - [#WeArePlay: Hyojeong, NomadHer - South Korea](https://www.youtube.com/watch?v=F4SXzUvlNBw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 14 2024 - [Adaptive - Spotlight Week](https://www.youtube.com/watch?v=E4fIOGjtfa4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 14 2024 - [Here's what happening in our latest Spotlight Week: Adaptive Android Apps](http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -43,7 +45,6 @@
 - Sep 18 2024 - [利用 Firebase 与 Google Cloud 打造更卓越的数据驱动型应用](https://www.youtube.com/watch?v=HZccOJfBn4U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 18 2024 - [Flow layouts in Jetpack Compose](https://www.youtube.com/watch?v=BkjrJB6GaY4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 18 2024 - [Tools, not Rules: become a better Android developer with Compiler Explorer](http://android-developers.googleblog.com/2024/09/become-better-android-developer-compiler-explorer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 17 2024 - [Complement your media editing pipeline with Jetpack Media3 #shorts](https://www.youtube.com/watch?v=AjjA7x68zIs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 17 2024 - [Firebase After Hours](https://www.youtube.com/watch?v=8faDttbNQVg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -71,7 +72,6 @@
 - Aug 29 2024 - [Retrieval Augmented Generation (RAG) with Genkit (DeepDive #2)](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 20 2024 - [Build an AI-powered crossword with Genkit and Gemini](https://www.youtube.com/watch?v=4-9g-uzJt8A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 17 2024 - [How to add natural language AI data filters to your app](https://medium.com/firebase-developers/how-to-add-natural-language-ai-data-filters-to-your-app-71d64a79624d?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
