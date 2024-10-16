@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 16 2024 - [Save the date for Firebase Demo Day 2024](https://www.youtube.com/watch?v=MLyWo3AT4ZU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 15 2024 - [Adaptive #SpotlightWeek](https://www.youtube.com/watch?v=EbT6UmlEzfk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 15 2024 - [Creating a responsive dashboard layout for JetLagged with Jetpack Compose](http://android-developers.googleblog.com/2024/10/creating-responsive-dashboard-layout-for-jetlagged-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2024 - [Deploy Fearlessly with dry run in with the latest version of the Firebase CLI](https://www.youtube.com/watch?v=iuM_3RZ8RTE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -70,7 +71,6 @@
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Build a Slack Bot App with Firebase Genkit in just 100 Lines](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 29 2024 - [Retrieval Augmented Generation (RAG) with Genkit (DeepDive #2)](https://www.youtube.com/watch?v=p8ZlYAmbWHE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Aug 28 2024 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
