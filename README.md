@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 17 2024 - [Custom Adaptive layouts in Compose - Spotlight Week](https://www.youtube.com/watch?v=PUxtjQWJj6A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 16 2024 - [CameraX update makes dual concurrent camera even easier](http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2024 - [Save the date for Firebase Demo Day 2024](https://www.youtube.com/watch?v=MLyWo3AT4ZU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2024 - [Chrome on Android to support third-party autofill services natively](http://android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2024 - [Adaptive #SpotlightWeek](https://www.youtube.com/watch?v=EbT6UmlEzfk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -64,7 +65,6 @@
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 03 2024 - [Our first Spotlight Week: diving into Android 15](http://android-developers.googleblog.com/2024/09/android-15-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
