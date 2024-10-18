@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 18 2024 - [Custom Adaptive layouts in Compose](https://www.youtube.com/watch?v=ew7hrYXkywo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 18 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 17 2024 - [Custom Adaptive layouts in Compose - Spotlight Week](https://www.youtube.com/watch?v=PUxtjQWJj6A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 16 2024 - [CameraX update makes dual concurrent camera even easier](http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -42,7 +43,6 @@
 - Sep 27 2024 - [Lazy grids - Jetpack Compose Tips](https://www.youtube.com/watch?v=qP-ieASbqMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 25 2024 - [AllTrails gains over 1 million downloads after implementing its Wear OS app](http://android-developers.googleblog.com/2024/09/alltrails-gains-over-1-million-downloads-wear-os-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 25 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 24 2024 - [Room renovations #shorts](https://www.youtube.com/watch?v=ukqFbqL2uuM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 24 2024 - [Changes to Cloud Functions](https://www.youtube.com/watch?v=tz7wmnhC9fY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Attestation format change for the Android FIDO2 API](http://android-developers.googleblog.com/2024/09/attestation-format-change-for-android-fido2-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 23 2024 - [AI on Android Spotlight Week begins September 30th](http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
