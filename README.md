@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 18 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 17 2024 - [Custom Adaptive layouts in Compose - Spotlight Week](https://www.youtube.com/watch?v=PUxtjQWJj6A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 16 2024 - [CameraX update makes dual concurrent camera even easier](http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2024 - [Save the date for Firebase Demo Day 2024](https://www.youtube.com/watch?v=MLyWo3AT4ZU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -12,7 +13,6 @@
 - Oct 15 2024 - [#WeArePlay - NomadHer helps women travel the world](http://android-developers.googleblog.com/2024/10/weareplay-nomadher-helps-women-travel-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 14 2024 - [Adaptive - Spotlight Week](https://www.youtube.com/watch?v=E4fIOGjtfa4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 14 2024 - [Here's what happening in our latest Spotlight Week: Adaptive Android Apps](http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 11 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Multimodal generation with Firebase Genkit](https://www.youtube.com/watch?v=yDFd5AZhsIk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
