@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 21 2024 - [Edge-to-edge display for #Android15](https://www.youtube.com/watch?v=QyoL7QC5LHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 18 2024 - [Custom Adaptive layouts in Compose](https://www.youtube.com/watch?v=ew7hrYXkywo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 18 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -41,7 +42,6 @@
 - Sep 30 2024 - [Welcome to AI on Android Spotlight Week](http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Gemini in Android Studio: Code Completion Gains Powerful Model Improvements](http://android-developers.googleblog.com/2024/09/gemini-android-studio-code-completion-model-improvements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Quick introduction to Large Language Models for Android developers](http://android-developers.googleblog.com/2024/09/introduction-to-large-language-models-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 27 2024 - [Lazy grids - Jetpack Compose Tips](https://www.youtube.com/watch?v=qP-ieASbqMY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 25 2024 - [AllTrails gains over 1 million downloads after implementing its Wear OS app](http://android-developers.googleblog.com/2024/09/alltrails-gains-over-1-million-downloads-wear-os-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 25 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Changes to Cloud Functions](https://www.youtube.com/watch?v=tz7wmnhC9fY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
