@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=m_Z_GW0vfWc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 22 2024 - [Set your reminder: #TheAndroidShow is live *here* on October 31, from Droidcon!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 22 2024 - [Use JSON Mode to control the structure of a model's generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 21 2024 - [Edge-to-edge display for #Android15](https://www.youtube.com/watch?v=QyoL7QC5LHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -65,7 +66,6 @@
 - Sep 09 2024 - [SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI](http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 04 2024 - [TalkBack uses Gemini Nano to increase image accessibility for users with low vision](http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 03 2024 - [August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!](https://www.youtube.com/watch?v=TjxJnQQCS_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
