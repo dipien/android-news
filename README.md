@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=m_Z_GW0vfWc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 22 2024 - [Set your reminder: #TheAndroidShow is live *here* on October 31, from Droidcon!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 22 2024 - [Use JSON Mode to control the structure of a model's generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 21 2024 - [Edge-to-edge display for #Android15](https://www.youtube.com/watch?v=QyoL7QC5LHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -38,8 +40,6 @@
 - Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!](https://www.youtube.com/watch?v=kfXQXLlbszI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 01 2024 - [AI on Android - Spotlight Week](https://www.youtube.com/watch?v=0aX0mcw-eWI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Sep 30 2024 - [AI on Android #SpotlightWeek](https://www.youtube.com/watch?v=FK4NmBzeTOY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Sep 30 2024 - [Welcome to AI on Android Spotlight Week](http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Gemini in Android Studio: Code Completion Gains Powerful Model Improvements](http://android-developers.googleblog.com/2024/09/gemini-android-studio-code-completion-model-improvements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 30 2024 - [Quick introduction to Large Language Models for Android developers](http://android-developers.googleblog.com/2024/09/introduction-to-large-language-models-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
