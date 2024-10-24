@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 24 2024 - [Studio Jewelry - Android Developers Backstage](https://www.youtube.com/watch?v=HmjKmoct3Ws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=DQQH_H3mI-w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=m_Z_GW0vfWc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -35,7 +37,6 @@
 - Oct 03 2024 - [Integrating the Gemini API in Android - Android Build Time](https://www.youtube.com/watch?v=DDN2pJ0SzNw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 02 2024 - [PyTorch machine learning models on Android](http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 02 2024 - [Android Apps with Generative AI #SpotlightWeek](https://www.youtube.com/watch?v=5uyKvY2XndE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 02 2024 - [How to bring your AI Model to Android devices](http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [An introduction to privacy and safety for Gemini Nano](http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -99,8 +100,7 @@
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
