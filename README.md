@@ -4,7 +4,7 @@
 - Oct 24 2024 - [Studio Jewelry - Android Developers Backstage](https://www.youtube.com/watch?v=HmjKmoct3Ws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=DQQH_H3mI-w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 23 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level up your app with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Oct 23 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=m_Z_GW0vfWc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 22 2024 - [Set your reminder: #TheAndroidShow is live *here* on October 31, from Droidcon!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
