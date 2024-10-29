@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2024 - [What are you excited to learn at #FirebaseDemoDay?](https://www.youtube.com/watch?v=Q9UXPWo_1II) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 24 2024 - [Studio Jewelry - Android Developers Backstage](https://www.youtube.com/watch?v=HmjKmoct3Ws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -99,8 +100,7 @@
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
 - Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
