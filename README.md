@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 30 2024 - [Google Play PolicyBytes - October 2024 policy updates](https://www.youtube.com/watch?v=EhSIqbR2K-c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2024 - [What are you excited to learn at #FirebaseDemoDay?](https://www.youtube.com/watch?v=Q9UXPWo_1II) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -37,7 +38,6 @@
 - Oct 04 2024 - [Building with AI on Android - Spotlight Week](https://www.youtube.com/watch?v=o1wY5vnNVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Advanced capabilities of the Gemini API for Android developers](http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 03 2024 - [Integrating the Gemini API in Android - Android Build Time](https://www.youtube.com/watch?v=DDN2pJ0SzNw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 02 2024 - [PyTorch machine learning models on Android](http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 02 2024 - [How to bring your AI Model to Android devices](http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
