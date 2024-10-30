@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 30 2024 - [Google Play PolicyBytes - October 2024 policy updates](https://www.youtube.com/watch?v=EhSIqbR2K-c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -61,7 +62,6 @@
 - Sep 17 2024 - [#WeArePlay - Nkenne: The app teaching African languages and culture](http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 12 2024 - [Developer Preview: Desktop windowing on Android Tablets](http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 12 2024 - [Infinite subdomains with App Hosting](https://www.youtube.com/watch?v=wW7QI7ZgAHQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 11 2024 - [Streamlining Android authentication: Credential Manager replaces legacy APIs](http://android-developers.googleblog.com/2024/09/streamlining-android-authentication-credential-manager-replaces-legacy-apis.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
