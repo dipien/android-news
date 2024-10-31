@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 31 2024 - [#TheAndroidShow: live from Droidcon, with a big update to Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [Learn how Android devs are getting the most out of Gemini in Android Studio](https://www.youtube.com/watch?v=cmmlqsv3-5A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=ZfIE-LATgH4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [More frequent Android SDK releases, and a look into updates on Android](https://www.youtube.com/watch?v=tU9-p4jME_w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -17,7 +18,6 @@
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=DQQH_H3mI-w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=m_Z_GW0vfWc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 22 2024 - [#TheAndroidShow: live from Droidcon, with a big update to Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 22 2024 - [Use JSON Mode to control the structure of a model's generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 21 2024 - [Edge-to-edge display for #Android15](https://www.youtube.com/watch?v=QyoL7QC5LHU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
