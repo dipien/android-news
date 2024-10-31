@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 31 2024 - [Android Developer Story: SuperPlay increases new installs by 3x with Play Points](https://www.youtube.com/watch?v=e4tcT1WFRDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [Android Developer Story: Spotify drives discovery & engagement on and beyond the Play Store](https://www.youtube.com/watch?v=peEbiF8PsT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [AnchoredDraggable - Compose Tips](https://www.youtube.com/watch?v=JYtLy4V2x-A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -33,7 +34,6 @@
 - Oct 10 2024 - [Multimodal generation with Firebase Genkit](https://www.youtube.com/watch?v=yDFd5AZhsIk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 10 2024 - [Now in Android: 110 - Android 15, Credential Manager, Android Studio Koala, Compose for TV, & more](https://www.youtube.com/watch?v=r_BQZnlrTZY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 10 2024 - [Lazy grids #shorts](https://www.youtube.com/watch?v=uBmwECZdbpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 10 2024 - [Firestore Vector Embeddings - Release Notes Deep Dive](https://www.youtube.com/watch?v=3u7u4mNbYZI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [LLMs get confused when counting the number of "R"s in "Strawberry". But there's a solution!](https://www.youtube.com/watch?v=t2I2JDUivJs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [Introducing Ink API, a new Jetpack library for stylus apps](http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
