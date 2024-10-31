@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Oct 30 2024 - [AnchoredDraggable - Compose Tips](https://www.youtube.com/watch?v=JYtLy4V2x-A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 30 2024 - [Google Play PolicyBytes - October 2024 policy updates](https://www.youtube.com/watch?v=EhSIqbR2K-c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -36,7 +37,6 @@
 - Oct 10 2024 - [Firestore Vector Embeddings - Release Notes Deep Dive](https://www.youtube.com/watch?v=3u7u4mNbYZI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [LLMs get confused when counting the number of "R"s in "Strawberry". But there's a solution!](https://www.youtube.com/watch?v=t2I2JDUivJs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 08 2024 - [Introducing Ink API, a new Jetpack library for stylus apps](http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 04 2024 - [Building with AI on Android - Spotlight Week](https://www.youtube.com/watch?v=o1wY5vnNVCc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Advanced capabilities of the Gemini API for Android developers](http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
