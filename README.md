@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=QqbtL_grR3g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, with a big update to Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [Learn how Android devs are getting the most out of Gemini in Android Studio](https://www.youtube.com/watch?v=cmmlqsv3-5A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=ZfIE-LATgH4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -23,7 +24,6 @@
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 18 2024 - [Custom Adaptive layouts in Compose](https://www.youtube.com/watch?v=ew7hrYXkywo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 18 2024 - [Adaptive #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=rFmyljhUxEY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 17 2024 - [Custom Adaptive layouts in Compose - Spotlight Week](https://www.youtube.com/watch?v=PUxtjQWJj6A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 16 2024 - [CameraX update makes dual concurrent camera even easier](http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2024 - [Save the date for Firebase Demo Day 2024](https://www.youtube.com/watch?v=MLyWo3AT4ZU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 16 2024 - [Chrome on Android to support third-party autofill services natively](http://android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
