@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 07 2024 - [#WeArePlay: Fujio, Pirika - Japan](https://www.youtube.com/watch?v=P2LPxXKMvYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [October 2024:  Data Connect, Vertex AI, Gemini in Firebase and more!](https://www.youtube.com/watch?v=uzf-cHtwvbw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 07 2024 - [AnchoredDraggable #shorts](https://www.youtube.com/watch?v=pvz37J9jIVg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
@@ -27,7 +28,6 @@
 - Oct 24 2024 - [Studio Jewelry - Android Developers Backstage](https://www.youtube.com/watch?v=HmjKmoct3Ws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=DQQH_H3mI-w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 23 2024 - [Tune in on October 31 for our Fall episode #TheAndroidShow, live from Droidcon!](https://www.youtube.com/watch?v=m_Z_GW0vfWc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 22 2024 - [Use JSON Mode to control the structure of a model's generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
