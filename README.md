@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 08 2024 - [FlipaClip sees a 54% growth in tablet users in the four months](https://www.youtube.com/watch?v=TDGzLGLmVzY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 07 2024 - [Now in Android: 111 - Android API level and schedule updates, Gemini in Android Studio, Google Play](https://www.youtube.com/watch?v=WRzkRWxBAZU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [#WeArePlay: Fujio, Pirika - Japan](https://www.youtube.com/watch?v=P2LPxXKMvYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -27,7 +28,6 @@
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2024 - [What are you excited to learn at #FirebaseDemoDay?](https://www.youtube.com/watch?v=Q9UXPWo_1II) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 24 2024 - [Studio Jewelry - Android Developers Backstage](https://www.youtube.com/watch?v=HmjKmoct3Ws) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 22 2024 - [Use JSON Mode to control the structure of a model's generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
