@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 12 2024 - [Configure Firebase Extensions in a Cloud Functions codebase](https://www.youtube.com/watch?v=VB_L0cD4GOc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 08 2024 - [FlipaClip sees a 54% growth in tablet users in the four months](https://www.youtube.com/watch?v=TDGzLGLmVzY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -65,7 +66,6 @@
 - Sep 23 2024 - [AI on Android Spotlight Week begins September 30th](http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 18 2024 - [利用 Firebase 与 Google Cloud 打造更卓越的数据驱动型应用](https://www.youtube.com/watch?v=HZccOJfBn4U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
