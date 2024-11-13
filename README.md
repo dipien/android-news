@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 13 2024 - [Passkeys - Spotlight Week](https://www.youtube.com/watch?v=fgZ16yDFb7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Configure Firebase Extensions in a Cloud Functions codebase](https://www.youtube.com/watch?v=VB_L0cD4GOc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -27,7 +29,6 @@
 - Oct 31 2024 - [Android Developer Story: Spotify drives discovery & engagement on and beyond the Play Store](https://www.youtube.com/watch?v=peEbiF8PsT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [AnchoredDraggable - Compose Tips](https://www.youtube.com/watch?v=JYtLy4V2x-A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 30 2024 - [Google Play PolicyBytes - October 2024 policy updates](https://www.youtube.com/watch?v=EhSIqbR2K-c) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 25 2024 - [What are you excited to learn at #FirebaseDemoDay?](https://www.youtube.com/watch?v=Q9UXPWo_1II) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -63,7 +64,6 @@
 - Sep 25 2024 - [AllTrails gains over 1 million downloads after implementing its Wear OS app](http://android-developers.googleblog.com/2024/09/alltrails-gains-over-1-million-downloads-wear-os-app.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 25 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Changes to Cloud Functions](https://www.youtube.com/watch?v=tz7wmnhC9fY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Sep 24 2024 - [Attestation format change for the Android FIDO2 API](http://android-developers.googleblog.com/2024/09/attestation-format-change-for-android-fido2-api.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
