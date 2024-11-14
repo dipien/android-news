@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 14 2024 - [Ultra HDR images - Android Build Time](https://www.youtube.com/watch?v=iKSLwym0Acw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Nov 14 2024 - [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 13 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 13 2024 - [Passkeys - Spotlight Week](https://www.youtube.com/watch?v=fgZ16yDFb7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -27,7 +29,6 @@
 - Oct 31 2024 - [More frequent Android SDK releases: faster innovation, higher quality and more polish](http://android-developers.googleblog.com/2024/10/android-sdk-release-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Gemini in Android Studio, now helping you across the development lifecycle](http://android-developers.googleblog.com/2024/10/whats-new-in-gemini-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Android Developer Story: SuperPlay increases new installs by 3x with Play Points](https://www.youtube.com/watch?v=e4tcT1WFRDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 31 2024 - [Android Developer Story: Spotify drives discovery & engagement on and beyond the Play Store](https://www.youtube.com/watch?v=peEbiF8PsT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -65,7 +66,6 @@
 - Sep 25 2024 - [Firebase After Hours #6: Firebase App Hosting](https://www.youtube.com/watch?v=KWQeElH4pSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 24 2024 - [Changes to Cloud Functions](https://www.youtube.com/watch?v=tz7wmnhC9fY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Sep 18 2024 - [结合 Flutter 和 Gemini API, 开展多模态提示工程](https://www.youtube.com/watch?v=OjGyWju6KQI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
