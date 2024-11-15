@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2024 - [Password policies - Release Notes Deep Dive](https://www.youtube.com/watch?v=smB-4UogJpQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 14 2024 - [Ultra HDR images - Android Build Time](https://www.youtube.com/watch?v=iKSLwym0Acw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2024 - [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -29,7 +30,6 @@
 - Oct 31 2024 - [Updates to power your growth on Google Play](http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [More frequent Android SDK releases: faster innovation, higher quality and more polish](http://android-developers.googleblog.com/2024/10/android-sdk-release-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Gemini in Android Studio, now helping you across the development lifecycle](http://android-developers.googleblog.com/2024/10/whats-new-in-gemini-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 31 2024 - [Android Developer Story: SuperPlay increases new installs by 3x with Play Points](https://www.youtube.com/watch?v=e4tcT1WFRDM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
