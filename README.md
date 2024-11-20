@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 20 2024 - [Passkeys #SpotlightWeek](https://www.youtube.com/watch?v=nekYgmMTxxA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 20 2024 - [How to make multimodal prompts in Gemini for an iOS app](https://www.youtube.com/watch?v=5Wm_-xdClPI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [Introducing Restore Credentials: Effortless account restoration for Android apps](http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 20 2024 - [Armed with Firebase + Vertex AI, you too can revolutionize the way you write app descriptions](https://www.youtube.com/watch?v=eQB7vcdbWvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -39,7 +40,6 @@
 - Oct 31 2024 - [Learn how Android devs are getting the most out of Gemini in Android Studio](https://www.youtube.com/watch?v=cmmlqsv3-5A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=ZfIE-LATgH4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [More frequent Android SDK releases, and a look into updates on Android](https://www.youtube.com/watch?v=tU9-p4jME_w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 31 2024 - [Android Developer Story: FlipaClip sees a 54% growth in tablet users in the four months](https://www.youtube.com/watch?v=MFULzlv3pWs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!](http://android-developers.googleblog.com/2024/10/tas-24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Updates to power your growth on Google Play](http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
