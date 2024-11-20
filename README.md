@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 20 2024 - [Armed with Firebase + Vertex AI, you too can revolutionize the way you write app descriptions](https://www.youtube.com/watch?v=eQB7vcdbWvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 19 2024 - [Ship personalized AI experiences and fix issues faster with Remote Config and Crashlytics](https://www.youtube.com/watch?v=1f8Z3AY9avU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2024 - [Test your apps smarter, not harder, with Firebase AI Testing Agent](https://www.youtube.com/watch?v=sxSrHFuM3zM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2024 - [How to monitor your Firebase Genkit AI feature in production](https://www.youtube.com/watch?v=OdgYwiMg1VA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -42,7 +44,6 @@
 - Oct 31 2024 - [More frequent Android SDK releases: faster innovation, higher quality and more polish](http://android-developers.googleblog.com/2024/10/android-sdk-release-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Gemini in Android Studio, now helping you across the development lifecycle](http://android-developers.googleblog.com/2024/10/whats-new-in-gemini-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 30 2024 - [Hey Google… create a promotional video for #FirebaseDemoDay](https://www.youtube.com/watch?v=-6xWWHkfIRw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Oct 30 2024 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -64,7 +65,6 @@
 - Oct 01 2024 - [Gemini Nano is now available on Android via experimental access](http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 30 2024 - [Welcome to AI on Android Spotlight Week](http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Sep 30 2024 - [Gemini in Android Studio: Code Completion Gains Powerful Model Improvements](http://android-developers.googleblog.com/2024/09/gemini-android-studio-code-completion-model-improvements.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
