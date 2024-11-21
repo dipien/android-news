@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 21 2024 - [New triggers: beforeSendEmail and beforeSendSms](https://www.youtube.com/watch?v=nJHwdtNCSpM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [Passkeys #SpotlightWeek](https://www.youtube.com/watch?v=nekYgmMTxxA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 20 2024 - [How to make multimodal prompts in Gemini for an iOS app](https://www.youtube.com/watch?v=5Wm_-xdClPI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [Introducing Restore Credentials: Effortless account restoration for Android apps](http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -31,7 +32,6 @@
 - Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 07 2024 - [Now in Android: 111 - Android API level and schedule updates, Gemini in Android Studio, Google Play](https://www.youtube.com/watch?v=WRzkRWxBAZU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [#WeArePlay: Fujio, Pirika - Japan](https://www.youtube.com/watch?v=P2LPxXKMvYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 07 2024 - [October 2024:  Data Connect, Vertex AI, Gemini in Firebase and more!](https://www.youtube.com/watch?v=uzf-cHtwvbw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 07 2024 - [AnchoredDraggable #shorts](https://www.youtube.com/watch?v=pvz37J9jIVg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=C3fsm_rj4QQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
