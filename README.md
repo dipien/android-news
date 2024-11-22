@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 22 2024 - [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2024 - [How would you summarize #FirebaseDemoDay in a single line of code?](https://www.youtube.com/watch?v=2uVmaRQg3JE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -26,7 +27,6 @@
 - Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 15 2024 - [Password policies - Release Notes Deep Dive](https://www.youtube.com/watch?v=smB-4UogJpQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 14 2024 - [Ultra HDR images - Android Build Time](https://www.youtube.com/watch?v=iKSLwym0Acw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 14 2024 - [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 13 2024 - [Passkeys - Spotlight Week](https://www.youtube.com/watch?v=fgZ16yDFb7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
