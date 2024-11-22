@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 22 2024 - [What's new in Firebase Genkit 0.9 (spoiler... agents!)](https://www.youtube.com/watch?v=vZ23UxcJ7Kk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [Migrating from Genkit 0.5 to 0.9](https://www.youtube.com/watch?v=vBa3MIbUrfs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [Connect your app to real world services with Tool Calling to provide next level experiences](https://www.youtube.com/watch?v=4gQtNhC-QNs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [Updates you may have missed from October’s Release Notes](https://www.youtube.com/watch?v=xoe1ww-RbM4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -22,7 +23,6 @@
 - Nov 19 2024 - [Deploy a Genkit flow with App Hosting](https://www.youtube.com/watch?v=8gsEWgi4K8M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2024 - [Giving your AI apps superpowers with Tool Calling](https://www.youtube.com/watch?v=IuZi09JfDo4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2024 - [Retrieval Augmented Generation made easy with Firebase Genkit](https://www.youtube.com/watch?v=P7_MfPMnnxs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 19 2024 - [Use Vertex AI in Firebase to securely call Gemini from an iOS app](https://www.youtube.com/watch?v=xB1Nxn0BHvg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [Welcome to Spotlight Week: Passkeys](http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
