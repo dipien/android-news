@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 25 2024 - [Call Genkit flows and Next.js applications easily with React Server Actions](https://www.youtube.com/watch?v=jUejhLfUd64) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 25 2024 - [Learn how to create captivating descriptions for anything with Firebase and Vertex AI](https://www.youtube.com/watch?v=aUampBbPrp4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [How to connect your data to Gemini with Genkit and Firebase Data Connect](https://www.youtube.com/watch?v=3g2lNUe-cNY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [What's new in Firebase Genkit 0.9 (spoiler... agents!)](https://www.youtube.com/watch?v=vZ23UxcJ7Kk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -22,7 +23,6 @@
 - Nov 19 2024 - [Ship personalized AI experiences and fix issues faster with Remote Config and Crashlytics](https://www.youtube.com/watch?v=1f8Z3AY9avU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2024 - [Test your apps smarter, not harder, with Firebase AI Testing Agent](https://www.youtube.com/watch?v=sxSrHFuM3zM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 19 2024 - [How to monitor your Firebase Genkit AI feature in production](https://www.youtube.com/watch?v=OdgYwiMg1VA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 19 2024 - [Deploy a Genkit flow with App Hosting](https://www.youtube.com/watch?v=8gsEWgi4K8M) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [Welcome to Spotlight Week: Passkeys](http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
