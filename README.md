@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 26 2024 - [Episode 211: Rules about Performance Tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 26 2024 - [#FirebaseDemoDay 2024 in less than 1 minute](https://www.youtube.com/watch?v=9dCjQuFN-Xo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 25 2024 - [Call Genkit flows and Next.js applications easily with React Server Actions](https://www.youtube.com/watch?v=jUejhLfUd64) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 25 2024 - [Learn how to create captivating descriptions for anything with Firebase and Vertex AI](https://www.youtube.com/watch?v=aUampBbPrp4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
 - Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
-- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
