@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 27 2024 - [Add Vertex AI and Firebase to an iOS app in under a minute](https://www.youtube.com/watch?v=xjli-xwYuV4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Rules about performance tools - Android Developers Backstage](https://www.youtube.com/watch?v=bvXWQ2NidmQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 26 2024 - [#FirebaseDemoDay 2024 in less than 1 minute](https://www.youtube.com/watch?v=9dCjQuFN-Xo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -24,7 +25,6 @@
 - Nov 20 2024 - [Armed with Firebase + Vertex AI, you too can revolutionize the way you write app descriptions](https://www.youtube.com/watch?v=eQB7vcdbWvQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 19 2024 - [Ship personalized AI experiences and fix issues faster with Remote Config and Crashlytics](https://www.youtube.com/watch?v=1f8Z3AY9avU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 19 2024 - [Test your apps smarter, not harder, with Firebase AI Testing Agent](https://www.youtube.com/watch?v=sxSrHFuM3zM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [Welcome to Spotlight Week: Passkeys](http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
