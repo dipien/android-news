@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Nov 29 2024 - [Host your Next.js or Angular SSR application on Firebase with Firebase App Hosting](https://www.youtube.com/watch?v=bi_vpVI9Kxk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/watch?v=psuIEMPUfaE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Clipping and masking - Jetpack Compose Tips](https://www.youtube.com/watch?v=rdS4A2YFBHA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 27 2024 - [Combine tools to expand the capabilities of your AI apps for personalized results in real-time](https://www.youtube.com/watch?v=lYdm4ZFaboc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -23,7 +24,6 @@
 - Nov 21 2024 - [X improved login success rate by 2x after adopting passkeys](http://android-developers.googleblog.com/2024/11/x-improved-login-success-rate-after-adopting-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [New triggers: beforeSendEmail and beforeSendSms](https://www.youtube.com/watch?v=nJHwdtNCSpM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [Passkeys #SpotlightWeek](https://www.youtube.com/watch?v=nekYgmMTxxA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 20 2024 - [How to make multimodal prompts in Gemini for an iOS app](https://www.youtube.com/watch?v=5Wm_-xdClPI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [Introducing Restore Credentials: Effortless account restoration for Android apps](http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
