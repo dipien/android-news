@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 02 2024 - [The top 6 takeaways from Firebase Demo Day 2024](https://www.youtube.com/watch?v=aI9c1RoFgCI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Host your Next.js or Angular SSR application on Firebase with Firebase App Hosting](https://www.youtube.com/watch?v=bi_vpVI9Kxk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/watch?v=psuIEMPUfaE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Clipping and masking - Jetpack Compose Tips](https://www.youtube.com/watch?v=rdS4A2YFBHA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -22,7 +23,6 @@
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 21 2024 - [X improved login success rate by 2x after adopting passkeys](http://android-developers.googleblog.com/2024/11/x-improved-login-success-rate-after-adopting-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 21 2024 - [New triggers: beforeSendEmail and beforeSendSms](https://www.youtube.com/watch?v=nJHwdtNCSpM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 20 2024 - [Passkeys #SpotlightWeek](https://www.youtube.com/watch?v=nekYgmMTxxA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 20 2024 - [Introducing Restore Credentials: Effortless account restoration for Android apps](http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
