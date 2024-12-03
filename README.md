@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 03 2024 - [What can you do in 10 minutes? Test your apps with Firebase’s AI-Testing Agent](https://www.youtube.com/watch?v=LCx7dCeshx8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [Making the Play Integrity API faster, more resilient, and more private](http://android-developers.googleblog.com/2024/12/making-play-integrity-api-faster-resilient-private.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 03 2024 - [Use AI to monitor how your Firebase app features are used and make them even better](https://www.youtube.com/watch?v=UHQVUsrin4w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 02 2024 - [The top 6 takeaways from Firebase Demo Day 2024](https://www.youtube.com/watch?v=aI9c1RoFgCI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -19,7 +20,6 @@
 - Nov 22 2024 - [Migrating from Genkit 0.5 to 0.9](https://www.youtube.com/watch?v=vBa3MIbUrfs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [Connect your app to real world services with Tool Calling to provide next level experiences](https://www.youtube.com/watch?v=4gQtNhC-QNs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 22 2024 - [Updates you may have missed from October’s Release Notes](https://www.youtube.com/watch?v=xoe1ww-RbM4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 22 2024 - [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
