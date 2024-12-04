@@ -3,6 +3,7 @@
 <!-- NEWS:START -->
 - Dec 04 2024 - [#WeArePlay: Mesty and Garri, Tentang Anak - Indonesia](https://www.youtube.com/watch?v=NDdzo7Uichc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 04 2024 - [Monitor the performance of your AI-powered app features with the Firebase AI Monitoring dashboard](https://www.youtube.com/watch?v=XNfoh5y6kAw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Dec 04 2024 - [#WeArePlay - Tentang Anak connects parents to experts across Indonesia](http://android-developers.googleblog.com/2024/12/weareplay-tentang-anak-connects-parents-to-experts-indonesia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 03 2024 - [November 2024: Gemini in Data Connect, Genkit and iOS Live Activities!](https://www.youtube.com/watch?v=BVHbWDhN5yk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [What can you do in 10 minutes? Test your apps with Firebase’s AI-Testing Agent](https://www.youtube.com/watch?v=LCx7dCeshx8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [Making the Play Integrity API faster, more resilient, and more private](http://android-developers.googleblog.com/2024/12/making-play-integrity-api-faster-resilient-private.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,7 +66,6 @@
 - Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Advanced capabilities of the Gemini API for Android developers](http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 02 2024 - [PyTorch machine learning models on Android](http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
