@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 04 2024 - [#WeArePlay: Mesty and Garri, Tentang Anak - Indonesia](https://www.youtube.com/watch?v=NDdzo7Uichc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 04 2024 - [Monitor the performance of your AI-powered app features with the Firebase AI Monitoring dashboard](https://www.youtube.com/watch?v=XNfoh5y6kAw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [November 2024: Gemini in Data Connect, Genkit and iOS Live Activities!](https://www.youtube.com/watch?v=BVHbWDhN5yk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [What can you do in 10 minutes? Test your apps with Firebase’s AI-Testing Agent](https://www.youtube.com/watch?v=LCx7dCeshx8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -44,7 +45,6 @@
 - Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=C3fsm_rj4QQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=QqbtL_grR3g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, with a big update to Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 31 2024 - [Learn how Android devs are getting the most out of Gemini in Android Studio](https://www.youtube.com/watch?v=cmmlqsv3-5A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!](http://android-developers.googleblog.com/2024/10/tas-24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Updates to power your growth on Google Play](http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
