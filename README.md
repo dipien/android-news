@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2024 - [Optimizing your app’s revenue: flexible monetization tools](https://www.youtube.com/watch?v=w7O6f_wIWZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2024 - [Measuring the impact of misleading ads](https://www.youtube.com/watch?v=xKk1DYamuPk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2024 - [Myths and fallacies of device optimization](https://www.youtube.com/watch?v=jZbnEIUJk5w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Subscription fatigue: from myths to facts to opportunities](https://www.youtube.com/watch?v=NG5c9QjNEx8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Deconstructing successful Google Play game launches](https://www.youtube.com/watch?v=PiwHwa7oiRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Navigation market expansion: key considerations](https://www.youtube.com/watch?v=mxkR1PE0mk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -43,10 +46,7 @@
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 08 2024 - [FlipaClip sees a 54% growth in tablet users in the four months](https://www.youtube.com/watch?v=TDGzLGLmVzY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Nov 07 2024 - [Now in Android: 111 - Android API level and schedule updates, Gemini in Android Studio, Google Play](https://www.youtube.com/watch?v=WRzkRWxBAZU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 07 2024 - [#WeArePlay: Fujio, Pirika - Japan](https://www.youtube.com/watch?v=P2LPxXKMvYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!](http://android-developers.googleblog.com/2024/10/tas-24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
