@@ -1,7 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2024 - [Subscription fatigue: from myths to facts to opportunities](https://www.youtube.com/watch?v=NG5c9QjNEx8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2024 - [Deconstructing successful Google Play game launches](https://www.youtube.com/watch?v=PiwHwa7oiRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Navigation market expansion: key considerations](https://www.youtube.com/watch?v=mxkR1PE0mk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2024 - [Resolve crashes faster with AI assistance in Crashlytics](https://www.youtube.com/watch?v=6T3vbCOvOJE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2024 - [Maximizing monetization via cross-category affinities](https://www.youtube.com/watch?v=eh-MOwZTzMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -25,7 +28,6 @@
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 26 2024 - [#FirebaseDemoDay 2024 in less than 1 minute](https://www.youtube.com/watch?v=9dCjQuFN-Xo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 25 2024 - [Call Genkit flows and Next.js applications easily with React Server Actions](https://www.youtube.com/watch?v=jUejhLfUd64) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 25 2024 - [Learn how to create captivating descriptions for anything with Firebase and Vertex AI](https://www.youtube.com/watch?v=aUampBbPrp4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -45,9 +47,7 @@
 - Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 07 2024 - [Now in Android: 111 - Android API level and schedule updates, Gemini in Android Studio, Google Play](https://www.youtube.com/watch?v=WRzkRWxBAZU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 07 2024 - [#WeArePlay: Fujio, Pirika - Japan](https://www.youtube.com/watch?v=P2LPxXKMvYI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 07 2024 - [AnchoredDraggable #shorts](https://www.youtube.com/watch?v=pvz37J9jIVg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
-- Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=C3fsm_rj4QQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!](http://android-developers.googleblog.com/2024/10/tas-24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Updates to power your growth on Google Play](http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
