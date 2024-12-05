@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2024 - [Firebase After Hours #9: SQL or NoSQL, that is no longer the question (Firebase Data Connect)](https://www.youtube.com/watch?v=xtkoFZLUg8k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 04 2024 - [Four Tips to Help You Build High-Quality, Engaging, and Age-Appropriate Apps](http://android-developers.googleblog.com/2024/12/build-high-quality-enagaing-age-appropriate-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2024 - [Confidently create personalized AI experiences in your apps with Remote Config and Genkit](https://www.youtube.com/watch?v=5-fo5X91WOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -22,7 +23,6 @@
 - Nov 26 2024 - [#FirebaseDemoDay 2024 in less than 1 minute](https://www.youtube.com/watch?v=9dCjQuFN-Xo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 25 2024 - [Call Genkit flows and Next.js applications easily with React Server Actions](https://www.youtube.com/watch?v=jUejhLfUd64) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 25 2024 - [Learn how to create captivating descriptions for anything with Firebase and Vertex AI](https://www.youtube.com/watch?v=aUampBbPrp4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 22 2024 - [How to connect your data to Gemini with Genkit and Firebase Data Connect](https://www.youtube.com/watch?v=3g2lNUe-cNY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
