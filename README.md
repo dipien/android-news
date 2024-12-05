@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 05 2024 - [Navigation market expansion: key considerations](https://www.youtube.com/watch?v=mxkR1PE0mk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2024 - [Maximizing monetization via cross-category affinities](https://www.youtube.com/watch?v=eh-MOwZTzMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2024 - [Firebase After Hours #9: SQL or NoSQL, that is no longer the question (Firebase Data Connect)](https://www.youtube.com/watch?v=xtkoFZLUg8k) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -46,8 +48,6 @@
 - Nov 07 2024 - [AnchoredDraggable #shorts](https://www.youtube.com/watch?v=pvz37J9jIVg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=C3fsm_rj4QQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 01 2024 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=QqbtL_grR3g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Oct 31 2024 - [#TheAndroidShow: live from Droidcon, with a big update to Gemini in Android Studio, and more!](https://www.youtube.com/watch?v=iKTgKGeTRzg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!](http://android-developers.googleblog.com/2024/10/tas-24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Updates to power your growth on Google Play](http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
