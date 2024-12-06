@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 06 2024 - [#WeArePlay: Celebrating the people behind apps and games](https://www.youtube.com/watch?v=P6oWGNWuLeA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 06 2024 - [User-Agent Reduction on Android WebView](http://android-developers.googleblog.com/2024/12/user-agent-reduction-on-android-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2024 - [Optimizing your app’s revenue: flexible monetization tools](https://www.youtube.com/watch?v=w7O6f_wIWZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Measuring the impact of misleading ads](https://www.youtube.com/watch?v=xKk1DYamuPk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Myths and fallacies of device optimization](https://www.youtube.com/watch?v=jZbnEIUJk5w) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -42,7 +44,6 @@
 - Nov 18 2024 - [Welcome to Spotlight Week: Passkeys](http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 14 2024 - [Ultra HDR images - Android Build Time](https://www.youtube.com/watch?v=iKSLwym0Acw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 13 2024 - [Passkeys - Spotlight Week](https://www.youtube.com/watch?v=fgZ16yDFb7M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -65,7 +66,6 @@
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 08 2024 - [Introducing Ink API, a new Jetpack library for stylus apps](http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 03 2024 - [Gemini API in action: showcase of innovative Android apps](http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
