@@ -1,7 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 09 2024 - [Integrating Firebase Authentication #shorts](https://www.youtube.com/watch?v=05C4gO0mNas) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Dec 09 2024 - [Prototyping your schema #shorts](https://www.youtube.com/watch?v=Lj2uLOVpNzc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Notes from Google Play: The next phase of Play](https://www.youtube.com/watch?v=51OUvg6vNpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 09 2024 - [Notes from Google Play: The next phase of Play](http://android-developers.googleblog.com/2024/12/notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 06 2024 - [#WeArePlay: Celebrating the people behind apps and games](https://www.youtube.com/watch?v=P6oWGNWuLeA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2024 - [User-Agent Reduction on Android WebView](http://android-developers.googleblog.com/2024/12/user-agent-reduction-on-android-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2024 - [Optimizing your app’s revenue: flexible monetization tools](https://www.youtube.com/watch?v=w7O6f_wIWZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -32,8 +35,6 @@
 - Nov 27 2024 - [Add Vertex AI and Firebase to an iOS app in under a minute](https://www.youtube.com/watch?v=xjli-xwYuV4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Rules about performance tools - Android Developers Backstage](https://www.youtube.com/watch?v=bvXWQ2NidmQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 26 2024 - [#FirebaseDemoDay 2024 in less than 1 minute](https://www.youtube.com/watch?v=9dCjQuFN-Xo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 25 2024 - [Call Genkit flows and Next.js applications easily with React Server Actions](https://www.youtube.com/watch?v=jUejhLfUd64) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 21 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -65,7 +66,6 @@
 - Oct 14 2024 - [Here's what happening in our latest Spotlight Week: Adaptive Android Apps](http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Oct 08 2024 - [Introducing Ink API, a new Jetpack library for stylus apps](http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
