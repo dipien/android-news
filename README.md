@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 09 2024 - [Notes from Google Play: The next phase of Play](https://www.youtube.com/watch?v=51OUvg6vNpw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2024 - [#WeArePlay: Celebrating the people behind apps and games](https://www.youtube.com/watch?v=P6oWGNWuLeA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2024 - [User-Agent Reduction on Android WebView](http://android-developers.googleblog.com/2024/12/user-agent-reduction-on-android-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2024 - [Optimizing your app’s revenue: flexible monetization tools](https://www.youtube.com/watch?v=w7O6f_wIWZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -43,7 +44,6 @@
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [Welcome to Spotlight Week: Passkeys](http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Nov 14 2024 - [Ultra HDR images - Android Build Time](https://www.youtube.com/watch?v=iKSLwym0Acw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
