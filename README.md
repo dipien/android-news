@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 12 2024 - [A vision for Android XR](https://www.youtube.com/watch?v=Pn5uG1ys-pE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 12 2024 - [Introducing Android XR SDK Developer Preview](http://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 10 2024 - [Get started with #Firebase using Free Trial credits](https://www.youtube.com/watch?v=1mxP-TzAww4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Integrating Firebase Authentication #shorts](https://www.youtube.com/watch?v=05C4gO0mNas) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Prototyping your schema #shorts](https://www.youtube.com/watch?v=Lj2uLOVpNzc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -44,7 +46,6 @@
 - Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [Welcome to Spotlight Week: Passkeys](http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 15 2024 - [Graphics layers - Jetpack Compose Tips](https://www.youtube.com/watch?v=KawI7srRvOM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -63,7 +64,6 @@
 - Oct 16 2024 - [Chrome on Android to support third-party autofill services natively](http://android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2024 - [Creating a responsive dashboard layout for JetLagged with Jetpack Compose](http://android-developers.googleblog.com/2024/10/creating-responsive-dashboard-layout-for-jetlagged-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 15 2024 - [#WeArePlay - NomadHer helps women travel the world](http://android-developers.googleblog.com/2024/10/weareplay-nomadher-helps-women-travel-the-world.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 14 2024 - [Here's what happening in our latest Spotlight Week: Adaptive Android Apps](http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
