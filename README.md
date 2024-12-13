@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 13 2024 - [#WeArePlay - Meet the people building sport apps and games](http://android-developers.googleblog.com/2024/12/weareplay-meet-people-building-sport-apps-and-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](http://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [A vision for Android XR](https://www.youtube.com/watch?v=Pn5uG1ys-pE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 12 2024 - [Introducing Android XR SDK Developer Preview](http://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -63,7 +64,6 @@
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 16 2024 - [CameraX update makes dual concurrent camera even easier](http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 16 2024 - [Chrome on Android to support third-party autofill services natively](http://android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 15 2024 - [Creating a responsive dashboard layout for JetLagged with Jetpack Compose](http://android-developers.googleblog.com/2024/10/creating-responsive-dashboard-layout-for-jetlagged-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
