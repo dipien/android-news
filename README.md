@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 13 2024 - [Now in Android #112](https://medium.com/androiddevelopers/now-in-android-112-fc66ce31550c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Dec 13 2024 - [Now in Android: 112 - Android 16 Developer Preview 1, Passkeys Spotlight Week, and more!](https://www.youtube.com/watch?v=OjcdophFcTE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2024 - [#WeArePlay - Meet the people building sport apps and games](http://android-developers.googleblog.com/2024/12/weareplay-meet-people-building-sport-apps-and-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](http://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [A vision for Android XR](https://www.youtube.com/watch?v=Pn5uG1ys-pE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -43,7 +45,6 @@
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 21 2024 - [X improved login success rate by 2x after adopting passkeys](http://android-developers.googleblog.com/2024/11/x-improved-login-success-rate-after-adopting-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 20 2024 - [Passkeys #SpotlightWeek](https://www.youtube.com/watch?v=nekYgmMTxxA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 20 2024 - [Introducing Restore Credentials: Effortless account restoration for Android apps](http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 18 2024 - [The First Developer Preview of Android 16](http://android-developers.googleblog.com/2024/11/the-first-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -80,7 +81,6 @@
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Build a Slack Bot App with Firebase Genkit in just 100 Lines](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 27 2024 - [Now in Android #109](https://medium.com/androiddevelopers/now-in-android-109-1dbf4e81b127?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Aug 09 2024 - [Efficient Render Passes — On Tile-Based Rendering Hardware](https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
