@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 17 2024 - [How Instagram enabled users to take stunning Low Light Photos](http://android-developers.googleblog.com/2024/12/instagram-on-android-low-light-photos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Dec 17 2024 - [What's new in CameraX 1.4.0 and a sneak peek of Jetpack Compose support](http://android-developers.googleblog.com/2024/12/whats-new-in-camerax-140-and-jetpack-compose-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 17 2024 - [Get your apps ready for 16 KB page size devices](http://android-developers.googleblog.com/2024/12/get-your-apps-ready-for-16-kb-page-size-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 13 2024 - [Now in Android #112](https://medium.com/androiddevelopers/now-in-android-112-fc66ce31550c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -63,9 +65,7 @@
 - Oct 31 2024 - [Gemini in Android Studio, now helping you across the development lifecycle](http://android-developers.googleblog.com/2024/10/whats-new-in-gemini-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 23 2024 - [Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!](http://android-developers.googleblog.com/2024/10/tas-24-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 16 2024 - [CameraX update makes dual concurrent camera even easier](http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
