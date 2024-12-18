@@ -11,6 +11,7 @@
 - Dec 12 2024 - [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](http://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [A vision for Android XR](https://www.youtube.com/watch?v=Pn5uG1ys-pE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 12 2024 - [Introducing Android XR SDK Developer Preview](http://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
 - Dec 10 2024 - [Get started with #Firebase using Free Trial credits](https://www.youtube.com/watch?v=1mxP-TzAww4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Integrating Firebase Authentication #shorts](https://www.youtube.com/watch?v=05C4gO0mNas) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Prototyping your schema #shorts](https://www.youtube.com/watch?v=Lj2uLOVpNzc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
-- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
-- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
