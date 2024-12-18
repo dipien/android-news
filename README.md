@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [How Instagram enabled users to take stunning Low Light Photos](http://android-developers.googleblog.com/2024/12/instagram-on-android-low-light-photos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [What's new in CameraX 1.4.0 and a sneak peek of Jetpack Compose support](http://android-developers.googleblog.com/2024/12/whats-new-in-camerax-140-and-jetpack-compose-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -63,7 +64,6 @@
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [Updates to power your growth on Google Play](http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [More frequent Android SDK releases: faster innovation, higher quality and more polish](http://android-developers.googleblog.com/2024/10/android-sdk-release-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Oct 31 2024 - [Gemini in Android Studio, now helping you across the development lifecycle](http://android-developers.googleblog.com/2024/10/whats-new-in-gemini-in-android.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
