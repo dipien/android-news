@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 19 2024 - [XR Unlocked '24 in under 8 minutes](https://www.youtube.com/watch?v=-p9BtBd-Al8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [How Instagram enabled users to take stunning Low Light Photos](http://android-developers.googleblog.com/2024/12/instagram-on-android-low-light-photos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [What's new in CameraX 1.4.0 and a sneak peek of Jetpack Compose support](http://android-developers.googleblog.com/2024/12/whats-new-in-camerax-140-and-jetpack-compose-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -47,7 +48,6 @@
 - Nov 27 2024 - [Add Vertex AI and Firebase to an iOS app in under a minute](https://www.youtube.com/watch?v=xjli-xwYuV4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Rules about performance tools - Android Developers Backstage](https://www.youtube.com/watch?v=bvXWQ2NidmQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Nov 21 2024 - [Passkeys #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=HvyIcPfS18s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 21 2024 - [X improved login success rate by 2x after adopting passkeys](http://android-developers.googleblog.com/2024/11/x-improved-login-success-rate-after-adopting-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
