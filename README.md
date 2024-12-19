@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Dec 19 2024 - [Designing apps for Android XR](https://www.youtube.com/watch?v=VzqYmeA0IbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 19 2024 - [Adapting Android apps for XR](https://www.youtube.com/watch?v=RQsE0n1xBxo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 19 2024 - [Build immersive apps & experiences with OpenXR & Unity](https://www.youtube.com/watch?v=UhDx9NMqT7o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [XR Unlocked '24 in under 8 minutes](https://www.youtube.com/watch?v=-p9BtBd-Al8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [How Instagram enabled users to take stunning Low Light Photos](http://android-developers.googleblog.com/2024/12/instagram-on-android-low-light-photos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -33,7 +36,6 @@
 - Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 04 2024 - [Four Tips to Help You Build High-Quality, Engaging, and Age-Appropriate Apps](http://android-developers.googleblog.com/2024/12/build-high-quality-enagaing-age-appropriate-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2024 - [Confidently create personalized AI experiences in your apps with Remote Config and Genkit](https://www.youtube.com/watch?v=5-fo5X91WOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 04 2024 - [#WeArePlay: Mesty and Garri, Tentang Anak - Indonesia](https://www.youtube.com/watch?v=NDdzo7Uichc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 04 2024 - [Monitor the performance of your AI-powered app features with the Firebase AI Monitoring dashboard](https://www.youtube.com/watch?v=XNfoh5y6kAw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 04 2024 - [#WeArePlay - Tentang Anak connects parents to experts across Indonesia](http://android-developers.googleblog.com/2024/12/weareplay-tentang-anak-connects-parents-to-experts-indonesia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 03 2024 - [November 2024: Gemini in Data Connect, Genkit and iOS Live Activities!](https://www.youtube.com/watch?v=BVHbWDhN5yk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -43,10 +45,8 @@
 - Dec 02 2024 - [The top 6 takeaways from Firebase Demo Day 2024](https://www.youtube.com/watch?v=aI9c1RoFgCI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Host your Next.js or Angular SSR application on Firebase with Firebase App Hosting](https://www.youtube.com/watch?v=bi_vpVI9Kxk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/watch?v=psuIEMPUfaE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 27 2024 - [Clipping and masking - Jetpack Compose Tips](https://www.youtube.com/watch?v=rdS4A2YFBHA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 27 2024 - [Combine tools to expand the capabilities of your AI apps for personalized results in real-time](https://www.youtube.com/watch?v=lYdm4ZFaboc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Add Vertex AI and Firebase to an iOS app in under a minute](https://www.youtube.com/watch?v=xjli-xwYuV4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 27 2024 - [Rules about performance tools - Android Developers Backstage](https://www.youtube.com/watch?v=bvXWQ2NidmQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
