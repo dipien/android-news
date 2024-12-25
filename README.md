@@ -1,7 +1,6 @@
 # Android News
 
 <!-- NEWS:START -->
-- Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 19 2024 - [Designing apps for Android XR](https://www.youtube.com/watch?v=VzqYmeA0IbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Adapting Android apps for XR](https://www.youtube.com/watch?v=RQsE0n1xBxo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Build immersive apps & experiences with OpenXR & Unity](https://www.youtube.com/watch?v=UhDx9NMqT7o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -12,7 +11,6 @@
 - Dec 17 2024 - [What's new in CameraX 1.4.0 and a sneak peek of Jetpack Compose support](http://android-developers.googleblog.com/2024/12/whats-new-in-camerax-140-and-jetpack-compose-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 17 2024 - [Get your apps ready for 16 KB page size devices](http://android-developers.googleblog.com/2024/12/get-your-apps-ready-for-16-kb-page-size-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 13 2024 - [Now in Android #112](https://medium.com/androiddevelopers/now-in-android-112-fc66ce31550c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 13 2024 - [Now in Android: 112 - Android 16 Developer Preview 1, Passkeys Spotlight Week, and more!](https://www.youtube.com/watch?v=OjcdophFcTE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2024 - [#WeArePlay - Meet the people building sport apps and games](http://android-developers.googleblog.com/2024/12/weareplay-meet-people-building-sport-apps-and-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](http://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +32,6 @@
 - Dec 05 2024 - [[Apps] - Navigating market expansion: key considerations (Playtime 2024)](https://www.youtube.com/watch?v=mxkR1PE0mk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Resolve crashes faster with AI assistance in Crashlytics](https://www.youtube.com/watch?v=6T3vbCOvOJE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2024 - [[Apps] - Maximizing monetization via cross-category affinities (Playtime 2024)](https://www.youtube.com/watch?v=eh-MOwZTzMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 04 2024 - [Four Tips to Help You Build High-Quality, Engaging, and Age-Appropriate Apps](http://android-developers.googleblog.com/2024/12/build-high-quality-enagaing-age-appropriate-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2024 - [Confidently create personalized AI experiences in your apps with Remote Config and Genkit](https://www.youtube.com/watch?v=5-fo5X91WOE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -51,7 +48,6 @@
 - Nov 27 2024 - [Add Vertex AI and Firebase to an iOS app in under a minute](https://www.youtube.com/watch?v=xjli-xwYuV4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 21 2024 - [X improved login success rate by 2x after adopting passkeys](http://android-developers.googleblog.com/2024/11/x-improved-login-success-rate-after-adopting-passkeys.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 20 2024 - [Introducing Restore Credentials: Effortless account restoration for Android apps](http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 20 2024 - [#WeArePlay - Meet more people creating apps and games in Japan](http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -60,7 +56,6 @@
 - Nov 13 2024 - [A Smoother Ride: Android Emulator Stability and Performance Updates](http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 12 2024 - [Unlock global growth with Google Play's tax and compliance initiatives](http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 11 2024 - [Passkeys Spotlight Week begins November 18th](http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
 - Oct 31 2024 - [#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!](http://android-developers.googleblog.com/2024/10/tas-24-recap.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Oct 31 2024 - [FlipaClip optimizes for large screens and sees a 54% increase in tablet users](http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -69,16 +64,11 @@
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 10 2024 - [Now in Android #110](https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
-- Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -100,7 +90,17 @@
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
 - Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
-- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
+- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
+- May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
+- May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
+- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
+- May 10 2023 - [What’s new in Material Design in less than 1 minute](https://www.youtube.com/watch?v=CTR2O3n7x-c) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)
+- May 10 2023 - [Making beautiful products more accessible with Material research - American Sign Language](https://www.youtube.com/watch?v=vysRyD7_jMk) - [Material Design Youtube](https://www.youtube.com/c/MaterialDesign)<!-- NEWS:END -->
 
 ## Sources
 
