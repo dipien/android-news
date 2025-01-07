@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jan 07 2025 - [Camera & Media - Spotlight Week](https://www.youtube.com/watch?v=WYX-GJZ4XX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 19 2024 - [Designing apps for Android XR](https://www.youtube.com/watch?v=VzqYmeA0IbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Adapting Android apps for XR](https://www.youtube.com/watch?v=RQsE0n1xBxo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -33,7 +35,6 @@
 - Dec 05 2024 - [[Games] - Deconstructing successful Google Play game launches (Playtime 2024)](https://www.youtube.com/watch?v=PiwHwa7oiRE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [[Apps] - Navigating market expansion: key considerations (Playtime 2024)](https://www.youtube.com/watch?v=mxkR1PE0mk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Resolve crashes faster with AI assistance in Crashlytics](https://www.youtube.com/watch?v=6T3vbCOvOJE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 05 2024 - [[Apps] - Maximizing monetization via cross-category affinities (Playtime 2024)](https://www.youtube.com/watch?v=eh-MOwZTzMw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 04 2024 - [Four Tips to Help You Build High-Quality, Engaging, and Age-Appropriate Apps](http://android-developers.googleblog.com/2024/12/build-high-quality-enagaing-age-appropriate-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -78,7 +79,6 @@
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 03 2024 - [Insets handling tips for Android 15’s edge-to-edge enforcement](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
