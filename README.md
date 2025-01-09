@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 09 2025 - [Google prompting essentials course](https://www.youtube.com/watch?v=3_F70_h89uA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 08 2025 - [Media & Camera experiences - Android Build Time](https://www.youtube.com/watch?v=nWXmrY8J_nY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 07 2025 - [Camera & Media #SpotlightWeek](https://www.youtube.com/watch?v=EGymaXIb-c8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -49,7 +51,6 @@
 - Nov 29 2024 - [Host your Next.js or Angular SSR application on Firebase with Firebase App Hosting](https://www.youtube.com/watch?v=bi_vpVI9Kxk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/watch?v=psuIEMPUfaE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 27 2024 - [Combine tools to expand the capabilities of your AI apps for personalized results in real-time](https://www.youtube.com/watch?v=lYdm4ZFaboc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 27 2024 - [Add Vertex AI and Firebase to an iOS app in under a minute](https://www.youtube.com/watch?v=xjli-xwYuV4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -78,7 +79,6 @@
 - Sep 11 2024 - [Migrating Compose for TV from alpha to stable](https://medium.com/androiddevelopers/migrating-compose-for-tv-from-alpha-to-stable-b0074d6fd350?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
 - Sep 05 2024 - [Type safe navigation for Compose](https://medium.com/androiddevelopers/type-safe-navigation-for-compose-105325a97657?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Sep 04 2024 - [Preview and test your app’s edge-to-edge UI](https://medium.com/androiddevelopers/preview-and-test-your-apps-edge-to-edge-ui-da645c905d78?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Aug 30 2024 - [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
