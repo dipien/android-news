@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 09 2025 - [Auto-generated queries - Release Notes Deep Dive](https://www.youtube.com/watch?v=X3TuovkMAC8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2025 - [What's new in Android Studio Ladybug](https://www.youtube.com/watch?v=Mu8VNoZ4sX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 09 2025 - [Google prompting essentials course](https://www.youtube.com/watch?v=3_F70_h89uA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -50,7 +51,6 @@
 - Dec 02 2024 - [The top 6 takeaways from Firebase Demo Day 2024](https://www.youtube.com/watch?v=aI9c1RoFgCI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Host your Next.js or Angular SSR application on Firebase with Firebase App Hosting](https://www.youtube.com/watch?v=bi_vpVI9Kxk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 29 2024 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/watch?v=psuIEMPUfaE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Nov 27 2024 - [Combine tools to expand the capabilities of your AI apps for personalized results in real-time](https://www.youtube.com/watch?v=lYdm4ZFaboc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
