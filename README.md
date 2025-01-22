@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 22 2025 - [Perform full text search with Firebase Data Connect](https://www.youtube.com/watch?v=HBRYHUsRgrM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 21 2025 - [Did you miss these 2 Firebase launches in 2024? 👀](https://www.youtube.com/watch?v=lJTToY294WU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 15 2025 - [Querying with Data Connect server values #shorts](https://www.youtube.com/watch?v=S9MeVxf4luY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 14 2025 - [[Games] - Challenges of opportunities of operating live games (Playtime 2024)](https://www.youtube.com/watch?v=wahJHzHQO88) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -55,7 +56,6 @@
 - Dec 03 2024 - [November 2024: Gemini in Data Connect, Genkit and iOS Live Activities!](https://www.youtube.com/watch?v=BVHbWDhN5yk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [What can you do in 10 minutes? Test your apps with Firebase’s AI-Testing Agent](https://www.youtube.com/watch?v=LCx7dCeshx8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [Making the Play Integrity API faster, more resilient, and more private](http://android-developers.googleblog.com/2024/12/making-play-integrity-api-faster-resilient-private.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 03 2024 - [Use AI to monitor how your Firebase app features are used and make them even better](https://www.youtube.com/watch?v=UHQVUsrin4w) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
