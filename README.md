@@ -1,7 +1,6 @@
 # Android News
 
 <!-- NEWS:START -->
-- Jan 22 2025 - [Android Dev Story: Originator - MathTango achieves less than 1% battery usage per minute on Wear OS](https://www.youtube.com/watch?v=ubtU9lz6KwI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 21 2025 - [Did you miss these 2 Firebase launches in 2024? 👀](https://www.youtube.com/watch?v=lJTToY294WU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 15 2025 - [Querying with Data Connect server values #shorts](https://www.youtube.com/watch?v=S9MeVxf4luY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 14 2025 - [[Games] - Challenges of opportunities of operating live games (Playtime 2024)](https://www.youtube.com/watch?v=wahJHzHQO88) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -45,6 +44,7 @@
 - Dec 06 2024 - [#WeArePlay: Celebrating the people behind apps and games](https://www.youtube.com/watch?v=P6oWGNWuLeA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 06 2024 - [User-Agent Reduction on Android WebView](http://android-developers.googleblog.com/2024/12/user-agent-reduction-on-android-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2024 - [[Apps]  - Optimizing your app’s revenue: flexible monetization tools (Playtime 2024)](https://www.youtube.com/watch?v=w7O6f_wIWZ8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Dec 05 2024 - [[Games] - Measuring the impact of misleading ads (Playtime 2024)](https://www.youtube.com/watch?v=xKk1DYamuPk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 05 2024 - [Resolve crashes faster with AI assistance in Crashlytics](https://www.youtube.com/watch?v=6T3vbCOvOJE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 05 2024 - [Shipping apps without testing? 😱 Nah! Use Firebase’s new Gemini powered AI-Testing Agent instead.](https://www.youtube.com/watch?v=xBbEY0qhbvI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
