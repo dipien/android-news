@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 23 2025 - [Genkit monitoring - Release Notes Deep Dive](https://www.youtube.com/watch?v=9zTgJgXTHPQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 22 2025 - [Perform full text search with Firebase Data Connect](https://www.youtube.com/watch?v=HBRYHUsRgrM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 21 2025 - [Did you miss these 2 Firebase launches in 2024? 👀](https://www.youtube.com/watch?v=lJTToY294WU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -55,7 +56,6 @@
 - Dec 04 2024 - [Monitor the performance of your AI-powered app features with the Firebase AI Monitoring dashboard](https://www.youtube.com/watch?v=XNfoh5y6kAw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 04 2024 - [#WeArePlay - Tentang Anak connects parents to experts across Indonesia](http://android-developers.googleblog.com/2024/12/weareplay-tentang-anak-connects-parents-to-experts-indonesia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 03 2024 - [November 2024: Gemini in Data Connect, Genkit and iOS Live Activities!](https://www.youtube.com/watch?v=BVHbWDhN5yk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Dec 03 2024 - [What can you do in 10 minutes? Test your apps with Firebase’s AI-Testing Agent](https://www.youtube.com/watch?v=LCx7dCeshx8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 03 2024 - [Making the Play Integrity API faster, more resilient, and more private](http://android-developers.googleblog.com/2024/12/making-play-integrity-api-faster-resilient-private.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 21 2024 - [Gaze Link Wins Best Android App in Gemini API Developer Competition](http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
