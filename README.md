@@ -1,12 +1,12 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 29 2025 - [Production-ready generative AI on Android with Vertex AI in Firebase](http://android-developers.googleblog.com/2025/01/production-ready-generative-ai-on-android-with-vertex-ai-firebase-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2025 - [Implementing authentication with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=ELB0W7f_Ib4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Sign in with Google flows with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=P-3GmvmIdRo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Authentication on Android with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=eAyq9AWLRlY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Helping users find trusted apps on Google Play](http://android-developers.googleblog.com/2025/01/helping-users-find-trusted-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 27 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2025 - [Android Studio’s 10th birthday: our favorite moments!](https://www.youtube.com/watch?v=R1uWWjQMYOI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2025 - [Happy birthday, Android Studio!](https://www.youtube.com/watch?v=IhP4xwRPJGY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2025 - [Android Studio’s 10 year anniversary](http://android-developers.googleblog.com/2025/01/android-studios-10-year-anniversary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
