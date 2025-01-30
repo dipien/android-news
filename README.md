@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jan 30 2025 - [Testing - Jetpack Compose Tips](https://www.youtube.com/watch?v=Y9GWnwi9D0I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 29 2025 - [Production-ready generative AI on Android with Vertex AI in Firebase](http://android-developers.googleblog.com/2025/01/production-ready-generative-ai-on-android-with-vertex-ai-firebase-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2025 - [Implementing authentication with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=ELB0W7f_Ib4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -52,7 +54,6 @@
 - Dec 13 2024 - [Now in Android: 112 - Android 16 Developer Preview 1, Passkeys Spotlight Week, and more!](https://www.youtube.com/watch?v=OjcdophFcTE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 13 2024 - [#WeArePlay - Meet the people building sport apps and games](http://android-developers.googleblog.com/2024/12/weareplay-meet-people-building-sport-apps-and-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](http://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 12 2024 - [A vision for Android XR](https://www.youtube.com/watch?v=Pn5uG1ys-pE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 12 2024 - [Introducing Android XR SDK Developer Preview](http://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
 - Dec 10 2024 - [Get started with #Firebase using Free Trial credits](https://www.youtube.com/watch?v=1mxP-TzAww4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -60,7 +61,6 @@
 - Dec 09 2024 - [Prototyping your schema #shorts](https://www.youtube.com/watch?v=Lj2uLOVpNzc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Notes from Google Play: The next phase of Play](http://android-developers.googleblog.com/2024/12/notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 06 2024 - [User-Agent Reduction on Android WebView](http://android-developers.googleblog.com/2024/12/user-agent-reduction-on-android-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 05 2024 - [Resolve crashes faster with AI assistance in Crashlytics](https://www.youtube.com/watch?v=6T3vbCOvOJE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 04 2024 - [Four Tips to Help You Build High-Quality, Engaging, and Age-Appropriate Apps](http://android-developers.googleblog.com/2024/12/build-high-quality-enagaing-age-appropriate-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 04 2024 - [#WeArePlay - Tentang Anak connects parents to experts across Indonesia](http://android-developers.googleblog.com/2024/12/weareplay-tentang-anak-connects-parents-to-experts-indonesia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
