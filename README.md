@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Feb 04 2025 - [January 2025: AI monitoring, Genkit, Firestore backups GA and many updates on Firebase SDKs!](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Testing - Jetpack Compose Tips](https://www.youtube.com/watch?v=Y9GWnwi9D0I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 30 2025 - [Meet the Android Studio Team: A Conversation with Product Manager, Paris Hsu](http://android-developers.googleblog.com/2025/01/meet-the-android-studio-team-paris-hsu.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
