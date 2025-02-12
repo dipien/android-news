@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Feb 12 2025 - [Getting started with Genkit for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Feb 12 2025 - [Getting started with Genkit for Node.js 1.0](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 07 2025 - [Timeline update: third-party autofill services support on Chrome on Android](http://android-developers.googleblog.com/2025/02/chrome-3p-autofill-services-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 06 2025 - [Meet the Android Studio Team: A Conversation with Director of Product Management, Jamal Eason](http://android-developers.googleblog.com/2025/02/meet-the-android-studio-team-Jamal-Eason.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
