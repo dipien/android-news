@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 12 2025 - [Getting started with Genkit for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 07 2025 - [Timeline update: third-party autofill services support on Chrome on Android](http://android-developers.googleblog.com/2025/02/chrome-3p-autofill-services-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 06 2025 - [Meet the Android Studio Team: A Conversation with Director of Product Management, Jamal Eason](http://android-developers.googleblog.com/2025/02/meet-the-android-studio-team-Jamal-Eason.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -61,7 +62,6 @@
 - Dec 12 2024 - [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](http://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Introducing Android XR SDK Developer Preview](http://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
-- Dec 10 2024 - [Get started with #Firebase using Free Trial credits](https://www.youtube.com/watch?v=1mxP-TzAww4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Dec 09 2024 - [Notes from Google Play: The next phase of Play](http://android-developers.googleblog.com/2024/12/notes-from-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 06 2024 - [User-Agent Reduction on Android WebView](http://android-developers.googleblog.com/2024/12/user-agent-reduction-on-android-webview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
