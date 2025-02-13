@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 13 2025 - [Custom signals for Remote Config - Release Notes Deep Dive](https://www.youtube.com/watch?v=8InZoAqOZGY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 12 2025 - [Getting started with Genkit for Node.js 1.0](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 07 2025 - [Timeline update: third-party autofill services support on Chrome on Android](http://android-developers.googleblog.com/2025/02/chrome-3p-autofill-services-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -36,7 +37,6 @@
 - Jan 09 2025 - [Auto-generated queries - Release Notes Deep Dive](https://www.youtube.com/watch?v=X3TuovkMAC8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2025 - [What's new in Android Studio Ladybug](https://www.youtube.com/watch?v=Mu8VNoZ4sX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 09 2025 - [Android Studio Ladybug Feature Drop is Stable!](http://android-developers.googleblog.com/2025/01/android-studio-ladybug-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 09 2025 - [Google prompting essentials course](https://www.youtube.com/watch?v=3_F70_h89uA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 08 2025 - [Media & Camera experiences - Android Build Time](https://www.youtube.com/watch?v=nWXmrY8J_nY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 08 2025 - [Performance Class helps Google Maps deliver premium experiences](http://android-developers.googleblog.com/2025/01/performance-class-helps-google-maps-deliver-premium-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
