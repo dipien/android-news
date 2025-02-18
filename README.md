@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 18 2025 - [A little less vulnerable #FirebaseCLI](https://www.youtube.com/watch?v=gn3b8pArhuA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 14 2025 - [The future of Firebase Data Connect](https://www.youtube.com/watch?v=1vz0ubezT7Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 13 2025 - [The Second Beta of Android 16](http://android-developers.googleblog.com/2025/02/second-beta-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -38,7 +39,6 @@
 - Jan 21 2025 - [Did you miss these 2 Firebase launches in 2024? 👀](https://www.youtube.com/watch?v=lJTToY294WU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 15 2025 - [Querying with Data Connect server values #shorts](https://www.youtube.com/watch?v=S9MeVxf4luY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 14 2025 - [[Games] - Challenges of opportunities of operating live games (Playtime 2024)](https://www.youtube.com/watch?v=wahJHzHQO88) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 14 2025 - [December 2024: New App Hosting Emulator, AI Monitoring preview, Flutter support for SPM, and more!](https://www.youtube.com/watch?v=StxfyEFtcLc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 10 2025 - [Apps adopt Transformer to support more reliable and performant media editing use cases](http://android-developers.googleblog.com/2025/01/apps-adopt-transformer-to-support-more-reliable-media-editing-use-cases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [What's new in Android Studio Ladybug](https://www.youtube.com/watch?v=Mu8VNoZ4sX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 09 2025 - [Android Studio Ladybug Feature Drop is Stable!](http://android-developers.googleblog.com/2025/01/android-studio-ladybug-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
