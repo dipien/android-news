@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 19 2025 - [Compose for TV - Jetpack Compose Tips](https://www.youtube.com/watch?v=ruJj-wXE3aE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 18 2025 - [A little less vulnerable #FirebaseCLI](https://www.youtube.com/watch?v=gn3b8pArhuA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -38,7 +39,6 @@
 - Jan 22 2025 - [Perform full text search with Firebase Data Connect](https://www.youtube.com/watch?v=HBRYHUsRgrM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 22 2025 - [Android Dev Story: Originator - MathTango achieves less than 1% battery usage per minute on Wear OS](https://www.youtube.com/watch?v=ubtU9lz6KwI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 22 2025 - [Build kids app experiences for Wear OS](http://android-developers.googleblog.com/2025/01/build-kids-app-experiences-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 21 2025 - [Did you miss these 2 Firebase launches in 2024? 👀](https://www.youtube.com/watch?v=lJTToY294WU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 14 2025 - [[Games] - Challenges of opportunities of operating live games (Playtime 2024)](https://www.youtube.com/watch?v=wahJHzHQO88) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 10 2025 - [Apps adopt Transformer to support more reliable and performant media editing use cases](http://android-developers.googleblog.com/2025/01/apps-adopt-transformer-to-support-more-reliable-media-editing-use-cases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [What's new in Android Studio Ladybug](https://www.youtube.com/watch?v=Mu8VNoZ4sX8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
