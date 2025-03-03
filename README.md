@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 03 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=ufWVy9Xdx2s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Widgets #SpotlightWeek](https://www.youtube.com/watch?v=3Eu7xBBv9_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Spotlight Week: Design and Develop Widgets](http://android-developers.googleblog.com/2025/03/spotlight-week-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 03 2025 - [Level Up Your App: Why Android Widgets are a Game-Changer](http://android-developers.googleblog.com/2025/03/level-up-your-app-why-android-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -60,7 +61,6 @@
 - Jan 07 2025 - [Camera & Media - Spotlight Week](https://www.youtube.com/watch?v=WYX-GJZ4XX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 19 2024 - [Designing apps for Android XR](https://www.youtube.com/watch?v=VzqYmeA0IbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 19 2024 - [Adapting Android apps for XR](https://www.youtube.com/watch?v=RQsE0n1xBxo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Celebrating Another Year of #WeArePlay](http://android-developers.googleblog.com/2024/12/celebrating-another-year-of-weareplay.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
