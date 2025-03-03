@@ -1,7 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 03 2025 - [Widgets #SpotlightWeek](https://www.youtube.com/watch?v=3Eu7xBBv9_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 03 2025 - [Spotlight Week: Design and Develop Widgets](http://android-developers.googleblog.com/2025/03/spotlight-week-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 03 2025 - [Level Up Your App: Why Android Widgets are a Game-Changer](http://android-developers.googleblog.com/2025/03/level-up-your-app-why-android-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 03 2025 - [Widgets - Spotlight Week](https://www.youtube.com/watch?v=tdV6OPC5lEc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 03 2025 - [Google Play enhances widget discovery to drive engagement with your app](http://android-developers.googleblog.com/2025/03/google-play-enhances-widget-discovery.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 27 2025 - [Meet the Android Studio Team: A Conversation with Android Developer UX Manager, Dan Dole](http://android-developers.googleblog.com/2025/02/meet-android-studio-team-dan-dole.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -57,13 +61,9 @@
 - Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 19 2024 - [Designing apps for Android XR](https://www.youtube.com/watch?v=VzqYmeA0IbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Adapting Android apps for XR](https://www.youtube.com/watch?v=RQsE0n1xBxo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Dec 19 2024 - [Build immersive apps & experiences with OpenXR & Unity](https://www.youtube.com/watch?v=UhDx9NMqT7o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Celebrating Another Year of #WeArePlay](http://android-developers.googleblog.com/2024/12/celebrating-another-year-of-weareplay.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 17 2024 - [How Instagram enabled users to take stunning Low Light Photos](http://android-developers.googleblog.com/2024/12/instagram-on-android-low-light-photos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 17 2024 - [What's new in CameraX 1.4.0 and a sneak peek of Jetpack Compose support](http://android-developers.googleblog.com/2024/12/whats-new-in-camerax-140-and-jetpack-compose-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Dec 17 2024 - [Get your apps ready for 16 KB page size devices](http://android-developers.googleblog.com/2024/12/get-your-apps-ready-for-16-kb-page-size-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 13 2024 - [Now in Android #112](https://medium.com/androiddevelopers/now-in-android-112-fc66ce31550c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
 - Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
