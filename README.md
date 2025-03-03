@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 03 2025 - [Widgets - Spotlight Week](https://www.youtube.com/watch?v=tdV6OPC5lEc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Feb 27 2025 - [Meet the Android Studio Team: A Conversation with Android Developer UX Manager, Dan Dole](http://android-developers.googleblog.com/2025/02/meet-android-studio-team-dan-dole.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -58,7 +59,6 @@
 - Dec 19 2024 - [Adapting Android apps for XR](https://www.youtube.com/watch?v=RQsE0n1xBxo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Build immersive apps & experiences with OpenXR & Unity](https://www.youtube.com/watch?v=UhDx9NMqT7o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 19 2024 - [Celebrating Another Year of #WeArePlay](http://android-developers.googleblog.com/2024/12/celebrating-another-year-of-weareplay.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Dec 19 2024 - [XR Unlocked '24 in under 8 minutes](https://www.youtube.com/watch?v=-p9BtBd-Al8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [How Instagram enabled users to take stunning Low Light Photos](http://android-developers.googleblog.com/2024/12/instagram-on-android-low-light-photos.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 17 2024 - [What's new in CameraX 1.4.0 and a sneak peek of Jetpack Compose support](http://android-developers.googleblog.com/2024/12/whats-new-in-camerax-140-and-jetpack-compose-support.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
