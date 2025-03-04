@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 04 2025 - [Tune in on March 13 for our Winter episode of #TheAndroidShow!](https://www.youtube.com/watch?v=azDPpgHa4Pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Tune in on March 13 for our Winter episode #TheAndroidShow!](https://www.youtube.com/watch?v=6Nwq0oI41lg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [February 2024: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 04 2025 - [Android Developer Story: SoundCloud - New Widget development only took two weeks with Jetpack Glance](https://www.youtube.com/watch?v=JAafI2DuxKI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -52,7 +53,6 @@
 - Jan 23 2025 - [The future is adaptive: Changes to orientation and resizability APIs in Android 16](http://android-developers.googleblog.com/2025/01/orientation-and-resizability-changes-in-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 22 2025 - [Android Dev Story: Originator - MathTango achieves less than 1% battery usage per minute on Wear OS](https://www.youtube.com/watch?v=ubtU9lz6KwI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 22 2025 - [Build kids app experiences for Wear OS](http://android-developers.googleblog.com/2025/01/build-kids-app-experiences-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 14 2025 - [[Games] - Challenges of opportunities of operating live games (Playtime 2024)](https://www.youtube.com/watch?v=wahJHzHQO88) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 10 2025 - [Apps adopt Transformer to support more reliable and performant media editing use cases](http://android-developers.googleblog.com/2025/01/apps-adopt-transformer-to-support-more-reliable-media-editing-use-cases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [Android Studio Ladybug Feature Drop is Stable!](http://android-developers.googleblog.com/2025/01/android-studio-ladybug-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
