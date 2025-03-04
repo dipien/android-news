@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 04 2025 - [Wonderful Widgets #SpotlightWeek](https://www.youtube.com/watch?v=SGk_hx2sXEo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Wonderful Widgets - Spotlight Week](https://www.youtube.com/watch?v=vL9E3i4_cBM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=ufWVy9Xdx2s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Widgets #SpotlightWeek](https://www.youtube.com/watch?v=3Eu7xBBv9_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -59,7 +60,6 @@
 - Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 07 2025 - [Spotlight Week: Android Camera and Media](http://android-developers.googleblog.com/2025/01/spotlight-week-android-camera-and-media.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 07 2025 - [Media3 1.5.0 — what’s new?](http://android-developers.googleblog.com/2025/01/media3-150-whats-new.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 07 2025 - [Camera & Media - Spotlight Week](https://www.youtube.com/watch?v=WYX-GJZ4XX4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 19 2024 - [Celebrating Another Year of #WeArePlay](http://android-developers.googleblog.com/2024/12/celebrating-another-year-of-weareplay.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Dec 18 2024 - [The Second Developer Preview of Android 16](http://android-developers.googleblog.com/2024/12/second-developer-preview-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
