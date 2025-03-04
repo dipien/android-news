@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 04 2025 - [Compose runtime and performance - Android Developers Backstage](https://www.youtube.com/watch?v=Fr_e7jwTpk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 04 2025 - [Tune in on March 13 for our Winter episode of #TheAndroidShow!](https://www.youtube.com/watch?v=azDPpgHa4Pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Tune in on March 13 for our Winter episode #TheAndroidShow!](https://www.youtube.com/watch?v=6Nwq0oI41lg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -56,12 +58,10 @@
 - Jan 23 2025 - [The First Beta of Android 16](http://android-developers.googleblog.com/2025/01/first-beta-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 23 2025 - [The future is adaptive: Changes to orientation and resizability APIs in Android 16](http://android-developers.googleblog.com/2025/01/orientation-and-resizability-changes-in-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 22 2025 - [Android Dev Story: Originator - MathTango achieves less than 1% battery usage per minute on Wear OS](https://www.youtube.com/watch?v=ubtU9lz6KwI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 22 2025 - [Build kids app experiences for Wear OS](http://android-developers.googleblog.com/2025/01/build-kids-app-experiences-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 10 2025 - [Apps adopt Transformer to support more reliable and performant media editing use cases](http://android-developers.googleblog.com/2025/01/apps-adopt-transformer-to-support-more-reliable-media-editing-use-cases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [Android Studio Ladybug Feature Drop is Stable!](http://android-developers.googleblog.com/2025/01/android-studio-ladybug-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jan 08 2025 - [Performance Class helps Google Maps deliver premium experiences](http://android-developers.googleblog.com/2025/01/performance-class-helps-google-maps-deliver-premium-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
