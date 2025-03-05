@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 05 2025 - [Common media processing operations with Jetpack Media3 Transformer](http://android-developers.googleblog.com/2025/03/media-processing-performance-jetpack-media3-transformer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2025 - [Coding Widget layouts #SpotlightWeek](https://www.youtube.com/watch?v=jGVYtgj3H-g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2025 - [Coding Widget layouts - Spotlight Week](https://www.youtube.com/watch?v=I9LmiasL104) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Compose runtime and performance - Android Developers Backstage](https://www.youtube.com/watch?v=Fr_e7jwTpk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -60,7 +61,6 @@
 - Jan 23 2025 - [The future is adaptive: Changes to orientation and resizability APIs in Android 16](http://android-developers.googleblog.com/2025/01/orientation-and-resizability-changes-in-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 22 2025 - [Build kids app experiences for Wear OS](http://android-developers.googleblog.com/2025/01/build-kids-app-experiences-for-wear-os.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 10 2025 - [Apps adopt Transformer to support more reliable and performant media editing use cases](http://android-developers.googleblog.com/2025/01/apps-adopt-transformer-to-support-more-reliable-media-editing-use-cases.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 09 2025 - [Android Studio Ladybug Feature Drop is Stable!](http://android-developers.googleblog.com/2025/01/android-studio-ladybug-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
