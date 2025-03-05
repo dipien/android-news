@@ -10,7 +10,7 @@
 - Mar 04 2025 - [Design with Widget Canonical Layouts](http://android-developers.googleblog.com/2025/03/design-with-widget-canonical-layouts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Introducing Widget Quality Tiers](http://android-developers.googleblog.com/2025/03/introducing-widget-quality-tiers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [SoundCloud uses Jetpack Glance to build Liked Tracks widget in just 2 weeks](http://android-developers.googleblog.com/2025/02/soundcloud-uses-jetpack-glance-to-build-liked-tracks-widget-in-just-2-weeks.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 04 2025 - [February 2024: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Mar 04 2025 - [February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 04 2025 - [Android Developer Story: SoundCloud - New Widget development only took two weeks with Jetpack Glance](https://www.youtube.com/watch?v=JAafI2DuxKI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Wonderful Widgets #SpotlightWeek](https://www.youtube.com/watch?v=SGk_hx2sXEo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Wonderful Widgets - Spotlight Week](https://www.youtube.com/watch?v=vL9E3i4_cBM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
