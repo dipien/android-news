@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 05 2025 - [Coding Widget layouts #SpotlightWeek](https://www.youtube.com/watch?v=jGVYtgj3H-g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 05 2025 - [Coding Widget layouts - Spotlight Week](https://www.youtube.com/watch?v=I9LmiasL104) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Compose runtime and performance - Android Developers Backstage](https://www.youtube.com/watch?v=Fr_e7jwTpk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -49,11 +51,9 @@
 - Jan 28 2025 - [Authentication on Android with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=eAyq9AWLRlY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Helping users find trusted apps on Google Play](http://android-developers.googleblog.com/2025/01/helping-users-find-trusted-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2025 - [Android Studio’s 10th birthday: our favorite moments!](https://www.youtube.com/watch?v=R1uWWjQMYOI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 24 2025 - [Happy birthday, Android Studio!](https://www.youtube.com/watch?v=IhP4xwRPJGY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2025 - [Android Studio’s 10 year anniversary](http://android-developers.googleblog.com/2025/01/android-studios-10-year-anniversary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jan 23 2025 - [Now in Android: 113 - Android 16 Developer Preview 2, Android XR, Android Studio Ladybug, and more!](https://www.youtube.com/watch?v=Advtp0qApEI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 23 2025 - [Genkit monitoring - Release Notes Deep Dive](https://www.youtube.com/watch?v=9zTgJgXTHPQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 23 2025 - [The First Beta of Android 16](http://android-developers.googleblog.com/2025/01/first-beta-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
