@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 06 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=Sv1BbZfkGtM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2025 - [Common media processing operations with Jetpack Media3 Transformer](http://android-developers.googleblog.com/2025/03/media-processing-performance-jetpack-media3-transformer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2025 - [Coding Widget layouts #SpotlightWeek](https://www.youtube.com/watch?v=jGVYtgj3H-g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 05 2025 - [Coding Widget layouts - Spotlight Week](https://www.youtube.com/watch?v=I9LmiasL104) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
