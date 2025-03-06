@@ -18,7 +18,6 @@
 - Mar 04 2025 - [Wonderful Widgets #SpotlightWeek](https://www.youtube.com/watch?v=SGk_hx2sXEo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Wonderful Widgets - Spotlight Week](https://www.youtube.com/watch?v=vL9E3i4_cBM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Set your reminder: #TheAndroidShow is live *here* on March 13!](https://www.youtube.com/watch?v=gapm5MlH-ZU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 03 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=ufWVy9Xdx2s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Widgets #SpotlightWeek](https://www.youtube.com/watch?v=3Eu7xBBv9_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Spotlight Week: Design and Develop Widgets](http://android-developers.googleblog.com/2025/03/spotlight-week-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 03 2025 - [Level Up Your App: Why Android Widgets are a Game-Changer](http://android-developers.googleblog.com/2025/03/level-up-your-app-why-android-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -100,7 +99,8 @@
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
