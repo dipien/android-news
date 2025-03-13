@@ -1,9 +1,17 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 13 2025 - [The Third Beta of Android 16](http://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 13 2025 - [Set your reminder: #TheAndroidShow is live *here* on March 13!](https://www.youtube.com/watch?v=-Drt3YeIMuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [Now in Android: 114 - Google I/O 2025, Android Studio at 10, Android 16 Betas, and more!](https://www.youtube.com/watch?v=i4cAnqEqBng) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=zGK1vIX87vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [Android XR launch recap: Build immersive experiences with your existing Android skills!](https://www.youtube.com/watch?v=AkKjMtBYwDA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [The latest Android foldables and large screens from this year's Mobile World Congress](https://www.youtube.com/watch?v=KqkUQpsQ2QA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [Image-to-code multimodality, now available to start using for Gemini in Android Studio](https://www.youtube.com/watch?v=f_6mtRWJzuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Experience Android XR](https://www.youtube.com/watch?v=yMEXzd0Um14) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Develop for Android XR](https://www.youtube.com/watch?v=goJDzfwQFkk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 13 2025 - [Set your reminder: #TheAndroidShow is live *here* on March 13!](https://www.youtube.com/watch?v=-Drt3YeIMuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 13 2025 - [Ask Google Play: 6 must-know updates for game developers](https://www.youtube.com/watch?v=iP-Bzzn8q4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Ask Android: 6 must-know updates for game developers](https://www.youtube.com/watch?v=9MN0-qwYAFU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,16 +29,11 @@
 - Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 04 2025 - [Tune in on March 13 for our Winter episode of #TheAndroidShow!](https://www.youtube.com/watch?v=azDPpgHa4Pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 04 2025 - [Tune in on March 13 for our Winter episode #TheAndroidShow!](https://www.youtube.com/watch?v=6Nwq0oI41lg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Design with Widget Canonical Layouts](http://android-developers.googleblog.com/2025/03/design-with-widget-canonical-layouts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Introducing Widget Quality Tiers](http://android-developers.googleblog.com/2025/03/introducing-widget-quality-tiers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [SoundCloud uses Jetpack Glance to build Liked Tracks widget in just 2 weeks](http://android-developers.googleblog.com/2025/02/soundcloud-uses-jetpack-glance-to-build-liked-tracks-widget-in-just-2-weeks.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 04 2025 - [Android Developer Story: SoundCloud - New Widget development only took two weeks with Jetpack Glance](https://www.youtube.com/watch?v=JAafI2DuxKI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 04 2025 - [Wonderful Widgets #SpotlightWeek](https://www.youtube.com/watch?v=SGk_hx2sXEo) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 03 2025 - [Wonderful Widgets - Spotlight Week](https://www.youtube.com/watch?v=vL9E3i4_cBM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 03 2025 - [Widgets #SpotlightWeek](https://www.youtube.com/watch?v=3Eu7xBBv9_4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 03 2025 - [Spotlight Week: Design and Develop Widgets](http://android-developers.googleblog.com/2025/03/spotlight-week-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 03 2025 - [Level Up Your App: Why Android Widgets are a Game-Changer](http://android-developers.googleblog.com/2025/03/level-up-your-app-why-android-widgets.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 03 2025 - [Google Play enhances widget discovery to drive engagement with your app](http://android-developers.googleblog.com/2025/03/google-play-enhances-widget-discovery.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -52,13 +55,10 @@
 - Feb 06 2025 - [Meet the Android Studio Team: A Conversation with Director of Product Management, Jamal Eason](http://android-developers.googleblog.com/2025/02/meet-the-android-studio-team-Jamal-Eason.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 30 2025 - [Meet the Android Studio Team: A Conversation with Product Manager, Paris Hsu](http://android-developers.googleblog.com/2025/01/meet-the-android-studio-team-paris-hsu.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 29 2025 - [Production-ready generative AI on Android with Vertex AI in Firebase](http://android-developers.googleblog.com/2025/01/production-ready-generative-ai-on-android-with-vertex-ai-firebase-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 28 2025 - [Implementing authentication with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=ELB0W7f_Ib4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Sign in with Google flows with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=P-3GmvmIdRo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Authentication on Android with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=eAyq9AWLRlY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 28 2025 - [Helping users find trusted apps on Google Play](http://android-developers.googleblog.com/2025/01/helping-users-find-trusted-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 23 2025 - [Genkit monitoring - Release Notes Deep Dive](https://www.youtube.com/watch?v=9zTgJgXTHPQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -96,11 +96,11 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
