@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Mar 12 2025 - [Jetpack WindowManager 1.4 is stable](http://android-developers.googleblog.com/2025/03/jetpack-windowmanager-14-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 12 2025 - [Bump’s Journey into Delightful Experiences on Android with Jetpack Compose](https://medium.com/androiddevelopers/bumps-journey-into-delightful-experiences-on-android-with-jetpack-compose-b2a1f8048018?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 12 2025 - [Unlock Deeper Health Insights: Health Connect Jetpack SDK is now in beta and new feature updates](http://android-developers.googleblog.com/2025/03/health-connect-jetpack-sdk-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=Sv1BbZfkGtM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 06 2025 - [Widgets on lock screen: FAQ](http://android-developers.googleblog.com/2025/03/widgets-on-lock-screen-faq.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -57,11 +58,20 @@
 - Jan 24 2025 - [Android Studio’s 10th birthday: our favorite moments!](https://www.youtube.com/watch?v=R1uWWjQMYOI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 24 2025 - [Android Studio’s 10 year anniversary](http://android-developers.googleblog.com/2025/01/android-studios-10-year-anniversary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 23 2025 - [Genkit monitoring - Release Notes Deep Dive](https://www.youtube.com/watch?v=9zTgJgXTHPQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 23 2025 - [The First Beta of Android 16](http://android-developers.googleblog.com/2025/01/first-beta-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Dec 24 2024 - [Compose Tips for Delightful UI — ’24 wrap up](https://medium.com/androiddevelopers/compose-tips-for-delightful-ui-24-wrap-up-1cfe18163ddd?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Dec 13 2024 - [Now in Android #112](https://medium.com/androiddevelopers/now-in-android-112-fc66ce31550c?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
+- Dec 05 2024 - [Vulkan 1.4: Faster App Loads, Less Stutter and Less Memory Usage — Host Image Copy Is a Game…](https://medium.com/androiddevelopers/vulkan-1-4-faster-app-loads-less-stutter-and-less-memory-usage-host-image-copy-is-a-game-53c57e531f5d?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Nov 21 2024 - [Test smarter, not harder: new testing strategies documentation](https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Nov 07 2024 - [Now in Android #111](https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
 - Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -86,21 +96,11 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
-- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
-- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
-- May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
-- May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
