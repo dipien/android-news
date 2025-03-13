@@ -2,7 +2,7 @@
 
 <!-- NEWS:START -->
 - Mar 13 2025 - [The Third Beta of Android 16](http://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 13 2025 - [Set your reminder: #TheAndroidShow is live *here* on March 13!](https://www.youtube.com/watch?v=-Drt3YeIMuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, the latest devices at MWC, XR and more!](https://www.youtube.com/watch?v=-Drt3YeIMuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Now in Android: 114 - Google I/O 2025, Android Studio at 10, Android 16 Betas, and more!](https://www.youtube.com/watch?v=i4cAnqEqBng) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=zGK1vIX87vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Android XR launch recap: Build immersive experiences with your existing Android skills!](https://www.youtube.com/watch?v=AkKjMtBYwDA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
