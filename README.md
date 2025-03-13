@@ -1,6 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 13 2025 - [Ask Google Play: 6 must-know updates for game developers](https://www.youtube.com/watch?v=iP-Bzzn8q4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [Ask Android: 6 must-know updates for game developers](https://www.youtube.com/watch?v=9MN0-qwYAFU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 13 2025 - [Building excellent games with better graphics and performance](http://android-developers.googleblog.com/2025/03/building-excellent-games-with-better-graphics-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 13 2025 - [Making Google Play the best place to grow PC games](http://android-developers.googleblog.com/2025/03/making-google-play-best-place-to-grow-pc-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Jetpack WindowManager 1.4 is stable](http://android-developers.googleblog.com/2025/03/jetpack-windowmanager-14-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Bump’s Journey into Delightful Experiences on Android with Jetpack Compose](https://medium.com/androiddevelopers/bumps-journey-into-delightful-experiences-on-android-with-jetpack-compose-b2a1f8048018?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 12 2025 - [Unlock Deeper Health Insights: Health Connect Jetpack SDK is now in beta and new feature updates](http://android-developers.googleblog.com/2025/03/health-connect-jetpack-sdk-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -47,7 +51,6 @@
 - Feb 06 2025 - [Meet the Android Studio Team: A Conversation with Director of Product Management, Jamal Eason](http://android-developers.googleblog.com/2025/02/meet-the-android-studio-team-Jamal-Eason.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 30 2025 - [Testing - Jetpack Compose Tips](https://www.youtube.com/watch?v=Y9GWnwi9D0I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jan 30 2025 - [Meet the Android Studio Team: A Conversation with Product Manager, Paris Hsu](http://android-developers.googleblog.com/2025/01/meet-the-android-studio-team-paris-hsu.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 29 2025 - [Production-ready generative AI on Android with Vertex AI in Firebase](http://android-developers.googleblog.com/2025/01/production-ready-generative-ai-on-android-with-vertex-ai-firebase-.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -55,12 +58,9 @@
 - Jan 28 2025 - [Sign in with Google flows with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=P-3GmvmIdRo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Authentication on Android with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=eAyq9AWLRlY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Helping users find trusted apps on Google Play](http://android-developers.googleblog.com/2025/01/helping-users-find-trusted-apps-on-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jan 24 2025 - [Android Studio’s 10th birthday: our favorite moments!](https://www.youtube.com/watch?v=R1uWWjQMYOI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jan 24 2025 - [Android Studio’s 10 year anniversary](http://android-developers.googleblog.com/2025/01/android-studios-10-year-anniversary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 23 2025 - [Genkit monitoring - Release Notes Deep Dive](https://www.youtube.com/watch?v=9zTgJgXTHPQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 23 2025 - [The First Beta of Android 16](http://android-developers.googleblog.com/2025/01/first-beta-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 09 2025 - [Tap to focus: Mastering CameraX Transformations in Jetpack Compose](https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 07 2025 - [Getting Started with CameraX in Jetpack Compose](https://medium.com/androiddevelopers/getting-started-with-camerax-in-jetpack-compose-781c722ca0c4?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -96,11 +96,11 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
