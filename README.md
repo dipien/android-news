@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=qRS6j6IQZhU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 13 2025 - [Imagen image generation - Release Notes Deep Dive](https://www.youtube.com/watch?v=zaADQ7oqV4Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 13 2025 - [The Third Beta of Android 16](http://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -30,7 +31,6 @@
 - Mar 04 2025 - [Compose runtime and performance - Android Developers Backstage](https://www.youtube.com/watch?v=Fr_e7jwTpk0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Mar 04 2025 - [Tune in on March 13 for our Winter episode of #TheAndroidShow!](https://www.youtube.com/watch?v=azDPpgHa4Pw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Design with Widget Canonical Layouts](http://android-developers.googleblog.com/2025/03/design-with-widget-canonical-layouts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Introducing Widget Quality Tiers](http://android-developers.googleblog.com/2025/03/introducing-widget-quality-tiers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
