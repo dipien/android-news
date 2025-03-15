@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=Uw3XDYHKu-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=qRS6j6IQZhU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -83,7 +84,6 @@
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
 - Aug 30 2024 - [Feature Flags Demystified: A Swift Developer’s Guide (with Firebase)](https://medium.com/firebase-developers/implementing-ios-feature-flags-using-firebase-760a43afe863?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Aug 30 2024 - [Implementing Function Calling using Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 20 2024 - [Episode 207: AI development assistance](http://adbackstage.libsyn.com/episode-207-ai-development-assistance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 22 2024 - [Episode 206: Make it faster](http://adbackstage.libsyn.com/episode-206-make-it-faster) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
