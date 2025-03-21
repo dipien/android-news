@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 21 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=Uw3XDYHKu-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=qRS6j6IQZhU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -61,7 +62,6 @@
 - Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Implementing authentication with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=ELB0W7f_Ib4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 28 2025 - [Sign in with Google flows with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=P-3GmvmIdRo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 28 2025 - [Authentication on Android with Credential Manager and Firebase Auth](https://www.youtube.com/watch?v=eAyq9AWLRlY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
