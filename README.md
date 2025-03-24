@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 21 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=Uw3XDYHKu-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -56,7 +57,6 @@
 - Feb 11 2025 - [Get ready for Google I/O May 20–21](http://android-developers.googleblog.com/2025/02/get-ready-for-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 07 2025 - [Timeline update: third-party autofill services support on Chrome on Android](http://android-developers.googleblog.com/2025/02/chrome-3p-autofill-services-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Feb 06 2025 - [Meet the Android Studio Team: A Conversation with Director of Product Management, Jamal Eason](http://android-developers.googleblog.com/2025/02/meet-the-android-studio-team-Jamal-Eason.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
