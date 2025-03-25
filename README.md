@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 25 2025 - [#WeArePlay: Bruce, Memory Lane Games  - Isle of Man](https://www.youtube.com/watch?v=oBDJH8h7FYs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 21 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -31,7 +32,6 @@
 - Mar 06 2025 - [Widgets on lock screen: FAQ](http://android-developers.googleblog.com/2025/03/widgets-on-lock-screen-faq.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2025 - [Common media processing operations with Jetpack Media3 Transformer](http://android-developers.googleblog.com/2025/03/media-processing-performance-jetpack-media3-transformer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2025 - [Coding Widget layouts #SpotlightWeek](https://www.youtube.com/watch?v=jGVYtgj3H-g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 05 2025 - [Coding Widget layouts - Spotlight Week](https://www.youtube.com/watch?v=I9LmiasL104) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
