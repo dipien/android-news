@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 25 2025 - [Introduction to the SDK Runtime](https://www.youtube.com/watch?v=ta3QdhHHJwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Mar 25 2025 - [Strengthening Our App Ecosystem: Enhanced Tools for Secure & Efficient Development](http://android-developers.googleblog.com/2025/03/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2025 - [#WeArePlay: Bruce, Memory Lane Games  - Isle of Man](https://www.youtube.com/watch?v=oBDJH8h7FYs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 21 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -31,7 +33,6 @@
 - Mar 06 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=Sv1BbZfkGtM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 06 2025 - [Widgets on lock screen: FAQ](http://android-developers.googleblog.com/2025/03/widgets-on-lock-screen-faq.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2025 - [Common media processing operations with Jetpack Media3 Transformer](http://android-developers.googleblog.com/2025/03/media-processing-performance-jetpack-media3-transformer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 05 2025 - [Coding Widget layouts #SpotlightWeek](https://www.youtube.com/watch?v=jGVYtgj3H-g) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -56,7 +57,6 @@
 - Feb 12 2025 - [TrustedTime API: Introducing a reliable approach to time keeping for your apps](http://android-developers.googleblog.com/2025/02/trustedtime-api-introducing-reliable-approach-to-time-keeping-for-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 11 2025 - [Get ready for Google I/O May 20–21](http://android-developers.googleblog.com/2025/02/get-ready-for-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 07 2025 - [Timeline update: third-party autofill services support on Chrome on Android](http://android-developers.googleblog.com/2025/02/chrome-3p-autofill-services-update.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase After Hours #9: Firebase Data Connect: SQL or NoSQL, that is no longer the question](https://www.youtube.com/watch?v=DgqJMpc0uh4) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
