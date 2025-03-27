@@ -1,12 +1,12 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 27 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 25 2025 - [Introduction to the SDK Runtime](https://www.youtube.com/watch?v=ta3QdhHHJwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 25 2025 - [Strengthening Our App Ecosystem: Enhanced Tools for Secure & Efficient Development](http://android-developers.googleblog.com/2025/03/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2025 - [#WeArePlay: Bruce, Memory Lane Games  - Isle of Man](https://www.youtube.com/watch?v=oBDJH8h7FYs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 21 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=Uw3XDYHKu-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=qRS6j6IQZhU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
