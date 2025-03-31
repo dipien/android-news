@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 31 2025 - [Anatomy of the SDK Runtime](https://www.youtube.com/watch?v=a7BMBZE1Nbc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 27 2025 - [Media3 1.6.0 — what’s new?](http://android-developers.googleblog.com/2025/03/media3-1-6-0-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 27 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -32,7 +33,6 @@
 - Mar 12 2025 - [Jetpack WindowManager 1.4 is stable](http://android-developers.googleblog.com/2025/03/jetpack-windowmanager-14-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Bump’s Journey into Delightful Experiences on Android with Jetpack Compose](https://medium.com/androiddevelopers/bumps-journey-into-delightful-experiences-on-android-with-jetpack-compose-b2a1f8048018?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 12 2025 - [Unlock Deeper Health Insights: Health Connect Jetpack SDK is now in beta and new feature updates](http://android-developers.googleblog.com/2025/03/health-connect-jetpack-sdk-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 06 2025 - [Widgets #AskAndroid - Spotlight Week](https://www.youtube.com/watch?v=Sv1BbZfkGtM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 06 2025 - [Widgets on lock screen: FAQ](http://android-developers.googleblog.com/2025/03/widgets-on-lock-screen-faq.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 05 2025 - [Common media processing operations with Jetpack Media3 Transformer](http://android-developers.googleblog.com/2025/03/media-processing-performance-jetpack-media3-transformer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Generate Stunning Visuals in Your Android Apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
