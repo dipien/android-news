@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Mar 31 2025 - [Lock Screen Widgets coming in Android 16 #AskAndroid](https://www.youtube.com/watch?v=sQjzn4N7QF4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 31 2025 - [Anatomy of the SDK Runtime](https://www.youtube.com/watch?v=a7BMBZE1Nbc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 27 2025 - [Media3 1.6.0 — what’s new?](http://android-developers.googleblog.com/2025/03/media3-1-6-0-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 27 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -27,9 +28,8 @@
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 13 2025 - [Ask Google Play: 6 must-know updates for game developers](https://www.youtube.com/watch?v=iP-Bzzn8q4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 13 2025 - [Ask Android: 6 must-know updates for game developers](https://www.youtube.com/watch?v=9MN0-qwYAFU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 13 2025 - [Building excellent games with better graphics and performance](http://android-developers.googleblog.com/2025/03/building-excellent-games-with-better-graphics-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Making Google Play the best place to grow PC games](http://android-developers.googleblog.com/2025/03/making-google-play-best-place-to-grow-pc-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Mar 13 2025 - [Building excellent games with better graphics and performance](http://android-developers.googleblog.com/2025/03/building-excellent-games-with-better-graphics-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Jetpack WindowManager 1.4 is stable](http://android-developers.googleblog.com/2025/03/jetpack-windowmanager-14-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Bump’s Journey into Delightful Experiences on Android with Jetpack Compose](https://medium.com/androiddevelopers/bumps-journey-into-delightful-experiences-on-android-with-jetpack-compose-b2a1f8048018?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 12 2025 - [Unlock Deeper Health Insights: Health Connect Jetpack SDK is now in beta and new feature updates](http://android-developers.googleblog.com/2025/03/health-connect-jetpack-sdk-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
