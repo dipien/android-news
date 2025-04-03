@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 03 2025 - [Enhancing app performance in Android - Android Build Time](https://www.youtube.com/watch?v=8zgNN0Z44TE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2025 - [March 2025: Cloud Functions streaming, new Genkit features, and some App Hosting updates!](https://www.youtube.com/watch?v=IwRibrwKwhw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 31 2025 - [Lock Screen Widgets coming in Android 16 #AskAndroid](https://www.youtube.com/watch?v=sQjzn4N7QF4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 31 2025 - [Anatomy of the SDK Runtime](https://www.youtube.com/watch?v=a7BMBZE1Nbc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -28,7 +29,6 @@
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 13 2025 - [Ask Google Play: 6 must-know updates for game developers](https://www.youtube.com/watch?v=iP-Bzzn8q4s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Making Google Play the best place to grow PC games](http://android-developers.googleblog.com/2025/03/making-google-play-best-place-to-grow-pc-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Building excellent games with better graphics and performance](http://android-developers.googleblog.com/2025/03/building-excellent-games-with-better-graphics-and-performance.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Jetpack WindowManager 1.4 is stable](http://android-developers.googleblog.com/2025/03/jetpack-windowmanager-14-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
