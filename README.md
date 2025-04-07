@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 07 2025 - [Widgets Take Center Stage with OneUI 7](http://android-developers.googleblog.com/2025/04/widgets-take-center-stage-with-samsung-oneui7.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 03 2025 - [Enhancing app performance in Android - Android Build Time](https://www.youtube.com/watch?v=8zgNN0Z44TE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2025 - [March 2025: Cloud Functions streaming, new Genkit features, and some App Hosting updates!](https://www.youtube.com/watch?v=IwRibrwKwhw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 31 2025 - [Lock Screen Widgets coming in Android 16 #AskAndroid](https://www.youtube.com/watch?v=sQjzn4N7QF4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -57,7 +58,6 @@
 - Feb 13 2025 - [Custom signals for Remote Config - Release Notes Deep Dive](https://www.youtube.com/watch?v=8InZoAqOZGY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 12 2025 - [Meet the Android Studio Team: A Conversation with Staff Developer Programs Engineer, Trevor Johns](http://android-developers.googleblog.com/2025/02/meet-android-studio-team-trevor-johns.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 12 2025 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 12 2025 - [TrustedTime API: Introducing a reliable approach to time keeping for your apps](http://android-developers.googleblog.com/2025/02/trustedtime-api-introducing-reliable-approach-to-time-keeping-for-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
