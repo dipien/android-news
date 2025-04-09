@@ -1,7 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
-- Apr 09 2025 - [Announcing Gemini in Android Studio for businesses](https://www.youtube.com/watch?v=6xSdSv75xck) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 09 2025 - [Announcing Gemini in Android Studio for businesses](https://www.youtube.com/watch?v=5gJQ05NaMxw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 09 2025 - [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](http://android-developers.googleblog.com/2025/04/gemini-in-android-studio-for-business.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 08 2025 - [Adaptive Camera: Smooth Tabletop Mode with Animations](https://medium.com/androiddevelopers/adaptive-camera-smooth-tabletop-mode-with-animations-f57d77696e0f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 07 2025 - [Widgets Take Center Stage with One UI 7](http://android-developers.googleblog.com/2025/04/widgets-take-center-stage-with-samsung-oneui7.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
