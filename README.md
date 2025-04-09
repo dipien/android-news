@@ -2,6 +2,7 @@
 
 <!-- NEWS:START -->
 - Apr 09 2025 - [Announcing Gemini in Android Studio for businesses](https://www.youtube.com/watch?v=6xSdSv75xck) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Apr 09 2025 - [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](http://android-developers.googleblog.com/2025/04/gemini-in-android-studio-for-business.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 08 2025 - [Adaptive Camera: Smooth Tabletop Mode with Animations](https://medium.com/androiddevelopers/adaptive-camera-smooth-tabletop-mode-with-animations-f57d77696e0f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 07 2025 - [Widgets Take Center Stage with One UI 7](http://android-developers.googleblog.com/2025/04/widgets-take-center-stage-with-samsung-oneui7.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 03 2025 - [Enhancing app performance in Android - Android Build Time](https://www.youtube.com/watch?v=8zgNN0Z44TE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -57,7 +58,6 @@
 - Feb 14 2025 - [The future of Firebase Data Connect](https://www.youtube.com/watch?v=1vz0ubezT7Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 13 2025 - [The Second Beta of Android 16](http://android-developers.googleblog.com/2025/02/second-beta-android16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 13 2025 - [Custom signals for Remote Config - Release Notes Deep Dive](https://www.youtube.com/watch?v=8InZoAqOZGY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 12 2025 - [Meet the Android Studio Team: A Conversation with Staff Developer Programs Engineer, Trevor Johns](http://android-developers.googleblog.com/2025/02/meet-android-studio-team-trevor-johns.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Feb 12 2025 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
