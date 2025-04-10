@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 10 2025 - [Google Play PolicyBytes - April 2025 policy updates](https://www.youtube.com/watch?v=74kce4nodWk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2025 - [What are streaming callables?](https://www.youtube.com/watch?v=PDr7dbbFQnI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 09 2025 - [Cloud Next 2025: Firebase Studio and AI Innovations](https://www.youtube.com/watch?v=TyCHf8dE6EQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 09 2025 - [Prioritize media privacy with Android Photo Picker and build user trust](http://android-developers.googleblog.com/2025/04/google-play-empowering-developers-to-build-user-trust-through-privacy.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -31,7 +32,6 @@
 - Mar 13 2025 - [Android XR launch recap: Build immersive experiences with your existing Android skills!](https://www.youtube.com/watch?v=AkKjMtBYwDA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [The latest Android foldables and large screens from this year's Mobile World Congress](https://www.youtube.com/watch?v=KqkUQpsQ2QA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Image-to-code multimodality, now available to start using for Gemini in Android Studio](https://www.youtube.com/watch?v=f_6mtRWJzuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 13 2025 - [Experience Android XR](https://www.youtube.com/watch?v=yMEXzd0Um14) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
