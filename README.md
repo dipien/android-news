@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 10 2025 - [Linting on the Side of Caution: Safety & Security](http://adbackstage.libsyn.com/linting-on-the-side-of-caution-safety-security) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Apr 10 2025 - [Linting on the Side of Caution: Safety & Security - Android Developers Backstage](https://www.youtube.com/watch?v=h2xqX8-lXQE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2025 - [Google Play PolicyBytes - April 2025 policy updates](https://www.youtube.com/watch?v=74kce4nodWk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 10 2025 - [What are streaming callables?](https://www.youtube.com/watch?v=PDr7dbbFQnI) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 09 2025 - [Cloud Next 2025: Firebase Studio and AI Innovations](https://www.youtube.com/watch?v=TyCHf8dE6EQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -31,7 +33,6 @@
 - Mar 13 2025 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=zGK1vIX87vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Android XR launch recap: Build immersive experiences with your existing Android skills!](https://www.youtube.com/watch?v=AkKjMtBYwDA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [The latest Android foldables and large screens from this year's Mobile World Congress](https://www.youtube.com/watch?v=KqkUQpsQ2QA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 13 2025 - [Image-to-code multimodality, now available to start using for Gemini in Android Studio](https://www.youtube.com/watch?v=f_6mtRWJzuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -99,8 +100,7 @@
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
