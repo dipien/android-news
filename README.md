@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 22 2025 - [The EASIEST way to sign in (Android)](https://www.youtube.com/watch?v=qyj5UiVH-Lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 22 2025 - [One-tap Google sign-in on Android! ✨](https://www.youtube.com/watch?v=kF1AMXUON98) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 22 2025 - [Seamless login for returning users ✨ (Android)](https://www.youtube.com/watch?v=KJ39YdFg71o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 16 2025 - [Netflix App Testing At Scale](https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 16 2025 - [Introducing Testing at Scale blog series](https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 10 2025 - [Linting on the Side of Caution: Safety & Security](http://adbackstage.libsyn.com/linting-on-the-side-of-caution-safety-security) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -64,9 +67,6 @@
 - Feb 14 2025 - [The future of Firebase Data Connect](https://www.youtube.com/watch?v=1vz0ubezT7Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 13 2025 - [Custom signals for Remote Config - Release Notes Deep Dive](https://www.youtube.com/watch?v=8InZoAqOZGY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 12 2025 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 11 2025 - [Relationship advice in Data Connect](https://www.youtube.com/watch?v=GC-WsYsYBi0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 04 2025 - [Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling](https://www.youtube.com/watch?v=Ss1BmbJ_oKk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Jan 30 2025 - [Firebase’s SQL service, now with improved local development!](https://www.youtube.com/watch?v=IETSzcNhcmk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jan 23 2025 - [Create a spotlight effect with CameraX and Jetpack Compose](https://medium.com/androiddevelopers/create-a-spotlight-effect-with-camerax-and-jetpack-compose-8a7fa5b76641?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
