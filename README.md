@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 24 2025 - [Developing for the SDK Runtime](https://www.youtube.com/watch?v=uzy1pWzWPfc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 24 2025 - [Now in Android: 115 - Gemini in Android Studio, Enhancing Safety and Security, and more!](https://www.youtube.com/watch?v=yZydIvw078s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 23 2025 - [Now in Android #115](https://medium.com/androiddevelopers/now-in-android-115-d13a60cbf092?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 23 2025 - [What’s new in the Jetpack Compose April ’25 release](http://android-developers.googleblog.com/2025/04/whats-new-in-jetpack-compose-april-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -44,7 +45,6 @@
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, the latest devices at MWC, XR and more!](https://www.youtube.com/watch?v=-Drt3YeIMuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Now in Android: 114 - Google I/O 2025, Android Studio at 10, Android 16 Betas, and more!](https://www.youtube.com/watch?v=i4cAnqEqBng) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Gemini in Android Studio: now helping you at every stage of the dev life cycle](https://www.youtube.com/watch?v=zGK1vIX87vw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 13 2025 - [Android XR launch recap: Build immersive experiences with your existing Android skills!](https://www.youtube.com/watch?v=AkKjMtBYwDA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
