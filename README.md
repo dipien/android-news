@@ -1,7 +1,6 @@
 # Android News
 
 <!-- NEWS:START -->
-- Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 24 2025 - [Developing for the SDK Runtime](https://www.youtube.com/watch?v=uzy1pWzWPfc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 24 2025 - [Now in Android: 115 - Gemini in Android Studio, Enhancing Safety and Security, and more!](https://www.youtube.com/watch?v=yZydIvw078s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 23 2025 - [Now in Android #115](https://medium.com/androiddevelopers/now-in-android-115-d13a60cbf092?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -37,7 +36,6 @@
 - Mar 25 2025 - [Strengthening our app ecosystem: Enhanced tools for secure & efficient development](http://android-developers.googleblog.com/2025/03/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2025 - [#WeArePlay: Bruce, Memory Lane Games  - Isle of Man](https://www.youtube.com/watch?v=oBDJH8h7FYs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=Uw3XDYHKu-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=qRS6j6IQZhU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -66,23 +64,15 @@
 - Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 18 2025 - [A little less vulnerable #FirebaseCLI](https://www.youtube.com/watch?v=gn3b8pArhuA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 14 2025 - [The future of Firebase Data Connect](https://www.youtube.com/watch?v=1vz0ubezT7Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 13 2025 - [Custom signals for Remote Config - Release Notes Deep Dive](https://www.youtube.com/watch?v=8InZoAqOZGY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 12 2025 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Nov 04 2024 - [Unlocking component flexibility with slots in Figma](https://material.io/blog/material-3-slot-components-figma) - [Material Design Blog](https://material.io/blog)
-- Oct 29 2024 - [Firestore for Image Embeddings](https://medium.com/firebase-developers/firestore-for-image-embeddings-f3fa2a5a5058?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Oct 24 2024 - [Episode 210: Studio Jewelry](http://adbackstage.libsyn.com/episode-210-studio-jewelry) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 21 2024 - [High-Precision Responses with Genkit’s Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 11 2024 - [Firestore for Text Embedding and Similarity Search](https://medium.com/firebase-developers/firestore-for-text-embedding-and-similarity-search-d74acbc8d6f5?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 03 2024 - [Persisting LLM chat history to Firestore](https://medium.com/firebase-developers/persisting-llm-chat-history-to-firestore-4e3716dd67fe?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Oct 01 2024 - [Using Firebase’s Vertex AI for Flutter](https://medium.com/firebase-developers/using-firebases-vertex-ai-for-flutter-abdd85d1d1a8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Sep 19 2024 - [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Sep 12 2024 - [Episode 209: Compose animations](http://adbackstage.libsyn.com/episode-209-compose-animations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Sep 10 2024 - [Material Design 3 for Compose version 1.3](https://material.io/blog/material-3-compose-1-3) - [Material Design Blog](https://material.io/blog)
 - Jul 18 2024 - [Episode 208: Micro optimizations](http://adbackstage.libsyn.com/episode-208-micro-optimizations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -100,7 +90,17 @@
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
+- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
+- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
+- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
+- May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
+- May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
