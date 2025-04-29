@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 29 2025 - [How Firebase Studio accelerates development](https://www.youtube.com/watch?v=llByU3YZvew) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Apr 29 2025 - [Build apps faster: Firebase Studio’s top features](https://www.youtube.com/watch?v=1T83_PXc1Io) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 24 2025 - [Developing for the SDK Runtime](https://www.youtube.com/watch?v=uzy1pWzWPfc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 24 2025 - [Now in Android: 115 - Gemini in Android Studio, Enhancing Safety and Security, and more!](https://www.youtube.com/watch?v=yZydIvw078s) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -68,8 +70,6 @@
 - Feb 18 2025 - [A little less vulnerable #FirebaseCLI](https://www.youtube.com/watch?v=gn3b8pArhuA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Feb 14 2025 - [The future of Firebase Data Connect](https://www.youtube.com/watch?v=1vz0ubezT7Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 13 2025 - [Custom signals for Remote Config - Release Notes Deep Dive](https://www.youtube.com/watch?v=8InZoAqOZGY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 12 2025 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
