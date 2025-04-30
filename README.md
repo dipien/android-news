@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Apr 30 2025 - [Announcing Android support of digital credentials](http://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2025 - [How Firebase Studio accelerates development](https://www.youtube.com/watch?v=llByU3YZvew) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 29 2025 - [Build apps faster: Firebase Studio’s top features](https://www.youtube.com/watch?v=1T83_PXc1Io) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -63,7 +64,6 @@
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Design with Widget Canonical Layouts](http://android-developers.googleblog.com/2025/03/design-with-widget-canonical-layouts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Introducing Widget Quality Tiers](http://android-developers.googleblog.com/2025/03/introducing-widget-quality-tiers.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 04 2025 - [SoundCloud uses Jetpack Glance to build Liked Tracks widget in just 2 weeks](http://android-developers.googleblog.com/2025/02/soundcloud-uses-jetpack-glance-to-build-liked-tracks-widget-in-just-2-weeks.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -97,10 +97,10 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
 - Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
