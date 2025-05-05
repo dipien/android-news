@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 05 2025 - [Android Testing Strategies](https://www.youtube.com/watch?v=qeFWCYc7u3E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 05 2025 - [Goodbye manual testing, hello automated testing](https://www.youtube.com/watch?v=ei_QZj47n9A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 05 2025 - [Tools and patterns for scalable Android app testing](https://www.youtube.com/watch?v=9SlKPtUtv6o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 02 2025 - [Innovation that includes everyone! ✨](https://www.youtube.com/watch?v=o8g3M04_wZw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 30 2025 - [Announcing Android support of digital credentials](http://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 29 2025 - [How Firebase Studio accelerates development](https://www.youtube.com/watch?v=llByU3YZvew) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -43,12 +46,9 @@
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 18 2025 - [Best of Play 2024: Infinite Painter reduces inking latency by 5x](https://www.youtube.com/watch?v=YgC0_Nx88Qs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
-- Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=Uw3XDYHKu-Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Mar 14 2025 - [#TheAndroidShow: the latest for Android devs, in 60 seconds!](https://www.youtube.com/watch?v=qRS6j6IQZhU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 13 2025 - [Imagen image generation - Release Notes Deep Dive](https://www.youtube.com/watch?v=zaADQ7oqV4Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 13 2025 - [The Third Beta of Android 16](http://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, the latest devices at MWC, XR and more!](https://www.youtube.com/watch?v=-Drt3YeIMuc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
