@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 06 2025 - [What's new in Android Studio Meerkat Feature Drop](https://www.youtube.com/watch?v=uZsFi7OehVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 06 2025 - [April 2025: Firebase Studio, Genkit, Gemini live APIs, Interactive Solutions, and much more!](https://www.youtube.com/watch?v=nWaMQsXcn44) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=uQw3HtebwvE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2025 - [Android Testing Strategies](https://www.youtube.com/watch?v=qeFWCYc7u3E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 05 2025 - [Goodbye manual testing, hello automated testing](https://www.youtube.com/watch?v=ei_QZj47n9A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -45,7 +47,6 @@
 - Mar 25 2025 - [Strengthening our app ecosystem: Enhanced tools for secure & efficient development](http://android-developers.googleblog.com/2025/03/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 25 2025 - [#WeArePlay: Bruce, Memory Lane Games  - Isle of Man](https://www.youtube.com/watch?v=oBDJH8h7FYs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 18 2025 - [Best of Play 2024: Infinite Painter reduces inking latency by 5x](https://www.youtube.com/watch?v=YgC0_Nx88Qs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 13 2025 - [Imagen image generation - Release Notes Deep Dive](https://www.youtube.com/watch?v=zaADQ7oqV4Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -68,7 +69,6 @@
 - Mar 04 2025 - [February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 18 2025 - [A little less vulnerable #FirebaseCLI](https://www.youtube.com/watch?v=gn3b8pArhuA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
