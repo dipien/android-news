@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 07 2025 - [Start prototyping with Firebase Studio](https://www.youtube.com/watch?v=hB1BdhINRNE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=ZBM9BQz_S_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](https://www.youtube.com/watch?v=DP7O_a8wIwQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -69,7 +70,6 @@
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
