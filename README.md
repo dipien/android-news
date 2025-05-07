@@ -1,6 +1,9 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](https://www.youtube.com/watch?v=DP7O_a8wIwQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - May 06 2025 - [Android Studio Meerkat Feature Drop is stable](http://android-developers.googleblog.com/2025/05/android-studio-meerkat-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 06 2025 - [What's new in Android Studio Meerkat Feature Drop](https://www.youtube.com/watch?v=uZsFi7OehVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 06 2025 - [April 2025: Firebase Studio, Genkit, Gemini live APIs, Interactive Solutions, and much more!](https://www.youtube.com/watch?v=nWaMQsXcn44) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -46,7 +49,6 @@
 - Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 25 2025 - [Introduction to the SDK Runtime](https://www.youtube.com/watch?v=ta3QdhHHJwU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 25 2025 - [Strengthening our app ecosystem: Enhanced tools for secure & efficient development](http://android-developers.googleblog.com/2025/03/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 25 2025 - [#WeArePlay: Bruce, Memory Lane Games  - Isle of Man](https://www.youtube.com/watch?v=oBDJH8h7FYs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -65,7 +67,6 @@
 - Mar 04 2025 - [Generate stunning visuals in your Android apps with Imagen 3 via Vertex AI in Firebase](http://android-developers.googleblog.com/2025/03/imagen3-via-vertex-ai-in-firebase.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Mar 04 2025 - [New devices at MWC, gaming news, XR & Gemini in Android Studio: Tune in for our winter episode of #TheAndroidShow on March 13!](http://android-developers.googleblog.com/2025/03/theandroidshow-winter-teaser.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 04 2025 - [Design with Widget Canonical Layouts](http://android-developers.googleblog.com/2025/03/design-with-widget-canonical-layouts.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!](https://www.youtube.com/watch?v=YUgXJkNqH9Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 25 2025 - [Folded #shorts](https://www.youtube.com/watch?v=fIRh1BHN-W0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Feb 21 2025 - [What is Query Defined  Infrastructure?](https://www.youtube.com/watch?v=hbGdEVceWCo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +100,7 @@
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
-- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
