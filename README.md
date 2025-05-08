@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 08 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=uQw3HtebwvE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Start prototyping with Firebase Studio](https://www.youtube.com/watch?v=hB1BdhINRNE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Building delightful Android camera and media experiences](http://android-developers.googleblog.com/2025/05/building-delightful-android-camera-media-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=ZBM9BQz_S_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -10,7 +11,6 @@
 - May 06 2025 - [Android Studio Meerkat Feature Drop is stable](http://android-developers.googleblog.com/2025/05/android-studio-meerkat-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 06 2025 - [What's new in Android Studio Meerkat Feature Drop](https://www.youtube.com/watch?v=uZsFi7OehVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 06 2025 - [April 2025: Firebase Studio, Genkit, Gemini live APIs, Interactive Solutions, and much more!](https://www.youtube.com/watch?v=nWaMQsXcn44) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 05 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=uQw3HtebwvE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2025 - [Android Testing Strategies](https://www.youtube.com/watch?v=qeFWCYc7u3E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 05 2025 - [Goodbye manual testing, hello automated testing](https://www.youtube.com/watch?v=ei_QZj47n9A) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 05 2025 - [Tools and patterns for scalable Android app testing](https://www.youtube.com/watch?v=9SlKPtUtv6o) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
