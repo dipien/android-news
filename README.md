@@ -1,10 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 08 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=ZBM9BQz_S_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 08 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=uQw3HtebwvE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Start prototyping with Firebase Studio](https://www.youtube.com/watch?v=hB1BdhINRNE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Building delightful Android camera and media experiences](http://android-developers.googleblog.com/2025/05/building-delightful-android-camera-media-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 07 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=ZBM9BQz_S_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](https://www.youtube.com/watch?v=DP7O_a8wIwQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
