@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2025 - [Now in Android: 116 – Google I/O, Gemini, and Jetpack Compose 1.8](https://www.youtube.com/watch?v=YOvD5nQe7Bk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 08 2025 - [From prototype to IDE in Firebase Studio](https://www.youtube.com/watch?v=9CLNxcM1tbo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 08 2025 - [Prepare your apps for Google Play’s 16 KB page size compatibility requirement](http://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -72,7 +73,6 @@
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jan 23 2025 - [Now in Android #113](https://medium.com/androiddevelopers/now-in-android-113-d6617517df62?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Dec 17 2024 - [Bring Relational Power to Firebase with Firebase Data Connect](https://medium.com/firebase-developers/bring-relational-power-to-firebase-with-firebase-data-connect-e65e5c420ca8?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
 - Nov 26 2024 - [Episode 211: Rules about performance tools](http://adbackstage.libsyn.com/episode-211-rules-about-performance-tools) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
