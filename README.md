@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 09 2025 - [Explore all the official templates for Firebase Studio](https://www.youtube.com/watch?v=vWfoxcDETY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2025 - [Now in Android: 116 – Google I/O, Gemini, and Jetpack Compose 1.8](https://www.youtube.com/watch?v=YOvD5nQe7Bk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 08 2025 - [From prototype to IDE in Firebase Studio](https://www.youtube.com/watch?v=9CLNxcM1tbo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -34,7 +35,7 @@
 - Apr 22 2025 - [Seamless login for returning users ✨ (Android)](https://www.youtube.com/watch?v=KJ39YdFg71o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 17 2025 - [The Fourth Beta of Android 16](http://android-developers.googleblog.com/2025/04/the-fourth-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 16 2025 - [Netflix App Testing At Scale](https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Apr 16 2025 - [Introducing Testing at Scale blog series](https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 16 2025 - [Introducing Testing at Scale: a blog series](https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 14 2025 - [From dashboards to deeper data: Improve app quality and performance with new Play Console insights](http://android-developers.googleblog.com/2025/04/play-console-insights.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 14 2025 - [Boost app performance and battery life: New Android Vitals Metrics are here](http://android-developers.googleblog.com/2025/04/boost-app-performance-and-battery-life-android-vitals-metrics.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 10 2025 - [Linting on the Side of Caution: Safety & Security](http://adbackstage.libsyn.com/linting-on-the-side-of-caution-safety-security) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -58,7 +59,6 @@
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Mar 13 2025 - [Imagen image generation - Release Notes Deep Dive](https://www.youtube.com/watch?v=zaADQ7oqV4Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 13 2025 - [The Third Beta of Android 16](http://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [#TheAndroidShow: Multimodal for Gemini in Android Studio, news for gaming devs, the latest devices at MWC, XR and more!](http://android-developers.googleblog.com/2025/03/winter-episode-theandroidshow.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 13 2025 - [Multimodal image attachment is now available for Gemini in Android Studio](http://android-developers.googleblog.com/2025/03/multimodal-image-attachment-now-available-gemini-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
