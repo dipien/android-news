@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 13 2025 - [Import existing projects into Firebase Studio](https://www.youtube.com/watch?v=31GsuvcRcXk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2025 - [#WeArePlay: How My Lovely Planet is making environmental preservation fun through games](http://android-developers.googleblog.com/2025/05/weareplay-my-lovely-planet-environmental-preservation-game.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2025 - [#WeArePlay: Clément, Imagine Games - Bordeaux](https://www.youtube.com/watch?v=TrgDdhvzwt4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2025 - [Compose Text APIs: Catch Meghan at #GoogleIO](https://www.youtube.com/watch?v=x-A27DIfx30) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -54,7 +55,6 @@
 - Apr 07 2025 - [Widgets take center stage with One UI 7](http://android-developers.googleblog.com/2025/04/widgets-take-center-stage-with-samsung-oneui7.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 01 2025 - [March 2025: Cloud Functions streaming, new Genkit features, and some App Hosting updates!](https://www.youtube.com/watch?v=IwRibrwKwhw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 27 2025 - [Media3 1.6.0 — what’s new?](http://android-developers.googleblog.com/2025/03/media3-1-6-0-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 27 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 25 2025 - [Strengthening our app ecosystem: Enhanced tools for secure & efficient development](http://android-developers.googleblog.com/2025/03/keeping-google-play-safe.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 24 2025 - [#WeArePlay - How Memory Lane Games helps people with dementia](http://android-developers.googleblog.com/2025/03/weareplay-how-memory-lane-games-helps-people-with-dementia.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
