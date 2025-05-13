@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 12 2025 - [Compose Text APIs: Catch Meghan at #GoogleIO](https://www.youtube.com/watch?v=x-A27DIfx30) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 09 2025 - [Explore all the official templates for Firebase Studio](https://www.youtube.com/watch?v=vWfoxcDETY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2025 - [Now in Android: 116 – Google I/O, Gemini, and Jetpack Compose 1.8](https://www.youtube.com/watch?v=YOvD5nQe7Bk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -51,7 +52,6 @@
 - Apr 07 2025 - [Widgets take center stage with One UI 7](http://android-developers.googleblog.com/2025/04/widgets-take-center-stage-with-samsung-oneui7.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 03 2025 - [Enhancing app performance in Android - Android Build Time](https://www.youtube.com/watch?v=8zgNN0Z44TE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2025 - [March 2025: Cloud Functions streaming, new Genkit features, and some App Hosting updates!](https://www.youtube.com/watch?v=IwRibrwKwhw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Mar 31 2025 - [Lock Screen Widgets coming in Android 16 #AskAndroid](https://www.youtube.com/watch?v=sQjzn4N7QF4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Mar 27 2025 - [Media3 1.6.0 — what’s new?](http://android-developers.googleblog.com/2025/03/media3-1-6-0-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 27 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
