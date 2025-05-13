@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 13 2025 - [#WeArePlay: How My Lovely Planet is making environmental preservation fun through games](http://android-developers.googleblog.com/2025/05/weareplay-my-lovely-planet-environmental-preservation-game.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 13 2025 - [#WeArePlay: Clément, Imagine Games - Bordeaux](https://www.youtube.com/watch?v=TrgDdhvzwt4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 12 2025 - [Compose Text APIs: Catch Meghan at #GoogleIO](https://www.youtube.com/watch?v=x-A27DIfx30) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 09 2025 - [Explore all the official templates for Firebase Studio](https://www.youtube.com/watch?v=vWfoxcDETY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -50,7 +52,6 @@
 - Apr 09 2025 - [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](http://android-developers.googleblog.com/2025/04/gemini-in-android-studio-for-business.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 08 2025 - [Adaptive Camera: Smooth Tabletop Mode with Animations](https://medium.com/androiddevelopers/adaptive-camera-smooth-tabletop-mode-with-animations-f57d77696e0f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 07 2025 - [Widgets take center stage with One UI 7](http://android-developers.googleblog.com/2025/04/widgets-take-center-stage-with-samsung-oneui7.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Apr 03 2025 - [Enhancing app performance in Android - Android Build Time](https://www.youtube.com/watch?v=8zgNN0Z44TE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Apr 01 2025 - [March 2025: Cloud Functions streaming, new Genkit features, and some App Hosting updates!](https://www.youtube.com/watch?v=IwRibrwKwhw) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Mar 27 2025 - [Media3 1.6.0 — what’s new?](http://android-developers.googleblog.com/2025/03/media3-1-6-0-is-now-available.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 27 2025 - [Firebase Authentication & Android Credentials: What's New? - Firebase After Hours LIVE](https://www.youtube.com/watch?v=PXSsngfc7iE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -69,7 +70,6 @@
 - Mar 12 2025 - [Bump’s Journey into Delightful Experiences on Android with Jetpack Compose](https://medium.com/androiddevelopers/bumps-journey-into-delightful-experiences-on-android-with-jetpack-compose-b2a1f8048018?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 12 2025 - [Unlock deeper health insights: Health Connect Jetpack SDK is now in beta and new feature updates](http://android-developers.googleblog.com/2025/03/health-connect-jetpack-sdk-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 06 2025 - [Widgets on lock screen: FAQ](http://android-developers.googleblog.com/2025/03/widgets-on-lock-screen-faq.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 05 2025 - [Common media processing operations with Jetpack Media3 Transformer](http://android-developers.googleblog.com/2025/03/media-processing-performance-jetpack-media3-transformer.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
