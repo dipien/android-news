@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 13 2025 - [The Android Show: I/O Edition - what Android devs need to know!](http://android-developers.googleblog.com/2025/05/the-android-show-io-edition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2025 - [Import existing projects into Firebase Studio](https://www.youtube.com/watch?v=31GsuvcRcXk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2025 - [#WeArePlay: How My Lovely Planet is making environmental preservation fun through games](http://android-developers.googleblog.com/2025/05/weareplay-my-lovely-planet-environmental-preservation-game.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2025 - [#WeArePlay: Clément, Imagine Games - Bordeaux](https://www.youtube.com/watch?v=TrgDdhvzwt4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -69,7 +70,6 @@
 - Mar 12 2025 - [Jetpack WindowManager 1.4 is stable](http://android-developers.googleblog.com/2025/03/jetpack-windowmanager-14-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 12 2025 - [Bump’s Journey into Delightful Experiences on Android with Jetpack Compose](https://medium.com/androiddevelopers/bumps-journey-into-delightful-experiences-on-android-with-jetpack-compose-b2a1f8048018?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 12 2025 - [Unlock deeper health insights: Health Connect Jetpack SDK is now in beta and new feature updates](http://android-developers.googleblog.com/2025/03/health-connect-jetpack-sdk-now-in-beta.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Mar 06 2025 - [Widgets on lock screen: FAQ](http://android-developers.googleblog.com/2025/03/widgets-on-lock-screen-faq.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
