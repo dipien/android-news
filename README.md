@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/watch?v=4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/watch?v=xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [How to maximize ROI on Google Play 📈](https://www.youtube.com/watch?v=Y1IzXKPk_T0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -41,7 +42,6 @@
 - Apr 23 2025 - [Get ready for Google I/O: Program lineup revealed](http://android-developers.googleblog.com/2025/04/google-io-program-lineup-revealed.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 22 2025 - [The EASIEST way to sign in (Android)](https://www.youtube.com/watch?v=qyj5UiVH-Lc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 22 2025 - [One-tap Google sign-in on Android! ✨](https://www.youtube.com/watch?v=kF1AMXUON98) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- Apr 22 2025 - [Seamless login for returning users ✨ (Android)](https://www.youtube.com/watch?v=KJ39YdFg71o) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 17 2025 - [The Fourth Beta of Android 16](http://android-developers.googleblog.com/2025/04/the-fourth-beta-of-android-16.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Apr 16 2025 - [Netflix App Testing At Scale](https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 16 2025 - [Introducing Testing at Scale: a blog series](https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -98,9 +98,9 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
-- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
