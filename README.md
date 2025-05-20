@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 20 2025 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 20 2025 - [Announcing Kotlin Multiplatform Shared Module Template](http://android-developers.googleblog.com/2025/05/kotlin-multiplatform-shared-module-templates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [16 things to know for Android developers at Google I/O 2025](http://android-developers.googleblog.com/2025/05/16-things-to-know-for-android-developers-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [What’s new in Wear OS 6](http://android-developers.googleblog.com/2025/05/whats-new-in-wear-os-6.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -40,8 +41,7 @@
 - May 08 2025 - [Now in Android: 116 – Google I/O, Gemini, and Jetpack Compose 1.8](https://www.youtube.com/watch?v=YOvD5nQe7Bk) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 08 2025 - [From prototype to IDE in Firebase Studio](https://www.youtube.com/watch?v=9CLNxcM1tbo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 08 2025 - [Prepare your apps for Google Play’s 16 KB page size compatibility requirement](http://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 08 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE part 2](https://www.youtube.com/watch?v=ZBM9BQz_S_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 08 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE part 1](https://www.youtube.com/watch?v=uQw3HtebwvE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 08 2025 - [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=ZBM9BQz_S_A) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Start prototyping with Firebase Studio](https://www.youtube.com/watch?v=hB1BdhINRNE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 07 2025 - [Building delightful Android camera and media experiences](http://android-developers.googleblog.com/2025/05/building-delightful-android-camera-media-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](https://www.youtube.com/watch?v=DP7O_a8wIwQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
