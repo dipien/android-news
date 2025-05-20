@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 20 2025 - [Announcing Kotlin Multiplatform Shared Module Template](http://android-developers.googleblog.com/2025/05/kotlin-multiplatform-shared-module-templates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [16 things to know for Android developers at Google I/O 2025](http://android-developers.googleblog.com/2025/05/16-things-to-know-for-android-developers-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [What’s new in Wear OS 6](http://android-developers.googleblog.com/2025/05/whats-new-in-wear-os-6.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [What’s new in Watch Faces](http://android-developers.googleblog.com/2025/05/whats-new-in-watch-faces.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -46,7 +47,6 @@
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](https://www.youtube.com/watch?v=DP7O_a8wIwQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 06 2025 - [Android Studio Meerkat Feature Drop is stable](http://android-developers.googleblog.com/2025/05/android-studio-meerkat-feature-drop-is-stable.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 06 2025 - [What's new in Android Studio Meerkat Feature Drop](https://www.youtube.com/watch?v=uZsFi7OehVU) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 06 2025 - [April 2025: Firebase Studio, Genkit, Gemini live APIs, Interactive Solutions, and much more!](https://www.youtube.com/watch?v=nWaMQsXcn44) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 05 2025 - [Android Testing Strategies](https://www.youtube.com/watch?v=qeFWCYc7u3E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
