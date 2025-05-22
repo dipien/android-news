@@ -1,6 +1,11 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 22 2025 - [Adaptive Android development makes your app shine across devices](https://www.youtube.com/watch?v=15oPNK1W0Tw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 22 2025 - [What's new in Android](https://www.youtube.com/watch?v=IaNpcrCSDiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 22 2025 - [What's new in Google Play](https://www.youtube.com/watch?v=POUqfDBtRbg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 22 2025 - [What's new in Android development tools](https://www.youtube.com/watch?v=KXKP2tDPW4Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- May 22 2025 - [What's new in Firebase](https://www.youtube.com/watch?v=R_gqv8PwM78) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Seamless video capture, editing and playback with CameraX and Media3](https://www.youtube.com/watch?v=3zXVPU2vKXs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Finding the perfect Gemini fit on Android](https://www.youtube.com/watch?v=7Tnq4y7T4xs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [New in-car app experiences](https://www.youtube.com/watch?v=ud09zuXHst4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -12,10 +17,6 @@
 - May 22 2025 - [What's your player loyalty score? Engaging players with PGS](https://www.youtube.com/watch?v=v-6b_wWF96U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Gemini Nano on Android: Building with on-device gen AI](https://www.youtube.com/watch?v=mP9QESmEDls) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Build next-level UX with Material 3 Expressive](https://www.youtube.com/watch?v=6IsFP3gD28E) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [Enhance your Android app with Gemini Pro and Flash, and Imagen](https://www.youtube.com/watch?v=U8Nb68XsVY4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [Engage users on Google TV with excellent TV apps](https://www.youtube.com/watch?v=OosLbRBM9dA) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [Demystify KMP builds and structure](https://www.youtube.com/watch?v=gP5Y-ct6QXI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [Google Home APIs, tools, and Gemini capabilities for your apps](https://www.youtube.com/watch?v=BmEuE_Er-Fs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build full-stack AI apps in minutes with Firebase Studio](https://www.youtube.com/watch?v=x2zvki_VlRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -57,7 +58,6 @@
 - May 07 2025 - [Building delightful Android camera and media experiences](http://android-developers.googleblog.com/2025/05/building-delightful-android-camera-media-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 06 2025 - [April 2025: Firebase Studio, Genkit, Gemini live APIs, Interactive Solutions, and much more!](https://www.youtube.com/watch?v=nWaMQsXcn44) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Apr 23 2025 - [Now in Android #115](https://medium.com/androiddevelopers/now-in-android-115-d13a60cbf092?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 23 2025 - [How Dropbox leverages testing to maintain high level of trust at scale](https://medium.com/androiddevelopers/how-dropbox-leverages-testing-to-maintain-high-level-of-trust-at-scale-b7b1bdf6161e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
