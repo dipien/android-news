@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- May 29 2025 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 28 2025 - [What’s new in Jetpack Compose](https://www.youtube.com/watch?v=89UusPuz8q4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Adaptive Android development makes your app shine across devices](https://www.youtube.com/watch?v=15oPNK1W0Tw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Android](https://www.youtube.com/watch?v=IaNpcrCSDiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -21,7 +22,6 @@
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build full-stack AI apps in minutes with Firebase Studio](https://www.youtube.com/watch?v=x2zvki_VlRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Deploy Angular and Next.js with Firebase App Hosting](https://www.youtube.com/watch?v=XEhd9a9YhSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 20 2025 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 20 2025 - [Announcing Kotlin Multiplatform Shared Module Template](http://android-developers.googleblog.com/2025/05/kotlin-multiplatform-shared-module-templates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [16 things to know for Android developers at Google I/O 2025](http://android-developers.googleblog.com/2025/05/16-things-to-know-for-android-developers-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [What’s new in Wear OS 6](http://android-developers.googleblog.com/2025/05/whats-new-in-wear-os-6.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
