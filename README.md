@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 05 2025 - [Now in Android #117 — Google I/O 2025 Part I](https://medium.com/androiddevelopers/now-in-android-117-google-i-o-2025-part-i-fd20a09a2299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 04 2025 - [Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)](https://www.youtube.com/watch?v=Q_ZHnyVFqMc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2025 - [May 2025: Firebase Studio, App Hosting, Firebase AI Logic and many updates on Data Connect!](https://www.youtube.com/watch?v=sqTsIj_t9HU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2025 - [Introducing Firebase Studio](https://www.youtube.com/watch?v=vVAui3_rvD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -52,12 +53,21 @@
 - May 13 2025 - [Import existing projects into Firebase Studio](https://www.youtube.com/watch?v=31GsuvcRcXk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2025 - [#WeArePlay: How My Lovely Planet is making environmental preservation fun through games](http://android-developers.googleblog.com/2025/05/weareplay-my-lovely-planet-environmental-preservation-game.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 09 2025 - [Explore all the official templates for Firebase Studio](https://www.youtube.com/watch?v=vWfoxcDETY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 08 2025 - [From prototype to IDE in Firebase Studio](https://www.youtube.com/watch?v=9CLNxcM1tbo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 08 2025 - [Prepare your apps for Google Play’s 16 KB page size compatibility requirement](http://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [Building delightful Android camera and media experiences](http://android-developers.googleblog.com/2025/05/building-delightful-android-camera-media-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Apr 23 2025 - [Now in Android #115](https://medium.com/androiddevelopers/now-in-android-115-d13a60cbf092?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 23 2025 - [How Dropbox leverages testing to maintain high level of trust at scale](https://medium.com/androiddevelopers/how-dropbox-leverages-testing-to-maintain-high-level-of-trust-at-scale-b7b1bdf6161e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 16 2025 - [Netflix App Testing At Scale](https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 16 2025 - [Introducing Testing at Scale: a blog series](https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 10 2025 - [Linting on the Side of Caution: Safety & Security](http://adbackstage.libsyn.com/linting-on-the-side-of-caution-safety-security) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Apr 08 2025 - [Adaptive Camera: Smooth Tabletop Mode with Animations](https://medium.com/androiddevelopers/adaptive-camera-smooth-tabletop-mode-with-animations-f57d77696e0f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 13 2025 - [Now in Android #114](https://medium.com/androiddevelopers/now-in-android-114-bf1416b5f5ae?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 13 2025 - [Unit Testing Lifecycle and State in ViewModels](https://medium.com/androiddevelopers/unit-testing-lifecycle-and-state-in-viewmodels-9d406c08cbd7?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jan 24 2025 - [Episode 212: Happy birthday, Android Studio!](http://adbackstage.libsyn.com/episode-212-happy-birthday-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Dec 12 2024 - [Material Design for XR (Developer Preview)](https://material.io/blog/material-design-xr-dev-preview) - [Material Design Blog](https://material.io/blog)
@@ -90,17 +100,7 @@
 - May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
 - May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)
 - May 17 2023 - [Episode 197: Studio Bot](http://adbackstage.libsyn.com/episode-197-studio-bot) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)
-- May 12 2023 - [How to make your text more accessible](https://material.io/blog/how-to-make-text-more-accessible) - [Material Design Blog](https://material.io/blog)
-- May 10 2023 - [Material Design 3 for Compose gets new components and features](https://material.io/blog/material-3-compose-1-1) - [Material Design Blog](https://material.io/blog)
-- May 10 2023 - [Reinventing the carousel](https://material.io/blog/material-3-carousel-research-design) - [Material Design Blog](https://material.io/blog)
-- May 01 2023 - [Material Design at I/O ‘23](https://material.io/blog/material-google-io23) - [Material Design Blog](https://material.io/blog)
-- Apr 29 2023 - [Better design for bigger screens](https://material.io/blog/material-you-large-screens) - [Material Design Blog](https://material.io/blog)
-- Mar 23 2023 - [Introducing Tone-based Surfaces in Material 3](https://material.io/blog/tone-based-surface-color-m3) - [Material Design Blog](https://material.io/blog)
-- Mar 22 2023 - [Episode 196: Android Studio, behind the scenes](http://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Mar 22 2023 - [New SIL Typefaces](https://material.io/blog/sil-typefaces) - [Material Design Blog](https://material.io/blog)
-- Mar 09 2023 - [The Design of Readex Pro](https://material.io/blog/readex-pro-legibility-arabic-type-design) - [Material Design Blog](https://material.io/blog)
-- Mar 07 2023 - [The Story of Shantell Sans](https://material.io/blog/shantell-martin-variable-font) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- May 17 2023 - [Material Design Components for Android 1.9.0](https://material.io/blog/android-stable-release-1-9-0) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
