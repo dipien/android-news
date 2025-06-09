@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 09 2025 - [Introducing Firebase AI Logic](https://www.youtube.com/watch?v=SZuxc2iT5Uc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 05 2025 - [Now in Android #117 — Google I/O 2025 Part I](https://medium.com/androiddevelopers/now-in-android-117-google-i-o-2025-part-i-fd20a09a2299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 04 2025 - [Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)](https://www.youtube.com/watch?v=Q_ZHnyVFqMc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2025 - [May 2025: Firebase Studio, App Hosting, Firebase AI Logic and many updates on Data Connect!](https://www.youtube.com/watch?v=sqTsIj_t9HU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -54,7 +55,6 @@
 - May 13 2025 - [#WeArePlay: How My Lovely Planet is making environmental preservation fun through games](http://android-developers.googleblog.com/2025/05/weareplay-my-lovely-planet-environmental-preservation-game.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 09 2025 - [Explore all the official templates for Firebase Studio](https://www.youtube.com/watch?v=vWfoxcDETY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- May 08 2025 - [From prototype to IDE in Firebase Studio](https://www.youtube.com/watch?v=9CLNxcM1tbo) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 08 2025 - [Prepare your apps for Google Play’s 16 KB page size compatibility requirement](http://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [Building delightful Android camera and media experiences](http://android-developers.googleblog.com/2025/05/building-delightful-android-camera-media-experiences.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 07 2025 - [Zoho Achieves 6x Faster Logins with Passkey and Credential Manager Integration](http://android-developers.googleblog.com/2025/05/zoho-achieves-faster-logins-passkey-credential-manager-integration.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
