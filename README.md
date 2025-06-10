@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 10 2025 - [Top 3 updates for building excellent and adaptive apps at Google I/O ‘25](https://www.youtube.com/watch?v=KiYHuY3hiZc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 10 2025 - [3 updates for building excellent and adaptive apps at Google I/O ‘25](https://www.youtube.com/watch?v=IK6FUfluN6I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2025 - [Introducing Firebase AI Logic](https://www.youtube.com/watch?v=SZuxc2iT5Uc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 05 2025 - [Now in Android #117 — Google I/O 2025 Part I](https://medium.com/androiddevelopers/now-in-android-117-google-i-o-2025-part-i-fd20a09a2299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 04 2025 - [Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)](https://www.youtube.com/watch?v=Q_ZHnyVFqMc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -20,8 +22,6 @@
 - May 22 2025 - [Maximizing ROI on Google Play](https://www.youtube.com/watch?v=T41OD37tI54) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Building differentiated apps for Android XR with 3D content](https://www.youtube.com/watch?v=KbTJNK1ALYc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Best practices for using web in your Android apps](https://www.youtube.com/watch?v=2IAoYnzCTvw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [Mastering text input in Compose](https://www.youtube.com/watch?v=07Y9CPuxgvQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [What's your player loyalty score? Engaging players with PGS](https://www.youtube.com/watch?v=v-6b_wWF96U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build full-stack AI apps in minutes with Firebase Studio](https://www.youtube.com/watch?v=x2zvki_VlRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
