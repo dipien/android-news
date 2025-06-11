@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 11 2025 - [Smoother app reviews with Play Policy Insights beta in Android Studio](http://android-developers.googleblog.com/2025/06/making-it-easier-to-build-safer-apps-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 10 2025 - [A product manager’s guide to adapting Android apps across devices](https://medium.com/androiddevelopers/a-product-managers-guide-to-adapting-android-apps-across-devices-b2e9b8bfe5f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 10 2025 - [Developer preview: Enhanced Android desktop experiences with connected displays](http://android-developers.googleblog.com/2025/06/developer-preview-enhanced-android-desktop-experiences-connected-displays.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 10 2025 - [Top 3 updates for building excellent, adaptive apps at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-building-excellent-adaptive-apps-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -55,7 +56,6 @@
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/watch?v=xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2025 - [Compile SQLite from source to WASM in Firebase Studio](https://www.youtube.com/watch?v=hox-Sv8ZHxE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 13 2025 - [The Android Show: I/O Edition - what Android devs need to know!](http://android-developers.googleblog.com/2025/05/the-android-show-io-edition.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 13 2025 - [Import existing projects into Firebase Studio](https://www.youtube.com/watch?v=31GsuvcRcXk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Explore all the official templates for Firebase Studio](https://www.youtube.com/watch?v=vWfoxcDETY0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
