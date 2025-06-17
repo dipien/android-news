@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 17 2025 - [Navigating the future with Jetpack Navigation 3 - Core Concepts](https://www.youtube.com/watch?v=opLYavQHBB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 AI on Android announcements at Google I/O ‘25](https://www.youtube.com/watch?v=I9BchAY8MRs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 announcements for AI on Android at Google I/O ‘25](https://www.youtube.com/watch?v=iMVLoZaJ_1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 things to know for AI on Android at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-ai-on-android-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -31,7 +32,6 @@
 - May 22 2025 - [What's new in Firebase](https://www.youtube.com/watch?v=R_gqv8PwM78) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Seamless video capture, editing and playback with CameraX and Media3](https://www.youtube.com/watch?v=3zXVPU2vKXs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Finding the perfect Gemini fit on Android](https://www.youtube.com/watch?v=7Tnq4y7T4xs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [New in-car app experiences](https://www.youtube.com/watch?v=ud09zuXHst4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build full-stack AI apps in minutes with Firebase Studio](https://www.youtube.com/watch?v=x2zvki_VlRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
