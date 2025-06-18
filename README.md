@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 18 2025 - [Now in Android #118 — Google I/O 2025 Part II](https://medium.com/androiddevelopers/now-in-android-118-google-i-o-2025-part-ii-0176766c2061?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 18 2025 - [Now in Android: 118 –What’s new in Android development at Google I/O 2025 (part 2)](https://www.youtube.com/watch?v=iB6lYZ_9VxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 17 2025 - [Navigating the future with Jetpack Navigation 3 - Core Concepts](https://www.youtube.com/watch?v=opLYavQHBB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 AI on Android announcements at Google I/O ‘25](https://www.youtube.com/watch?v=I9BchAY8MRs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -12,6 +13,7 @@
 - Jun 12 2025 - [Compose Preview - Jetpack Compose Tips](https://www.youtube.com/watch?v=UnHTlNlzJPw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 12 2025 - [Upcoming changes to Wear OS watch faces](http://android-developers.googleblog.com/2025/06/upcoming-changes-to-wear-os-watch-faces.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 11 2025 - [Smoother app reviews with Play Policy Insights beta in Android Studio](http://android-developers.googleblog.com/2025/06/making-it-easier-to-build-safer-apps-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jun 10 2025 - [A product manager’s guide to adapting Android apps across devices](https://medium.com/androiddevelopers/a-product-managers-guide-to-adapting-android-apps-across-devices-b2e9b8bfe5f1?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 10 2025 - [Developer preview: Enhanced Android desktop experiences with connected displays](http://android-developers.googleblog.com/2025/06/developer-preview-enhanced-android-desktop-experiences-connected-displays.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 10 2025 - [Top 3 updates for building excellent, adaptive apps at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-building-excellent-adaptive-apps-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 10 2025 - [A product manager's guide to adapting Android apps across devices](http://android-developers.googleblog.com/2025/06/a-product-manager-guide-to-scaling-android-apps-across-from-factors.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -19,6 +21,7 @@
 - Jun 10 2025 - [Top 3 updates for building excellent and adaptive apps at Google I/O ‘25](https://www.youtube.com/watch?v=KiYHuY3hiZc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 10 2025 - [3 updates for building excellent and adaptive apps at Google I/O ‘25](https://www.youtube.com/watch?v=IK6FUfluN6I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2025 - [Introducing Firebase AI Logic](https://www.youtube.com/watch?v=SZuxc2iT5Uc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- Jun 05 2025 - [Now in Android #117 — Google I/O 2025 Part I](https://medium.com/androiddevelopers/now-in-android-117-google-i-o-2025-part-i-fd20a09a2299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 04 2025 - [Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)](https://www.youtube.com/watch?v=Q_ZHnyVFqMc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2025 - [May 2025: Firebase Studio, App Hosting, Firebase AI Logic and many updates on Data Connect!](https://www.youtube.com/watch?v=sqTsIj_t9HU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2025 - [Introducing Firebase Studio](https://www.youtube.com/watch?v=vVAui3_rvD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -57,9 +60,16 @@
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2025 - [Compile SQLite from source to WASM in Firebase Studio](https://www.youtube.com/watch?v=hox-Sv8ZHxE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2025 - [Import existing projects into Firebase Studio](https://www.youtube.com/watch?v=31GsuvcRcXk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
+- Apr 23 2025 - [Now in Android #115](https://medium.com/androiddevelopers/now-in-android-115-d13a60cbf092?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 23 2025 - [How Dropbox leverages testing to maintain high level of trust at scale](https://medium.com/androiddevelopers/how-dropbox-leverages-testing-to-maintain-high-level-of-trust-at-scale-b7b1bdf6161e?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 16 2025 - [Netflix App Testing At Scale](https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Apr 16 2025 - [Introducing Testing at Scale: a blog series](https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Apr 10 2025 - [Linting on the Side of Caution: Safety & Security](http://adbackstage.libsyn.com/linting-on-the-side-of-caution-safety-security) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
+- Apr 08 2025 - [Adaptive Camera: Smooth Tabletop Mode with Animations](https://medium.com/androiddevelopers/adaptive-camera-smooth-tabletop-mode-with-animations-f57d77696e0f?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
+- Mar 25 2025 - [Make WebViews edge-to-edge](https://medium.com/androiddevelopers/make-webviews-edge-to-edge-a6ef319adfac?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Mar 15 2025 - [How to Develop Firebase Genkit Flows](https://medium.com/firebase-developers/how-to-develop-firebase-genkit-functions-2677b386a227?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
 - Mar 04 2025 - [Episode 213: Compose runtime and performance](http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 17 2025 - [internal AI: A Genkit-Based Internal AI Chat Released as Open Source!](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -89,18 +99,8 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
 - Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
-- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Oct 25 2023 - [Material Design Components for Android 1.10.0](https://material.io/blog/android-stable-release-1-10-0) - [Material Design Blog](https://material.io/blog)
-- Sep 21 2023 - [Episode 201: Firebase in Android Studio](http://adbackstage.libsyn.com/episode-201-firebase-in-android-studio) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Sep 07 2023 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign) - [Material Design Blog](https://material.io/blog)
-- Aug 24 2023 - [Video: Fonts are software](https://material.io/blog/fonts-are-software-video) - [Material Design Blog](https://material.io/blog)
-- Aug 15 2023 - [Episode 200: WebGPU](http://adbackstage.libsyn.com/episode-200-webgpu) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jul 18 2023 - [Episode 199: Compose performance](http://adbackstage.libsyn.com/episode-199-compose-performance) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Jun 26 2023 - [Episode 198: Location location location, revisited](http://adbackstage.libsyn.com/episode-198-location-location-location-revisited) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- May 26 2023 - [The designer’s toolbox](https://material.io/blog/designer-toolbox-figma-android-studio-relay) - [Material Design Blog](https://material.io/blog)
-- May 19 2023 - [What’s new in the M3 design kit](https://material.io/blog/whats-new-design-kit) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
