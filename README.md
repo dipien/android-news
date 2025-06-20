@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 20 2025 - [Unlock the full potential of your game with Vulkan and ADPF](https://www.youtube.com/watch?v=vxtX5ul6aL8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 20 2025 - [Reaching billions: Multiplatform strategies and performance tools for Android](https://www.youtube.com/watch?v=oNU8Zl-_ez8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2025 - [Now in Android #118 — Google I/O 2025 Part II](https://medium.com/androiddevelopers/now-in-android-118-google-i-o-2025-part-ii-0176766c2061?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 18 2025 - [Now in Android: 118 –What’s new in Android development at Google I/O 2025 (part 2)](https://www.youtube.com/watch?v=iB6lYZ_9VxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 17 2025 - [Navigating the future with Jetpack Navigation 3 - Core Concepts](https://www.youtube.com/watch?v=opLYavQHBB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -30,9 +32,7 @@
 - May 22 2025 - [Adaptive Android development makes your app shine across devices](https://www.youtube.com/watch?v=15oPNK1W0Tw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Android](https://www.youtube.com/watch?v=IaNpcrCSDiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Google Play](https://www.youtube.com/watch?v=POUqfDBtRbg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [What's new in Android development tools](https://www.youtube.com/watch?v=KXKP2tDPW4Y) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Firebase](https://www.youtube.com/watch?v=R_gqv8PwM78) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 22 2025 - [Seamless video capture, editing and playback with CameraX and Media3](https://www.youtube.com/watch?v=3zXVPU2vKXs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build full-stack AI apps in minutes with Firebase Studio](https://www.youtube.com/watch?v=x2zvki_VlRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
