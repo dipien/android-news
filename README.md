@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 23 2025 - [Firebase After Hours #13: From Zero to Hosted: Pushing the Limits of Firebase App Hosting](https://www.youtube.com/watch?v=8vojkFvKT1U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 20 2025 - [Unlock the full potential of your game with Vulkan and ADPF](https://www.youtube.com/watch?v=vxtX5ul6aL8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 20 2025 - [Reaching billions: Multiplatform strategies and performance tools for Android](https://www.youtube.com/watch?v=oNU8Zl-_ez8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2025 - [Now in Android #118 — Google I/O 2025 Part II](https://medium.com/androiddevelopers/now-in-android-118-google-i-o-2025-part-ii-0176766c2061?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -59,7 +60,6 @@
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 14 2025 - [Compile SQLite from source to WASM in Firebase Studio](https://www.youtube.com/watch?v=hox-Sv8ZHxE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 13 2025 - [Import existing projects into Firebase Studio](https://www.youtube.com/shorts/31GsuvcRcXk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
