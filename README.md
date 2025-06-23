@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 23 2025 - [Top 3 Android Developer Productivity updates at Google I/O ‘25](https://www.youtube.com/shorts/F1ye0sEyFMM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 23 2025 - [Top 3 updates for Android Developer Productivity at Google I/O ‘25](https://www.youtube.com/watch?v=-GikklXjkgM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 Updates for Android Developer Productivity @ Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-android-developer-productivity-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 23 2025 - [Agentic AI takes Gemini in Android Studio to the next level](http://android-developers.googleblog.com/2025/06/agentic-ai-takes-gemini-in-android-studio-to-next-level.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 23 2025 - [Firebase After Hours #13: From Zero to Hosted: Pushing the Limits of Firebase App Hosting](https://www.youtube.com/watch?v=8vojkFvKT1U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -33,8 +35,6 @@
 - May 29 2025 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 28 2025 - [What’s new in Jetpack Compose](https://www.youtube.com/watch?v=89UusPuz8q4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [Adaptive Android development makes your app shine across devices](https://www.youtube.com/watch?v=15oPNK1W0Tw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [What's new in Android](https://www.youtube.com/watch?v=IaNpcrCSDiI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [What's new in Google Play](https://www.youtube.com/watch?v=POUqfDBtRbg) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Firebase](https://www.youtube.com/watch?v=R_gqv8PwM78) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -99,8 +99,8 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
+- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
