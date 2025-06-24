@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 24 2025 - [[Games] - Broadening audiences through expansions (Playtime 2024)](https://www.youtube.com/watch?v=PdonCrUxVdQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 Android Developer Productivity updates at Google I/O ‘25](https://www.youtube.com/shorts/F1ye0sEyFMM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 updates for Android Developer Productivity at Google I/O ‘25](https://www.youtube.com/watch?v=-GikklXjkgM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 Updates for Android Developer Productivity @ Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-android-developer-productivity-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +35,6 @@
 - May 30 2025 - [Introducing Firebase Studio](https://www.youtube.com/watch?v=vVAui3_rvD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 29 2025 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 28 2025 - [What’s new in Jetpack Compose](https://www.youtube.com/watch?v=89UusPuz8q4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- May 22 2025 - [Adaptive Android development makes your app shine across devices](https://www.youtube.com/watch?v=15oPNK1W0Tw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Firebase](https://www.youtube.com/watch?v=R_gqv8PwM78) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
