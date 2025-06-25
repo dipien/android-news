@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 25 2025 - [How Mecha BREAK is driving PC-only growth on Google Play Games](http://android-developers.googleblog.com/2025/06/how-mecha-break-is-driving-pc-only-growth-google-play-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 24 2025 - [[Games] - Broadening audiences through expansions (Playtime 2024)](https://www.youtube.com/watch?v=PdonCrUxVdQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 Android Developer Productivity updates at Google I/O ‘25](https://www.youtube.com/shorts/F1ye0sEyFMM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 updates for Android Developer Productivity at Google I/O ‘25](https://www.youtube.com/watch?v=-GikklXjkgM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -52,7 +53,6 @@
 - May 20 2025 - [Engage users on Google TV with excellent TV apps](http://android-developers.googleblog.com/2025/05/engage-users-google-tv-excellent-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Announcing Jetpack Navigation 3](http://android-developers.googleblog.com/2025/05/announcing-jetpack-navigation-3-for-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Android’s Kotlin Multiplatform announcements at Google I/O and KotlinConf 25](http://android-developers.googleblog.com/2025/05/android-kotlin-multiplatform-google-io-kotlinconf-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [Androidify: Building powerful AI-driven experiences with Jetpack Compose, Gemini and CameraX](http://android-developers.googleblog.com/2025/05/androidify-building-ai-driven-experiences-jetpack-compose-gemini-camerax.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
