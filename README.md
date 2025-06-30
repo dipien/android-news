@@ -1,6 +1,10 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jun 30 2025 - [3 Google Play Google  I/O 2025 announcements](https://www.youtube.com/shorts/Q3bLhKizBbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 30 2025 - [Top 3 Google Play Google I/O 2025 announcements](https://www.youtube.com/watch?v=Cny82VuONU4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
+- Jun 30 2025 - [Top announcements to know from Google Play at I/O ‘25](http://android-developers.googleblog.com/2025/06/top-announcements-to-know-from-google-play-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jun 30 2025 - [Get ready for the next generation of gameplay powered by Play Games Services](http://android-developers.googleblog.com/2025/06/get-ready-for-next-generation-gameplay-play-games-services.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 27 2025 - [Firebase After Hours #13: From Zero to Hosted: Pushing the Limits of Firebase App Hosting](https://www.youtube.com/watch?v=8vojkFvKT1U) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 25 2025 - [How Mecha BREAK is driving PC-only growth on Google Play Games](http://android-developers.googleblog.com/2025/06/how-mecha-break-is-driving-pc-only-growth-google-play-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 24 2025 - [[Games] - Broadening audiences through expansions (Playtime 2024)](https://www.youtube.com/watch?v=PdonCrUxVdQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,11 +35,9 @@
 - Jun 10 2025 - [3 updates for building excellent and adaptive apps at Google I/O ‘25](https://www.youtube.com/shorts/IK6FUfluN6I) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2025 - [Introducing Firebase AI Logic](https://www.youtube.com/shorts/SZuxc2iT5Uc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 05 2025 - [Now in Android #117 — Google I/O 2025 Part I](https://medium.com/androiddevelopers/now-in-android-117-google-i-o-2025-part-i-fd20a09a2299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
-- Jun 04 2025 - [Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)](https://www.youtube.com/watch?v=Q_ZHnyVFqMc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 03 2025 - [May 2025: Firebase Studio, App Hosting, Firebase AI Logic and many updates on Data Connect!](https://www.youtube.com/watch?v=sqTsIj_t9HU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 30 2025 - [Introducing Firebase Studio](https://www.youtube.com/watch?v=vVAui3_rvD8) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 29 2025 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 28 2025 - [What’s new in Jetpack Compose](https://www.youtube.com/watch?v=89UusPuz8q4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - May 22 2025 - [What's new in Firebase](https://www.youtube.com/watch?v=R_gqv8PwM78) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -54,8 +56,6 @@
 - May 20 2025 - [In-App Ratings and Reviews for TV](http://android-developers.googleblog.com/2025/05/in-app-ratings-and-reviews-for-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Google I/O 2025: What’s new in Android development tools](http://android-developers.googleblog.com/2025/05/google-io-2025-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Engage users on Google TV with excellent TV apps](http://android-developers.googleblog.com/2025/05/engage-users-google-tv-excellent-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [Announcing Jetpack Navigation 3](http://android-developers.googleblog.com/2025/05/announcing-jetpack-navigation-3-for-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [Android’s Kotlin Multiplatform announcements at Google I/O and KotlinConf 25](http://android-developers.googleblog.com/2025/05/android-kotlin-multiplatform-google-io-kotlinconf-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
