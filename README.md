@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 01 2025 - [June 2025: Updates to SDK and CLI, Firebase Crashlytics, and more](https://www.youtube.com/watch?v=0c8pKtWObDY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 01 2025 - [Level up your game: Google Play's Indie Games Fund in Latin America returns for its 4th year](http://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 30 2025 - [3 Google Play Google  I/O 2025 announcements](https://www.youtube.com/shorts/Q3bLhKizBbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 30 2025 - [Top 3 Google Play Google I/O 2025 announcements](https://www.youtube.com/watch?v=Cny82VuONU4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -59,7 +60,6 @@
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 14 2025 - [Compile SQLite from source to WASM in Firebase Studio](https://www.youtube.com/watch?v=hox-Sv8ZHxE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -99,8 +99,8 @@
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
 - Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)
+- Nov 01 2023 - [Episode 202: AndroidX, Gradle and Metalava](http://adbackstage.libsyn.com/episode-202-androidx-gradle-and-metalava) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
