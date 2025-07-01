@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 01 2025 - [Level up your game: Google Play's Indie Games Fund in Latin America returns for its 4th year](http://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 30 2025 - [3 Google Play Google  I/O 2025 announcements](https://www.youtube.com/shorts/Q3bLhKizBbE) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 30 2025 - [Top 3 Google Play Google I/O 2025 announcements](https://www.youtube.com/watch?v=Cny82VuONU4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 30 2025 - [Top announcements to know from Google Play at I/O ‘25](http://android-developers.googleblog.com/2025/06/top-announcements-to-know-from-google-play-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -55,7 +56,6 @@
 - May 20 2025 - [I/O 2025: What's new in Google Play](http://android-developers.googleblog.com/2025/05/io-2025-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [In-App Ratings and Reviews for TV](http://android-developers.googleblog.com/2025/05/in-app-ratings-and-reviews-for-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Google I/O 2025: What’s new in Android development tools](http://android-developers.googleblog.com/2025/05/google-io-2025-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [Engage users on Google TV with excellent TV apps](http://android-developers.googleblog.com/2025/05/engage-users-google-tv-excellent-apps.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
