@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 09 2025 - [Now in Android: 119 – Android 16, testing, desktop experiences, AndroidX, and  more!](https://www.youtube.com/watch?v=fZ6HrQb2EYY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 03 2025 - [Embedded Layout Inspector - Jetpack Compose Tips](https://www.youtube.com/watch?v=HxCHwExm9rM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 01 2025 - [June 2025: Updates to SDK and CLI, Firebase Crashlytics, and more](https://www.youtube.com/watch?v=0c8pKtWObDY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 01 2025 - [Level up your game: Google Play's Indie Games Fund in Latin America returns for its 4th year](http://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +35,6 @@
 - Jun 10 2025 - [Top 3 updates for building excellent, adaptive apps at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-building-excellent-adaptive-apps-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 10 2025 - [A product manager's guide to adapting Android apps across devices](http://android-developers.googleblog.com/2025/06/a-product-manager-guide-to-scaling-android-apps-across-from-factors.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 10 2025 - [Android 16 is here](http://android-developers.googleblog.com/2025/06/android-16-is-here.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 10 2025 - [Top 3 updates for building excellent and adaptive apps at Google I/O ‘25](https://www.youtube.com/watch?v=KiYHuY3hiZc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 09 2025 - [Introducing Firebase AI Logic](https://www.youtube.com/shorts/SZuxc2iT5Uc) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 05 2025 - [Now in Android #117 — Google I/O 2025 Part I](https://medium.com/androiddevelopers/now-in-android-117-google-i-o-2025-part-i-fd20a09a2299?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 03 2025 - [May 2025: Firebase Studio, App Hosting, Firebase AI Logic and many updates on Data Connect!](https://www.youtube.com/watch?v=sqTsIj_t9HU) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
