@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 10 2025 - [Evolving Android’s early-access programs: Introducing the Canary channel](http://android-developers.googleblog.com/2025/07/android-canary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jul 10 2025 - [On-device AI with Firebase](https://www.youtube.com/watch?v=wBfqpPxUwqM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2025 - [Google Play PolicyBytes - July 2025 policy updates](https://www.youtube.com/watch?v=fE8YRPejcnM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 10 2025 - [Start building for the next generation of Samsung devices](http://android-developers.googleblog.com/2025/07/start-building-next-generation-samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2025 - [Now in Android #119](https://medium.com/androiddevelopers/now-in-android-119-7b86ad2b3e81?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
@@ -57,11 +59,9 @@
 - May 20 2025 - [On-device GenAI APIs as part of ML Kit help you easily build with Gemini Nano](http://android-developers.googleblog.com/2025/05/on-device-gen-ai-apis-ml-kit-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [New in-car app experiences](http://android-developers.googleblog.com/2025/05/android-for-cars-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [I/O 2025: What's new in Google Play](http://android-developers.googleblog.com/2025/05/io-2025-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [In-App Ratings and Reviews for TV](http://android-developers.googleblog.com/2025/05/in-app-ratings-and-reviews-for-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Adding Motion Physics with Jetpack Compose](https://material.io/blog/m3-expressive-motion-theming) - [Material Design Blog](https://material.io/blog)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2025 - [Start building with Material 3 Expressive](https://material.io/blog/building-with-m3-expressive) - [Material Design Blog](https://material.io/blog)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
