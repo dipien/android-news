@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 10 2025 - [Back it up, bring it back: No data left behind](http://adbackstage.libsyn.com/back-it-up-bring-it-back-no-data-left-behind) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 10 2025 - [Evolving Android’s early-access programs: Introducing the Canary channel](http://android-developers.googleblog.com/2025/07/android-canary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [On-device AI with Firebase](https://www.youtube.com/watch?v=wBfqpPxUwqM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2025 - [Google Play PolicyBytes - July 2025 policy updates](https://www.youtube.com/watch?v=fE8YRPejcnM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -99,8 +100,7 @@
 - Mar 26 2024 - [Episode 205: Time for Playtime](http://adbackstage.libsyn.com/episode-205-time-for-playtime) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
-- Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
-- Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
+- Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
 
 ## Sources
 
