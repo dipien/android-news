@@ -7,7 +7,7 @@
 - Jul 10 2025 - [Evolving Android’s early-access programs: Introducing the Canary channel](http://android-developers.googleblog.com/2025/07/android-canary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [On-device AI with Firebase](https://www.youtube.com/watch?v=wBfqpPxUwqM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 10 2025 - [Google Play PolicyBytes - July 2025 policy updates](https://www.youtube.com/watch?v=fE8YRPejcnM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jul 10 2025 - [Start building for the next generation of Samsung devices](http://android-developers.googleblog.com/2025/07/start-building-next-generation-samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jul 10 2025 - [Start building for the next generation of Samsung Galaxy devices](http://android-developers.googleblog.com/2025/07/start-building-next-generation-samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2025 - [Now in Android #119](https://medium.com/androiddevelopers/now-in-android-119-7b86ad2b3e81?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jul 09 2025 - [Now in Android: 119 – Android 16, testing, desktop experiences, AndroidX, and  more!](https://www.youtube.com/watch?v=fZ6HrQb2EYY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 03 2025 - [Embedded Layout Inspector - Jetpack Compose Tips](https://www.youtube.com/watch?v=HxCHwExm9rM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
