@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 10 2025 - [Start building for the next generation of Samsung devices](http://android-developers.googleblog.com/2025/07/start-building-next-generation-samsung-devices.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 09 2025 - [Now in Android: 119 – Android 16, testing, desktop experiences, AndroidX, and  more!](https://www.youtube.com/watch?v=fZ6HrQb2EYY) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 03 2025 - [Embedded Layout Inspector - Jetpack Compose Tips](https://www.youtube.com/watch?v=HxCHwExm9rM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 01 2025 - [June 2025: Updates to SDK and CLI, Firebase Crashlytics, and more](https://www.youtube.com/watch?v=0c8pKtWObDY) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -53,7 +54,6 @@
 - May 20 2025 - [New in-car app experiences](http://android-developers.googleblog.com/2025/05/android-for-cars-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [I/O 2025: What's new in Google Play](http://android-developers.googleblog.com/2025/05/io-2025-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [In-App Ratings and Reviews for TV](http://android-developers.googleblog.com/2025/05/in-app-ratings-and-reviews-for-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [Google I/O 2025: What’s new in Android development tools](http://android-developers.googleblog.com/2025/05/google-io-2025-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Adding Motion Physics with Jetpack Compose](https://material.io/blog/m3-expressive-motion-theming) - [Material Design Blog](https://material.io/blog)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
