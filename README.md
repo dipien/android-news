@@ -1,6 +1,8 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 10 2025 - [Transition to using 16 KB page sizes for Android apps and games using Android Studio](http://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- Jul 10 2025 - [Back it up, bring it back: No data left behind - Android Developers Backstage](https://www.youtube.com/watch?v=X_wUmfatDe0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 10 2025 - [Back it up, bring it back: No data left behind](http://adbackstage.libsyn.com/back-it-up-bring-it-back-no-data-left-behind) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jul 10 2025 - [Evolving Android’s early-access programs: Introducing the Canary channel](http://android-developers.googleblog.com/2025/07/android-canary.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [On-device AI with Firebase](https://www.youtube.com/watch?v=wBfqpPxUwqM) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
@@ -30,7 +32,6 @@
 - Jun 16 2025 - [Top 3 things to know for AI on Android at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-ai-on-android-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 16 2025 - [Top 3 AI on Android announcements at Google I/O ‘25](https://www.youtube.com/shorts/I9BchAY8MRs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 announcements for AI on Android at Google I/O ‘25](https://www.youtube.com/watch?v=iMVLoZaJ_1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 13 2025 - [Bot to the future: Two years later](https://www.youtube.com/watch?v=Dlh6VKtV9fw) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2025 - [Bot to the Future: Two Years Later](http://adbackstage.libsyn.com/bot-to-the-future-two-years-later) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 12 2025 - [Model Context Protocol (MCP) Server for Firebase](https://www.youtube.com/watch?v=kgf4yLoYNrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 12 2025 - [Upcoming changes to Wear OS watch faces](http://android-developers.googleblog.com/2025/06/upcoming-changes-to-wear-os-watch-faces.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -59,7 +60,6 @@
 - May 20 2025 - [Peacock built adaptively on Android to deliver great experiences across screens](http://android-developers.googleblog.com/2025/05/peacock-optimizes-streaming-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [On-device GenAI APIs as part of ML Kit help you easily build with Gemini Nano](http://android-developers.googleblog.com/2025/05/on-device-gen-ai-apis-ml-kit-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [New in-car app experiences](http://android-developers.googleblog.com/2025/05/android-for-cars-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [I/O 2025: What's new in Google Play](http://android-developers.googleblog.com/2025/05/io-2025-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Adding Motion Physics with Jetpack Compose](https://material.io/blog/m3-expressive-motion-theming) - [Material Design Blog](https://material.io/blog)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
