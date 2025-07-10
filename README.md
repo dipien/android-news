@@ -58,9 +58,11 @@
 - May 20 2025 - [I/O 2025: What's new in Google Play](http://android-developers.googleblog.com/2025/05/io-2025-whats-new-in-google-play.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [In-App Ratings and Reviews for TV](http://android-developers.googleblog.com/2025/05/in-app-ratings-and-reviews-for-tv.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Google I/O 2025: What’s new in Android development tools](http://android-developers.googleblog.com/2025/05/google-io-2025-whats-new-in-android-development-tools.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
+- May 20 2025 - [Adding Motion Physics with Jetpack Compose](https://material.io/blog/m3-expressive-motion-theming) - [Material Design Blog](https://material.io/blog)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 15 2025 - [Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=U0Euvr4DEcE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
+- May 13 2025 - [Start building with Material 3 Expressive](https://material.io/blog/building-with-m3-expressive) - [Material Design Blog](https://material.io/blog)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Apr 25 2025 - [Building Your First MCP Server with Genkit](https://medium.com/firebase-developers/building-your-first-mcp-server-with-genkit-c2053cde230f?source=rss----8e8b7dc6774d---4) - [Firebase Developers Medium](https://medium.com/firebase-developers)
@@ -98,9 +100,7 @@
 - Feb 21 2024 - [Episode 204: Fan’otations](http://adbackstage.libsyn.com/episode-204-fanotations) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Feb 12 2024 - [Making it easier to get Google Fonts](https://material.io/blog/get-google-fonts-update) - [Material Design Blog](https://material.io/blog)
 - Feb 07 2024 - [Material Design 3 for Compose 1.2](https://material.io/blog/material-3-compose-1-2) - [Material Design Blog](https://material.io/blog)
-- Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
-- Dec 19 2023 - [Importance of building your game community in Southeast Asia and India](https://medium.com/googleplaydev/importance-of-building-your-game-community-in-southeast-asia-and-india-dc3aaa65902a?source=rss----1f8baa23933d---4) - [Google Play Medium](https://medium.com/googleplaydev)
-- Dec 19 2023 - [An updated theming experience with Material Theme Builder 2.0](https://material.io/blog/material-theme-builder-2-color-match) - [Material Design Blog](https://material.io/blog)<!-- NEWS:END -->
+- Dec 21 2023 - [Episode 203: (W)rap](http://adbackstage.libsyn.com/episode-203-wrap) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)<!-- NEWS:END -->
 
 ## Sources
 
