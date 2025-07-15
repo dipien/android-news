@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 15 2025 - [New tools to help drive success for one-time products](http://android-developers.googleblog.com/2025/07/new-tools-to-help-drive-success-for-one-time-products.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [Transition to using 16 KB page sizes for Android apps and games using Android Studio](http://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [Back it up, bring it back: No data left behind - Android Developers Backstage](https://www.youtube.com/watch?v=X_wUmfatDe0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 10 2025 - [Back it up, bring it back: No data left behind](http://adbackstage.libsyn.com/back-it-up-bring-it-back-no-data-left-behind) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
@@ -59,7 +60,6 @@
 - May 20 2025 - [Updates to the Android XR SDK: Introducing Developer Preview 2](http://android-developers.googleblog.com/2025/05/updates-to-android-xr-sdk-developer-preview.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Peacock built adaptively on Android to deliver great experiences across screens](http://android-developers.googleblog.com/2025/05/peacock-optimizes-streaming-jetpack-compose.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [On-device GenAI APIs as part of ML Kit help you easily build with Gemini Nano](http://android-developers.googleblog.com/2025/05/on-device-gen-ai-apis-ml-kit-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- May 20 2025 - [New in-car app experiences](http://android-developers.googleblog.com/2025/05/android-for-cars-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Adding Motion Physics with Jetpack Compose](https://material.io/blog/m3-expressive-motion-theming) - [Material Design Blog](https://material.io/blog)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
