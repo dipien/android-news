@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 16 2025 - [What is Firebase AI Logic?](https://www.youtube.com/watch?v=EpRSIFVtMng) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 15 2025 - [New tools to help drive success for one-time products](http://android-developers.googleblog.com/2025/07/new-tools-to-help-drive-success-for-one-time-products.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [Transition to using 16 KB page sizes for Android apps and games using Android Studio](http://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [Back it up, bring it back: No data left behind - Android Developers Backstage](https://www.youtube.com/watch?v=X_wUmfatDe0) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -62,7 +63,6 @@
 - May 20 2025 - [On-device GenAI APIs as part of ML Kit help you easily build with Gemini Nano](http://android-developers.googleblog.com/2025/05/on-device-gen-ai-apis-ml-kit-gemini-nano.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [Adding Motion Physics with Jetpack Compose](https://material.io/blog/m3-expressive-motion-theming) - [Material Design Blog](https://material.io/blog)
 - May 16 2025 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 16 2025 - [Firebase Studio vibe coding](https://www.youtube.com/shorts/xS9bQaYzVBs) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 13 2025 - [Start building with Material 3 Expressive](https://material.io/blog/building-with-m3-expressive) - [Material Design Blog](https://material.io/blog)
 - May 09 2025 - [Now in Android #116](https://medium.com/androiddevelopers/now-in-android-116-d442393ebeb3?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - May 07 2025 - [​​Kotlin Multiplatform: Have your code and eat it too](http://adbackstage.libsyn.com/kotlin-multiplatform-have-your-code-and-eat-it-too) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
