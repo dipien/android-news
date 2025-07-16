@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 16 2025 - [Attention Personal Loan developers targeting Pakistan!](https://www.youtube.com/shorts/gc6twoZY5gM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 16 2025 - [What is Firebase AI Logic?](https://www.youtube.com/watch?v=EpRSIFVtMng) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 15 2025 - [New tools to help drive success for one-time products](http://android-developers.googleblog.com/2025/07/new-tools-to-help-drive-success-for-one-time-products.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 10 2025 - [Transition to using 16 KB page sizes for Android apps and games using Android Studio](http://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -33,7 +34,6 @@
 - Jun 17 2025 - [Navigating the future with Jetpack Navigation 3 - Core Concepts](https://www.youtube.com/watch?v=opLYavQHBB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 things to know for AI on Android at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-ai-on-android-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 16 2025 - [Top 3 AI on Android announcements at Google I/O ‘25](https://www.youtube.com/shorts/I9BchAY8MRs) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 16 2025 - [Top 3 announcements for AI on Android at Google I/O ‘25](https://www.youtube.com/watch?v=iMVLoZaJ_1M) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 13 2025 - [Bot to the Future: Two Years Later](http://adbackstage.libsyn.com/bot-to-the-future-two-years-later) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 12 2025 - [Model Context Protocol (MCP) Server for Firebase](https://www.youtube.com/watch?v=kgf4yLoYNrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jun 12 2025 - [Upcoming changes to Wear OS watch faces](http://android-developers.googleblog.com/2025/06/upcoming-changes-to-wear-os-watch-faces.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
