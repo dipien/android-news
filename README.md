@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 17 2025 - [Build a Runtime-Enabled SDK](https://www.youtube.com/watch?v=UYp_uJxuN9Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 17 2025 - [#WeArePlay: Silver and Bill, Amanotes - Vietnam](https://www.youtube.com/watch?v=gsFbhR0bDrM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 17 2025 - [Get Started with Firebase AI Logic on Android](https://www.youtube.com/watch?v=0UoReIOwC-Q) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 17 2025 - [#WeArePlay: With over 3 billion downloads, meet the people behind Amanotes](http://android-developers.googleblog.com/2025/07/weareplay-amanotes.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
@@ -34,7 +35,6 @@
 - Jun 20 2025 - [Reaching billions: Multiplatform strategies and performance tools for Android](https://www.youtube.com/watch?v=oNU8Zl-_ez8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2025 - [Now in Android #118 — Google I/O 2025 Part II](https://medium.com/androiddevelopers/now-in-android-118-google-i-o-2025-part-ii-0176766c2061?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 18 2025 - [Now in Android: 118 –What’s new in Android development at Google I/O 2025 (part 2)](https://www.youtube.com/watch?v=iB6lYZ_9VxI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 17 2025 - [Navigating the future with Jetpack Navigation 3 - Core Concepts](https://www.youtube.com/watch?v=opLYavQHBB8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 16 2025 - [Top 3 things to know for AI on Android at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-ai-on-android-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2025 - [Bot to the Future: Two Years Later](http://adbackstage.libsyn.com/bot-to-the-future-two-years-later) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
 - Jun 12 2025 - [Model Context Protocol (MCP) Server for Firebase](https://www.youtube.com/watch?v=kgf4yLoYNrE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
