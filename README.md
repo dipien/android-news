@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 22 2025 - [What are memory pages?](https://www.youtube.com/shorts/IsTM35fsQRM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 21 2025 - [Prepare your Play app for devices with 16 KB  page sizes](https://www.youtube.com/watch?v=MnMGJhuChRI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2025 - [Blockchain-based content policy help center](https://www.youtube.com/shorts/di1pbPo7yfc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 17 2025 - [Build a Runtime-Enabled SDK](https://www.youtube.com/watch?v=UYp_uJxuN9Q) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -33,7 +34,6 @@
 - Jun 23 2025 - [Top 3 updates for Android Developer Productivity at Google I/O ‘25](https://www.youtube.com/watch?v=-GikklXjkgM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 updates for Android developer productivity at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-android-developer-productivity-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 23 2025 - [Agentic AI takes Gemini in Android Studio to the next level](http://android-developers.googleblog.com/2025/06/agentic-ai-takes-gemini-in-android-studio-to-next-level.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
-- Jun 20 2025 - [Unlock the full potential of your game with Vulkan and ADPF](https://www.youtube.com/watch?v=vxtX5ul6aL8) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 18 2025 - [Now in Android #118 — Google I/O 2025 Part II](https://medium.com/androiddevelopers/now-in-android-118-google-i-o-2025-part-ii-0176766c2061?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
 - Jun 16 2025 - [Top 3 things to know for AI on Android at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-ai-on-android-google-io.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 13 2025 - [Bot to the Future: Two Years Later](http://adbackstage.libsyn.com/bot-to-the-future-two-years-later) - [Android Developers Backstage Podcast](https://adbackstage.libsyn.com/)
