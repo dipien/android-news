@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 23 2025 - [Enrich your app with live updates and widgets](https://www.youtube.com/watch?v=_Akf_u08p7U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 22 2025 - [What are memory pages?](https://www.youtube.com/shorts/IsTM35fsQRM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 21 2025 - [Prepare your Play app for devices with 16 KB  page sizes](https://www.youtube.com/watch?v=MnMGJhuChRI) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 18 2025 - [Blockchain-based content policy help center](https://www.youtube.com/shorts/di1pbPo7yfc) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -31,7 +32,6 @@
 - Jun 25 2025 - [How Mecha BREAK is driving PC-only growth on Google Play Games](http://android-developers.googleblog.com/2025/06/how-mecha-break-is-driving-pc-only-growth-google-play-games.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 24 2025 - [[Games] - Broadening audiences through expansions (Playtime 2024)](https://www.youtube.com/watch?v=PdonCrUxVdQ) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 Android Developer Productivity updates at Google I/O ‘25](https://www.youtube.com/shorts/F1ye0sEyFMM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
-- Jun 23 2025 - [Top 3 updates for Android Developer Productivity at Google I/O ‘25](https://www.youtube.com/watch?v=-GikklXjkgM) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jun 23 2025 - [Top 3 updates for Android developer productivity at Google I/O ‘25](http://android-developers.googleblog.com/2025/06/top-3-updates-for-android-developer-productivity-google-io-25.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 23 2025 - [Agentic AI takes Gemini in Android Studio to the next level](http://android-developers.googleblog.com/2025/06/agentic-ai-takes-gemini-in-android-studio-to-next-level.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jun 18 2025 - [Now in Android #118 — Google I/O 2025 Part II](https://medium.com/androiddevelopers/now-in-android-118-google-i-o-2025-part-ii-0176766c2061?source=rss----95b274b437c2---4) - [Android Developers Medium](https://medium.com/androiddevelopers)
