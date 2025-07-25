@@ -1,6 +1,7 @@
 # Android News
 
 <!-- NEWS:START -->
+- Jul 25 2025 - [Firebase After Hours #14: Live Vibe Coding with Firebase Studio](https://www.youtube.com/watch?v=wbrI2egh7bQ) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - Jul 24 2025 - [Why Play is changing page size from 4 KB to 16 KB](https://www.youtube.com/shorts/kPMngFtosT4) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
 - Jul 24 2025 - [#WeArePlay: 10 million downloads and counting, meet app and game founders from across the U.S.](http://android-developers.googleblog.com/2025/07/weareplay-app-game-founders-across-the-us.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - Jul 23 2025 - [Enrich your app with live updates and widgets](https://www.youtube.com/watch?v=_Akf_u08p7U) - [Android Developers Youtube](https://www.youtube.com/c/AndroidDevelopers)
@@ -55,7 +56,6 @@
 - May 22 2025 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build AI agents grounded with your data using Firebase Data Connect](https://www.youtube.com/watch?v=nZhkjSFB6UA) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 22 2025 - [Build full-stack AI apps in minutes with Firebase Studio](https://www.youtube.com/watch?v=x2zvki_VlRE) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
-- May 22 2025 - [Deploy Angular and Next.js with Firebase App Hosting](https://www.youtube.com/watch?v=XEhd9a9YhSk) - [Firebase Youtube](https://www.youtube.com/user/Firebase)
 - May 20 2025 - [Announcing Kotlin Multiplatform Shared Module Template](http://android-developers.googleblog.com/2025/05/kotlin-multiplatform-shared-module-templates.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [16 things to know for Android developers at Google I/O 2025](http://android-developers.googleblog.com/2025/05/16-things-to-know-for-android-developers-google-io-2025.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
 - May 20 2025 - [What’s new in Wear OS 6](http://android-developers.googleblog.com/2025/05/whats-new-in-wear-os-6.html) - [Android Developers Blog](https://android-developers.googleblog.com/)
